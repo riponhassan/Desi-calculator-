@@ -9,4 +9,15 @@
   { "name": "Gulab Jamun", "cal": 300, "pro": 2, "carb": 40, "fat": 12, "fib": 0, "weights": { "piece": 50 } },
   { "name": "Pani Puri", "cal": 220, "pro": 4, "carb": 30, "fat": 10, "fib": 2, "weights": { "plate (6pcs)": 150 } },
   { "name": "Aloo Paratha", "cal": 250, "pro": 6, "carb": 35, "fat": 10, "fib": 4, "weights": { "piece": 100 } }
+,
+  { "name": "Chole Masala", "cal": 138, "pro": 5.8, "carb": 18, "fat": 5.5, "fib": 4.5, "weights": { "bowl": 200, "serving": 250 } },
+  { "name": "Bhatura", "cal": 298, "pro": 7, "carb": 48, "fat": 9, "fib": 1.5, "weights": { "piece": 70 } },
+  { "name": "Pav Bhaji (Bhaji only)", "cal": 120, "pro": 3, "carb": 16, "fat": 5, "fib": 3, "weights": { "bowl": 200, "plate": 300 } },
+  { "name": "Rajma Curry", "cal": 140, "pro": 6, "carb": 18, "fat": 5, "fib": 5, "weights": { "bowl": 200, "serving": 250 } },
+  { "name": "Dhokla (Khaman)", "cal": 160, "pro": 5, "carb": 24, "fat": 5, "fib": 2, "weights": { "piece": 40, "plate (4pcs)": 160 } },
+  { "name": "Uttapam", "cal": 170, "pro": 4, "carb": 30, "fat": 3.5, "fib": 2, "weights": { "piece": 120, "serving": 120 } },
+  { "name": "Vada Pav", "cal": 265, "pro": 5, "carb": 35, "fat": 11, "fib": 3, "weights": { "piece": 100 } },
+  { "name": "Palak Paneer", "cal": 180, "pro": 9, "carb": 6, "fat": 14, "fib": 3, "weights": { "bowl": 200, "serving": 250 } },
+  { "name": "Fish Fry", "cal": 230, "pro": 19, "carb": 6, "fat": 14, "fib": 0, "weights": { "piece": 80, "serving": 160 } },
+  { "name": "Veg Pulao", "cal": 155, "pro": 3.5, "carb": 28, "fat": 3, "fib": 2, "weights": { "bowl": 150, "plate": 300 } }
 ]
