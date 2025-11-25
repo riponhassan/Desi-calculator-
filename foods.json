@@ -223,5 +223,221 @@
     "fat": 0.3,
     "fib": 2.6,
     "weights": { "gram": 1, "serving": 118, "piece": 100 }
+  },
+  {
+    "name": "Idli",
+    "cal": 58,
+    "pro": 2,
+    "carb": 12,
+    "fat": 0.4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 40, "serving": 80 }
+  },
+  {
+    "name": "Medu Vada",
+    "cal": 97,
+    "pro": 2,
+    "carb": 12,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 50, "serving": 50 }
+  },
+  {
+    "name": "Upma",
+    "cal": 180,
+    "pro": 4,
+    "carb": 25,
+    "fat": 7,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 180, "cup": 180, "serving": 180 }
+  },
+  {
+    "name": "Poha",
+    "cal": 158,
+    "pro": 3,
+    "carb": 27,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 170, "cup": 170, "serving": 170 }
+  },
+  {
+    "name": "Khichdi",
+    "cal": 140,
+    "pro": 5,
+    "carb": 22,
+    "fat": 3,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 220, "cup": 200, "serving": 220 }
+  },
+  {
+    "name": "Curd (Dahi)",
+    "cal": 61,
+    "pro": 3.5,
+    "carb": 4.7,
+    "fat": 3.3,
+    "fib": 0,
+    "weights": { "gram": 1, "cup": 240, "bowl": 150, "serving": 100 }
+  },
+  {
+    "name": "Paneer (Raw)",
+    "cal": 265,
+    "pro": 18,
+    "carb": 6,
+    "fat": 20,
+    "fib": 0,
+    "weights": { "gram": 1, "cup": 120, "serving": 100 }
+  },
+  {
+    "name": "Egg (Boiled)",
+    "cal": 78,
+    "pro": 6,
+    "carb": 0.6,
+    "fat": 5.3,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 50, "serving": 50 }
+  },
+  {
+    "name": "Egg Omelette",
+    "cal": 94,
+    "pro": 6,
+    "carb": 1,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 60, "serving": 60 }
+  },
+  {
+    "name": "Chicken Curry (Homestyle)",
+    "cal": 210,
+    "pro": 22,
+    "carb": 4,
+    "fat": 12,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 200, "serving": 150 }
+  },
+  {
+    "name": "Mutton Curry",
+    "cal": 260,
+    "pro": 20,
+    "carb": 3,
+    "fat": 18,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 200, "serving": 150 }
+  },
+  {
+    "name": "Fish Curry",
+    "cal": 180,
+    "pro": 20,
+    "carb": 3,
+    "fat": 9,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 180, "serving": 150 }
+  },
+  {
+    "name": "Bhindi Fry",
+    "cal": 120,
+    "pro": 2,
+    "carb": 10,
+    "fat": 8,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 150, "serving": 100 }
+  },
+  {
+    "name": "Aloo Gobi",
+    "cal": 110,
+    "pro": 3,
+    "carb": 15,
+    "fat": 4,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 170, "serving": 120 }
+  },
+  {
+    "name": "Mix Veg Curry",
+    "cal": 120,
+    "pro": 3,
+    "carb": 15,
+    "fat": 5,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 170, "serving": 120 }
+  },
+  {
+    "name": "Rasgulla",
+    "cal": 125,
+    "pro": 2,
+    "carb": 22,
+    "fat": 3,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 50, "serving": 50 }
+  },
+  {
+    "name": "Jalebi",
+    "cal": 250,
+    "pro": 1,
+    "carb": 45,
+    "fat": 8,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 25, "serving": 50 }
+  },
+  {
+    "name": "Kheer",
+    "cal": 145,
+    "pro": 4,
+    "carb": 25,
+    "fat": 3.5,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 200, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Chapati Wheat Flour (Raw)",
+    "cal": 364,
+    "pro": 12,
+    "carb": 76,
+    "fat": 2,
+    "fib": 12,
+    "weights": { "gram": 1, "tbsp": 7, "cup": 120, "serving": 30 }
+  },
+  {
+    "name": "Sugar",
+    "cal": 387,
+    "pro": 0,
+    "carb": 100,
+    "fat": 0,
+    "fib": 0,
+    "weights": { "gram": 1, "tsp": 4, "tbsp": 12, "cup": 200, "serving": 5 }
+  },
+  {
+    "name": "Olive Oil",
+    "cal": 884,
+    "pro": 0,
+    "carb": 0,
+    "fat": 100,
+    "fib": 0,
+    "weights": { "gram": 1, "tsp": 4.5, "tbsp": 13.5, "serving": 10 }
+  },
+  {
+    "name": "Peanut Butter",
+    "cal": 588,
+    "pro": 25,
+    "carb": 20,
+    "fat": 50,
+    "fib": 6,
+    "weights": { "gram": 1, "tbsp": 16, "tsp": 5, "serving": 32 }
+  },
+  {
+    "name": "Apple",
+    "cal": 52,
+    "pro": 0.3,
+    "carb": 14,
+    "fat": 0.2,
+    "fib": 2.4,
+    "weights": { "gram": 1, "piece": 150, "serving": 150 }
+  },
+  {
+    "name": "Orange",
+    "cal": 47,
+    "pro": 0.9,
+    "carb": 12,
+    "fat": 0.1,
+    "fib": 2.4,
+    "weights": { "gram": 1, "piece": 130, "serving": 130 }
   }
 ]
