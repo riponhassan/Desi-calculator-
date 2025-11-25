@@ -1,23 +1,227 @@
 [
-  { "name": "Roti (Chapati)", "cal": 297, "pro": 10, "carb": 46, "fat": 8, "fib": 9, "weights": { "piece": 40, "serving": 80 } },
-  { "name": "White Rice (Cooked)", "cal": 130, "pro": 2.7, "carb": 28, "fat": 0.3, "fib": 0.4, "weights": { "bowl": 150, "serving": 200 } },
-  { "name": "Dal Tadka", "cal": 116, "pro": 6, "carb": 12, "fat": 5, "fib": 4, "weights": { "bowl": 200, "serving": 250 } },
-  { "name": "Chicken Biryani", "cal": 150, "pro": 10, "carb": 15, "fat": 5, "fib": 1, "weights": { "plate": 300, "bowl": 200 } },
-  { "name": "Butter Chicken", "cal": 240, "pro": 12, "carb": 8, "fat": 18, "fib": 2, "weights": { "bowl": 250, "serving": 300 } },
-  { "name": "Masala Dosa", "cal": 165, "pro": 3, "carb": 28, "fat": 4, "fib": 1, "weights": { "piece": 180 } },
-  { "name": "Samosa", "cal": 260, "pro": 3, "carb": 24, "fat": 17, "fib": 2, "weights": { "piece": 50 } },
-  { "name": "Gulab Jamun", "cal": 300, "pro": 2, "carb": 40, "fat": 12, "fib": 0, "weights": { "piece": 50 } },
-  { "name": "Pani Puri", "cal": 220, "pro": 4, "carb": 30, "fat": 10, "fib": 2, "weights": { "plate (6pcs)": 150 } },
-  { "name": "Aloo Paratha", "cal": 250, "pro": 6, "carb": 35, "fat": 10, "fib": 4, "weights": { "piece": 100 } }
-,
-  { "name": "Chole Masala", "cal": 138, "pro": 5.8, "carb": 18, "fat": 5.5, "fib": 4.5, "weights": { "bowl": 200, "serving": 250 } },
-  { "name": "Bhatura", "cal": 298, "pro": 7, "carb": 48, "fat": 9, "fib": 1.5, "weights": { "piece": 70 } },
-  { "name": "Pav Bhaji (Bhaji only)", "cal": 120, "pro": 3, "carb": 16, "fat": 5, "fib": 3, "weights": { "bowl": 200, "plate": 300 } },
-  { "name": "Rajma Curry", "cal": 140, "pro": 6, "carb": 18, "fat": 5, "fib": 5, "weights": { "bowl": 200, "serving": 250 } },
-  { "name": "Dhokla (Khaman)", "cal": 160, "pro": 5, "carb": 24, "fat": 5, "fib": 2, "weights": { "piece": 40, "plate (4pcs)": 160 } },
-  { "name": "Uttapam", "cal": 170, "pro": 4, "carb": 30, "fat": 3.5, "fib": 2, "weights": { "piece": 120, "serving": 120 } },
-  { "name": "Vada Pav", "cal": 265, "pro": 5, "carb": 35, "fat": 11, "fib": 3, "weights": { "piece": 100 } },
-  { "name": "Palak Paneer", "cal": 180, "pro": 9, "carb": 6, "fat": 14, "fib": 3, "weights": { "bowl": 200, "serving": 250 } },
-  { "name": "Fish Fry", "cal": 230, "pro": 19, "carb": 6, "fat": 14, "fib": 0, "weights": { "piece": 80, "serving": 160 } },
-  { "name": "Veg Pulao", "cal": 155, "pro": 3.5, "carb": 28, "fat": 3, "fib": 2, "weights": { "bowl": 150, "plate": 300 } }
+  {
+    "name": "Roti (Chapati)",
+    "cal": 297,
+    "pro": 10,
+    "carb": 46,
+    "fat": 8,
+    "fib": 9,
+    "weights": { "gram": 1, "piece": 40, "serving": 80 }
+  },
+  {
+    "name": "White Rice (Cooked)",
+    "cal": 130,
+    "pro": 2.7,
+    "carb": 28,
+    "fat": 0.3,
+    "fib": 0.4,
+    "weights": { "gram": 1, "bowl": 150, "cup": 150, "serving": 200 }
+  },
+  {
+    "name": "Dal Tadka",
+    "cal": 116,
+    "pro": 6,
+    "carb": 12,
+    "fat": 5,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 200, "cup": 200, "serving": 250 }
+  },
+  {
+    "name": "Chicken Biryani",
+    "cal": 150,
+    "pro": 10,
+    "carb": 15,
+    "fat": 5,
+    "fib": 1,
+    "weights": { "gram": 1, "plate": 300, "bowl": 200, "serving": 150 }
+  },
+  {
+    "name": "Butter Chicken",
+    "cal": 240,
+    "pro": 12,
+    "carb": 8,
+    "fat": 18,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 250, "serving": 150 }
+  },
+  {
+    "name": "Masala Dosa",
+    "cal": 165,
+    "pro": 3,
+    "carb": 28,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 180, "serving": 180 }
+  },
+  {
+    "name": "Samosa",
+    "cal": 260,
+    "pro": 3,
+    "carb": 24,
+    "fat": 17,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 50, "serving": 100 }
+  },
+  {
+    "name": "Gulab Jamun",
+    "cal": 300,
+    "pro": 2,
+    "carb": 40,
+    "fat": 12,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 50, "serving": 50 }
+  },
+  {
+    "name": "Pani Puri",
+    "cal": 220,
+    "pro": 4,
+    "carb": 30,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "plate_6pcs": 150, "serving": 150 }
+  },
+  {
+    "name": "Aloo Paratha",
+    "cal": 250,
+    "pro": 6,
+    "carb": 35,
+    "fat": 10,
+    "fib": 4,
+    "weights": { "gram": 1, "piece": 100, "serving": 100 }
+  },
+  {
+    "name": "Chole Masala",
+    "cal": 138,
+    "pro": 5.8,
+    "carb": 18,
+    "fat": 5.5,
+    "fib": 4.5,
+    "weights": { "gram": 1, "bowl": 200, "cup": 200, "serving": 250 }
+  },
+  {
+    "name": "Bhatura",
+    "cal": 298,
+    "pro": 7,
+    "carb": 48,
+    "fat": 9,
+    "fib": 1.5,
+    "weights": { "gram": 1, "piece": 70, "serving": 70 }
+  },
+  {
+    "name": "Pav Bhaji (Bhaji Only)",
+    "cal": 120,
+    "pro": 3,
+    "carb": 16,
+    "fat": 5,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200, "plate": 300, "serving": 200 }
+  },
+  {
+    "name": "Rajma Curry",
+    "cal": 140,
+    "pro": 6,
+    "carb": 18,
+    "fat": 5,
+    "fib": 5,
+    "weights": { "gram": 1, "bowl": 200, "cup": 200, "serving": 250 }
+  },
+  {
+    "name": "Dhokla (Khaman)",
+    "cal": 160,
+    "pro": 5,
+    "carb": 24,
+    "fat": 5,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 40, "plate_4pcs": 160, "serving": 100 }
+  },
+  {
+    "name": "Uttapam",
+    "cal": 170,
+    "pro": 4,
+    "carb": 30,
+    "fat": 3.5,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 120, "serving": 120 }
+  },
+  {
+    "name": "Vada Pav",
+    "cal": 265,
+    "pro": 5,
+    "carb": 35,
+    "fat": 11,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 100, "serving": 100 }
+  },
+  {
+    "name": "Palak Paneer",
+    "cal": 180,
+    "pro": 9,
+    "carb": 6,
+    "fat": 14,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200, "serving": 200 }
+  },
+  {
+    "name": "Fish Fry",
+    "cal": 230,
+    "pro": 19,
+    "carb": 6,
+    "fat": 14,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 80, "serving": 160 }
+  },
+  {
+    "name": "Veg Pulao",
+    "cal": 155,
+    "pro": 3.5,
+    "carb": 28,
+    "fat": 3,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 150, "plate": 300, "serving": 150 }
+  },
+  {
+    "name": "Chia Seeds",
+    "cal": 486,
+    "pro": 16.5,
+    "carb": 42,
+    "fat": 31,
+    "fib": 34,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "cup": 120, "serving": 30 }
+  },
+  {
+    "name": "Flaxseed (Whole)",
+    "cal": 534,
+    "pro": 18.3,
+    "carb": 28.9,
+    "fat": 42.2,
+    "fib": 27.3,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "cup": 120, "serving": 30 }
+  },
+  {
+    "name": "Ghee",
+    "cal": 900,
+    "pro": 0,
+    "carb": 0,
+    "fat": 100,
+    "fib": 0,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "serving": 10 }
+  },
+  {
+    "name": "Rolled Oats (Raw)",
+    "cal": 389,
+    "pro": 16.9,
+    "carb": 66,
+    "fat": 6.9,
+    "fib": 10.6,
+    "weights": { "gram": 1, "tbsp": 15, "tsp": 5, "cup": 90, "serving": 40 }
+  },
+  {
+    "name": "Banana (Raw)",
+    "cal": 89,
+    "pro": 1.1,
+    "carb": 23,
+    "fat": 0.3,
+    "fib": 2.6,
+    "weights": { "gram": 1, "serving": 118, "piece": 100 }
+  }
 ]
