@@ -1,0 +1,12 @@
+[
+  { "name": "Roti (Chapati)", "cal": 297, "pro": 10, "carb": 46, "fat": 8, "fib": 9, "weights": { "piece": 40, "serving": 80 } },
+  { "name": "White Rice (Cooked)", "cal": 130, "pro": 2.7, "carb": 28, "fat": 0.3, "fib": 0.4, "weights": { "bowl": 150, "serving": 200 } },
+  { "name": "Dal Tadka", "cal": 116, "pro": 6, "carb": 12, "fat": 5, "fib": 4, "weights": { "bowl": 200, "serving": 250 } },
+  { "name": "Chicken Biryani", "cal": 150, "pro": 10, "carb": 15, "fat": 5, "fib": 1, "weights": { "plate": 300, "bowl": 200 } },
+  { "name": "Butter Chicken", "cal": 240, "pro": 12, "carb": 8, "fat": 18, "fib": 2, "weights": { "bowl": 250, "serving": 300 } },
+  { "name": "Masala Dosa", "cal": 165, "pro": 3, "carb": 28, "fat": 4, "fib": 1, "weights": { "piece": 180 } },
+  { "name": "Samosa", "cal": 260, "pro": 3, "carb": 24, "fat": 17, "fib": 2, "weights": { "piece": 50 } },
+  { "name": "Gulab Jamun", "cal": 300, "pro": 2, "carb": 40, "fat": 12, "fib": 0, "weights": { "piece": 50 } },
+  { "name": "Pani Puri", "cal": 220, "pro": 4, "carb": 30, "fat": 10, "fib": 2, "weights": { "plate (6pcs)": 150 } },
+  { "name": "Aloo Paratha", "cal": 250, "pro": 6, "carb": 35, "fat": 10, "fib": 4, "weights": { "piece": 100 } }
+]
