@@ -1,139 +1,106 @@
-body {
-    font-family: 'Segoe UI', sans-serif;
-    background-color: #eef2f5;
-    display: flex;
-    justify-content: center;
-    padding: 15px;
-    margin: 0;
+const foodDB = [
+    { name: "Roti (Chapati)", cal: 297, pro: 10, carb: 46, fat: 8, fib: 9, weights: { piece: 40, serving: 80 } },
+    { name: "White Rice (Cooked)", cal: 130, pro: 2.7, carb: 28, fat: 0.3, fib: 0.4, weights: { bowl: 150, serving: 200, tbsp: 15 } },
+    { name: "Dal Tadka", cal: 116, pro: 6, carb: 12, fat: 5, fib: 4, weights: { bowl: 200, serving: 250, tbsp: 15 } },
+    { name: "Paneer Butter Masala", cal: 230, pro: 8, carb: 8, fat: 18, fib: 2, weights: { bowl: 200, serving: 250, tbsp: 20 } },
+    { name: "Chicken Curry", cal: 140, pro: 15, carb: 6, fat: 7, fib: 1, weights: { bowl: 200, serving: 250, piece: 60 } },
+    { name: "Idli", cal: 58, pro: 2, carb: 12, fat: 0.1, fib: 0.5, weights: { piece: 40, serving: 120 } },
+    { name: "Dosa (Plain)", cal: 168, pro: 3, carb: 27, fat: 4, fib: 1, weights: { piece: 90, serving: 90 } },
+    { name: "Samosa", cal: 260, pro: 3, carb: 24, fat: 17, fib: 2, weights: { piece: 50, serving: 100 } },
+    { name: "Tea (Chai) with milk", cal: 70, pro: 2, carb: 10, fat: 2, fib: 0, weights: { cup: 150, serving: 150 } },
+    { name: "Poha", cal: 130, pro: 2.5, carb: 24, fat: 3.5, fib: 0.5, weights: { plate: 150, bowl: 100 } },
+    { name: "Egg (Boiled)", cal: 155, pro: 13, carb: 1.1, fat: 11, fib: 0, weights: { piece: 50 } }
+];
+
+const standardUnits = { gram: 1 };
+let totals = { cal: 0, pro: 0, carb: 0, fat: 0, fib: 0 };
+let currentFood = null;
+
+const foodSelect = document.getElementById('food-select');
+const unitSelect = document.getElementById('unit-select');
+const quantityInput = document.getElementById('quantity');
+const foodList = document.getElementById('food-list');
+
+// Init
+window.onload = () => {
+    foodDB.sort((a, b) => a.name.localeCompare(b.name));
+    foodDB.forEach((food, index) => {
+        let opt = document.createElement('option');
+        opt.value = index;
+        opt.text = food.name;
+        foodSelect.add(opt);
+    });
+};
+
+function updateUnits() {
+    unitSelect.innerHTML = "";
+    const index = foodSelect.value;
+    if (index === "") return;
+    currentFood = foodDB[index];
+    
+    const allUnits = { ...standardUnits, ...currentFood.weights };
+    for (let unit in allUnits) {
+        let opt = document.createElement('option');
+        opt.value = allUnits[unit]; 
+        opt.text = unit.charAt(0).toUpperCase() + unit.slice(1);
+        unitSelect.add(opt);
+    }
 }
 
-.container {
-    background: white;
-    padding: 1.5rem;
-    border-radius: 12px;
-    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
-    width: 100%;
-    max-width: 420px;
+function addFood() {
+    if (!currentFood) { alert("Please select a food."); return; }
+    
+    const qty = parseFloat(quantityInput.value);
+    const unitWeight = parseFloat(unitSelect.value);
+    const unitName = unitSelect.options[unitSelect.selectedIndex].text;
+
+    if (qty <= 0) return;
+
+    const actualGrams = unitWeight * qty;
+    const ratio = actualGrams / 100;
+
+    const addedCal = Math.round(currentFood.cal * ratio);
+    const addedPro = (currentFood.pro * ratio);
+    const addedCarb = (currentFood.carb * ratio);
+    const addedFat = (currentFood.fat * ratio);
+    const addedFib = (currentFood.fib * ratio);
+
+    totals.cal += addedCal;
+    totals.pro += addedPro;
+    totals.carb += addedCarb;
+    totals.fat += addedFat;
+    totals.fib += addedFib;
+
+    updateDisplay();
+    addToList(currentFood.name, unitName, qty, addedCal);
 }
 
-h1 {
-    text-align: center;
-    color: #2c3e50;
-    font-size: 1.4rem;
-    margin-bottom: 20px;
+function updateDisplay() {
+    document.getElementById('total-cal').textContent = Math.round(totals.cal);
+    document.getElementById('total-pro').textContent = Math.round(totals.pro) + "g";
+    document.getElementById('total-carb').textContent = Math.round(totals.carb) + "g";
+    document.getElementById('total-fat').textContent = Math.round(totals.fat) + "g";
+    document.getElementById('total-fib').textContent = Math.round(totals.fib) + "g";
 }
 
-.calculator-box {
-    background: #f8f9fa;
-    padding: 15px;
-    border-radius: 8px;
-    margin-bottom: 20px;
+function addToList(name, unit, qty, cal) {
+    const li = document.createElement('li');
+    li.innerHTML = `
+        <div>
+            <strong>${name}</strong>
+            <span>${qty} ${unit}</span>
+        </div>
+        <span class="item-cal">${cal} kcal</span>
+    `;
+    foodList.prepend(li);
 }
 
-.input-group {
-    margin-bottom: 12px;
+function resetCalculator() {
+    totals = { cal: 0, pro: 0, carb: 0, fat: 0, fib: 0 };
+    foodList.innerHTML = "";
+    updateDisplay();
+    quantityInput.value = 1;
+    foodSelect.value = "";
+    unitSelect.innerHTML = "";
+    currentFood = null;
 }
-
-.row-inputs {
-    display: flex;
-    gap: 10px;
-}
-
-.half-width {
-    width: 50%;
-}
-
-label {
-    display: block;
-    margin-bottom: 4px;
-    font-size: 0.85rem;
-    font-weight: 600;
-    color: #555;
-}
-
-select, input {
-    width: 100%;
-    padding: 10px;
-    border: 1px solid #ddd;
-    border-radius: 6px;
-    font-size: 1rem;
-    background: white;
-    box-sizing: border-box;
-}
-
-button {
-    width: 100%;
-    padding: 12px;
-    background-color: #FF5722; /* Orange for food */
-    color: white;
-    border: none;
-    border-radius: 6px;
-    font-weight: bold;
-    font-size: 1rem;
-    margin-top: 10px;
-}
-
-/* Dashboard for Totals */
-.totals-dashboard {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr); /* 2 columns */
-    gap: 8px;
-    margin-bottom: 20px;
-}
-
-.stat-card {
-    background: #f0f4f8;
-    padding: 10px;
-    border-radius: 6px;
-    text-align: center;
-}
-
-.stat-card.cal {
-    grid-column: span 2; /* Calories takes full width */
-    background: #e0f2f1;
-    color: #00695c;
-    border: 1px solid #b2dfdb;
-}
-
-.stat-card .label {
-    display: block;
-    font-size: 0.75rem;
-    color: #666;
-    text-transform: uppercase;
-}
-
-.stat-card .value {
-    display: block;
-    font-size: 1.1rem;
-    font-weight: bold;
-    color: #333;
-}
-
-/* List Items */
-#food-list {
-    list-style: none;
-    padding: 0;
-}
-
-#food-list li {
-    background: white;
-    border-bottom: 1px solid #eee;
-    padding: 10px 0;
-    font-size: 0.9rem;
-    display: flex;
-    justify-content: space-between;
-}
-
-#food-list li div {
-    display: flex;
-    flex-direction: column;
-}
-
-.sub-text {
-    font-size: 0.75rem;
-    color: #888;
-}
-
-.reset-btn {
-    background-color: #90a4ae;
-        }
