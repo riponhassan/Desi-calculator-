@@ -1,104 +1,167 @@
-body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f4f4f9;
-    display: flex;
-    justify-content: center;
-    padding: 20px;
+// Database: Values are per 100 grams
+const foodDB = [
+    { 
+        name: "Roti (Chapati)", 
+        cal: 297, pro: 10, carb: 46, fat: 8, fib: 9, 
+        weights: { piece: 40, serving: 80 } 
+    },
+    { 
+        name: "White Rice (Cooked)", 
+        cal: 130, pro: 2.7, carb: 28, fat: 0.3, fib: 0.4, 
+        weights: { bowl: 150, serving: 200, tbsp: 15 } 
+    },
+    { 
+        name: "Dal Tadka", 
+        cal: 116, pro: 6, carb: 12, fat: 5, fib: 4, 
+        weights: { bowl: 200, serving: 250, tbsp: 15 } 
+    },
+    { 
+        name: "Paneer Butter Masala", 
+        cal: 230, pro: 8, carb: 8, fat: 18, fib: 2, 
+        weights: { bowl: 200, serving: 250, tbsp: 20 } 
+    },
+    { 
+        name: "Chicken Curry", 
+        cal: 140, pro: 15, carb: 6, fat: 7, fib: 1, 
+        weights: { bowl: 200, serving: 250, piece: 60 } 
+    },
+    { 
+        name: "Idli", 
+        cal: 58, pro: 2, carb: 12, fat: 0.1, fib: 0.5, 
+        weights: { piece: 40, serving: 120 } 
+    },
+    { 
+        name: "Dosa (Plain)", 
+        cal: 168, pro: 3, carb: 27, fat: 4, fib: 1, 
+        weights: { piece: 90, serving: 90 } 
+    },
+    { 
+        name: "Samosa", 
+        cal: 260, pro: 3, carb: 24, fat: 17, fib: 2, 
+        weights: { piece: 50, serving: 100 } 
+    },
+    { 
+        name: "Sugar", 
+        cal: 387, pro: 0, carb: 100, fat: 0, fib: 0, 
+        weights: { tsp: 5, tbsp: 15 } 
+    },
+    { 
+        name: "Ghee", 
+        cal: 900, pro: 0, carb: 0, fat: 100, fib: 0, 
+        weights: { tsp: 5, tbsp: 15 } 
+    },
+    {
+        name: "Tea (Chai) with milk/sugar",
+        cal: 70, pro: 2, carb: 10, fat: 2, fib: 0,
+        weights: { cup: 150, serving: 150 }
+    }
+];
+
+// Standard units that apply to almost everything
+const standardUnits = { gram: 1 };
+
+let totals = { cal: 0, pro: 0, carb: 0, fat: 0, fib: 0 };
+let currentFood = null;
+
+// Initialize
+const foodSelect = document.getElementById('food-select');
+const unitSelect = document.getElementById('unit-select');
+const quantityInput = document.getElementById('quantity');
+const foodList = document.getElementById('food-list');
+
+// Populate Food Dropdown
+window.onload = () => {
+    foodDB.sort((a, b) => a.name.localeCompare(b.name));
+    foodDB.forEach((food, index) => {
+        let opt = document.createElement('option');
+        opt.value = index;
+        opt.text = food.name;
+        foodSelect.add(opt);
+    });
+};
+
+// Update Unit Dropdown when Food Changes
+function updateUnits() {
+    unitSelect.innerHTML = "";
+    const index = foodSelect.value;
+    
+    if (index === "") return;
+
+    currentFood = foodDB[index];
+    
+    // Combine standard units (gram) with specific units (piece, bowl)
+    const allUnits = { ...standardUnits, ...currentFood.weights };
+
+    for (let unit in allUnits) {
+        let opt = document.createElement('option');
+        opt.value = allUnits[unit]; // The value is the weight in grams
+        opt.text = unit.charAt(0).toUpperCase() + unit.slice(1); // Capitalize
+        unitSelect.add(opt);
+    }
 }
 
-.container {
-    background: white;
-    padding: 2rem;
-    border-radius: 10px;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-    width: 100%;
-    max-width: 400px;
+function addFood() {
+    if (!currentFood) {
+        alert("Please select a food.");
+        return;
+    }
+
+    const qty = parseFloat(quantityInput.value);
+    const unitWeight = parseFloat(unitSelect.value); // Grams per unit selected
+    const unitName = unitSelect.options[unitSelect.selectedIndex].text;
+
+    if (qty <= 0) {
+        alert("Enter valid quantity");
+        return;
+    }
+
+    // Calculation Logic: (Value per 100g) * (Actual Grams / 100)
+    const actualGrams = unitWeight * qty;
+    const ratio = actualGrams / 100;
+
+    const addedCal = Math.round(currentFood.cal * ratio);
+    const addedPro = (currentFood.pro * ratio).toFixed(1);
+    const addedCarb = (currentFood.carb * ratio).toFixed(1);
+    const addedFat = (currentFood.fat * ratio).toFixed(1);
+    const addedFib = (currentFood.fib * ratio).toFixed(1);
+
+    // Update Totals
+    totals.cal += addedCal;
+    totals.pro += parseFloat(addedPro);
+    totals.carb += parseFloat(addedCarb);
+    totals.fat += parseFloat(addedFat);
+    totals.fib += parseFloat(addedFib);
+
+    updateDisplay();
+    addToList(currentFood.name, unitName, qty, addedCal);
 }
 
-h1 {
-    text-align: center;
-    color: #e65100; /* Saffron color */
-    font-size: 1.5rem;
-    margin-bottom: 20px;
+function updateDisplay() {
+    document.getElementById('total-cal').textContent = Math.round(totals.cal);
+    document.getElementById('total-pro').textContent = totals.pro.toFixed(1) + "g";
+    document.getElementById('total-carb').textContent = totals.carb.toFixed(1) + "g";
+    document.getElementById('total-fat').textContent = totals.fat.toFixed(1) + "g";
+    document.getElementById('total-fib').textContent = totals.fib.toFixed(1) + "g";
 }
 
-.input-group {
-    margin-bottom: 15px;
+function addToList(name, unit, qty, cal) {
+    const li = document.createElement('li');
+    li.innerHTML = `
+        <div>
+            <strong>${name}</strong>
+            <span class="sub-text">${qty} ${unit}</span>
+        </div>
+        <strong>${cal} kcal</strong>
+    `;
+    foodList.prepend(li);
 }
 
-label {
-    display: block;
-    margin-bottom: 5px;
-    font-weight: bold;
-    color: #333;
-}
-
-select, input {
-    width: 100%;
-    padding: 10px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    box-sizing: border-box;
-}
-
-.qty-wrapper {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-}
-
-button {
-    width: 100%;
-    padding: 12px;
-    background-color: #2e7d32; /* Green */
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 1rem;
-    transition: background 0.3s;
-}
-
-button:hover {
-    background-color: #1b5e20;
-}
-
-.results-area {
-    margin-top: 25px;
-    border-top: 2px solid #eee;
-    padding-top: 15px;
-}
-
-#food-list {
-    list-style: none;
-    padding: 0;
-    max-height: 200px;
-    overflow-y: auto;
-}
-
-#food-list li {
-    background: #f9f9f9;
-    margin-bottom: 8px;
-    padding: 10px;
-    border-radius: 4px;
-    display: flex;
-    justify-content: space-between;
-    font-size: 0.9rem;
-}
-
-.total-box {
-    font-size: 1.2rem;
-    font-weight: bold;
-    text-align: center;
-    margin-top: 20px;
-    color: #d32f2f;
-}
-
-.reset-btn {
-    background-color: #757575;
-    margin-top: 15px;
-}
-
-.reset-btn:hover {
-    background-color: #424242;
-}
+function resetCalculator() {
+    totals = { cal: 0, pro: 0, carb: 0, fat: 0, fib: 0 };
+    foodList.innerHTML = "";
+    updateDisplay();
+    quantityInput.value = 1;
+    foodSelect.value = "";
+    unitSelect.innerHTML = "";
+    currentFood = null;
+        }
