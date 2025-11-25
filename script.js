@@ -1,86 +1,139 @@
-// Database of Indian Foods
-// Calories are approximate averages
-const indianFoodDatabase = [
-    { name: "Roti (Chapati)", calories: 104, unit: "piece" },
-    { name: "Plain Rice (Cooked)", calories: 130, unit: "bowl (100g)" },
-    { name: "Dal Tadka", calories: 150, unit: "bowl" },
-    { name: "Paneer Butter Masala", calories: 230, unit: "bowl" },
-    { name: "Chicken Curry", calories: 240, unit: "bowl" },
-    { name: "Idli", calories: 39, unit: "piece" },
-    { name: "Dosa (Plain)", calories: 133, unit: "piece" },
-    { name: "Masala Dosa", calories: 350, unit: "piece" },
-    { name: "Samosa", calories: 262, unit: "piece" },
-    { name: "Biryani (Chicken)", calories: 290, unit: "plate (200g)" },
-    { name: "Gulab Jamun", calories: 150, unit: "piece" },
-    { name: "Tea (Chai) with sugar", calories: 75, unit: "cup" },
-    { name: "Poha", calories: 180, unit: "plate" },
-    { name: "Paratha (Aloo)", calories: 210, unit: "piece" }
-];
-
-// Initialize elements
-const foodSelect = document.getElementById("food-select");
-const quantityInput = document.getElementById("quantity");
-const unitDisplay = document.getElementById("unit-display");
-const foodList = document.getElementById("food-list");
-const totalCaloriesDisplay = document.getElementById("total-calories");
-
-let currentTotal = 0;
-
-// Populate the Dropdown Menu
-window.onload = function() {
-    // Sort food alphabetically
-    indianFoodDatabase.sort((a, b) => a.name.localeCompare(b.name));
-
-    indianFoodDatabase.forEach((food, index) => {
-        let option = document.createElement("option");
-        option.value = index; // Store index as value
-        option.text = `${food.name} (${food.calories} cal/${food.unit})`;
-        foodSelect.appendChild(option);
-    });
-};
-
-// Update unit label when food changes
-foodSelect.addEventListener("change", function() {
-    const selectedIndex = foodSelect.value;
-    if (selectedIndex !== "") {
-        unitDisplay.textContent = indianFoodDatabase[selectedIndex].unit;
-    } else {
-        unitDisplay.textContent = "serving";
-    }
-});
-
-// Function to Add Food
-function addFood() {
-    const selectedIndex = foodSelect.value;
-    const qty = parseFloat(quantityInput.value);
-
-    if (selectedIndex === "" || qty <= 0) {
-        alert("Please select a food item and a valid quantity.");
-        return;
-    }
-
-    const foodItem = indianFoodDatabase[selectedIndex];
-    const totalItemCalories = Math.round(foodItem.calories * qty);
-
-    // Add to Total
-    currentTotal += totalItemCalories;
-    totalCaloriesDisplay.textContent = currentTotal;
-
-    // Add to List UI
-    const li = document.createElement("li");
-    li.innerHTML = `
-        <span>${foodItem.name} (x${qty})</span>
-        <strong>${totalItemCalories} kcal</strong>
-    `;
-    foodList.appendChild(li);
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #eef2f5;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    margin: 0;
 }
 
-// Function to Reset
-function resetCalculator() {
-    currentTotal = 0;
-    totalCaloriesDisplay.textContent = "0";
-    foodList.innerHTML = "";
-    quantityInput.value = 1;
-    foodSelect.value = "";
-    unitDisplay.textContent = "serving";
+.container {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    width: 100%;
+    max-width: 420px;
 }
+
+h1 {
+    text-align: center;
+    color: #2c3e50;
+    font-size: 1.4rem;
+    margin-bottom: 20px;
+}
+
+.calculator-box {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.input-group {
+    margin-bottom: 12px;
+}
+
+.row-inputs {
+    display: flex;
+    gap: 10px;
+}
+
+.half-width {
+    width: 50%;
+}
+
+label {
+    display: block;
+    margin-bottom: 4px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #555;
+}
+
+select, input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    font-size: 1rem;
+    background: white;
+    box-sizing: border-box;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    background-color: #FF5722; /* Orange for food */
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 1rem;
+    margin-top: 10px;
+}
+
+/* Dashboard for Totals */
+.totals-dashboard {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 columns */
+    gap: 8px;
+    margin-bottom: 20px;
+}
+
+.stat-card {
+    background: #f0f4f8;
+    padding: 10px;
+    border-radius: 6px;
+    text-align: center;
+}
+
+.stat-card.cal {
+    grid-column: span 2; /* Calories takes full width */
+    background: #e0f2f1;
+    color: #00695c;
+    border: 1px solid #b2dfdb;
+}
+
+.stat-card .label {
+    display: block;
+    font-size: 0.75rem;
+    color: #666;
+    text-transform: uppercase;
+}
+
+.stat-card .value {
+    display: block;
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #333;
+}
+
+/* List Items */
+#food-list {
+    list-style: none;
+    padding: 0;
+}
+
+#food-list li {
+    background: white;
+    border-bottom: 1px solid #eee;
+    padding: 10px 0;
+    font-size: 0.9rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+#food-list li div {
+    display: flex;
+    flex-direction: column;
+}
+
+.sub-text {
+    font-size: 0.75rem;
+    color: #888;
+}
+
+.reset-btn {
+    background-color: #90a4ae;
+        }
