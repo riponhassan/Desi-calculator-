@@ -1,44 +1,81 @@
-const foodDB = [
-    { name: "Roti (Chapati)", cal: 297, pro: 10, carb: 46, fat: 8, fib: 9, weights: { piece: 40, serving: 80 } },
-    { name: "White Rice (Cooked)", cal: 130, pro: 2.7, carb: 28, fat: 0.3, fib: 0.4, weights: { bowl: 150, serving: 200, tbsp: 15 } },
-    { name: "Dal Tadka", cal: 116, pro: 6, carb: 12, fat: 5, fib: 4, weights: { bowl: 200, serving: 250, tbsp: 15 } },
-    { name: "Paneer Butter Masala", cal: 230, pro: 8, carb: 8, fat: 18, fib: 2, weights: { bowl: 200, serving: 250, tbsp: 20 } },
-    { name: "Chicken Curry", cal: 140, pro: 15, carb: 6, fat: 7, fib: 1, weights: { bowl: 200, serving: 250, piece: 60 } },
-    { name: "Idli", cal: 58, pro: 2, carb: 12, fat: 0.1, fib: 0.5, weights: { piece: 40, serving: 120 } },
-    { name: "Dosa (Plain)", cal: 168, pro: 3, carb: 27, fat: 4, fib: 1, weights: { piece: 90, serving: 90 } },
-    { name: "Samosa", cal: 260, pro: 3, carb: 24, fat: 17, fib: 2, weights: { piece: 50, serving: 100 } },
-    { name: "Tea (Chai) with milk", cal: 70, pro: 2, carb: 10, fat: 2, fib: 0, weights: { cup: 150, serving: 150 } },
-    { name: "Poha", cal: 130, pro: 2.5, carb: 24, fat: 3.5, fib: 0.5, weights: { plate: 150, bowl: 100 } },
-    { name: "Egg (Boiled)", cal: 155, pro: 13, carb: 1.1, fat: 11, fib: 0, weights: { piece: 50 } }
-];
-
+let foodDB = [];
 const standardUnits = { gram: 1 };
 let totals = { cal: 0, pro: 0, carb: 0, fat: 0, fib: 0 };
 let currentFood = null;
 
-const foodSelect = document.getElementById('food-select');
+// DOM Elements
+const searchInput = document.getElementById('food-search');
+const suggestionsBox = document.getElementById('suggestions-box');
 const unitSelect = document.getElementById('unit-select');
 const quantityInput = document.getElementById('quantity');
 const foodList = document.getElementById('food-list');
 
-// Init
-window.onload = () => {
-    foodDB.sort((a, b) => a.name.localeCompare(b.name));
-    foodDB.forEach((food, index) => {
-        let opt = document.createElement('option');
-        opt.value = index;
-        opt.text = food.name;
-        foodSelect.add(opt);
+// 1. Load the Database (foods.json)
+fetch('foods.json')
+    .then(response => {
+        if (!response.ok) {
+            throw new Error("HTTP error " + response.status);
+        }
+        return response.json();
+    })
+    .then(data => {
+        foodDB = data;
+        console.log("Database loaded: " + foodDB.length + " items");
+    })
+    .catch(error => {
+        console.error('Error loading food data:', error);
+        alert("Could not load food database. Make sure foods.json is uploaded!");
     });
-};
 
-function updateUnits() {
-    unitSelect.innerHTML = "";
-    const index = foodSelect.value;
-    if (index === "") return;
-    currentFood = foodDB[index];
+// 2. Search Logic
+searchInput.addEventListener('input', function() {
+    const query = this.value.toLowerCase().trim();
+    suggestionsBox.innerHTML = '';
     
+    if (query.length < 2) {
+        suggestionsBox.style.display = 'none';
+        return;
+    }
+
+    // Filter DB: Find matches (limit to 10 for performance)
+    const matches = foodDB.filter(food => 
+        food.name.toLowerCase().includes(query)
+    ).slice(0, 10);
+
+    if (matches.length > 0) {
+        matches.forEach(food => {
+            const div = document.createElement('div');
+            div.className = 'suggestion-item';
+            div.innerHTML = `
+                <span>${food.name}</span> 
+                <small style="color:#aaa">${food.cal} kcal</small>
+            `;
+            div.onclick = () => selectFood(food);
+            suggestionsBox.appendChild(div);
+        });
+        suggestionsBox.style.display = 'block';
+    } else {
+        suggestionsBox.style.display = 'none';
+    }
+});
+
+// Hide suggestions when clicking outside
+document.addEventListener('click', function(e) {
+    if (e.target !== searchInput) {
+        suggestionsBox.style.display = 'none';
+    }
+});
+
+// 3. Select Food & Populate Units
+function selectFood(food) {
+    currentFood = food;
+    searchInput.value = food.name;
+    suggestionsBox.style.display = 'none';
+    
+    // Update Units
+    unitSelect.innerHTML = "";
     const allUnits = { ...standardUnits, ...currentFood.weights };
+    
     for (let unit in allUnits) {
         let opt = document.createElement('option');
         opt.value = allUnits[unit]; 
@@ -47,15 +84,23 @@ function updateUnits() {
     }
 }
 
+// 4. Add Food to List
 function addFood() {
-    if (!currentFood) { alert("Please select a food."); return; }
+    if (!currentFood) {
+        alert("Please search and select a food first.");
+        return;
+    }
     
     const qty = parseFloat(quantityInput.value);
-    const unitWeight = parseFloat(unitSelect.value);
+    const unitWeight = parseFloat(unitSelect.value); // Grams of selected unit
     const unitName = unitSelect.options[unitSelect.selectedIndex].text;
 
-    if (qty <= 0) return;
+    if (qty <= 0 || isNaN(qty)) {
+        alert("Please enter a valid quantity");
+        return;
+    }
 
+    // Math: (Nutrient per 100g) * (Actual Grams / 100)
     const actualGrams = unitWeight * qty;
     const ratio = actualGrams / 100;
 
@@ -65,17 +110,25 @@ function addFood() {
     const addedFat = (currentFood.fat * ratio);
     const addedFib = (currentFood.fib * ratio);
 
+    // Update Totals Object
     totals.cal += addedCal;
     totals.pro += addedPro;
     totals.carb += addedCarb;
     totals.fat += addedFat;
     totals.fib += addedFib;
 
-    updateDisplay();
+    updateUI();
     addToList(currentFood.name, unitName, qty, addedCal);
+    
+    // Reset inputs for next item
+    searchInput.value = '';
+    currentFood = null;
+    unitSelect.innerHTML = '';
 }
 
-function updateDisplay() {
+// 5. Update UI
+function updateUI() {
+    // Update Top Dashboard
     document.getElementById('total-cal').textContent = Math.round(totals.cal);
     document.getElementById('total-pro').textContent = Math.round(totals.pro) + "g";
     document.getElementById('total-carb').textContent = Math.round(totals.carb) + "g";
@@ -98,9 +151,9 @@ function addToList(name, unit, qty, cal) {
 function resetCalculator() {
     totals = { cal: 0, pro: 0, carb: 0, fat: 0, fib: 0 };
     foodList.innerHTML = "";
-    updateDisplay();
+    updateUI();
     quantityInput.value = 1;
-    foodSelect.value = "";
+    searchInput.value = "";
     unitSelect.innerHTML = "";
     currentFood = null;
 }
