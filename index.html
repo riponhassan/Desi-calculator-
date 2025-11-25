@@ -2,71 +2,88 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Desi Calorie Calculator Pro</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>FitIndia Calorie Tracker</title>
+    <!-- Import Modern Font (Poppins) -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-    <div class="container">
-        <h1>🇮🇳 Desi Nutrition Pro</h1>
+    <!-- App Header -->
+    <header>
+        <div class="header-content">
+            <h1>🇮🇳 FitIndia</h1>
+            <p>Nutrition Tracker</p>
+        </div>
+    </header>
+
+    <div class="app-container">
         
-        <div class="calculator-box">
-            <!-- Food Selection -->
-            <div class="input-group">
-                <label>Select Food Item:</label>
+        <!-- Live Dashboard -->
+        <div class="dashboard">
+            <div class="circle-chart">
+                <div class="cal-circle">
+                    <span id="total-cal">0</span>
+                    <small>Kcal</small>
+                </div>
+            </div>
+            <div class="nutrients-grid">
+                <div class="nutri-card pro">
+                    <small>Protein</small>
+                    <span id="total-pro">0g</span>
+                    <div class="bar"><div class="fill" style="background:#4dabf7"></div></div>
+                </div>
+                <div class="nutri-card carb">
+                    <small>Carbs</small>
+                    <span id="total-carb">0g</span>
+                    <div class="bar"><div class="fill" style="background:#51cf66"></div></div>
+                </div>
+                <div class="nutri-card fat">
+                    <small>Fats</small>
+                    <span id="total-fat">0g</span>
+                    <div class="bar"><div class="fill" style="background:#ff922b"></div></div>
+                </div>
+                <div class="nutri-card fib">
+                    <small>Fiber</small>
+                    <span id="total-fib">0g</span>
+                    <div class="bar"><div class="fill" style="background:#868e96"></div></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Input Section -->
+        <div class="input-card">
+            <div class="form-group">
+                <label>Food Item</label>
                 <select id="food-select" onchange="updateUnits()">
-                    <option value="">-- Choose Food --</option>
+                    <option value="">Search food...</option>
                 </select>
             </div>
-
-            <!-- Unit and Quantity Row -->
-            <div class="row-inputs">
-                <div class="input-group half-width">
-                    <label>Unit:</label>
-                    <select id="unit-select">
-                        <!-- Units populate dynamically -->
-                    </select>
+            
+            <div class="row">
+                <div class="form-group half">
+                    <label>Unit</label>
+                    <select id="unit-select"></select>
                 </div>
-                <div class="input-group half-width">
-                    <label>Quantity:</label>
-                    <input type="number" id="quantity" value="1" min="0.1" step="0.1">
+                <div class="form-group half">
+                    <label>Qty</label>
+                    <input type="number" id="quantity" value="1" step="0.5">
                 </div>
             </div>
 
-            <button onclick="addFood()">Add to Log</button>
+            <button class="add-btn" onclick="addFood()">+ Add Food</button>
         </div>
 
-        <!-- Live Totals -->
-        <div class="totals-dashboard">
-            <div class="stat-card cal">
-                <span class="label">Calories</span>
-                <span class="value" id="total-cal">0</span>
-            </div>
-            <div class="stat-card">
-                <span class="label">Protein</span>
-                <span class="value" id="total-pro">0g</span>
-            </div>
-            <div class="stat-card">
-                <span class="label">Carbs</span>
-                <span class="value" id="total-carb">0g</span>
-            </div>
-            <div class="stat-card">
-                <span class="label">Fats</span>
-                <span class="value" id="total-fat">0g</span>
-            </div>
-            <div class="stat-card">
-                <span class="label">Fiber</span>
-                <span class="value" id="total-fib">0g</span>
-            </div>
+        <!-- Food List -->
+        <div class="list-section">
+            <h3>Today's Log</h3>
+            <ul id="food-list">
+                <!-- Items go here -->
+            </ul>
+            <button class="clear-link" onclick="resetCalculator()">Reset Day</button>
         </div>
 
-        <!-- List of Added Foods -->
-        <div class="results-area">
-            <h3>Today's Meal</h3>
-            <ul id="food-list"></ul>
-            <button class="reset-btn" onclick="resetCalculator()">Clear All</button>
-        </div>
     </div>
 
     <script src="script.js"></script>
