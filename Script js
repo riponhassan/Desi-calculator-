@@ -1,0 +1,86 @@
+// Database of Indian Foods
+// Calories are approximate averages
+const indianFoodDatabase = [
+    { name: "Roti (Chapati)", calories: 104, unit: "piece" },
+    { name: "Plain Rice (Cooked)", calories: 130, unit: "bowl (100g)" },
+    { name: "Dal Tadka", calories: 150, unit: "bowl" },
+    { name: "Paneer Butter Masala", calories: 230, unit: "bowl" },
+    { name: "Chicken Curry", calories: 240, unit: "bowl" },
+    { name: "Idli", calories: 39, unit: "piece" },
+    { name: "Dosa (Plain)", calories: 133, unit: "piece" },
+    { name: "Masala Dosa", calories: 350, unit: "piece" },
+    { name: "Samosa", calories: 262, unit: "piece" },
+    { name: "Biryani (Chicken)", calories: 290, unit: "plate (200g)" },
+    { name: "Gulab Jamun", calories: 150, unit: "piece" },
+    { name: "Tea (Chai) with sugar", calories: 75, unit: "cup" },
+    { name: "Poha", calories: 180, unit: "plate" },
+    { name: "Paratha (Aloo)", calories: 210, unit: "piece" }
+];
+
+// Initialize elements
+const foodSelect = document.getElementById("food-select");
+const quantityInput = document.getElementById("quantity");
+const unitDisplay = document.getElementById("unit-display");
+const foodList = document.getElementById("food-list");
+const totalCaloriesDisplay = document.getElementById("total-calories");
+
+let currentTotal = 0;
+
+// Populate the Dropdown Menu
+window.onload = function() {
+    // Sort food alphabetically
+    indianFoodDatabase.sort((a, b) => a.name.localeCompare(b.name));
+
+    indianFoodDatabase.forEach((food, index) => {
+        let option = document.createElement("option");
+        option.value = index; // Store index as value
+        option.text = `${food.name} (${food.calories} cal/${food.unit})`;
+        foodSelect.appendChild(option);
+    });
+};
+
+// Update unit label when food changes
+foodSelect.addEventListener("change", function() {
+    const selectedIndex = foodSelect.value;
+    if (selectedIndex !== "") {
+        unitDisplay.textContent = indianFoodDatabase[selectedIndex].unit;
+    } else {
+        unitDisplay.textContent = "serving";
+    }
+});
+
+// Function to Add Food
+function addFood() {
+    const selectedIndex = foodSelect.value;
+    const qty = parseFloat(quantityInput.value);
+
+    if (selectedIndex === "" || qty <= 0) {
+        alert("Please select a food item and a valid quantity.");
+        return;
+    }
+
+    const foodItem = indianFoodDatabase[selectedIndex];
+    const totalItemCalories = Math.round(foodItem.calories * qty);
+
+    // Add to Total
+    currentTotal += totalItemCalories;
+    totalCaloriesDisplay.textContent = currentTotal;
+
+    // Add to List UI
+    const li = document.createElement("li");
+    li.innerHTML = `
+        <span>${foodItem.name} (x${qty})</span>
+        <strong>${totalItemCalories} kcal</strong>
+    `;
+    foodList.appendChild(li);
+}
+
+// Function to Reset
+function resetCalculator() {
+    currentTotal = 0;
+    totalCaloriesDisplay.textContent = "0";
+    foodList.innerHTML = "";
+    quantityInput.value = 1;
+    foodSelect.value = "";
+    unitDisplay.textContent = "serving";
+}
