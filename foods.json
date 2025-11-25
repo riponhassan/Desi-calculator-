@@ -853,5 +853,455 @@
     "fat": 22,
     "fib": 3,
     "weights": { "gram": 1, "piece": 200 }
+  },
+  {
+    "name": "Idli",
+    "cal": 58,
+    "pro": 2,
+    "carb": 12,
+    "fat": 0.4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 39, "serving": 78 }
+  },
+  {
+    "name": "Rava Idli",
+    "cal": 72,
+    "pro": 2,
+    "carb": 14,
+    "fat": 1,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 45, "serving": 90 }
+  },
+  {
+    "name": "Mini Idli",
+    "cal": 41,
+    "pro": 1,
+    "carb": 9,
+    "fat": 0.3,
+    "fib": 0.5,
+    "weights": { "gram": 1, "piece": 20, "serving": 60 }
+  },
+  {
+    "name": "Idli with Sambar",
+    "cal": 90,
+    "pro": 4,
+    "carb": 15,
+    "fat": 1.5,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 160 }
+  },
+  {
+    "name": "Medu Vada",
+    "cal": 97,
+    "pro": 2,
+    "carb": 12,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 51, "serving": 102 }
+  },
+  {
+    "name": "Vada with Sambar",
+    "cal": 150,
+    "pro": 5,
+    "carb": 18,
+    "fat": 6,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 200 }
+  },
+  {
+    "name": "Plain Dosa",
+    "cal": 133,
+    "pro": 2.7,
+    "carb": 25,
+    "fat": 2.1,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 142, "serving": 142 }
+  },
+  {
+    "name": "Masala Dosa",
+    "cal": 185,
+    "pro": 4,
+    "carb": 28,
+    "fat": 5,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 175, "serving": 175 }
+  },
+  {
+    "name": "Ghee Roast Dosa",
+    "cal": 220,
+    "pro": 3.5,
+    "carb": 30,
+    "fat": 8,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 180, "serving": 180 }
+  },
+  {
+    "name": "Mysore Masala Dosa",
+    "cal": 210,
+    "pro": 4,
+    "carb": 30,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 190, "serving": 190 }
+  },
+  {
+    "name": "Set Dosa",
+    "cal": 150,
+    "pro": 3,
+    "carb": 24,
+    "fat": 3,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 110, "serving": 220 }
+  },
+  {
+    "name": "Dosa with Chutney",
+    "cal": 165,
+    "pro": 3,
+    "carb": 26,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 180 }
+  },
+  {
+    "name": "Uttapam",
+    "cal": 170,
+    "pro": 4,
+    "carb": 30,
+    "fat": 3.5,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 178, "serving": 178 }
+  },
+  {
+    "name": "Onion Uttapam",
+    "cal": 175,
+    "pro": 4,
+    "carb": 31,
+    "fat": 3.5,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 180, "serving": 180 }
+  },
+  {
+    "name": "Upma",
+    "cal": 180,
+    "pro": 4,
+    "carb": 25,
+    "fat": 7,
+    "fib": 3,
+    "weights": { "gram": 1, "cup": 176, "serving": 176 }
+  },
+  {
+    "name": "Rava Upma",
+    "cal": 199,
+    "pro": 5,
+    "carb": 28,
+    "fat": 8,
+    "fib": 3,
+    "weights": { "gram": 1, "cup": 180, "serving": 180 }
+  },
+  {
+    "name": "Pongal",
+    "cal": 131,
+    "pro": 3,
+    "carb": 20,
+    "fat": 3,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 208, "serving": 208 }
+  },
+  {
+    "name": "Ven Pongal",
+    "cal": 140,
+    "pro": 4,
+    "carb": 22,
+    "fat": 3.5,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 210, "serving": 210 }
+  },
+  {
+    "name": "Khara Pongal",
+    "cal": 145,
+    "pro": 4,
+    "carb": 22,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 210, "serving": 210 }
+  },
+  {
+    "name": "Appam",
+    "cal": 120,
+    "pro": 2,
+    "carb": 25,
+    "fat": 1,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 92, "serving": 92 }
+  },
+  {
+    "name": "Appam with Veg Stew",
+    "cal": 210,
+    "pro": 4,
+    "carb": 28,
+    "fat": 7,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 220 }
+  },
+  {
+    "name": "Idiyappam (String Hoppers)",
+    "cal": 146,
+    "pro": 2,
+    "carb": 32,
+    "fat": 0.7,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 45, "serving": 90 }
+  },
+  {
+    "name": "Idiyappam with Coconut Milk",
+    "cal": 200,
+    "pro": 3,
+    "carb": 28,
+    "fat": 7,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 200 }
+  },
+  {
+    "name": "Kuzhi Paniyaram",
+    "cal": 58,
+    "pro": 2,
+    "carb": 10,
+    "fat": 1.2,
+    "fib": 0.5,
+    "weights": { "gram": 1, "piece": 20, "serving": 60 }
+  },
+  {
+    "name": "Kuzhi Paniyaram with Chutney",
+    "cal": 120,
+    "pro": 3,
+    "carb": 18,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Puttu",
+    "cal": 152,
+    "pro": 3,
+    "carb": 34,
+    "fat": 0.4,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 120, "serving": 120 }
+  },
+  {
+    "name": "Puttu with Kadala Curry",
+    "cal": 240,
+    "pro": 8,
+    "carb": 35,
+    "fat": 6,
+    "fib": 4,
+    "weights": { "gram": 1, "serving": 200 }
+  },
+  {
+    "name": "Pesarattu (Green Gram Dosa)",
+    "cal": 168,
+    "pro": 7,
+    "carb": 24,
+    "fat": 3,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 160, "serving": 160 }
+  },
+  {
+    "name": "Pesarattu with Upma",
+    "cal": 260,
+    "pro": 9,
+    "carb": 38,
+    "fat": 6,
+    "fib": 4,
+    "weights": { "gram": 1, "serving": 250 }
+  },
+  {
+    "name": "Rava Dosa",
+    "cal": 180,
+    "pro": 4,
+    "carb": 30,
+    "fat": 5,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 160, "serving": 160 }
+  },
+  {
+    "name": "Onion Rava Dosa",
+    "cal": 190,
+    "pro": 4,
+    "carb": 31,
+    "fat": 6,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 165, "serving": 165 }
+  },
+  {
+    "name": "Neer Dosa",
+    "cal": 128,
+    "pro": 2,
+    "carb": 27,
+    "fat": 1,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 120, "serving": 120 }
+  },
+  {
+    "name": "Neer Dosa with Coconut Chutney",
+    "cal": 175,
+    "pro": 3,
+    "carb": 28,
+    "fat": 5,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 180 }
+  },
+  {
+    "name": "Appam with Egg Curry",
+    "cal": 260,
+    "pro": 10,
+    "carb": 26,
+    "fat": 12,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 250 }
+  },
+  {
+    "name": "Egg Appam",
+    "cal": 190,
+    "pro": 7,
+    "carb": 18,
+    "fat": 9,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 110, "serving": 110 }
+  },
+  {
+    "name": "Kanchipuram Idli",
+    "cal": 105,
+    "pro": 3,
+    "carb": 18,
+    "fat": 2,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 60, "serving": 120 }
+  },
+  {
+    "name": "Thatte Idli",
+    "cal": 120,
+    "pro": 3,
+    "carb": 25,
+    "fat": 1,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 90, "serving": 90 }
+  },
+  {
+    "name": "Mini Uttapam",
+    "cal": 90,
+    "pro": 2,
+    "carb": 15,
+    "fat": 2,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 60, "serving": 120 }
+  },
+  {
+    "name": "Mixed Veg Uttapam",
+    "cal": 180,
+    "pro": 4,
+    "carb": 30,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 185, "serving": 185 }
+  },
+  {
+    "name": "Tomato Uttapam",
+    "cal": 168,
+    "pro": 3,
+    "carb": 30,
+    "fat": 3,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 175, "serving": 175 }
+  },
+  {
+    "name": "Ragi Dosa",
+    "cal": 152,
+    "pro": 3,
+    "carb": 28,
+    "fat": 2,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 150, "serving": 150 }
+  },
+  {
+    "name": "Ragi Idli",
+    "cal": 65,
+    "pro": 2,
+    "carb": 12,
+    "fat": 1,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 40, "serving": 80 }
+  },
+  {
+    "name": "Ragi Upma",
+    "cal": 170,
+    "pro": 4,
+    "carb": 25,
+    "fat": 6,
+    "fib": 3,
+    "weights": { "gram": 1, "cup": 180, "serving": 180 }
+  },
+  {
+    "name": "Aval Upma (Poha Upma)",
+    "cal": 155,
+    "pro": 3,
+    "carb": 28,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "cup": 180, "serving": 180 }
+  },
+  {
+    "name": "Sabudana Upma",
+    "cal": 200,
+    "pro": 3,
+    "carb": 38,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "cup": 180, "serving": 180 }
+  },
+  {
+    "name": "Pongal with Coconut Chutney",
+    "cal": 200,
+    "pro": 5,
+    "carb": 28,
+    "fat": 6,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 220 }
+  },
+  {
+    "name": "Vegetable Pongal",
+    "cal": 150,
+    "pro": 4,
+    "carb": 25,
+    "fat": 3,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 210, "serving": 210 }
+  },
+  {
+    "name": "Sweet Pongal",
+    "cal": 215,
+    "pro": 4,
+    "carb": 38,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 210, "serving": 210 }
+  },
+  {
+    "name": "Millet Dosa",
+    "cal": 140,
+    "pro": 3.5,
+    "carb": 26,
+    "fat": 2,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 150, "serving": 150 }
+  },
+  {
+    "name": "Millet Idli",
+    "cal": 70,
+    "pro": 2.5,
+    "carb": 14,
+    "fat": 0.5,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 40, "serving": 80 }
   }
 ]
