@@ -3,42 +3,68 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Indian Food Calorie Calculator</title>
+    <title>Desi Calorie Calculator Pro</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
     <div class="container">
-        <h1>🇮🇳 Indian Food Calorie Calculator</h1>
+        <h1>🇮🇳 Desi Nutrition Pro</h1>
         
         <div class="calculator-box">
+            <!-- Food Selection -->
             <div class="input-group">
-                <label for="food-select">Select Item:</label>
-                <select id="food-select">
-                    <!-- Options will be loaded by JavaScript -->
+                <label>Select Food Item:</label>
+                <select id="food-select" onchange="updateUnits()">
                     <option value="">-- Choose Food --</option>
                 </select>
             </div>
 
-            <div class="input-group">
-                <label for="quantity">Quantity:</label>
-                <div class="qty-wrapper">
-                    <input type="number" id="quantity" value="1" min="0.5" step="0.5">
-                    <span id="unit-display">serving</span>
+            <!-- Unit and Quantity Row -->
+            <div class="row-inputs">
+                <div class="input-group half-width">
+                    <label>Unit:</label>
+                    <select id="unit-select">
+                        <!-- Units populate dynamically -->
+                    </select>
+                </div>
+                <div class="input-group half-width">
+                    <label>Quantity:</label>
+                    <input type="number" id="quantity" value="1" min="0.1" step="0.1">
                 </div>
             </div>
 
-            <button onclick="addFood()">Add to List</button>
+            <button onclick="addFood()">Add to Log</button>
         </div>
 
-        <div class="results-area">
-            <h3>Your Meal</h3>
-            <ul id="food-list">
-                <!-- Added items will appear here -->
-            </ul>
-            <div class="total-box">
-                Total Calories: <span id="total-calories">0</span> kcal
+        <!-- Live Totals -->
+        <div class="totals-dashboard">
+            <div class="stat-card cal">
+                <span class="label">Calories</span>
+                <span class="value" id="total-cal">0</span>
             </div>
+            <div class="stat-card">
+                <span class="label">Protein</span>
+                <span class="value" id="total-pro">0g</span>
+            </div>
+            <div class="stat-card">
+                <span class="label">Carbs</span>
+                <span class="value" id="total-carb">0g</span>
+            </div>
+            <div class="stat-card">
+                <span class="label">Fats</span>
+                <span class="value" id="total-fat">0g</span>
+            </div>
+            <div class="stat-card">
+                <span class="label">Fiber</span>
+                <span class="value" id="total-fib">0g</span>
+            </div>
+        </div>
+
+        <!-- List of Added Foods -->
+        <div class="results-area">
+            <h3>Today's Meal</h3>
+            <ul id="food-list"></ul>
             <button class="reset-btn" onclick="resetCalculator()">Clear All</button>
         </div>
     </div>
