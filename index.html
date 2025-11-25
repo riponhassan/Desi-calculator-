@@ -1,97 +1,135 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>FitIndia Calorie Tracker</title>
-    <!-- Import Modern Font (Poppins) -->
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" />
+  <title>FitIndia Calorie Tracker</title>
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+
+  <!-- Core styles (replace with new style.css next) -->
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Meta for embedding & SEO (small, non-intrusive) -->
+  <meta name="description" content="Desi Calorie Calculator — quick Indian food calorie & macro tracker." />
 </head>
 <body>
 
-    <!-- App Header -->
-    <header>
-        <div class="header-content">
-            <h1>🇮🇳 FitIndia</h1>
-            <p>Ultimate Nutrition Database</p>
-        </div>
-    </header>
-
-    <div class="app-container">
-        
-        <!-- Live Dashboard -->
-        <div class="dashboard">
-            <div class="circle-chart">
-                <div class="cal-circle">
-                    <span id="total-cal">0</span>
-                    <small>Kcal</small>
-                </div>
-            </div>
-            <div class="nutrients-grid">
-                <div class="nutri-card pro">
-                    <small>Protein</small>
-                    <span id="total-pro">0g</span>
-                    <div class="bar"><div class="fill" style="background:#4dabf7"></div></div>
-                </div>
-                <div class="nutri-card carb">
-                    <small>Carbs</small>
-                    <span id="total-carb">0g</span>
-                    <div class="bar"><div class="fill" style="background:#51cf66"></div></div>
-                </div>
-                <div class="nutri-card fat">
-                    <small>Fats</small>
-                    <span id="total-fat">0g</span>
-                    <div class="bar"><div class="fill" style="background:#ff922b"></div></div>
-                </div>
-                <div class="nutri-card fib">
-                    <small>Fiber</small>
-                    <span id="total-fib">0g</span>
-                    <div class="bar"><div class="fill" style="background:#868e96"></div></div>
-                </div>
-            </div>
-        </div>
-
-        <!-- Input Section -->
-        <div class="input-card">
-            
-            <!-- NEW: Search Bar instead of Dropdown -->
-            <div class="form-group">
-                <label>Search Food Item</label>
-                <div class="search-wrapper">
-                    <input type="text" id="food-search" placeholder="Type food name (e.g. Paneer)..." autocomplete="off">
-                    <!-- Suggestions appear here -->
-                    <div id="suggestions-box" class="suggestions-list"></div>
-                </div>
-            </div>
-            
-            <div class="row">
-                <div class="form-group half">
-                    <label>Unit</label>
-                    <select id="unit-select">
-                        <!-- Units load automatically -->
-                    </select>
-                </div>
-                <div class="form-group half">
-                    <label>Qty</label>
-                    <input type="number" id="quantity" value="1" step="0.5">
-                </div>
-            </div>
-
-            <button class="add-btn" onclick="addFood()">+ Add Food</button>
-        </div>
-
-        <!-- Food List -->
-        <div class="list-section">
-            <h3>Today's Log</h3>
-            <ul id="food-list">
-                <!-- Items go here -->
-            </ul>
-            <button class="clear-link" onclick="resetCalculator()">Start New Day</button>
-        </div>
-
+  <!-- App Header -->
+  <header role="banner">
+    <div class="header-content" aria-hidden="false">
+      <h1>🇮🇳 FitIndia</h1>
+      <p>Ultimate Nutrition Database</p>
     </div>
+  </header>
 
-    <script src="script.js"></script>
+  <main class="app-container" role="main">
+    <!-- Live Dashboard -->
+    <section class="dashboard" aria-labelledby="dashboard-heading">
+      <div style="display:flex;gap:12px;align-items:center;width:100%;">
+        <div class="circle-chart" id="cal-circle-chart" data-goal="2000" aria-hidden="false">
+          <div class="cal-circle" aria-live="polite" aria-atomic="true">
+            <span id="total-cal">0</span>
+            <small>Kcal</small>
+          </div>
+        </div>
+
+        <div style="flex:1;">
+          <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
+            <label for="daily-goal" class="sr-only">Daily Calorie Goal</label>
+            <!-- Daily goal input (optional) - JS may read #daily-goal -->
+            <input id="daily-goal" type="number" min="800" step="50" placeholder="Goal (kcal) — e.g. 2000" style="flex:1;padding:8px;border-radius:10px;border:1px solid #e6eef5;"/>
+            <button id="set-goal-btn" class="small-btn" type="button" title="Set daily goal">Set</button>
+          </div>
+
+          <div class="nutrients-grid" aria-label="Nutrition totals">
+            <div class="nutri-card pro" role="group" aria-label="Protein">
+              <small>Protein</small>
+              <span id="total-pro">0g</span>
+              <div class="bar"><div class="fill" style="width:0%"></div></div>
+            </div>
+            <div class="nutri-card carb" role="group" aria-label="Carbs">
+              <small>Carbs</small>
+              <span id="total-carb">0g</span>
+              <div class="bar"><div class="fill" style="width:0%"></div></div>
+            </div>
+            <div class="nutri-card fat" role="group" aria-label="Fats">
+              <small>Fats</small>
+              <span id="total-fat">0g</span>
+              <div class="bar"><div class="fill" style="width:0%"></div></div>
+            </div>
+            <div class="nutri-card fib" role="group" aria-label="Fiber">
+              <small>Fiber</small>
+              <span id="total-fib">0g</span>
+              <div class="bar"><div class="fill" style="width:0%"></div></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Input Section -->
+    <section class="input-card" aria-labelledby="input-heading">
+      <h2 id="input-heading" class="sr-only">Add food</h2>
+
+      <!-- Search -->
+      <div class="form-group">
+        <label for="food-search">Search Food Item</label>
+        <div class="search-wrapper">
+          <input
+            id="food-search"
+            type="text"
+            inputmode="search"
+            autocomplete="off"
+            placeholder="Type food name (e.g. Paneer)..."
+            aria-autocomplete="list"
+            aria-controls="suggestions-box"
+            aria-expanded="false"
+          />
+          <div id="suggestions-box" class="suggestions-list" role="listbox" aria-label="Search suggestions"></div>
+        </div>
+      </div>
+
+      <!-- Unit + Qty -->
+      <div class="row">
+        <div class="form-group half" style="min-width: 45%;">
+          <label for="unit-select">Unit</label>
+          <select id="unit-select" aria-label="Unit selection"></select>
+        </div>
+
+        <div class="form-group half" style="min-width: 40%;">
+          <label for="quantity">Qty</label>
+          <input id="quantity" type="number" inputmode="decimal" value="1" step="0.5" min="0.5" />
+        </div>
+      </div>
+
+      <!-- Primary action + small helpers -->
+      <div style="display:flex;gap:10px;align-items:center;margin-top:10px;">
+        <button id="add-food-btn" class="add-btn" type="button" onclick="addFood()">+ Add Food</button>
+
+        <!-- Undo and Export placeholders (JS will attach behaviour) -->
+        <button id="undo-btn" class="aux-btn" type="button" title="Undo last item">Undo</button>
+        <button id="export-btn" class="aux-btn" type="button" title="Export today's log">Export</button>
+      </div>
+    </section>
+
+    <!-- Food List -->
+    <section class="list-section" aria-labelledby="log-heading">
+      <h3 id="log-heading">Today's Log</h3>
+
+      <ul id="food-list" role="list" aria-live="polite">
+        <!-- Items are prepended here by script.js -->
+      </ul>
+
+      <div style="display:flex;gap:10px;margin-top:12px;">
+        <button class="clear-link" onclick="resetCalculator()" type="button">Start New Day</button>
+        <button id="save-local-btn" class="clear-link" type="button" title="Save current log locally">Save</button>
+      </div>
+    </section>
+  </main>
+
+  <!-- Your working script (we'll refine script.js next) -->
+  <script src="script.js"></script>
 </body>
 </html>
