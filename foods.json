@@ -13120,5 +13120,446 @@
   "fat": 13,
   "fib": 2,
   "weights": { "gram": 1, "portion": 440, "pieces": 1 }
+},
+{
+  "name": "Veg Seoul Style Fried Rice",
+  "cal": 285,
+  "pro": 5,
+  "carb": 41,
+  "fat": 10,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 390, "pieces": 1 }
+},
+{
+  "name": "Chicken Seoul Style Fried Rice",
+  "cal": 320,
+  "pro": 18,
+  "carb": 39,
+  "fat": 12,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 410, "pieces": 1 }
+},
+{
+  "name": "Veg Kung Pao Fried Rice",
+  "cal": 295,
+  "pro": 6,
+  "carb": 41,
+  "fat": 11,
+  "fib": 3,
+  "weights": { "gram": 1, "portion": 400, "pieces": 1 }
+},
+{
+  "name": "Chicken Kung Pao Fried Rice",
+  "cal": 330,
+  "pro": 18,
+  "carb": 40,
+  "fat": 13,
+  "fib": 3,
+  "weights": { "gram": 1, "portion": 420, "pieces": 1 }
+},
+{
+  "name": "Veg XO Fried Rice",
+  "cal": 300,
+  "pro": 6,
+  "carb": 42,
+  "fat": 11,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 400, "pieces": 1 }
+},
+{
+  "name": "Chicken XO Fried Rice",
+  "cal": 340,
+  "pro": 18,
+  "carb": 40,
+  "fat": 13,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 430, "pieces": 1 }
+},
+{
+  "name": "Veg Dan Dan Noodles (Indo Chinese)",
+  "cal": 330,
+  "pro": 8,
+  "carb": 48,
+  "fat": 11,
+  "fib": 3,
+  "weights": { "gram": 1, "portion": 440, "pieces": 1 }
+},
+{
+  "name": "Chicken Dan Dan Noodles",
+  "cal": 365,
+  "pro": 18,
+  "carb": 46,
+  "fat": 14,
+  "fib": 3,
+  "weights": { "gram": 1, "portion": 450, "pieces": 1 }
+},
+{
+  "name": "Veg Teriyaki Noodles (Indian Chinese)",
+  "cal": 315,
+  "pro": 7,
+  "carb": 47,
+  "fat": 10,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 430, "pieces": 1 }
+},
+{
+  "name": "Chicken Teriyaki Noodles",
+  "cal": 350,
+  "pro": 18,
+  "carb": 45,
+  "fat": 12,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 440, "pieces": 1 }
+},
+{
+  "name": "Veg Korean Chilli Fried Rice",
+  "cal": 290,
+  "pro": 6,
+  "carb": 41,
+  "fat": 10,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 390, "pieces": 1 }
+},
+{
+  "name": "Chicken Korean Chilli Fried Rice",
+  "cal": 330,
+  "pro": 18,
+  "carb": 40,
+  "fat": 12,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 410, "pieces": 1 }
+},
+{
+  "name": "Egg Korean Chilli Rice",
+  "cal": 305,
+  "pro": 10,
+  "carb": 40,
+  "fat": 11,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 400, "pieces": 1 }
+},
+{
+  "name": "Veg Wok Tossed Triple Noodles",
+  "cal": 360,
+  "pro": 8,
+  "carb": 52,
+  "fat": 12,
+  "fib": 3,
+  "weights": { "gram": 1, "portion": 450, "pieces": 1 }
+},
+{
+  "name": "Chicken Wok Tossed Triple Noodles",
+  "cal": 395,
+  "pro": 18,
+  "carb": 51,
+  "fat": 14,
+  "fib": 3,
+  "weights": { "gram": 1, "portion": 460, "pieces": 1 }
+},
+{
+  "name": "Prawn Wok Tossed Triple Noodles",
+  "cal": 400,
+  "pro": 21,
+  "carb": 50,
+  "fat": 14,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 450, "pieces": 1 }
+},
+{
+  "name": "Veg Hot Basil Noodles",
+  "cal": 325,
+  "pro": 7,
+  "carb": 47,
+  "fat": 11,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 430, "pieces": 1 }
+},
+{
+  "name": "Chicken Hot Basil Noodles",
+  "cal": 355,
+  "pro": 18,
+  "carb": 46,
+  "fat": 12,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 440, "pieces": 1 }
+},
+{
+  "name": "Egg Hot Basil Noodles",
+  "cal": 340,
+  "pro": 12,
+  "carb": 46,
+  "fat": 12,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 430, "pieces": 1 }
+},
+{
+  "name": "Veg Chilli Oil Noodles",
+  "cal": 325,
+  "pro": 7,
+  "carb": 48,
+  "fat": 11,
+  "fib": 3,
+  "weights": { "gram": 1, "portion": 440, "pieces": 1 }
+},
+{
+  "name": "Chicken Chilli Oil Noodles",
+  "cal": 360,
+  "pro": 18,
+  "carb": 46,
+  "fat": 13,
+  "fib": 3,
+  "weights": { "gram": 1, "portion": 450, "pieces": 1 }
+},
+{
+  "name": "Veg Crispy Garlic Rice",
+  "cal": 285,
+  "pro": 5,
+  "carb": 41,
+  "fat": 10,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 390, "pieces": 1 }
+},
+{
+  "name": "Chicken Crispy Garlic Rice",
+  "cal": 320,
+  "pro": 18,
+  "carb": 39,
+  "fat": 12,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 410, "pieces": 1 }
+},
+{
+  "name": "Egg Crispy Garlic Rice",
+  "cal": 300,
+  "pro": 10,
+  "carb": 40,
+  "fat": 11,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 400, "pieces": 1 }
+},
+{
+  "name": "Veg Supreme Noodles",
+  "cal": 340,
+  "pro": 8,
+  "carb": 50,
+  "fat": 12,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 450, "pieces": 1 }
+},
+{
+  "name": "Veg Wok Tossed Schezwan Rice",
+  "cal": 290,
+  "pro": 6,
+  "carb": 42,
+  "fat": 10,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 400, "pieces": 1 }
+},
+{
+  "name": "Chicken Wok Tossed Schezwan Rice",
+  "cal": 330,
+  "pro": 18,
+  "carb": 40,
+  "fat": 12,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 420, "pieces": 1 }
+},
+{
+  "name": "Prawn Wok Tossed Schezwan Rice",
+  "cal": 340,
+  "pro": 21,
+  "carb": 39,
+  "fat": 13,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 420, "pieces": 1 }
+},
+{
+  "name": "Veg Thai Chilli Garlic Rice",
+  "cal": 300,
+  "pro": 6,
+  "carb": 42,
+  "fat": 11,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 400, "pieces": 1 }
+},
+{
+  "name": "Chicken Thai Chilli Garlic Rice",
+  "cal": 335,
+  "pro": 18,
+  "carb": 40,
+  "fat": 12,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 420, "pieces": 1 }
+},
+{
+  "name": "Egg Thai Chilli Garlic Rice",
+  "cal": 310,
+  "pro": 10,
+  "carb": 41,
+  "fat": 11,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 410, "pieces": 1 }
+},
+{
+  "name": "Veg Supreme Fried Rice",
+  "cal": 305,
+  "pro": 7,
+  "carb": 43,
+  "fat": 11,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 400, "pieces": 1 }
+},
+{
+  "name": "Chicken Supreme Fried Rice",
+  "cal": 345,
+  "pro": 18,
+  "carb": 41,
+  "fat": 13,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 420, "pieces": 1 }
+},
+{
+  "name": "Prawn Supreme Fried Rice",
+  "cal": 350,
+  "pro": 22,
+  "carb": 40,
+  "fat": 13,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 420, "pieces": 1 }
+},
+{
+  "name": "Veg Sambal Fried Rice",
+  "cal": 300,
+  "pro": 6,
+  "carb": 42,
+  "fat": 11,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 400, "pieces": 1 }
+},
+{
+  "name": "Chicken Sambal Fried Rice",
+  "cal": 335,
+  "pro": 18,
+  "carb": 40,
+  "fat": 12,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 420, "pieces": 1 }
+},
+{
+  "name": "Veg Basil Noodles (Wok Tossed)",
+  "cal": 325,
+  "pro": 7,
+  "carb": 48,
+  "fat": 11,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 440, "pieces": 1 }
+},
+{
+  "name": "Chicken Basil Noodles (Wok Tossed)",
+  "cal": 360,
+  "pro": 18,
+  "carb": 47,
+  "fat": 13,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 450, "pieces": 1 }
+},
+{
+  "name": "Egg Basil Noodles",
+  "cal": 340,
+  "pro": 12,
+  "carb": 47,
+  "fat": 12,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 440, "pieces": 1 }
+},
+{
+  "name": "Veg Kimchi Fried Rice (Indo Chinese)",
+  "cal": 310,
+  "pro": 6,
+  "carb": 44,
+  "fat": 11,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 400, "pieces": 1 }
+},
+{
+  "name": "Chicken Kimchi Fried Rice",
+  "cal": 345,
+  "pro": 18,
+  "carb": 42,
+  "fat": 13,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 420, "pieces": 1 }
+},
+{
+  "name": "Veg Drunken Noodles (Indian Chinese)",
+  "cal": 340,
+  "pro": 8,
+  "carb": 51,
+  "fat": 12,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 450, "pieces": 1 }
+},
+{
+  "name": "Chicken Drunken Noodles",
+  "cal": 380,
+  "pro": 18,
+  "carb": 49,
+  "fat": 14,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 460, "pieces": 1 }
+},
+{
+  "name": "Prawn Drunken Noodles",
+  "cal": 390,
+  "pro": 20,
+  "carb": 48,
+  "fat": 14,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 450, "pieces": 1 }
+},
+{
+  "name": "Veg Teppanyaki Fried Rice",
+  "cal": 305,
+  "pro": 6,
+  "carb": 43,
+  "fat": 11,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 410, "pieces": 1 }
+},
+{
+  "name": "Chicken Teppanyaki Fried Rice",
+  "cal": 340,
+  "pro": 18,
+  "carb": 41,
+  "fat": 13,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 430, "pieces": 1 }
+},
+{
+  "name": "Veg Garlic Butter Noodles",
+  "cal": 335,
+  "pro": 7,
+  "carb": 49,
+  "fat": 12,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 450, "pieces": 1 }
+},
+{
+  "name": "Chicken Garlic Butter Noodles",
+  "cal": 370,
+  "pro": 18,
+  "carb": 48,
+  "fat": 14,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 460, "pieces": 1 }
+},
+{
+  "name": "Egg Garlic Butter Noodles",
+  "cal": 350,
+  "pro": 12,
+  "carb": 48,
+  "fat": 13,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 450, "pieces": 1 }
 }
 ]
