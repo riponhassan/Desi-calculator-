@@ -7720,5 +7720,455 @@
   "fat": 15,
   "fib": 4,
   "weights": { "gram": 1, "piece": 55 }
+},
+{
+  "name": "Gulab Jamun",
+  "cal": 150,
+  "pro": 2,
+  "carb": 22,
+  "fat": 6,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 40 }
+},
+{
+  "name": "Rasgulla",
+  "cal": 106,
+  "pro": 3,
+  "carb": 19,
+  "fat": 2,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 50 }
+},
+{
+  "name": "Kaju Katli",
+  "cal": 55,
+  "pro": 1.5,
+  "carb": 6,
+  "fat": 3,
+  "fib": 0.2,
+  "weights": { "gram": 1, "piece": 12 }
+},
+{
+  "name": "Besan Ladoo",
+  "cal": 210,
+  "pro": 4,
+  "carb": 22,
+  "fat": 12,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 40 }
+},
+{
+  "name": "Motichoor Ladoo",
+  "cal": 185,
+  "pro": 3,
+  "carb": 24,
+  "fat": 8,
+  "fib": 0.5,
+  "weights": { "gram": 1, "piece": 35 }
+},
+{
+  "name": "Jalebi",
+  "cal": 150,
+  "pro": 1,
+  "carb": 32,
+  "fat": 3,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 25 }
+},
+{
+  "name": "Rabri",
+  "cal": 315,
+  "pro": 8,
+  "carb": 28,
+  "fat": 18,
+  "fib": 0,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Malpua",
+  "cal": 160,
+  "pro": 3,
+  "carb": 24,
+  "fat": 6,
+  "fib": 0.3,
+  "weights": { "gram": 1, "piece": 35 }
+},
+{
+  "name": "Gajar Halwa",
+  "cal": 210,
+  "pro": 4,
+  "carb": 28,
+  "fat": 9,
+  "fib": 2,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Moong Dal Halwa",
+  "cal": 310,
+  "pro": 7,
+  "carb": 28,
+  "fat": 18,
+  "fib": 3,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Sooji Halwa",
+  "cal": 250,
+  "pro": 4,
+  "carb": 36,
+  "fat": 10,
+  "fib": 1,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Sandesh",
+  "cal": 132,
+  "pro": 3,
+  "carb": 17,
+  "fat": 5,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 40 }
+},
+{
+  "name": "Rasmalai",
+  "cal": 248,
+  "pro": 7,
+  "carb": 30,
+  "fat": 12,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 75 }
+},
+{
+  "name": "Peda",
+  "cal": 100,
+  "pro": 3,
+  "carb": 14,
+  "fat": 4,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 25 }
+},
+{
+  "name": "Milk Cake",
+  "cal": 155,
+  "pro": 4,
+  "carb": 18,
+  "fat": 7,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 35 }
+},
+{
+  "name": "Kalakand",
+  "cal": 140,
+  "pro": 4,
+  "carb": 18,
+  "fat": 5,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 35 }
+},
+{
+  "name": "Cham Cham",
+  "cal": 180,
+  "pro": 4,
+  "carb": 30,
+  "fat": 5,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 55 }
+},
+{
+  "name": "Mysore Pak",
+  "cal": 260,
+  "pro": 3,
+  "carb": 28,
+  "fat": 14,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 25 }
+},
+{
+  "name": "Balushahi",
+  "cal": 170,
+  "pro": 2,
+  "carb": 19,
+  "fat": 10,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 40 }
+},
+{
+  "name": "Badam Halwa",
+  "cal": 320,
+  "pro": 6,
+  "carb": 22,
+  "fat": 22,
+  "fib": 2,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Dry Fruit Barfi",
+  "cal": 210,
+  "pro": 5,
+  "carb": 22,
+  "fat": 12,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 30 }
+},
+{
+  "name": "Coconut Barfi",
+  "cal": 155,
+  "pro": 2,
+  "carb": 18,
+  "fat": 8,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 30 }
+},
+{
+  "name": "Chenna Murki",
+  "cal": 105,
+  "pro": 2,
+  "carb": 20,
+  "fat": 2,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 20 }
+},
+{
+  "name": "Boondi",
+  "cal": 385,
+  "pro": 5,
+  "carb": 32,
+  "fat": 25,
+  "fib": 1,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Kesari Bath",
+  "cal": 230,
+  "pro": 4,
+  "carb": 36,
+  "fat": 8,
+  "fib": 1,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Shahi Tukda",
+  "cal": 310,
+  "pro": 6,
+  "carb": 34,
+  "fat": 16,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 80 }
+},
+{
+  "name": "Double Ka Meetha",
+  "cal": 290,
+  "pro": 5,
+  "carb": 32,
+  "fat": 14,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 90 }
+},
+{
+  "name": "Chenna Poda",
+  "cal": 190,
+  "pro": 7,
+  "carb": 22,
+  "fat": 8,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 60 }
+},
+{
+  "name": "Ghevar",
+  "cal": 220,
+  "pro": 4,
+  "carb": 28,
+  "fat": 10,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 50 }
+},
+{
+  "name": "Imarti",
+  "cal": 160,
+  "pro": 2,
+  "carb": 30,
+  "fat": 4,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 30 }
+},
+{
+  "name": "Chum Chum (Cream Filled)",
+  "cal": 210,
+  "pro": 5,
+  "carb": 32,
+  "fat": 7,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 60 }
+},
+{
+  "name": "Brown Peda",
+  "cal": 115,
+  "pro": 3,
+  "carb": 15,
+  "fat": 5,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 25 }
+},
+{
+  "name": "Dharwad Peda",
+  "cal": 150,
+  "pro": 4,
+  "carb": 20,
+  "fat": 6,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 30 }
+},
+{
+  "name": "Kulfi (Malai)",
+  "cal": 220,
+  "pro": 5,
+  "carb": 22,
+  "fat": 12,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 70 }
+},
+{
+  "name": "Kulfi (Kesar Pista)",
+  "cal": 240,
+  "pro": 6,
+  "carb": 24,
+  "fat": 13,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 70 }
+},
+{
+  "name": "Kulfi Falooda",
+  "cal": 310,
+  "pro": 7,
+  "carb": 45,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "serving": 150 }
+},
+{
+  "name": "Mawa Gujiya",
+  "cal": 198,
+  "pro": 4,
+  "carb": 24,
+  "fat": 9,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 45 }
+},
+{
+  "name": "Anjeer Barfi",
+  "cal": 190,
+  "pro": 3,
+  "carb": 24,
+  "fat": 9,
+  "fib": 3,
+  "weights": { "gram": 1, "piece": 25 }
+},
+{
+  "name": "Kesar Barfi",
+  "cal": 165,
+  "pro": 4,
+  "carb": 18,
+  "fat": 8,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 30 }
+},
+{
+  "name": "Makhana Kheer",
+  "cal": 138,
+  "pro": 4,
+  "carb": 18,
+  "fat": 5,
+  "fib": 1,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Basundi",
+  "cal": 250,
+  "pro": 7,
+  "carb": 26,
+  "fat": 12,
+  "fib": 0,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Payasam (South Indian Kheer)",
+  "cal": 180,
+  "pro": 4,
+  "carb": 26,
+  "fat": 6,
+  "fib": 0,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Puran Poli (Sweet Roti)",
+  "cal": 265,
+  "pro": 6,
+  "carb": 42,
+  "fat": 8,
+  "fib": 3,
+  "weights": { "gram": 1, "piece": 90 }
+},
+{
+  "name": "Kajjikaya",
+  "cal": 210,
+  "pro": 3,
+  "carb": 26,
+  "fat": 11,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 40 }
+},
+{
+  "name": "Til Ladoo",
+  "cal": 150,
+  "pro": 4,
+  "carb": 14,
+  "fat": 9,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 25 }
+},
+{
+  "name": "Atta Ladoo",
+  "cal": 160,
+  "pro": 3,
+  "carb": 20,
+  "fat": 6,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 25 }
+},
+{
+  "name": "Mawa Bati",
+  "cal": 230,
+  "pro": 4,
+  "carb": 24,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 40 }
+},
+{
+  "name": "Khoya Jalebi",
+  "cal": 210,
+  "pro": 3,
+  "carb": 32,
+  "fat": 8,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 35 }
+},
+{
+  "name": "Banarasi Laung Lata",
+  "cal": 270,
+  "pro": 5,
+  "carb": 30,
+  "fat": 14,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 60 }
+},
+{
+  "name": "Adhirasam",
+  "cal": 160,
+  "pro": 2,
+  "carb": 26,
+  "fat": 6,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 30 }
 }
 ]
