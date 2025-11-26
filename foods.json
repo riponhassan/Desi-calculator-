@@ -2185,6 +2185,222 @@
     "fat": 9,
     "fib": 0,
     "weights": { "gram": 1, "bowl": 250, "serving": 250 }
+  },
+  {
+    "name": "Plain White Rice (Cooked)",
+    "cal": 130,
+    "pro": 2.7,
+    "carb": 28,
+    "fat": 0.3,
+    "fib": 0.4,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Brown Rice (Cooked)",
+    "cal": 111,
+    "pro": 2.6,
+    "carb": 23,
+    "fat": 0.9,
+    "fib": 1.8,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Jeera Rice",
+    "cal": 150,
+    "pro": 2.8,
+    "carb": 30,
+    "fat": 2,
+    "fib": 0.5,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Ghee Rice",
+    "cal": 185,
+    "pro": 3,
+    "carb": 30,
+    "fat": 6,
+    "fib": 0.5,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Lemon Rice",
+    "cal": 165,
+    "pro": 3,
+    "carb": 29,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Curd Rice",
+    "cal": 140,
+    "pro": 4,
+    "carb": 26,
+    "fat": 3,
+    "fib": 0.5,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Coconut Rice",
+    "cal": 180,
+    "pro": 3,
+    "carb": 28,
+    "fat": 6,
+    "fib": 2,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Tomato Rice",
+    "cal": 160,
+    "pro": 3,
+    "carb": 28,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Tamarind Rice (Puliyogare)",
+    "cal": 200,
+    "pro": 4,
+    "carb": 30,
+    "fat": 7,
+    "fib": 3,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Vegetable Pulao",
+    "cal": 170,
+    "pro": 3.5,
+    "carb": 30,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Peas Pulao",
+    "cal": 165,
+    "pro": 4,
+    "carb": 29,
+    "fat": 3,
+    "fib": 2,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Khichdi (Moong Dal Rice)",
+    "cal": 140,
+    "pro": 5,
+    "carb": 25,
+    "fat": 3,
+    "fib": 2,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Bisi Bele Bath",
+    "cal": 185,
+    "pro": 5,
+    "carb": 32,
+    "fat": 5,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 250 }
+  },
+  {
+    "name": "Pongal (Ven Pongal)",
+    "cal": 190,
+    "pro": 6,
+    "carb": 30,
+    "fat": 5,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 250 }
+  },
+  {
+    "name": "Sambar Rice",
+    "cal": 150,
+    "pro": 4,
+    "carb": 28,
+    "fat": 3,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 250 }
+  },
+  {
+    "name": "Rasam Rice",
+    "cal": 135,
+    "pro": 3,
+    "carb": 26,
+    "fat": 2,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 250 }
+  },
+  {
+    "name": "Curd Rice with Pickle",
+    "cal": 155,
+    "pro": 4,
+    "carb": 27,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 250 }
+  },
+  {
+    "name": "Lemon Rice with Peanuts",
+    "cal": 180,
+    "pro": 4,
+    "carb": 29,
+    "fat": 6,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 250 }
+  },
+  {
+    "name": "Coconut Rice with Chutney",
+    "cal": 195,
+    "pro": 3.5,
+    "carb": 30,
+    "fat": 7,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 250 }
+  },
+  {
+    "name": "Vegetable Biryani",
+    "cal": 210,
+    "pro": 4,
+    "carb": 32,
+    "fat": 7,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 300 }
+  },
+  {
+    "name": "Paneer Biryani",
+    "cal": 230,
+    "pro": 7,
+    "carb": 33,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 300 }
+  },
+  {
+    "name": "Schezwan Fried Rice",
+    "cal": 220,
+    "pro": 4,
+    "carb": 34,
+    "fat": 7,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 300 }
+  },
+  {
+    "name": "Veg Fried Rice",
+    "cal": 200,
+    "pro": 4,
+    "carb": 32,
+    "fat": 6,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 300 }
+  },
+  {
+    "name": "Mushroom Fried Rice",
+    "cal": 205,
+    "pro": 4.5,
+    "carb": 31,
+    "fat": 6.5,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 300 }
   }
 ]
 
