@@ -4642,6 +4642,446 @@
     "fat": 0.2,
     "fib": 1.5,
     "weights": { "gram": 1, "cup": 80 }
+  },
+  {
+    "name": "Pav Bhaji",
+    "cal": 280,
+    "pro": 7,
+    "carb": 38,
+    "fat": 10,
+    "fib": 4,
+    "weights": { "gram": 1, "plate": 250 }
+  },
+  {
+    "name": "Misal Pav",
+    "cal": 300,
+    "pro": 10,
+    "carb": 38,
+    "fat": 12,
+    "fib": 6,
+    "weights": { "gram": 1, "plate": 250 }
+  },
+  {
+    "name": "Ragda Pattice",
+    "cal": 220,
+    "pro": 7,
+    "carb": 30,
+    "fat": 8,
+    "fib": 4,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Aloo Tikki",
+    "cal": 120,
+    "pro": 2,
+    "carb": 15,
+    "fat": 5,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 50 }
+  },
+  {
+    "name": "Aloo Tikki Chaat",
+    "cal": 220,
+    "pro": 5,
+    "carb": 30,
+    "fat": 8,
+    "fib": 4,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Dahi Bhalla",
+    "cal": 160,
+    "pro": 6,
+    "carb": 22,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 50 }
+  },
+  {
+    "name": "Dahi Bhalla Chaat",
+    "cal": 240,
+    "pro": 8,
+    "carb": 32,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Samosa Chaat",
+    "cal": 260,
+    "pro": 6,
+    "carb": 34,
+    "fat": 10,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Kachori Chaat",
+    "cal": 270,
+    "pro": 6,
+    "carb": 36,
+    "fat": 12,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Pani Puri (6 pcs)",
+    "cal": 210,
+    "pro": 3,
+    "carb": 30,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Dahi Puri",
+    "cal": 200,
+    "pro": 5,
+    "carb": 26,
+    "fat": 7,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Sev Puri",
+    "cal": 220,
+    "pro": 4,
+    "carb": 30,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Papdi Chaat",
+    "cal": 210,
+    "pro": 5,
+    "carb": 30,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Bhel Puri",
+    "cal": 180,
+    "pro": 4,
+    "carb": 28,
+    "fat": 6,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Jhal Muri",
+    "cal": 160,
+    "pro": 4,
+    "carb": 26,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 120 }
+  },
+  {
+    "name": "Bombay Sandwich",
+    "cal": 260,
+    "pro": 7,
+    "carb": 36,
+    "fat": 8,
+    "fib": 3,
+    "weights": { "gram": 1, "plate": 180 }
+  },
+  {
+    "name": "Veg Frankie",
+    "cal": 300,
+    "pro": 8,
+    "carb": 40,
+    "fat": 12,
+    "fib": 4,
+    "weights": { "gram": 1, "piece": 180 }
+  },
+  {
+    "name": "Paneer Frankie",
+    "cal": 330,
+    "pro": 12,
+    "carb": 36,
+    "fat": 14,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 180 }
+  },
+  {
+    "name": "Egg Roll",
+    "cal": 320,
+    "pro": 13,
+    "carb": 34,
+    "fat": 14,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 180 }
+  },
+  {
+    "name": "Chicken Roll",
+    "cal": 350,
+    "pro": 18,
+    "carb": 32,
+    "fat": 14,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 200 }
+  },
+  {
+    "name": "Veg Momos",
+    "cal": 40,
+    "pro": 1,
+    "carb": 6,
+    "fat": 1.5,
+    "fib": 0.5,
+    "weights": { "gram": 1, "piece": 35 }
+  },
+  {
+    "name": "Chicken Momos",
+    "cal": 50,
+    "pro": 3,
+    "carb": 6,
+    "fat": 2,
+    "fib": 0.5,
+    "weights": { "gram": 1, "piece": 35 }
+  },
+  {
+    "name": "Fried Momos",
+    "cal": 80,
+    "pro": 2,
+    "carb": 6,
+    "fat": 5,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 35 }
+  },
+  {
+    "name": "Veg Spring Roll",
+    "cal": 100,
+    "pro": 3,
+    "carb": 12,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Chilli Potato",
+    "cal": 260,
+    "pro": 3,
+    "carb": 36,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "plate": 200 }
+  },
+  {
+    "name": "Gobi Manchurian (Dry)",
+    "cal": 180,
+    "pro": 4,
+    "carb": 20,
+    "fat": 8,
+    "fib": 3,
+    "weights": { "gram": 1, "plate": 180 }
+  },
+  {
+    "name": "Gobi Manchurian (Gravy)",
+    "cal": 200,
+    "pro": 4,
+    "carb": 22,
+    "fat": 9,
+    "fib": 3,
+    "weights": { "gram": 1, "plate": 200 }
+  },
+  {
+    "name": "Veg Manchurian (Dry)",
+    "cal": 190,
+    "pro": 5,
+    "carb": 20,
+    "fat": 8,
+    "fib": 3,
+    "weights": { "gram": 1, "plate": 180 }
+  },
+  {
+    "name": "Veg Manchurian (Gravy)",
+    "cal": 210,
+    "pro": 5,
+    "carb": 24,
+    "fat": 9,
+    "fib": 3,
+    "weights": { "gram": 1, "plate": 200 }
+  },
+  {
+    "name": "Chilli Paneer (Dry)",
+    "cal": 240,
+    "pro": 10,
+    "carb": 14,
+    "fat": 14,
+    "fib": 2,
+    "weights": { "gram": 1, "plate": 180 }
+  },
+  {
+    "name": "Chilli Paneer (Gravy)",
+    "cal": 260,
+    "pro": 12,
+    "carb": 18,
+    "fat": 14,
+    "fib": 2,
+    "weights": { "gram": 1, "plate": 220 }
+  },
+  {
+    "name": "Veg Hakka Noodles",
+    "cal": 280,
+    "pro": 6,
+    "carb": 44,
+    "fat": 8,
+    "fib": 3,
+    "weights": { "gram": 1, "plate": 250 }
+  },
+  {
+    "name": "Schezwan Noodles",
+    "cal": 300,
+    "pro": 6,
+    "carb": 46,
+    "fat": 10,
+    "fib": 3,
+    "weights": { "gram": 1, "plate": 250 }
+  },
+  {
+    "name": "Veg Fried Rice",
+    "cal": 250,
+    "pro": 5,
+    "carb": 40,
+    "fat": 6,
+    "fib": 2,
+    "weights": { "gram": 1, "plate": 250 }
+  },
+  {
+    "name": "Schezwan Fried Rice",
+    "cal": 280,
+    "pro": 6,
+    "carb": 42,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "plate": 250 }
+  },
+  {
+    "name": "Tawa Pulao",
+    "cal": 260,
+    "pro": 4,
+    "carb": 42,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "plate": 250 }
+  },
+  {
+    "name": "Tawa Idli",
+    "cal": 200,
+    "pro": 5,
+    "carb": 26,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "plate": 200 }
+  },
+  {
+    "name": "Egg Bhurji Pav",
+    "cal": 320,
+    "pro": 16,
+    "carb": 28,
+    "fat": 16,
+    "fib": 2,
+    "weights": { "gram": 1, "plate": 220 }
+  },
+  {
+    "name": "Bread Omelette",
+    "cal": 280,
+    "pro": 14,
+    "carb": 24,
+    "fat": 14,
+    "fib": 2,
+    "weights": { "gram": 1, "plate": 180 }
+  },
+  {
+    "name": "Masala Omelette",
+    "cal": 200,
+    "pro": 12,
+    "carb": 4,
+    "fat": 14,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 120 }
+  },
+  {
+    "name": "Paneer Tikka Roll",
+    "cal": 350,
+    "pro": 16,
+    "carb": 40,
+    "fat": 14,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 200 }
+  },
+  {
+    "name": "Chicken Shawarma Roll",
+    "cal": 400,
+    "pro": 22,
+    "carb": 36,
+    "fat": 18,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 220 }
+  },
+  {
+    "name": "Paneer Shawarma Roll",
+    "cal": 370,
+    "pro": 14,
+    "carb": 38,
+    "fat": 14,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 220 }
+  },
+  {
+    "name": "Veg Burger (Indian street style)",
+    "cal": 300,
+    "pro": 7,
+    "carb": 38,
+    "fat": 12,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 180 }
+  },
+  {
+    "name": "Cheese Veg Burger",
+    "cal": 350,
+    "pro": 10,
+    "carb": 38,
+    "fat": 16,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 200 }
+  },
+  {
+    "name": "Veg Chowmein",
+    "cal": 270,
+    "pro": 6,
+    "carb": 44,
+    "fat": 6,
+    "fib": 2,
+    "weights": { "gram": 1, "plate": 250 }
+  },
+  {
+    "name": "Paneer Chilli Dry",
+    "cal": 230,
+    "pro": 10,
+    "carb": 14,
+    "fat": 12,
+    "fib": 2,
+    "weights": { "gram": 1, "plate": 200 }
+  },
+  {
+    "name": "Litti Chokha",
+    "cal": 320,
+    "pro": 8,
+    "carb": 48,
+    "fat": 10,
+    "fib": 5,
+    "weights": { "gram": 1, "plate": 200 }
+  },
+  {
+    "name": "Idli Manchurian",
+    "cal": 240,
+    "pro": 6,
+    "carb": 34,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "plate": 200 }
   }
 ]
- 
