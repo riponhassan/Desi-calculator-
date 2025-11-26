@@ -2842,6 +2842,456 @@
     "fat": 4,
     "fib": 3,
     "weights": { "gram": 1, "piece": 70 }
+  },
+  {
+    "name": "Paneer Butter Masala",
+    "cal": 260,
+    "pro": 10,
+    "carb": 12,
+    "fat": 20,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Paneer Tikka Masala",
+    "cal": 250,
+    "pro": 12,
+    "carb": 10,
+    "fat": 18,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Paneer Lababdar",
+    "cal": 270,
+    "pro": 11,
+    "carb": 12,
+    "fat": 20,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Kadai Paneer",
+    "cal": 240,
+    "pro": 11,
+    "carb": 10,
+    "fat": 17,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Palak Paneer",
+    "cal": 180,
+    "pro": 9,
+    "carb": 6,
+    "fat": 14,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Shahi Paneer",
+    "cal": 280,
+    "pro": 10,
+    "carb": 12,
+    "fat": 22,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Matar Paneer",
+    "cal": 210,
+    "pro": 10,
+    "carb": 14,
+    "fat": 12,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Paneer Bhurji",
+    "cal": 220,
+    "pro": 14,
+    "carb": 10,
+    "fat": 14,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Paneer Tikka",
+    "cal": 180,
+    "pro": 14,
+    "carb": 6,
+    "fat": 10,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 40, "serving": 120 }
+  },
+  {
+    "name": "Achari Paneer Tikka",
+    "cal": 190,
+    "pro": 14,
+    "carb": 6,
+    "fat": 11,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 40, "serving": 120 }
+  },
+  {
+    "name": "Chilli Paneer (Dry)",
+    "cal": 210,
+    "pro": 10,
+    "carb": 18,
+    "fat": 12,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Chilli Paneer (Gravy)",
+    "cal": 190,
+    "pro": 8,
+    "carb": 18,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Paneer 65",
+    "cal": 240,
+    "pro": 12,
+    "carb": 16,
+    "fat": 14,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Aloo Gobi",
+    "cal": 140,
+    "pro": 3,
+    "carb": 18,
+    "fat": 6,
+    "fib": 4,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Aloo Jeera",
+    "cal": 150,
+    "pro": 3,
+    "carb": 20,
+    "fat": 6,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Bhindi Masala",
+    "cal": 125,
+    "pro": 3,
+    "carb": 12,
+    "fat": 7,
+    "fib": 4,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Baingan Bharta",
+    "cal": 140,
+    "pro": 3,
+    "carb": 12,
+    "fat": 9,
+    "fib": 4,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Gobi Masala",
+    "cal": 145,
+    "pro": 3,
+    "carb": 16,
+    "fat": 7,
+    "fib": 4,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Mix Veg Curry",
+    "cal": 160,
+    "pro": 4,
+    "carb": 16,
+    "fat": 8,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Veg Kadai",
+    "cal": 170,
+    "pro": 4,
+    "carb": 16,
+    "fat": 9,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Veg Kolhapuri",
+    "cal": 180,
+    "pro": 4,
+    "carb": 16,
+    "fat": 10,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Chole Masala",
+    "cal": 190,
+    "pro": 8,
+    "carb": 26,
+    "fat": 6,
+    "fib": 6,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Rajma Masala",
+    "cal": 195,
+    "pro": 8,
+    "carb": 28,
+    "fat": 5,
+    "fib": 7,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Lauki Ki Sabzi",
+    "cal": 90,
+    "pro": 2,
+    "carb": 10,
+    "fat": 4,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Tinda Masala",
+    "cal": 110,
+    "pro": 3,
+    "carb": 12,
+    "fat": 6,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Malai Kofta",
+    "cal": 280,
+    "pro": 8,
+    "carb": 20,
+    "fat": 18,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Navratan Korma",
+    "cal": 260,
+    "pro": 6,
+    "carb": 20,
+    "fat": 18,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Veg Handi",
+    "cal": 200,
+    "pro": 5,
+    "carb": 16,
+    "fat": 12,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Corn Curry",
+    "cal": 190,
+    "pro": 4,
+    "carb": 22,
+    "fat": 10,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Methi Malai Matar",
+    "cal": 230,
+    "pro": 6,
+    "carb": 14,
+    "fat": 16,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Aloo Matar",
+    "cal": 170,
+    "pro": 4,
+    "carb": 22,
+    "fat": 7,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Aloo Palak",
+    "cal": 150,
+    "pro": 4,
+    "carb": 18,
+    "fat": 6,
+    "fib": 4,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Aloo Capsicum",
+    "cal": 155,
+    "pro": 3,
+    "carb": 18,
+    "fat": 7,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Gobi Fry",
+    "cal": 145,
+    "pro": 3,
+    "carb": 16,
+    "fat": 7,
+    "fib": 4,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Beans Poriyal",
+    "cal": 120,
+    "pro": 3,
+    "carb": 10,
+    "fat": 6,
+    "fib": 4,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Cabbage Sabzi",
+    "cal": 110,
+    "pro": 3,
+    "carb": 12,
+    "fat": 5,
+    "fib": 4,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Aloo Cabbage",
+    "cal": 140,
+    "pro": 3,
+    "carb": 18,
+    "fat": 6,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Tori Sabzi (Ridge Gourd)",
+    "cal": 90,
+    "pro": 2,
+    "carb": 8,
+    "fat": 4,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Karela Fry",
+    "cal": 160,
+    "pro": 3,
+    "carb": 12,
+    "fat": 10,
+    "fib": 5,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Karela Masala",
+    "cal": 150,
+    "pro": 3,
+    "carb": 12,
+    "fat": 9,
+    "fib": 5,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Kathal Curry (Jackfruit)",
+    "cal": 190,
+    "pro": 4,
+    "carb": 20,
+    "fat": 10,
+    "fib": 5,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Gujarati Undhiyu",
+    "cal": 210,
+    "pro": 5,
+    "carb": 24,
+    "fat": 10,
+    "fib": 5,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Gujarati Sev Tamatar",
+    "cal": 160,
+    "pro": 3,
+    "carb": 18,
+    "fat": 8,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Bhindi Fry",
+    "cal": 150,
+    "pro": 3,
+    "carb": 12,
+    "fat": 9,
+    "fib": 4,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Tawa Sabzi",
+    "cal": 170,
+    "pro": 3,
+    "carb": 18,
+    "fat": 9,
+    "fib": 4,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Veg Jalfrezi",
+    "cal": 180,
+    "pro": 4,
+    "carb": 18,
+    "fat": 10,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Corn Palak",
+    "cal": 160,
+    "pro": 4,
+    "carb": 14,
+    "fat": 9,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Dum Aloo (Kashmiri)",
+    "cal": 200,
+    "pro": 4,
+    "carb": 22,
+    "fat": 12,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Veg Kurma (South Indian)",
+    "cal": 190,
+    "pro": 4,
+    "carb": 16,
+    "fat": 10,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Paneer Crispy",
+    "cal": 260,
+    "pro": 12,
+    "carb": 20,
+    "fat": 14,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 150 }
   }
 ]
 
