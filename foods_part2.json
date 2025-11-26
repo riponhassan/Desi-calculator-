@@ -898,5 +898,446 @@
     "fat": 6,
     "fib": 1,
     "weights": { "gram": 1, "piece": 28, "serving": 28 }
+  },
+  {
+    "name": "Gulab Jamun (1 piece)",
+    "cal": 150,
+    "pro": 2,
+    "carb": 22,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 35, "serving": 35 }
+  },
+  {
+    "name": "Kala Jamun (1 piece)",
+    "cal": 165,
+    "pro": 3,
+    "carb": 23,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 40, "serving": 40 }
+  },
+  {
+    "name": "Rasgulla (1 piece)",
+    "cal": 120,
+    "pro": 3,
+    "carb": 20,
+    "fat": 2,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 40, "serving": 40 }
+  },
+  {
+    "name": "Rajbhog (1 piece)",
+    "cal": 185,
+    "pro": 4,
+    "carb": 28,
+    "fat": 5,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 55, "serving": 55 }
+  },
+  {
+    "name": "Rasmalai (1 piece)",
+    "cal": 210,
+    "pro": 5,
+    "carb": 26,
+    "fat": 10,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 70, "serving": 70 }
+  },
+  {
+    "name": "Malai Sandwich",
+    "cal": 185,
+    "pro": 5,
+    "carb": 26,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 60, "serving": 60 }
+  },
+  {
+    "name": "Kaju Katli (1 piece)",
+    "cal": 55,
+    "pro": 1.5,
+    "carb": 6,
+    "fat": 3,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 12, "serving": 12 }
+  },
+  {
+    "name": "Kaju Roll (1 piece)",
+    "cal": 80,
+    "pro": 2,
+    "carb": 10,
+    "fat": 4,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 20, "serving": 20 }
+  },
+  {
+    "name": "Badam Barfi (1 piece)",
+    "cal": 95,
+    "pro": 2,
+    "carb": 10,
+    "fat": 5,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 25, "serving": 25 }
+  },
+  {
+    "name": "Besan Barfi (1 piece)",
+    "cal": 115,
+    "pro": 2,
+    "carb": 12,
+    "fat": 6,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 30, "serving": 30 }
+  },
+  {
+    "name": "Milk Cake (1 piece)",
+    "cal": 135,
+    "pro": 3,
+    "carb": 18,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 35, "serving": 35 }
+  },
+  {
+    "name": "Kalakand",
+    "cal": 155,
+    "pro": 4,
+    "carb": 20,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 40, "serving": 40 }
+  },
+  {
+    "name": "Motichoor Ladoo (1 piece)",
+    "cal": 185,
+    "pro": 3,
+    "carb": 23,
+    "fat": 9,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 35, "serving": 35 }
+  },
+  {
+    "name": "Boondi Ladoo (1 piece)",
+    "cal": 170,
+    "pro": 3,
+    "carb": 21,
+    "fat": 8,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 35, "serving": 35 }
+  },
+  {
+    "name": "Besan Ladoo (1 piece)",
+    "cal": 160,
+    "pro": 3,
+    "carb": 17,
+    "fat": 9,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 30, "serving": 30 }
+  },
+  {
+    "name": "Coconut Ladoo (1 piece)",
+    "cal": 135,
+    "pro": 2,
+    "carb": 12,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 28, "serving": 28 }
+  },
+  {
+    "name": "Dry Fruit Ladoo (1 piece)",
+    "cal": 155,
+    "pro": 3,
+    "carb": 14,
+    "fat": 9,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 28, "serving": 28 }
+  },
+  {
+    "name": "Gajar Ka Halwa",
+    "cal": 265,
+    "pro": 4,
+    "carb": 34,
+    "fat": 12,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 180, "cup": 150 }
+  },
+  {
+    "name": "Moong Dal Halwa",
+    "cal": 340,
+    "pro": 7,
+    "carb": 38,
+    "fat": 18,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 180, "serving": 180 }
+  },
+  {
+    "name": "Sooji Halwa (Sheera)",
+    "cal": 250,
+    "pro": 4,
+    "carb": 35,
+    "fat": 10,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 170, "cup": 150 }
+  },
+  {
+    "name": "Jalebi (1 piece)",
+    "cal": 110,
+    "pro": 1,
+    "carb": 20,
+    "fat": 3,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 20, "serving": 20 }
+  },
+  {
+    "name": "Imarti (1 piece)",
+    "cal": 125,
+    "pro": 2,
+    "carb": 22,
+    "fat": 3,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 22, "serving": 22 }
+  },
+  {
+    "name": "Balushahi (1 piece)",
+    "cal": 210,
+    "pro": 3,
+    "carb": 22,
+    "fat": 12,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 35, "serving": 35 }
+  },
+  {
+    "name": "Malpua (1 piece)",
+    "cal": 190,
+    "pro": 3,
+    "carb": 24,
+    "fat": 9,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 45, "serving": 45 }
+  },
+  {
+    "name": "Rabri",
+    "cal": 310,
+    "pro": 9,
+    "carb": 28,
+    "fat": 18,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 160, "serving": 160 }
+  },
+  {
+    "name": "Kheer",
+    "cal": 245,
+    "pro": 6,
+    "carb": 32,
+    "fat": 10,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 200, "cup": 180 }
+  },
+  {
+    "name": "Rice Kheer",
+    "cal": 255,
+    "pro": 6,
+    "carb": 35,
+    "fat": 10,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 200, "cup": 180 }
+  },
+  {
+    "name": "Seviyan Kheer",
+    "cal": 260,
+    "pro": 6,
+    "carb": 38,
+    "fat": 10,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 200, "cup": 180 }
+  },
+  {
+    "name": "Phirni",
+    "cal": 230,
+    "pro": 6,
+    "carb": 30,
+    "fat": 9,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 160, "cup": 150 }
+  },
+  {
+    "name": "Basundi",
+    "cal": 310,
+    "pro": 8,
+    "carb": 32,
+    "fat": 18,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 150, "serving": 150 }
+  },
+  {
+    "name": "Shrikhand",
+    "cal": 240,
+    "pro": 5,
+    "carb": 34,
+    "fat": 9,
+    "fib": 0,
+    "weights": { "gram": 1, "cup": 150, "bowl": 180 }
+  },
+  {
+    "name": "Amrakhand",
+    "cal": 255,
+    "pro": 5,
+    "carb": 38,
+    "fat": 9,
+    "fib": 1,
+    "weights": { "gram": 1, "cup": 150, "bowl": 180 }
+  },
+  {
+    "name": "Sandesh (1 piece)",
+    "cal": 80,
+    "pro": 3,
+    "carb": 10,
+    "fat": 3,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 25, "serving": 25 }
+  },
+  {
+    "name": "Kesar Sandesh (1 piece)",
+    "cal": 95,
+    "pro": 3,
+    "carb": 12,
+    "fat": 4,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 28, "serving": 28 }
+  },
+  {
+    "name": "Cham Cham (1 piece)",
+    "cal": 160,
+    "pro": 4,
+    "carb": 23,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 45, "serving": 45 }
+  },
+  {
+    "name": "Malai Chomchom (1 piece)",
+    "cal": 185,
+    "pro": 5,
+    "carb": 26,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 50, "serving": 50 }
+  },
+  {
+    "name": "Kheer Kadam (1 piece)",
+    "cal": 190,
+    "pro": 4,
+    "carb": 28,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 45, "serving": 45 }
+  },
+  {
+    "name": "Peda (1 piece)",
+    "cal": 90,
+    "pro": 2,
+    "carb": 12,
+    "fat": 4,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 25, "serving": 25 }
+  },
+  {
+    "name": "Doodh Peda (1 piece)",
+    "cal": 100,
+    "pro": 3,
+    "carb": 13,
+    "fat": 4,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 25, "serving": 25 }
+  },
+  {
+    "name": "Mathura Peda (1 piece)",
+    "cal": 115,
+    "pro": 3,
+    "carb": 14,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 28, "serving": 28 }
+  },
+  {
+    "name": "Ghevar (1 piece)",
+    "cal": 350,
+    "pro": 6,
+    "carb": 48,
+    "fat": 14,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 80, "serving": 80 }
+  },
+  {
+    "name": "Malai Ghevar (1 piece)",
+    "cal": 420,
+    "pro": 7,
+    "carb": 50,
+    "fat": 18,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 90, "serving": 90 }
+  },
+  {
+    "name": "Karachi Halwa",
+    "cal": 290,
+    "pro": 2,
+    "carb": 54,
+    "fat": 8,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 50, "serving": 50 }
+  },
+  {
+    "name": "Bombay Ice Halwa (1 sheet)",
+    "cal": 65,
+    "pro": 1,
+    "carb": 10,
+    "fat": 2,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 12, "serving": 12 }
+  },
+  {
+    "name": "Sohan Halwa (1 piece)",
+    "cal": 150,
+    "pro": 2,
+    "carb": 20,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 25, "serving": 25 }
+  },
+  {
+    "name": "Til Ke Ladoo (1 piece)",
+    "cal": 135,
+    "pro": 3,
+    "carb": 13,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 22, "serving": 22 }
+  },
+  {
+    "name": "Til Chikki (1 piece)",
+    "cal": 95,
+    "pro": 2,
+    "carb": 10,
+    "fat": 5,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 18, "serving": 18 }
+  },
+  {
+    "name": "Peanut Chikki (1 piece)",
+    "cal": 100,
+    "pro": 3,
+    "carb": 12,
+    "fat": 5,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 18, "serving": 18 }
+  },
+  {
+    "name": "Dry Fruit Chikki (1 piece)",
+    "cal": 125,
+    "pro": 3,
+    "carb": 11,
+    "fat": 7,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 20, "serving": 20 }
   }
 ]
