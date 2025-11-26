@@ -2626,6 +2626,222 @@
     "fat": 3,
     "fib": 4,
     "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Makki Roti",
+    "cal": 180,
+    "pro": 4,
+    "carb": 30,
+    "fat": 3,
+    "fib": 4,
+    "weights": { "gram": 1, "piece": 50 }
+  },
+  {
+    "name": "Jowar Roti",
+    "cal": 170,
+    "pro": 4,
+    "carb": 28,
+    "fat": 2,
+    "fib": 4,
+    "weights": { "gram": 1, "piece": 50 }
+  },
+  {
+    "name": "Ragi Roti",
+    "cal": 160,
+    "pro": 3,
+    "carb": 25,
+    "fat": 3,
+    "fib": 4,
+    "weights": { "gram": 1, "piece": 50 }
+  },
+  {
+    "name": "Rumali Roti",
+    "cal": 150,
+    "pro": 3,
+    "carb": 30,
+    "fat": 2,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 60 }
+  },
+  {
+    "name": "Multi-Grain Roti",
+    "cal": 140,
+    "pro": 4,
+    "carb": 22,
+    "fat": 4,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Sattu Paratha",
+    "cal": 330,
+    "pro": 10,
+    "carb": 42,
+    "fat": 12,
+    "fib": 5,
+    "weights": { "gram": 1, "piece": 120 }
+  },
+  {
+    "name": "Cheese Paratha",
+    "cal": 350,
+    "pro": 12,
+    "carb": 35,
+    "fat": 15,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 120 }
+  },
+  {
+    "name": "Mixed Veg Paratha",
+    "cal": 310,
+    "pro": 7,
+    "carb": 40,
+    "fat": 12,
+    "fib": 5,
+    "weights": { "gram": 1, "piece": 120 }
+  },
+  {
+    "name": "Corn Paratha",
+    "cal": 300,
+    "pro": 5,
+    "carb": 42,
+    "fat": 10,
+    "fib": 4,
+    "weights": { "gram": 1, "piece": 120 }
+  },
+  {
+    "name": "Beetroot Paratha",
+    "cal": 290,
+    "pro": 5,
+    "carb": 38,
+    "fat": 10,
+    "fib": 4,
+    "weights": { "gram": 1, "piece": 120 }
+  },
+  {
+    "name": "Methi Paratha",
+    "cal": 280,
+    "pro": 5,
+    "carb": 36,
+    "fat": 10,
+    "fib": 4,
+    "weights": { "gram": 1, "piece": 120 }
+  },
+  {
+    "name": "Ajwain Paratha",
+    "cal": 275,
+    "pro": 5,
+    "carb": 36,
+    "fat": 10,
+    "fib": 4,
+    "weights": { "gram": 1, "piece": 120 }
+  },
+  {
+    "name": "Stuffed Kulcha (Paneer)",
+    "cal": 340,
+    "pro": 12,
+    "carb": 42,
+    "fat": 12,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 140 }
+  },
+  {
+    "name": "Stuffed Kulcha (Potato)",
+    "cal": 330,
+    "pro": 8,
+    "carb": 45,
+    "fat": 10,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 140 }
+  },
+  {
+    "name": "Masala Kulcha",
+    "cal": 320,
+    "pro": 7,
+    "carb": 44,
+    "fat": 10,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 130 }
+  },
+  {
+    "name": "Tandoori Laccha Paratha",
+    "cal": 330,
+    "pro": 5,
+    "carb": 34,
+    "fat": 15,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 120 }
+  },
+  {
+    "name": "Khamiri Roti",
+    "cal": 160,
+    "pro": 4,
+    "carb": 30,
+    "fat": 2,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 50 }
+  },
+  {
+    "name": "Tandoori Butter Roti",
+    "cal": 180,
+    "pro": 3.5,
+    "carb": 20,
+    "fat": 7,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 50 }
+  },
+  {
+    "name": "Jolada Roti (Jowar Karnataka)",
+    "cal": 165,
+    "pro": 4,
+    "carb": 30,
+    "fat": 2,
+    "fib": 4,
+    "weights": { "gram": 1, "piece": 50 }
+  },
+  {
+    "name": "Akki Roti",
+    "cal": 160,
+    "pro": 3,
+    "carb": 28,
+    "fat": 3,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 60 }
+  },
+  {
+    "name": "Thalipeeth",
+    "cal": 200,
+    "pro": 6,
+    "carb": 25,
+    "fat": 8,
+    "fib": 4,
+    "weights": { "gram": 1, "piece": 70 }
+  },
+  {
+    "name": "Besan Chilla",
+    "cal": 130,
+    "pro": 6,
+    "carb": 15,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 70 }
+  },
+  {
+    "name": "Mooli Thepla",
+    "cal": 165,
+    "pro": 3,
+    "carb": 22,
+    "fat": 6,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 50 }
+  },
+  {
+    "name": "Sprouted Moong Chilla",
+    "cal": 150,
+    "pro": 8,
+    "carb": 16,
+    "fat": 4,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 70 }
   }
 ]
 
