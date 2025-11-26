@@ -1,11 +1,452 @@
 [
   {
-    "name": "Test Item Part 2",
-    "cal": 0,
-    "pro": 0,
-    "carb": 0,
-    "fat": 0,
+    "name": "Misal Pav",
+    "cal": 380,
+    "pro": 12,
+    "carb": 48,
+    "fat": 14,
+    "fib": 6,
+    "weights": { "gram": 1, "plate": 350, "serving": 350 }
+  },
+  {
+    "name": "Kolhapuri Misal",
+    "cal": 420,
+    "pro": 14,
+    "carb": 50,
+    "fat": 16,
+    "fib": 7,
+    "weights": { "gram": 1, "bowl": 300, "serving": 300 }
+  },
+  {
+    "name": "Pav (1 piece)",
+    "cal": 90,
+    "pro": 3,
+    "carb": 17,
+    "fat": 1.5,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 35, "serving": 35 }
+  },
+  {
+    "name": "Vada Pav",
+    "cal": 290,
+    "pro": 6,
+    "carb": 36,
+    "fat": 12,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 150, "serving": 150 }
+  },
+  {
+    "name": "Sabudana Khichdi",
+    "cal": 330,
+    "pro": 5,
+    "carb": 52,
+    "fat": 12,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 250, "cup": 180 }
+  },
+  {
+    "name": "Sabudana Vada (1 piece)",
+    "cal": 140,
+    "pro": 2,
+    "carb": 18,
+    "fat": 7,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 40, "serving": 40 }
+  },
+  {
+    "name": "Pithla",
+    "cal": 180,
+    "pro": 8,
+    "carb": 18,
+    "fat": 7,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 220, "cup": 170 }
+  },
+  {
+    "name": "Bhakri (Jowar)",
+    "cal": 150,
+    "pro": 4,
+    "carb": 28,
+    "fat": 1,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 70, "serving": 70 }
+  },
+  {
+    "name": "Bhakri (Bajra)",
+    "cal": 160,
+    "pro": 5,
+    "carb": 29,
+    "fat": 2,
+    "fib": 4,
+    "weights": { "gram": 1, "piece": 70, "serving": 70 }
+  },
+  {
+    "name": "Zunka",
+    "cal": 190,
+    "pro": 9,
+    "carb": 16,
+    "fat": 8,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 180, "serving": 180 }
+  },
+  {
+    "name": "Poha",
+    "cal": 230,
+    "pro": 5,
+    "carb": 38,
+    "fat": 6,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 200, "cup": 150 }
+  },
+  {
+    "name": "Kanda Poha",
+    "cal": 250,
+    "pro": 5,
+    "carb": 40,
+    "fat": 7,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 220, "cup": 160 }
+  },
+  {
+    "name": "Batata Poha",
+    "cal": 260,
+    "pro": 4,
+    "carb": 41,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 220, "cup": 160 }
+  },
+  {
+    "name": "Thalipeeth",
+    "cal": 210,
+    "pro": 6,
+    "carb": 28,
+    "fat": 7,
+    "fib": 4,
+    "weights": { "gram": 1, "piece": 80, "serving": 80 }
+  },
+  {
+    "name": "Modak (Steamed)",
+    "cal": 115,
+    "pro": 2,
+    "carb": 20,
+    "fat": 3,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 40, "serving": 40 }
+  },
+  {
+    "name": "Ukadiche Modak",
+    "cal": 125,
+    "pro": 2,
+    "carb": 22,
+    "fat": 3,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 45, "serving": 45 }
+  },
+  {
+    "name": "Puran Poli",
+    "cal": 320,
+    "pro": 8,
+    "carb": 55,
+    "fat": 8,
+    "fib": 4,
+    "weights": { "gram": 1, "piece": 90, "serving": 90 }
+  },
+  {
+    "name": "Alu Vadi (Patra) 1 piece",
+    "cal": 55,
+    "pro": 1.5,
+    "carb": 7,
+    "fat": 2,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 25, "serving": 25 }
+  },
+  {
+    "name": "Kothimbir Vadi (1 piece)",
+    "cal": 70,
+    "pro": 3,
+    "carb": 7,
+    "fat": 3,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 30, "serving": 30 }
+  },
+  {
+    "name": "Sol Kadhi",
+    "cal": 95,
+    "pro": 2,
+    "carb": 6,
+    "fat": 7,
+    "fib": 1,
+    "weights": { "gram": 1, "glass": 200, "serving": 200 }
+  },
+  {
+    "name": "Matki Usal",
+    "cal": 160,
+    "pro": 7,
+    "carb": 22,
+    "fat": 4,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 200, "cup": 150 }
+  },
+  {
+    "name": "Kala Chana Usal",
+    "cal": 180,
+    "pro": 9,
+    "carb": 26,
+    "fat": 3,
+    "fib": 5,
+    "weights": { "gram": 1, "bowl": 220, "cup": 160 }
+  },
+  {
+    "name": "Tambda Rassa",
+    "cal": 260,
+    "pro": 20,
+    "carb": 3,
+    "fat": 18,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 250, "serving": 250 }
+  },
+  {
+    "name": "Pandhra Rassa",
+    "cal": 240,
+    "pro": 18,
+    "carb": 3,
+    "fat": 16,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 250, "serving": 250 }
+  },
+  {
+    "name": "Chicken Kolhapuri",
+    "cal": 310,
+    "pro": 28,
+    "carb": 4,
+    "fat": 20,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 300, "serving": 300 }
+  },
+  {
+    "name": "Chicken Sukka (Malvani)",
+    "cal": 300,
+    "pro": 26,
+    "carb": 4,
+    "fat": 18,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 280, "serving": 280 }
+  },
+  {
+    "name": "Mutton Sukka (Malvani)",
+    "cal": 345,
+    "pro": 28,
+    "carb": 4,
+    "fat": 22,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 280, "serving": 280 }
+  },
+  {
+    "name": "Bombil Fry (1 piece)",
+    "cal": 95,
+    "pro": 12,
+    "carb": 1,
+    "fat": 4,
     "fib": 0,
-    "weights": { "gram": 1 }
+    "weights": { "gram": 1, "piece": 45, "serving": 45 }
+  },
+  {
+    "name": "Surmai Fry (1 piece)",
+    "cal": 180,
+    "pro": 23,
+    "carb": 1,
+    "fat": 9,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 60, "serving": 60 }
+  },
+  {
+    "name": "Prawn Koliwada (1 piece)",
+    "cal": 55,
+    "pro": 6,
+    "carb": 2,
+    "fat": 3,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 25, "serving": 25 }
+  },
+  {
+    "name": "Malvani Fish Curry",
+    "cal": 210,
+    "pro": 18,
+    "carb": 3,
+    "fat": 14,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 250, "serving": 250 }
+  },
+  {
+    "name": "Kolambi Masala (Prawn Curry)",
+    "cal": 225,
+    "pro": 19,
+    "carb": 4,
+    "fat": 14,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 260, "serving": 260 }
+  },
+  {
+    "name": "Chicken Rassa (Home Style)",
+    "cal": 245,
+    "pro": 21,
+    "carb": 3,
+    "fat": 15,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 260, "serving": 260 }
+  },
+  {
+    "name": "Mutton Rassa",
+    "cal": 315,
+    "pro": 26,
+    "carb": 3,
+    "fat": 21,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 260, "serving": 260 }
+  },
+  {
+    "name": "Tambda Mutton (Kolhapuri)",
+    "cal": 340,
+    "pro": 28,
+    "carb": 3,
+    "fat": 23,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 260, "serving": 260 }
+  },
+  {
+    "name": "Varan Bhat",
+    "cal": 270,
+    "pro": 8,
+    "carb": 46,
+    "fat": 5,
+    "fib": 3,
+    "weights": { "gram": 1, "plate": 300, "serving": 300 }
+  },
+  {
+    "name": "Amti",
+    "cal": 140,
+    "pro": 6,
+    "carb": 18,
+    "fat": 4,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200, "serving": 200 }
+  },
+  {
+    "name": "Masale Bhat",
+    "cal": 260,
+    "pro": 6,
+    "carb": 41,
+    "fat": 7,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 250, "cup": 180 }
+  },
+  {
+    "name": "Tendli Bhaat",
+    "cal": 250,
+    "pro": 5,
+    "carb": 40,
+    "fat": 6,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 260, "cup": 180 }
+  },
+  {
+    "name": "Puranachi Kadhi",
+    "cal": 165,
+    "pro": 5,
+    "carb": 18,
+    "fat": 7,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 210, "serving": 210 }
+  },
+  {
+    "name": "Besan Ladoo (1 piece)",
+    "cal": 165,
+    "pro": 3,
+    "carb": 18,
+    "fat": 9,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 30, "serving": 30 }
+  },
+  {
+    "name": "Sheera",
+    "cal": 285,
+    "pro": 4,
+    "carb": 42,
+    "fat": 10,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220, "cup": 160 }
+  },
+  {
+    "name": "Shankarpali (1 piece)",
+    "cal": 22,
+    "pro": 0.3,
+    "carb": 3,
+    "fat": 1,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 4, "serving": 4 }
+  },
+  {
+    "name": "Chakli (1 piece)",
+    "cal": 45,
+    "pro": 1,
+    "carb": 5,
+    "fat": 2,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 10, "serving": 10 }
+  },
+  {
+    "name": "Ghavan (Rice Crepe)",
+    "cal": 120,
+    "pro": 3,
+    "carb": 25,
+    "fat": 1,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 70, "serving": 70 }
+  },
+  {
+    "name": "Amboli (Rice & Urad Crepe)",
+    "cal": 128,
+    "pro": 3,
+    "carb": 26,
+    "fat": 2,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 75, "serving": 75 }
+  },
+  {
+    "name": "Solkadhi Coconut Version",
+    "cal": 140,
+    "pro": 2,
+    "carb": 8,
+    "fat": 11,
+    "fib": 1,
+    "weights": { "gram": 1, "glass": 200, "serving": 200 }
+  },
+  {
+    "name": "Kairi Panha (Aam Panna Maharashtrian)",
+    "cal": 130,
+    "pro": 0.5,
+    "carb": 32,
+    "fat": 0.2,
+    "fib": 1,
+    "weights": { "gram": 1, "glass": 220, "serving": 220 }
+  },
+  {
+    "name": "Godachi Poli",
+    "cal": 290,
+    "pro": 5,
+    "carb": 52,
+    "fat": 7,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 85, "serving": 85 }
+  },
+  {
+    "name": "Bharli Vangi (Stuffed Brinjal)",
+    "cal": 210,
+    "pro": 5,
+    "carb": 15,
+    "fat": 14,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 220, "serving": 220 }
   }
 ]
