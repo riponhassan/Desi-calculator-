@@ -1735,6 +1735,231 @@
     "fat": 1.5,
     "fib": 2.5,
     "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Chicken Curry",
+    "cal": 180,
+    "pro": 18,
+    "carb": 4,
+    "fat": 10,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 250, "serving": 250 }
+  },
+  {
+    "name": "Chicken Masala",
+    "cal": 195,
+    "pro": 19,
+    "carb": 5,
+    "fat": 11,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 250, "serving": 250 }
+  },
+  {
+    "name": "Chicken Tikka Masala",
+    "cal": 210,
+    "pro": 20,
+    "carb": 6,
+    "fat": 12,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 250, "serving": 250 }
+  },
+  {
+    "name": "Butter Chicken",
+    "cal": 240,
+    "pro": 18,
+    "carb": 8,
+    "fat": 16,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 250, "serving": 250 }
+  },
+  {
+    "name": "Chicken Korma",
+    "cal": 220,
+    "pro": 17,
+    "carb": 6,
+    "fat": 15,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 250, "serving": 250 }
+  },
+  {
+    "name": "Chicken Chettinad",
+    "cal": 210,
+    "pro": 19,
+    "carb": 7,
+    "fat": 12,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 250, "serving": 250 }
+  },
+  {
+    "name": "Chicken Vindaloo",
+    "cal": 205,
+    "pro": 18,
+    "carb": 8,
+    "fat": 11,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 250, "serving": 250 }
+  },
+  {
+    "name": "Chicken Tikka",
+    "cal": 160,
+    "pro": 25,
+    "carb": 3,
+    "fat": 5,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 120, "serving": 120 }
+  },
+  {
+    "name": "Tandoori Chicken",
+    "cal": 180,
+    "pro": 28,
+    "carb": 2,
+    "fat": 6,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 120, "serving": 120 }
+  },
+  {
+    "name": "Chicken 65",
+    "cal": 205,
+    "pro": 20,
+    "carb": 10,
+    "fat": 10,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Pepper Chicken",
+    "cal": 190,
+    "pro": 22,
+    "carb": 5,
+    "fat": 9,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Kadai Chicken",
+    "cal": 200,
+    "pro": 19,
+    "carb": 6,
+    "fat": 11,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 250, "serving": 250 }
+  },
+  {
+    "name": "Chicken Handi",
+    "cal": 215,
+    "pro": 18,
+    "carb": 7,
+    "fat": 13,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 250, "serving": 250 }
+  },
+  {
+    "name": "Mutton Curry",
+    "cal": 240,
+    "pro": 20,
+    "carb": 4,
+    "fat": 16,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 250, "serving": 250 }
+  },
+  {
+    "name": "Mutton Rogan Josh",
+    "cal": 260,
+    "pro": 22,
+    "carb": 5,
+    "fat": 17,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 250, "serving": 250 }
+  },
+  {
+    "name": "Mutton Keema",
+    "cal": 250,
+    "pro": 22,
+    "carb": 4,
+    "fat": 17,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Mutton Korma",
+    "cal": 245,
+    "pro": 20,
+    "carb": 5,
+    "fat": 16,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 250, "serving": 250 }
+  },
+  {
+    "name": "Mutton Masala",
+    "cal": 255,
+    "pro": 21,
+    "carb": 6,
+    "fat": 16,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 250, "serving": 250 }
+  },
+  {
+    "name": "Fish Curry (Generic Indian)",
+    "cal": 160,
+    "pro": 18,
+    "carb": 4,
+    "fat": 8,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 250, "serving": 250 }
+  },
+  {
+    "name": "Goan Fish Curry",
+    "cal": 170,
+    "pro": 17,
+    "carb": 5,
+    "fat": 9,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 250, "serving": 250 }
+  },
+  {
+    "name": "Kerala Fish Curry",
+    "cal": 165,
+    "pro": 18,
+    "carb": 4,
+    "fat": 8,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 250, "serving": 250 }
+  },
+  {
+    "name": "Fish Fry",
+    "cal": 190,
+    "pro": 22,
+    "carb": 4,
+    "fat": 9,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 120, "serving": 120 }
+  },
+  {
+    "name": "Tawa Fish Fry",
+    "cal": 205,
+    "pro": 24,
+    "carb": 4,
+    "fat": 10,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 120, "serving": 120 }
+  },
+  {
+    "name": "Prawn Curry",
+    "cal": 165,
+    "pro": 19,
+    "carb": 5,
+    "fat": 7,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 250, "serving": 250 }
+  },
+  {
+    "name": "Prawn Masala",
+    "cal": 175,
+    "pro": 18,
+    "carb": 6,
+    "fat": 8,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 150 }
   }
 ]
 
