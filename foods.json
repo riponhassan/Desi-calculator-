@@ -9970,5 +9970,455 @@
   "fat": 10,
   "fib": 1,
   "weights": { "gram": 1, "portion": 160, "pieces": 4 }
+},
+{
+  "name": "Afghani Chicken Tikka",
+  "cal": 180,
+  "pro": 24,
+  "carb": 4,
+  "fat": 8,
+  "fib": 0,
+  "weights": { "gram": 1, "portion": 200, "pieces": 6 }
+},
+{
+  "name": "Mutton Bheja Masala Fry",
+  "cal": 245,
+  "pro": 20,
+  "carb": 4,
+  "fat": 16,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 180, "pieces": 1 }
+},
+{
+  "name": "Fish Tikka Achari",
+  "cal": 155,
+  "pro": 22,
+  "carb": 4,
+  "fat": 6,
+  "fib": 0,
+  "weights": { "gram": 1, "portion": 170, "pieces": 6 }
+},
+{
+  "name": "Chicken Peri Peri Grill (Indian Style)",
+  "cal": 210,
+  "pro": 26,
+  "carb": 5,
+  "fat": 10,
+  "fib": 0,
+  "weights": { "gram": 1, "portion": 220, "pieces": 6 }
+},
+{
+  "name": "Chicken Baida Fry",
+  "cal": 240,
+  "pro": 21,
+  "carb": 10,
+  "fat": 14,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 200, "pieces": 1 }
+},
+{
+  "name": "Goan Prawn Rava Fry",
+  "cal": 235,
+  "pro": 21,
+  "carb": 10,
+  "fat": 13,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 150, "pieces": 10 }
+},
+{
+  "name": "Chicken Chatpata Tikka",
+  "cal": 175,
+  "pro": 23,
+  "carb": 3,
+  "fat": 7,
+  "fib": 0,
+  "weights": { "gram": 1, "portion": 180, "pieces": 6 }
+},
+{
+  "name": "Mutton Pathani Kebab",
+  "cal": 205,
+  "pro": 17,
+  "carb": 6,
+  "fat": 13,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 160, "pieces": 4 }
+},
+{
+  "name": "Chicken Lasooni Fry",
+  "cal": 240,
+  "pro": 22,
+  "carb": 8,
+  "fat": 14,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 190, "pieces": 1 }
+},
+{
+  "name": "Fish Amritsari Cubes",
+  "cal": 220,
+  "pro": 23,
+  "carb": 10,
+  "fat": 10,
+  "fib": 0,
+  "weights": { "gram": 1, "portion": 180, "pieces": 12 }
+},
+{
+  "name": "Chicken Red Pepper Tikka",
+  "cal": 170,
+  "pro": 23,
+  "carb": 3,
+  "fat": 6,
+  "fib": 0,
+  "weights": { "gram": 1, "portion": 180, "pieces": 6 }
+},
+{
+  "name": "Mutton Nalli Fry (Starter)",
+  "cal": 260,
+  "pro": 22,
+  "carb": 4,
+  "fat": 18,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 220, "pieces": 1 }
+},
+{
+  "name": "Prawn Sukka (Dry Starter)",
+  "cal": 235,
+  "pro": 21,
+  "carb": 8,
+  "fat": 14,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 170, "pieces": 8 }
+},
+{
+  "name": "Chicken Sholay Kebab",
+  "cal": 185,
+  "pro": 23,
+  "carb": 4,
+  "fat": 8,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 190, "pieces": 6 }
+},
+{
+  "name": "Mutton Salli Boti Fry (Starter)",
+  "cal": 245,
+  "pro": 20,
+  "carb": 10,
+  "fat": 14,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 200, "pieces": 1 }
+},
+{
+  "name": "Chicken Garlic Shots",
+  "cal": 195,
+  "pro": 20,
+  "carb": 10,
+  "fat": 9,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 150, "pieces": 10 }
+},
+{
+  "name": "Mutton Boti Fry (Dry)",
+  "cal": 250,
+  "pro": 22,
+  "carb": 5,
+  "fat": 16,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 200, "pieces": 1 }
+},
+{
+  "name": "Fish Lemon Pepper Starter",
+  "cal": 210,
+  "pro": 23,
+  "carb": 6,
+  "fat": 10,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 180, "pieces": 8 }
+},
+{
+  "name": "Chicken Chilli Garlic Dry",
+  "cal": 240,
+  "pro": 22,
+  "carb": 14,
+  "fat": 11,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 190, "pieces": 1 }
+},
+{
+  "name": "Prawn Tawa Masala Cubes",
+  "cal": 225,
+  "pro": 20,
+  "carb": 8,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 160, "pieces": 10 }
+},
+{
+  "name": "Chicken Chops Dry (Bengal Style)",
+  "cal": 200,
+  "pro": 18,
+  "carb": 10,
+  "fat": 11,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 170, "pieces": 2 }
+},
+{
+  "name": "Mutton Gurda Kaleji Fry",
+  "cal": 230,
+  "pro": 20,
+  "carb": 4,
+  "fat": 14,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 180, "pieces": 1 }
+},
+{
+  "name": "Chicken Roast Tawa Bits",
+  "cal": 235,
+  "pro": 22,
+  "carb": 8,
+  "fat": 13,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 180, "pieces": 12 }
+},
+{
+  "name": "Fish Kali Mirch Tawa",
+  "cal": 215,
+  "pro": 24,
+  "carb": 5,
+  "fat": 11,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 170, "pieces": 8 }
+},
+{
+  "name": "Chicken Nawabi Tikka",
+  "cal": 185,
+  "pro": 24,
+  "carb": 4,
+  "fat": 8,
+  "fib": 0,
+  "weights": { "gram": 1, "portion": 190, "pieces": 6 }
+},
+{
+  "name": "Chicken Afghani Chaap",
+  "cal": 260,
+  "pro": 24,
+  "carb": 6,
+  "fat": 14,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 220, "pieces": 1 }
+},
+{
+  "name": "Mutton Afghani Kebab",
+  "cal": 270,
+  "pro": 22,
+  "carb": 5,
+  "fat": 17,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 180, "pieces": 4 }
+},
+{
+  "name": "Tandoori Chicken Wings (Masala)",
+  "cal": 215,
+  "pro": 24,
+  "carb": 5,
+  "fat": 11,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 210, "pieces": 6 }
+},
+{
+  "name": "Fish Tikka Hariyali",
+  "cal": 155,
+  "pro": 22,
+  "carb": 4,
+  "fat": 6,
+  "fib": 0,
+  "weights": { "gram": 1, "portion": 160, "pieces": 6 }
+},
+{
+  "name": "Prawn Golden Fry",
+  "cal": 245,
+  "pro": 21,
+  "carb": 12,
+  "fat": 13,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 150, "pieces": 10 }
+},
+{
+  "name": "Chicken Crispy Roast",
+  "cal": 250,
+  "pro": 22,
+  "carb": 8,
+  "fat": 14,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 190, "pieces": 1 }
+},
+{
+  "name": "Mutton Gola Kebab",
+  "cal": 220,
+  "pro": 18,
+  "carb": 6,
+  "fat": 14,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 170, "pieces": 4 }
+},
+{
+  "name": "Chicken Pudina Tikka",
+  "cal": 170,
+  "pro": 24,
+  "carb": 3,
+  "fat": 6,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 180, "pieces": 6 }
+},
+{
+  "name": "Fish Rawa Tawa Cubes",
+  "cal": 230,
+  "pro": 23,
+  "carb": 10,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 180, "pieces": 10 }
+},
+{
+  "name": "Egg Malai Tikka",
+  "cal": 170,
+  "pro": 10,
+  "carb": 6,
+  "fat": 12,
+  "fib": 0,
+  "weights": { "gram": 1, "portion": 150, "pieces": 3 }
+},
+{
+  "name": "Chicken Masala Fry Bits",
+  "cal": 240,
+  "pro": 22,
+  "carb": 10,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 180, "pieces": 12 }
+},
+{
+  "name": "Goan Recheado Prawn Fry",
+  "cal": 250,
+  "pro": 21,
+  "carb": 8,
+  "fat": 15,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 160, "pieces": 10 }
+},
+{
+  "name": "Chicken Pepper Kebab",
+  "cal": 185,
+  "pro": 23,
+  "carb": 4,
+  "fat": 8,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 180, "pieces": 6 }
+},
+{
+  "name": "Mutton Hyderabadi Tikka",
+  "cal": 225,
+  "pro": 20,
+  "carb": 6,
+  "fat": 14,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 170, "pieces": 4 }
+},
+{
+  "name": "Fish Lasooni Fry",
+  "cal": 225,
+  "pro": 23,
+  "carb": 8,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 170, "pieces": 8 }
+},
+{
+  "name": "Chicken Til Tikka",
+  "cal": 180,
+  "pro": 24,
+  "carb": 4,
+  "fat": 8,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 190, "pieces": 6 }
+},
+{
+  "name": "Mutton Keema Cutlet",
+  "cal": 200,
+  "pro": 15,
+  "carb": 14,
+  "fat": 11,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 160, "pieces": 2 }
+},
+{
+  "name": "Prawn Butterfly Fry",
+  "cal": 240,
+  "pro": 21,
+  "carb": 12,
+  "fat": 13,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 150, "pieces": 8 }
+},
+{
+  "name": "Chicken Dhaba Fry",
+  "cal": 260,
+  "pro": 23,
+  "carb": 8,
+  "fat": 15,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 200, "pieces": 1 }
+},
+{
+  "name": "Fish Amchoori Fry",
+  "cal": 210,
+  "pro": 22,
+  "carb": 6,
+  "fat": 10,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 170, "pieces": 6 }
+},
+{
+  "name": "Chicken Chutney Nuggets",
+  "cal": 195,
+  "pro": 18,
+  "carb": 14,
+  "fat": 9,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 150, "pieces": 10 }
+},
+{
+  "name": "Mutton Fry Tawa Bites",
+  "cal": 240,
+  "pro": 20,
+  "carb": 8,
+  "fat": 15,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 170, "pieces": 12 }
+},
+{
+  "name": "Chicken Ginger Fry",
+  "cal": 230,
+  "pro": 23,
+  "carb": 8,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 180, "pieces": 1 }
+},
+{
+  "name": "Fish Pudina Masala Fry",
+  "cal": 215,
+  "pro": 23,
+  "carb": 6,
+  "fat": 11,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 170, "pieces": 8 }
+},
+{
+  "name": "Chicken Zafrani Tikka",
+  "cal": 185,
+  "pro": 24,
+  "carb": 4,
+  "fat": 8,
+  "fib": 0,
+  "weights": { "gram": 1, "portion": 180, "pieces": 6 }
 }
 ]
