@@ -12220,5 +12220,455 @@
   "fat": 19,
   "fib": 1,
   "weights": { "gram": 1, "portion": 320, "pieces": 1 }
-}
+},
+{
+  "name": "Chicken Hot Garlic Gravy",
+  "cal": 265,
+  "pro": 24,
+  "carb": 14,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 320, "pieces": 1 }
+},
+{
+  "name": "Chicken Manchurian Gravy",
+  "cal": 280,
+  "pro": 23,
+  "carb": 18,
+  "fat": 13,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 330, "pieces": 1 }
+},
+{
+  "name": "Chicken Chilli Gravy",
+  "cal": 275,
+  "pro": 24,
+  "carb": 15,
+  "fat": 13,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 320, "pieces": 1 }
+},
+{
+  "name": "Chicken Schezwan Gravy",
+  "cal": 285,
+  "pro": 24,
+  "carb": 16,
+  "fat": 14,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 330, "pieces": 1 }
+},
+{
+  "name": "Chicken Black Pepper Gravy",
+  "cal": 270,
+  "pro": 24,
+  "carb": 14,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 310, "pieces": 1 }
+},
+{
+  "name": "Chicken Hunan Gravy",
+  "cal": 260,
+  "pro": 23,
+  "carb": 13,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 320, "pieces": 1 }
+},
+{
+  "name": "Fish Chilli Garlic Gravy",
+  "cal": 255,
+  "pro": 25,
+  "carb": 12,
+  "fat": 11,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 300, "pieces": 1 }
+},
+{
+  "name": "Fish Hot Garlic Gravy",
+  "cal": 260,
+  "pro": 26,
+  "carb": 13,
+  "fat": 11,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 310, "pieces": 1 }
+},
+{
+  "name": "Fish Manchurian Gravy",
+  "cal": 270,
+  "pro": 25,
+  "carb": 15,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 320, "pieces": 1 }
+},
+{
+  "name": "Fish Schezwan Gravy",
+  "cal": 275,
+  "pro": 26,
+  "carb": 15,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 320, "pieces": 1 }
+},
+{
+  "name": "Egg Chinese Gravy",
+  "cal": 235,
+  "pro": 14,
+  "carb": 11,
+  "fat": 14,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 300, "pieces": 3 }
+},
+{
+  "name": "Egg Chilli Garlic Gravy",
+  "cal": 245,
+  "pro": 14,
+  "carb": 12,
+  "fat": 15,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 300, "pieces": 3 }
+},
+{
+  "name": "Egg Schezwan Gravy",
+  "cal": 255,
+  "pro": 14,
+  "carb": 13,
+  "fat": 15,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 300, "pieces": 3 }
+},
+{
+  "name": "Prawn Chilli Gravy",
+  "cal": 260,
+  "pro": 25,
+  "carb": 13,
+  "fat": 11,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 280, "pieces": 1 }
+},
+{
+  "name": "Prawn Manchurian Gravy",
+  "cal": 270,
+  "pro": 25,
+  "carb": 15,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 290, "pieces": 1 }
+},
+{
+  "name": "Prawn Hot Garlic Gravy",
+  "cal": 268,
+  "pro": 25,
+  "carb": 14,
+  "fat": 11,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 290, "pieces": 1 }
+},
+{
+  "name": "Chicken Garlic Sauce",
+  "cal": 265,
+  "pro": 24,
+  "carb": 14,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 320, "pieces": 1 }
+},
+{
+  "name": "Chicken Oyster Sauce Gravy",
+  "cal": 275,
+  "pro": 24,
+  "carb": 15,
+  "fat": 13,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 330, "pieces": 1 }
+},
+{
+  "name": "Fish Ginger Onion Gravy",
+  "cal": 260,
+  "pro": 26,
+  "carb": 13,
+  "fat": 11,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 300, "pieces": 1 }
+},
+{
+  "name": "Chicken Cantonese Gravy",
+  "cal": 270,
+  "pro": 24,
+  "carb": 14,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 330, "pieces": 1 }
+},
+{
+  "name": "Mixed Protein Hot Garlic Bowl",
+  "cal": 285,
+  "pro": 26,
+  "carb": 16,
+  "fat": 13,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 340, "pieces": 1 }
+},
+{
+  "name": "Mixed Manchurian Supreme Gravy",
+  "cal": 295,
+  "pro": 27,
+  "carb": 17,
+  "fat": 13,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 340, "pieces": 1 }
+},
+{
+  "name": "Chicken Triple Schezwan Gravy",
+  "cal": 300,
+  "pro": 25,
+  "carb": 18,
+  "fat": 13,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 350, "pieces": 1 }
+},
+{
+  "name": "Fish Triple Schezwan Gravy",
+  "cal": 290,
+  "pro": 26,
+  "carb": 17,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 340, "pieces": 1 }
+},
+{
+  "name": "Prawn Triple Schezwan Gravy",
+  "cal": 295,
+  "pro": 27,
+  "carb": 17,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 340, "pieces": 1 }
+},
+{
+  "name": "Chicken Shanghai Gravy",
+  "cal": 275,
+  "pro": 24,
+  "carb": 15,
+  "fat": 13,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 330, "pieces": 1 }
+},
+{
+  "name": "Chicken Ginger Spring Onion Gravy",
+  "cal": 265,
+  "pro": 24,
+  "carb": 14,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 320, "pieces": 1 }
+},
+{
+  "name": "Chicken Burnt Chilli Gravy",
+  "cal": 280,
+  "pro": 24,
+  "carb": 16,
+  "fat": 13,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 330, "pieces": 1 }
+},
+{
+  "name": "Fish Ginger Garlic Gravy",
+  "cal": 260,
+  "pro": 26,
+  "carb": 13,
+  "fat": 11,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 300, "pieces": 1 }
+},
+{
+  "name": "Fish Black Pepper Gravy",
+  "cal": 270,
+  "pro": 25,
+  "carb": 14,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 310, "pieces": 1 }
+},
+{
+  "name": "Fish Oyster Chilli Gravy",
+  "cal": 280,
+  "pro": 25,
+  "carb": 15,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 320, "pieces": 1 }
+},
+{
+  "name": "Egg Hot Garlic Curry",
+  "cal": 245,
+  "pro": 14,
+  "carb": 12,
+  "fat": 14,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 300, "pieces": 3 }
+},
+{
+  "name": "Egg Basil Chilli Gravy",
+  "cal": 250,
+  "pro": 14,
+  "carb": 13,
+  "fat": 15,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 300, "pieces": 3 }
+},
+{
+  "name": "Prawn Ginger Spring Onion Gravy",
+  "cal": 270,
+  "pro": 25,
+  "carb": 14,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 290, "pieces": 1 }
+},
+{
+  "name": "Prawn Schezwan Curry",
+  "cal": 285,
+  "pro": 26,
+  "carb": 15,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 300, "pieces": 1 }
+},
+{
+  "name": "Prawn Hot Basil Gravy",
+  "cal": 275,
+  "pro": 25,
+  "carb": 15,
+  "fat": 11,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 290, "pieces": 1 }
+},
+{
+  "name": "Chicken Thai Chilli Gravy (Desi Style)",
+  "cal": 285,
+  "pro": 24,
+  "carb": 17,
+  "fat": 13,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 340, "pieces": 1 }
+},
+{
+  "name": "Fish Thai Chilli Gravy",
+  "cal": 275,
+  "pro": 25,
+  "carb": 16,
+  "fat": 11,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 310, "pieces": 1 }
+},
+{
+  "name": "Egg Chilli Basil Curry",
+  "cal": 255,
+  "pro": 14,
+  "carb": 13,
+  "fat": 15,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 300, "pieces": 3 }
+},
+{
+  "name": "Chicken Soya Chilli Gravy",
+  "cal": 270,
+  "pro": 24,
+  "carb": 15,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 330, "pieces": 1 }
+},
+{
+  "name": "Chicken Sweet & Spicy Gravy",
+  "cal": 265,
+  "pro": 23,
+  "carb": 17,
+  "fat": 11,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 330, "pieces": 1 }
+},
+{
+  "name": "Fish Sweet & Sour Gravy",
+  "cal": 260,
+  "pro": 25,
+  "carb": 14,
+  "fat": 11,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 310, "pieces": 1 }
+},
+{
+  "name": "Prawn Sweet & Sour Gravy",
+  "cal": 270,
+  "pro": 26,
+  "carb": 15,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 300, "pieces": 1 }
+},
+{
+  "name": "Chicken Burnt Garlic Sauce",
+  "cal": 280,
+  "pro": 24,
+  "carb": 16,
+  "fat": 13,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 340, "pieces": 1 }
+},
+{
+  "name": "Fish Burnt Garlic Sauce",
+  "cal": 270,
+  "pro": 26,
+  "carb": 15,
+  "fat": 11,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 320, "pieces": 1 }
+},
+{
+  "name": "Chicken Wok Tossed Black Bean Gravy",
+  "cal": 290,
+  "pro": 24,
+  "carb": 16,
+  "fat": 14,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 340, "pieces": 1 }
+},
+{
+  "name": "Fish Wok Tossed Black Bean Gravy",
+  "cal": 280,
+  "pro": 26,
+  "carb": 15,
+  "fat": 12,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 330, "pieces": 1 }
+},
+{
+  "name": "Prawn Black Pepper Gravy",
+  "cal": 275,
+  "pro": 26,
+  "carb": 14,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 300, "pieces": 1 }
+},
+{
+  "name": "Mixed Protein Schezwan Pot",
+  "cal": 300,
+  "pro": 27,
+  "carb": 18,
+  "fat": 13,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 350, "pieces": 1 }
+},
+{
+  "name": "Mixed Protein Hot Garlic Pot",
+  "cal": 295,
+  "pro": 27,
+  "carb": 17,
+  "fat": 13,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 350, "pieces": 1 }
+}  
 ]
