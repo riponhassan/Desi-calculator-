@@ -2401,6 +2401,231 @@
     "fat": 6.5,
     "fib": 2,
     "weights": { "gram": 1, "serving": 300 }
+  },
+  {
+    "name": "Roti (Chapati)",
+    "cal": 120,
+    "pro": 3.2,
+    "carb": 18,
+    "fat": 3,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Whole Wheat Roti",
+    "cal": 122,
+    "pro": 3.5,
+    "carb": 18,
+    "fat": 3,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Phulka",
+    "cal": 100,
+    "pro": 3,
+    "carb": 16,
+    "fat": 1,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Tandoori Roti",
+    "cal": 150,
+    "pro": 4,
+    "carb": 22,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 50 }
+  },
+  {
+    "name": "Butter Roti",
+    "cal": 170,
+    "pro": 3.5,
+    "carb": 18,
+    "fat": 7,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Plain Paratha",
+    "cal": 260,
+    "pro": 4,
+    "carb": 28,
+    "fat": 12,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 100 }
+  },
+  {
+    "name": "Aloo Paratha",
+    "cal": 320,
+    "pro": 5,
+    "carb": 45,
+    "fat": 12,
+    "fib": 4,
+    "weights": { "gram": 1, "piece": 120 }
+  },
+  {
+    "name": "Paneer Paratha",
+    "cal": 340,
+    "pro": 12,
+    "carb": 38,
+    "fat": 14,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 120 }
+  },
+  {
+    "name": "Gobi Paratha",
+    "cal": 290,
+    "pro": 5,
+    "carb": 40,
+    "fat": 10,
+    "fib": 4,
+    "weights": { "gram": 1, "piece": 120 }
+  },
+  {
+    "name": "Mooli Paratha",
+    "cal": 285,
+    "pro": 5,
+    "carb": 38,
+    "fat": 10,
+    "fib": 4,
+    "weights": { "gram": 1, "piece": 120 }
+  },
+  {
+    "name": "Onion Paratha",
+    "cal": 300,
+    "pro": 5,
+    "carb": 40,
+    "fat": 11,
+    "fib": 4,
+    "weights": { "gram": 1, "piece": 120 }
+  },
+  {
+    "name": "Lachha Paratha",
+    "cal": 310,
+    "pro": 4,
+    "carb": 32,
+    "fat": 14,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 110 }
+  },
+  {
+    "name": "Kerala Parotta",
+    "cal": 320,
+    "pro": 5,
+    "carb": 38,
+    "fat": 13,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 100 }
+  },
+  {
+    "name": "Poori",
+    "cal": 90,
+    "pro": 2,
+    "carb": 10,
+    "fat": 4,
+    "fib": 0.5,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Bhatura",
+    "cal": 300,
+    "pro": 6,
+    "carb": 42,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 90 }
+  },
+  {
+    "name": "Naan",
+    "cal": 260,
+    "pro": 8,
+    "carb": 40,
+    "fat": 6,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 120 }
+  },
+  {
+    "name": "Butter Naan",
+    "cal": 290,
+    "pro": 8,
+    "carb": 40,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 120 }
+  },
+  {
+    "name": "Garlic Naan",
+    "cal": 280,
+    "pro": 8,
+    "carb": 38,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 120 }
+  },
+  {
+    "name": "Cheese Naan",
+    "cal": 330,
+    "pro": 12,
+    "carb": 38,
+    "fat": 12,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 130 }
+  },
+  {
+    "name": "Kulcha",
+    "cal": 240,
+    "pro": 6,
+    "carb": 36,
+    "fat": 6,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 90 }
+  },
+  {
+    "name": "Amritsari Kulcha",
+    "cal": 310,
+    "pro": 8,
+    "carb": 45,
+    "fat": 10,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 120 }
+  },
+  {
+    "name": "Plain Thepla",
+    "cal": 150,
+    "pro": 3,
+    "carb": 20,
+    "fat": 5,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 50 }
+  },
+  {
+    "name": "Methi Thepla",
+    "cal": 160,
+    "pro": 3,
+    "carb": 22,
+    "fat": 5,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 50 }
+  },
+  {
+    "name": "Missi Roti",
+    "cal": 180,
+    "pro": 5,
+    "carb": 25,
+    "fat": 5,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 50 }
+  },
+  {
+    "name": "Bajra Roti",
+    "cal": 150,
+    "pro": 3,
+    "carb": 23,
+    "fat": 3,
+    "fib": 4,
+    "weights": { "gram": 1, "piece": 40 }
   }
 ]
 
