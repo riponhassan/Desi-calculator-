@@ -1,1 +1,11 @@
-
+[
+  {
+    "name": "Test Item Part 2",
+    "cal": 0,
+    "pro": 0,
+    "carb": 0,
+    "fat": 0,
+    "fib": 0,
+    "weights": { "gram": 1 }
+  }
+]
