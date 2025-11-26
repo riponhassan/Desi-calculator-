@@ -448,5 +448,455 @@
     "fat": 14,
     "fib": 4,
     "weights": { "gram": 1, "bowl": 220, "serving": 220 }
+  },
+  {
+    "name": "Kombdi Vade",
+    "cal": 540,
+    "pro": 28,
+    "carb": 42,
+    "fat": 28,
+    "fib": 4,
+    "weights": { "gram": 1, "plate": 380, "serving": 380 }
+  },
+  {
+    "name": "Vade (1 piece)",
+    "cal": 125,
+    "pro": 2,
+    "carb": 15,
+    "fat": 7,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 35, "serving": 35 }
+  },
+  {
+    "name": "Mutton Kharda",
+    "cal": 340,
+    "pro": 29,
+    "carb": 4,
+    "fat": 22,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 260, "serving": 260 }
+  },
+  {
+    "name": "Chicken Kharda",
+    "cal": 295,
+    "pro": 27,
+    "carb": 4,
+    "fat": 17,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 250, "serving": 250 }
+  },
+  {
+    "name": "Bombay Duck Curry (Bombil Curry)",
+    "cal": 210,
+    "pro": 20,
+    "carb": 4,
+    "fat": 12,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 260, "serving": 260 }
+  },
+  {
+    "name": "Jawla Karam (Dry Shrimp Stir Fry)",
+    "cal": 185,
+    "pro": 21,
+    "carb": 5,
+    "fat": 9,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 180, "serving": 180 }
+  },
+  {
+    "name": "Kolambi Fry (Prawn Fry)",
+    "cal": 165,
+    "pro": 20,
+    "carb": 3,
+    "fat": 8,
+    "fib": 0,
+    "weights": { "gram": 1, "plate": 150, "serving": 150 }
+  },
+  {
+    "name": "Malvani Thecha",
+    "cal": 65,
+    "pro": 1,
+    "carb": 3,
+    "fat": 5,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 40, "tbsp": 15 }
+  },
+  {
+    "name": "Green Thecha",
+    "cal": 55,
+    "pro": 1,
+    "carb": 2,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 40, "tbsp": 15 }
+  },
+  {
+    "name": "Pitla Bhakri Thali",
+    "cal": 520,
+    "pro": 15,
+    "carb": 76,
+    "fat": 15,
+    "fib": 6,
+    "weights": { "gram": 1, "plate": 420, "serving": 420 }
+  },
+  {
+    "name": "Kheema Pav",
+    "cal": 480,
+    "pro": 26,
+    "carb": 42,
+    "fat": 25,
+    "fib": 3,
+    "weights": { "gram": 1, "plate": 350, "serving": 350 }
+  },
+  {
+    "name": "Anda Rassa",
+    "cal": 210,
+    "pro": 10,
+    "carb": 4,
+    "fat": 15,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 250, "serving": 250 }
+  },
+  {
+    "name": "Egg Masala Dry (Maharashtrian)",
+    "cal": 210,
+    "pro": 12,
+    "carb": 4,
+    "fat": 15,
+    "fib": 1,
+    "weights": { "gram": 1, "plate": 200, "serving": 200 }
+  },
+  {
+    "name": "Kanda Bhaji",
+    "cal": 215,
+    "pro": 3,
+    "carb": 22,
+    "fat": 13,
+    "fib": 2,
+    "weights": { "gram": 1, "plate": 150, "serving": 150 }
+  },
+  {
+    "name": "Batata Bhaji",
+    "cal": 165,
+    "pro": 3,
+    "carb": 22,
+    "fat": 7,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 180, "serving": 180 }
+  },
+  {
+    "name": "Tondli Fry",
+    "cal": 140,
+    "pro": 3,
+    "carb": 14,
+    "fat": 8,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 180, "serving": 180 }
+  },
+  {
+    "name": "Bharla Tamda Rassa",
+    "cal": 285,
+    "pro": 22,
+    "carb": 3,
+    "fat": 19,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 250, "serving": 250 }
+  },
+  {
+    "name": "Bharli Bhindi (Stuffed Okra)",
+    "cal": 165,
+    "pro": 4,
+    "carb": 11,
+    "fat": 11,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 200, "serving": 200 }
+  },
+  {
+    "name": "Dry Green Peas Usal",
+    "cal": 190,
+    "pro": 9,
+    "carb": 24,
+    "fat": 6,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 210, "serving": 210 }
+  },
+  {
+    "name": "Pav Bhaji Maharashtrian Style",
+    "cal": 420,
+    "pro": 9,
+    "carb": 54,
+    "fat": 18,
+    "fib": 5,
+    "weights": { "gram": 1, "plate": 350, "serving": 350 }
+  },
+  {
+    "name": "Dahi Misal",
+    "cal": 360,
+    "pro": 11,
+    "carb": 48,
+    "fat": 14,
+    "fib": 5,
+    "weights": { "gram": 1, "bowl": 320, "serving": 320 }
+  },
+  {
+    "name": "Chavli Usal",
+    "cal": 175,
+    "pro": 9,
+    "carb": 21,
+    "fat": 4,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 210, "serving": 210 }
+  },
+  {
+    "name": "Matar Chi Usal",
+    "cal": 165,
+    "pro": 7,
+    "carb": 21,
+    "fat": 5,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 210, "serving": 210 }
+  },
+  {
+    "name": "Rice Bhakri (Tandalachi Bhakri)",
+    "cal": 150,
+    "pro": 2,
+    "carb": 33,
+    "fat": 1,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 70, "serving": 70 }
+  },
+  {
+    "name": "Peanut Chutney (Maharashtrian)",
+    "cal": 70,
+    "pro": 2,
+    "carb": 3,
+    "fat": 6,
+    "fib": 1,
+    "weights": { "gram": 1, "tbsp": 15, "serving": 30 }
+  },
+  {
+    "name": "Patholi (Steamed Sweet Rice Roll)",
+    "cal": 115,
+    "pro": 2,
+    "carb": 24,
+    "fat": 1,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 55, "serving": 55 }
+  },
+  {
+    "name": "Tandalachi Kheer",
+    "cal": 210,
+    "pro": 5,
+    "carb": 32,
+    "fat": 7,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 200, "cup": 160 }
+  },
+  {
+    "name": "Narali Bhaat",
+    "cal": 275,
+    "pro": 4,
+    "carb": 40,
+    "fat": 10,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 220, "cup": 180 }
+  },
+  {
+    "name": "Kairichi Amti",
+    "cal": 140,
+    "pro": 3,
+    "carb": 16,
+    "fat": 7,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 210, "serving": 210 }
+  },
+  {
+    "name": "Matki Misal Dry",
+    "cal": 220,
+    "pro": 10,
+    "carb": 28,
+    "fat": 8,
+    "fib": 6,
+    "weights": { "gram": 1, "bowl": 220, "serving": 220 }
+  },
+  {
+    "name": "Kharvas (Milk Pudding)",
+    "cal": 160,
+    "pro": 7,
+    "carb": 16,
+    "fat": 8,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 60, "serving": 60 }
+  },
+  {
+    "name": "Aalu Chi Bhaji (Dry)",
+    "cal": 150,
+    "pro": 3,
+    "carb": 20,
+    "fat": 7,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 180, "serving": 180 }
+  },
+  {
+    "name": "Aalu Chi Bhaji (Wet)",
+    "cal": 165,
+    "pro": 3,
+    "carb": 21,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 200, "serving": 200 }
+  },
+  {
+    "name": "Tikhat Sheera",
+    "cal": 240,
+    "pro": 4,
+    "carb": 34,
+    "fat": 9,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 200, "cup": 160 }
+  },
+  {
+    "name": "Bhadang (Spicy Murmura Mix)",
+    "cal": 165,
+    "pro": 3,
+    "carb": 28,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "cup": 40, "serving": 40 }
+  },
+  {
+    "name": "Patal Bhaji (Colocasia Leaves Curry)",
+    "cal": 160,
+    "pro": 4,
+    "carb": 17,
+    "fat": 9,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 220, "serving": 220 }
+  },
+  {
+    "name": "Chawli Chi Bhaji",
+    "cal": 155,
+    "pro": 5,
+    "carb": 14,
+    "fat": 9,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 200, "serving": 200 }
+  },
+  {
+    "name": "Alu Chi Patal Bhaji",
+    "cal": 170,
+    "pro": 4,
+    "carb": 16,
+    "fat": 10,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 220, "serving": 220 }
+  },
+  {
+    "name": "Methi Pithla",
+    "cal": 185,
+    "pro": 9,
+    "carb": 16,
+    "fat": 8,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 210, "serving": 210 }
+  },
+  {
+    "name": "Sukka Mutton (Dry)",
+    "cal": 345,
+    "pro": 29,
+    "carb": 4,
+    "fat": 22,
+    "fib": 2,
+    "weights": { "gram": 1, "plate": 250, "serving": 250 }
+  },
+  {
+    "name": "Kokum Sarbat",
+    "cal": 110,
+    "pro": 0.3,
+    "carb": 27,
+    "fat": 0.2,
+    "fib": 1,
+    "weights": { "gram": 1, "glass": 220, "serving": 220 }
+  },
+  {
+    "name": "Solkadhi Coconut-Less (Light)",
+    "cal": 65,
+    "pro": 1,
+    "carb": 7,
+    "fat": 3,
+    "fib": 1,
+    "weights": { "gram": 1, "glass": 200, "serving": 200 }
+  },
+  {
+    "name": "Gavran Chicken Dry",
+    "cal": 305,
+    "pro": 29,
+    "carb": 3,
+    "fat": 19,
+    "fib": 1,
+    "weights": { "gram": 1, "plate": 260, "serving": 260 }
+  },
+  {
+    "name": "Mutton Handi Maharashtrian",
+    "cal": 350,
+    "pro": 28,
+    "carb": 5,
+    "fat": 22,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 300, "serving": 300 }
+  },
+  {
+    "name": "Kelyachi Bhaji (Raw Banana)",
+    "cal": 165,
+    "pro": 3,
+    "carb": 26,
+    "fat": 6,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 200, "serving": 200 }
+  },
+  {
+    "name": "Danyachi Usal (Peanut Curry)",
+    "cal": 240,
+    "pro": 8,
+    "carb": 16,
+    "fat": 16,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 210, "serving": 210 }
+  },
+  {
+    "name": "Pithla Varan",
+    "cal": 195,
+    "pro": 8,
+    "carb": 18,
+    "fat": 9,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200, "serving": 200 }
+  },
+  {
+    "name": "Ambadichi Bhaji (Hog Plum Leaf Curry)",
+    "cal": 140,
+    "pro": 3,
+    "carb": 15,
+    "fat": 7,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 190, "serving": 190 }
+  },
+  {
+    "name": "Chichondi (Traditional Dal Gravy)",
+    "cal": 175,
+    "pro": 8,
+    "carb": 18,
+    "fat": 6,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 200, "serving": 200 }
+  },
+  {
+    "name": "Ravachya Laddoo (Semolina Ladoo)",
+    "cal": 150,
+    "pro": 3,
+    "carb": 23,
+    "fat": 6,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 28, "serving": 28 }
   }
 ]
