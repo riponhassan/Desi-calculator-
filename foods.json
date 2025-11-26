@@ -7270,5 +7270,455 @@
     "fat": 12,
     "fib": 2,
     "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
-  }
+  },
+{
+  "name": "Aloo Bhajia",
+  "cal": 312,
+  "pro": 4,
+  "carb": 28,
+  "fat": 20,
+  "fib": 3,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Pyaz Pakora",
+  "cal": 295,
+  "pro": 4.5,
+  "carb": 27,
+  "fat": 18,
+  "fib": 2.5,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Mirchi Bhajiya (Stuffed)",
+  "cal": 165,
+  "pro": 3,
+  "carb": 15,
+  "fat": 10,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 70 }
+},
+{
+  "name": "Moong Dal Pakoda",
+  "cal": 345,
+  "pro": 10,
+  "carb": 32,
+  "fat": 20,
+  "fib": 4,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Methi Na Gota",
+  "cal": 358,
+  "pro": 8,
+  "carb": 33,
+  "fat": 21,
+  "fib": 3,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Bread Pakora (Stuffed Aloo)",
+  "cal": 390,
+  "pro": 9,
+  "carb": 45,
+  "fat": 20,
+  "fib": 3.5,
+  "weights": { "gram": 1, "piece": 120 }
+},
+{
+  "name": "Sabudana Vada",
+  "cal": 150,
+  "pro": 2,
+  "carb": 18,
+  "fat": 7,
+  "fib": 1.5,
+  "weights": { "gram": 1, "piece": 50 }
+},
+{
+  "name": "Batata Vada",
+  "cal": 178,
+  "pro": 3,
+  "carb": 22,
+  "fat": 8.5,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 60 }
+},
+{
+  "name": "Dal Kachori",
+  "cal": 210,
+  "pro": 5,
+  "carb": 24,
+  "fat": 10,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 70 }
+},
+{
+  "name": "Pyaz Kachori",
+  "cal": 320,
+  "pro": 6,
+  "carb": 34,
+  "fat": 17,
+  "fib": 3,
+  "weights": { "gram": 1, "piece": 90 }
+},
+{
+  "name": "Rajasthani Mirchi Vada",
+  "cal": 310,
+  "pro": 6,
+  "carb": 28,
+  "fat": 18,
+  "fib": 3,
+  "weights": { "gram": 1, "piece": 100 }
+},
+{
+  "name": "Chicken Pakora",
+  "cal": 290,
+  "pro": 22,
+  "carb": 9,
+  "fat": 18,
+  "fib": 0,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Fish Amritsari Fry",
+  "cal": 250,
+  "pro": 24,
+  "carb": 10,
+  "fat": 12,
+  "fib": 0,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Kolhapuri Vada Pav Vada",
+  "cal": 165,
+  "pro": 3,
+  "carb": 18,
+  "fat": 8,
+  "fib": 1.5,
+  "weights": { "gram": 1, "piece": 55 }
+},
+{
+  "name": "Mangalore Bonda",
+  "cal": 120,
+  "pro": 2,
+  "carb": 14,
+  "fat": 6,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 40 }
+},
+{
+  "name": "Medu Vada (Fried)",
+  "cal": 190,
+  "pro": 4,
+  "carb": 22,
+  "fat": 9,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 55 }
+},
+{
+  "name": "Punugulu",
+  "cal": 330,
+  "pro": 6,
+  "carb": 38,
+  "fat": 17,
+  "fib": 2,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Raw Banana Bajji",
+  "cal": 175,
+  "pro": 2,
+  "carb": 20,
+  "fat": 9,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 70 }
+},
+{
+  "name": "Sweet Corn Pakoda",
+  "cal": 310,
+  "pro": 6,
+  "carb": 36,
+  "fat": 15,
+  "fib": 3,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Paneer Pakora",
+  "cal": 180,
+  "pro": 7,
+  "carb": 10,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 60 }
+},
+{
+  "name": "Mushroom Pakoda",
+  "cal": 260,
+  "pro": 7,
+  "carb": 24,
+  "fat": 15,
+  "fib": 2,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Keema Samosa",
+  "cal": 215,
+  "pro": 9,
+  "carb": 18,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 60 }
+},
+{
+  "name": "Chinese Bhel Fry",
+  "cal": 380,
+  "pro": 6,
+  "carb": 42,
+  "fat": 20,
+  "fib": 3,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Chicken 65 (Fried)",
+  "cal": 290,
+  "pro": 23,
+  "carb": 8,
+  "fat": 18,
+  "fib": 1,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Crispy Corn (Fried)",
+  "cal": 310,
+  "pro": 5,
+  "carb": 34,
+  "fat": 15,
+  "fib": 3,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Aloo Tikki (Fried)",
+  "cal": 210,
+  "pro": 4,
+  "carb": 28,
+  "fat": 9,
+  "fib": 3,
+  "weights": { "gram": 1, "piece": 70 }
+},
+{
+  "name": "Veg Cutlet (Fried)",
+  "cal": 160,
+  "pro": 3,
+  "carb": 20,
+  "fat": 7,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 50 }
+},
+{
+  "name": "Soya Chunk Pakora",
+  "cal": 320,
+  "pro": 16,
+  "carb": 22,
+  "fat": 18,
+  "fib": 5,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Paneer 65 (Fried)",
+  "cal": 280,
+  "pro": 15,
+  "carb": 12,
+  "fat": 18,
+  "fib": 1,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Chilli Bajji (Andhra)",
+  "cal": 190,
+  "pro": 3,
+  "carb": 22,
+  "fat": 10,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 80 }
+},
+{
+  "name": "Banana Fritters (Kerala Pazham Pori)",
+  "cal": 215,
+  "pro": 2,
+  "carb": 32,
+  "fat": 9,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 90 }
+},
+{
+  "name": "Ratalu (Purple Yam) Bhajiya",
+  "cal": 310,
+  "pro": 4,
+  "carb": 33,
+  "fat": 17,
+  "fib": 4,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Besan Chilla Fry",
+  "cal": 240,
+  "pro": 8,
+  "carb": 22,
+  "fat": 12,
+  "fib": 3,
+  "weights": { "gram": 1, "piece": 80 }
+},
+{
+  "name": "Bread Roll (Fried)",
+  "cal": 310,
+  "pro": 7,
+  "carb": 35,
+  "fat": 15,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 100 }
+},
+{
+  "name": "Corn Cheese Balls (Fried)",
+  "cal": 330,
+  "pro": 10,
+  "carb": 26,
+  "fat": 20,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 35 }
+},
+{
+  "name": "Aloo Keema Chop (Kolkata)",
+  "cal": 250,
+  "pro": 8,
+  "carb": 22,
+  "fat": 14,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 70 }
+},
+{
+  "name": "Cabbage Pakoda",
+  "cal": 290,
+  "pro": 6,
+  "carb": 28,
+  "fat": 16,
+  "fib": 4,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Gobi 65 (Fried)",
+  "cal": 225,
+  "pro": 6,
+  "carb": 25,
+  "fat": 10,
+  "fib": 3,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Madras Onion Vada",
+  "cal": 200,
+  "pro": 5,
+  "carb": 23,
+  "fat": 9,
+  "fib": 3,
+  "weights": { "gram": 1, "piece": 60 }
+},
+{
+  "name": "Egg Bonda (Fried Egg Pakora)",
+  "cal": 210,
+  "pro": 9,
+  "carb": 15,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 70 }
+},
+{
+  "name": "Prawn Koliwada (Fried)",
+  "cal": 260,
+  "pro": 18,
+  "carb": 10,
+  "fat": 16,
+  "fib": 0,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Fish Cutlet (Bengali Fried)",
+  "cal": 195,
+  "pro": 10,
+  "carb": 18,
+  "fat": 9,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 60 }
+},
+{
+  "name": "Green Peas Pakoda",
+  "cal": 300,
+  "pro": 10,
+  "carb": 28,
+  "fat": 16,
+  "fib": 4,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Aloo Chop (Bengal/Odisha)",
+  "cal": 190,
+  "pro": 3,
+  "carb": 20,
+  "fat": 10,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 70 }
+},
+{
+  "name": "Kanda Bhaji (Mumbai)",
+  "cal": 300,
+  "pro": 5,
+  "carb": 30,
+  "fat": 18,
+  "fib": 3,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Raw Mango Bhajiya",
+  "cal": 280,
+  "pro": 4,
+  "carb": 30,
+  "fat": 15,
+  "fib": 3,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Kachalu Chips (Fried Taro Chips)",
+  "cal": 520,
+  "pro": 4,
+  "carb": 54,
+  "fat": 34,
+  "fib": 6,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Sabzi Bonda (Mixed Veg)",
+  "cal": 225,
+  "pro": 5,
+  "carb": 24,
+  "fat": 12,
+  "fib": 3,
+  "weights": { "gram": 1, "piece": 60 }
+},
+{
+  "name": "Aloo Paneer Pakoda",
+  "cal": 315,
+  "pro": 8,
+  "carb": 28,
+  "fat": 18,
+  "fib": 2,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Masala Vada (Paruppu Vadai)",
+  "cal": 290,
+  "pro": 9,
+  "carb": 25,
+  "fat": 15,
+  "fib": 4,
+  "weights": { "gram": 1, "piece": 55 }
+}
 ]
