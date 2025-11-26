@@ -8170,5 +8170,455 @@
   "fat": 6,
   "fib": 0,
   "weights": { "gram": 1, "piece": 30 }
+},
+{
+  "name": "Pista Burfi",
+  "cal": 165,
+  "pro": 4,
+  "carb": 18,
+  "fat": 8,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 30 }
+},
+{
+  "name": "Mango Barfi",
+  "cal": 150,
+  "pro": 3,
+  "carb": 24,
+  "fat": 5,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 30 }
+},
+{
+  "name": "Dry Fruit Ladoo",
+  "cal": 185,
+  "pro": 4,
+  "carb": 20,
+  "fat": 10,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 25 }
+},
+{
+  "name": "Gond Ladoo",
+  "cal": 210,
+  "pro": 3,
+  "carb": 26,
+  "fat": 11,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 30 }
+},
+{
+  "name": "Boondi Ladoo",
+  "cal": 186,
+  "pro": 3,
+  "carb": 24,
+  "fat": 8,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 35 }
+},
+{
+  "name": "Chhena Gaja",
+  "cal": 185,
+  "pro": 4,
+  "carb": 28,
+  "fat": 6,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 45 }
+},
+{
+  "name": "Lavang Latika (Bengal)",
+  "cal": 240,
+  "pro": 4,
+  "carb": 35,
+  "fat": 10,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 55 }
+},
+{
+  "name": "Kesari Ladoo",
+  "cal": 170,
+  "pro": 3,
+  "carb": 20,
+  "fat": 8,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 25 }
+},
+{
+  "name": "Malai Ladoo",
+  "cal": 140,
+  "pro": 4,
+  "carb": 18,
+  "fat": 5,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 30 }
+},
+{
+  "name": "Milk Powder Burfi",
+  "cal": 150,
+  "pro": 4,
+  "carb": 20,
+  "fat": 6,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 30 }
+},
+{
+  "name": "Mawa Modak",
+  "cal": 140,
+  "pro": 3,
+  "carb": 20,
+  "fat": 6,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 25 }
+},
+{
+  "name": "Coconut Modak",
+  "cal": 160,
+  "pro": 2,
+  "carb": 24,
+  "fat": 7,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 30 }
+},
+{
+  "name": "Kesar Jalebi",
+  "cal": 160,
+  "pro": 1,
+  "carb": 32,
+  "fat": 4,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 30 }
+},
+{
+  "name": "Chocolate Barfi",
+  "cal": 155,
+  "pro": 3,
+  "carb": 20,
+  "fat": 7,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 30 }
+},
+{
+  "name": "Rose Barfi",
+  "cal": 160,
+  "pro": 3,
+  "carb": 22,
+  "fat": 7,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 30 }
+},
+{
+  "name": "Dry Kesar Peda",
+  "cal": 120,
+  "pro": 3,
+  "carb": 16,
+  "fat": 5,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 25 }
+},
+{
+  "name": "Kheer Kadam",
+  "cal": 180,
+  "pro": 4,
+  "carb": 28,
+  "fat": 6,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 50 }
+},
+{
+  "name": "Til Gajak",
+  "cal": 210,
+  "pro": 6,
+  "carb": 20,
+  "fat": 12,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 30 }
+},
+{
+  "name": "Peanut Chikki",
+  "cal": 160,
+  "pro": 4,
+  "carb": 16,
+  "fat": 8,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 25 }
+},
+{
+  "name": "Coconut Chikki",
+  "cal": 150,
+  "pro": 2,
+  "carb": 18,
+  "fat": 7,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 25 }
+},
+{
+  "name": "Rajbhog",
+  "cal": 180,
+  "pro": 4,
+  "carb": 28,
+  "fat": 5,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 60 }
+},
+{
+  "name": "Kheer (Rice Pudding)",
+  "cal": 145,
+  "pro": 4,
+  "carb": 22,
+  "fat": 4,
+  "fib": 0.5,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Lapsi (Broken Wheat Sweet)",
+  "cal": 185,
+  "pro": 4,
+  "carb": 30,
+  "fat": 5,
+  "fib": 3,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Poha Ladoo",
+  "cal": 135,
+  "pro": 2,
+  "carb": 20,
+  "fat": 6,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 25 }
+},
+{
+  "name": "Chhena Jalebi",
+  "cal": 210,
+  "pro": 5,
+  "carb": 30,
+  "fat": 10,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 35 }
+},
+{
+  "name": "Shakkarpara (Sweet)",
+  "cal": 150,
+  "pro": 2,
+  "carb": 20,
+  "fat": 7,
+  "fib": 1,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Kheel Patti",
+  "cal": 120,
+  "pro": 2,
+  "carb": 24,
+  "fat": 2,
+  "fib": 0,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Sweet Seviyan (Meethi Vermicelli)",
+  "cal": 190,
+  "pro": 4,
+  "carb": 28,
+  "fat": 6,
+  "fib": 1,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Doodh Peda",
+  "cal": 110,
+  "pro": 3,
+  "carb": 15,
+  "fat": 5,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 25 }
+},
+{
+  "name": "Mathura Peda",
+  "cal": 130,
+  "pro": 3,
+  "carb": 16,
+  "fat": 6,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 25 }
+},
+{
+  "name": "Sohan Papdi",
+  "cal": 160,
+  "pro": 3,
+  "carb": 18,
+  "fat": 8,
+  "fib": 0.5,
+  "weights": { "gram": 1, "piece": 20 }
+},
+{
+  "name": "Dilkhush Sweet Bun",
+  "cal": 280,
+  "pro": 6,
+  "carb": 44,
+  "fat": 8,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 90 }
+},
+{
+  "name": "Badam Katli",
+  "cal": 160,
+  "pro": 4,
+  "carb": 18,
+  "fat": 7,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 30 }
+},
+{
+  "name": "Khus Khus Halwa",
+  "cal": 290,
+  "pro": 6,
+  "carb": 24,
+  "fat": 18,
+  "fib": 3,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Lauki Halwa",
+  "cal": 180,
+  "pro": 3,
+  "carb": 28,
+  "fat": 6,
+  "fib": 2,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Pumpkin Halwa (Kaddu Ka Halwa)",
+  "cal": 160,
+  "pro": 2,
+  "carb": 26,
+  "fat": 5,
+  "fib": 2,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Doodh Pak",
+  "cal": 220,
+  "pro": 6,
+  "carb": 32,
+  "fat": 8,
+  "fib": 0,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Sheer Khurma",
+  "cal": 240,
+  "pro": 6,
+  "carb": 30,
+  "fat": 10,
+  "fib": 1,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Paal Payasam",
+  "cal": 185,
+  "pro": 4,
+  "carb": 28,
+  "fat": 6,
+  "fib": 0,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Ada Pradhaman",
+  "cal": 210,
+  "pro": 3,
+  "carb": 30,
+  "fat": 9,
+  "fib": 1,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Palada Payasam",
+  "cal": 190,
+  "pro": 4,
+  "carb": 30,
+  "fat": 6,
+  "fib": 0,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Rava Kesari",
+  "cal": 225,
+  "pro": 4,
+  "carb": 36,
+  "fat": 8,
+  "fib": 1,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Kesari Sheera (Maharashtrian)",
+  "cal": 230,
+  "pro": 4,
+  "carb": 35,
+  "fat": 8,
+  "fib": 1,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Chhena Jhili",
+  "cal": 160,
+  "pro": 4,
+  "carb": 24,
+  "fat": 4,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 40 }
+},
+{
+  "name": "Sukhdi (Gud Papdi)",
+  "cal": 210,
+  "pro": 3,
+  "carb": 22,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 25 }
+},
+{
+  "name": "Patishapta",
+  "cal": 180,
+  "pro": 4,
+  "carb": 26,
+  "fat": 6,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 60 }
+},
+{
+  "name": "Maladu (Roasted Gram Ladoo)",
+  "cal": 150,
+  "pro": 5,
+  "carb": 18,
+  "fat": 6,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 20 }
+},
+{
+  "name": "Pinni (Punjabi)",
+  "cal": 230,
+  "pro": 6,
+  "carb": 24,
+  "fat": 12,
+  "fib": 3,
+  "weights": { "gram": 1, "piece": 35 }
+},
+{
+  "name": "Aate Ka Sheera",
+  "cal": 240,
+  "pro": 5,
+  "carb": 35,
+  "fat": 9,
+  "fib": 3,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Sweet Puffed Rice Balls (Murir Ladoo)",
+  "cal": 120,
+  "pro": 2,
+  "carb": 25,
+  "fat": 1,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 20 }
 }
 ]
