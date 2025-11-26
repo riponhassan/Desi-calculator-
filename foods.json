@@ -14911,5 +14911,455 @@
   "fat": 18,
   "fib": 2,
   "weights": { "gram": 1, "piece": 115, "serving": 115 }
+},
+{
+  "name": "Ragi (Finger Millet) Raw",
+  "cal": 336,
+  "pro": 7,
+  "carb": 72,
+  "fat": 1.5,
+  "fib": 3.6,
+  "weights": { "gram": 1, "cup": 120, "serving": 30 }
+},
+{
+  "name": "Ragi Cooked (Finger Millet)",
+  "cal": 70,
+  "pro": 1.3,
+  "carb": 15,
+  "fat": 0.3,
+  "fib": 1.2,
+  "weights": { "gram": 1, "cup": 150, "bowl": 200 }
+},
+{
+  "name": "Ragi Flour",
+  "cal": 354,
+  "pro": 7,
+  "carb": 72,
+  "fat": 1.8,
+  "fib": 3.5,
+  "weights": { "gram": 1, "cup": 110, "serving": 30 }
+},
+{
+  "name": "Ragi Dosa",
+  "cal": 120,
+  "pro": 3,
+  "carb": 22,
+  "fat": 2,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 80, "serving": 80 }
+},
+{
+  "name": "Ragi Idli",
+  "cal": 55,
+  "pro": 2,
+  "carb": 10,
+  "fat": 0.4,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 40, "serving": 40 }
+},
+{
+  "name": "Ragi Porridge",
+  "cal": 150,
+  "pro": 3,
+  "carb": 28,
+  "fat": 2,
+  "fib": 2,
+  "weights": { "gram": 1, "bowl": 220, "cup": 180 }
+},
+{
+  "name": "Ragi Roti",
+  "cal": 120,
+  "pro": 3,
+  "carb": 21,
+  "fat": 2,
+  "fib": 3,
+  "weights": { "gram": 1, "piece": 50, "serving": 50 }
+},
+{
+  "name": "Bajra (Pearl Millet) Raw",
+  "cal": 361,
+  "pro": 12,
+  "carb": 67,
+  "fat": 5,
+  "fib": 8,
+  "weights": { "gram": 1, "cup": 115, "serving": 30 }
+},
+{
+  "name": "Bajra Cooked",
+  "cal": 95,
+  "pro": 3,
+  "carb": 19,
+  "fat": 1.2,
+  "fib": 2,
+  "weights": { "gram": 1, "cup": 150, "bowl": 200 }
+},
+{
+  "name": "Bajra Flour",
+  "cal": 360,
+  "pro": 10,
+  "carb": 68,
+  "fat": 4,
+  "fib": 7,
+  "weights": { "gram": 1, "cup": 110, "serving": 30 }
+},
+{
+  "name": "Bajra Roti",
+  "cal": 140,
+  "pro": 4,
+  "carb": 25,
+  "fat": 3,
+  "fib": 3,
+  "weights": { "gram": 1, "piece": 55, "serving": 55 }
+},
+{
+  "name": "Bajra Khichdi",
+  "cal": 210,
+  "pro": 6,
+  "carb": 32,
+  "fat": 4,
+  "fib": 4,
+  "weights": { "gram": 1, "bowl": 250, "cup": 180 }
+},
+{
+  "name": "Jowar (Sorghum) Raw",
+  "cal": 329,
+  "pro": 10,
+  "carb": 72,
+  "fat": 3,
+  "fib": 7,
+  "weights": { "gram": 1, "cup": 120, "serving": 30 }
+},
+{
+  "name": "Jowar Cooked",
+  "cal": 99,
+  "pro": 3,
+  "carb": 22,
+  "fat": 0.8,
+  "fib": 2,
+  "weights": { "gram": 1, "cup": 160, "bowl": 220 }
+},
+{
+  "name": "Jowar Flour",
+  "cal": 335,
+  "pro": 9,
+  "carb": 72,
+  "fat": 2.5,
+  "fib": 6,
+  "weights": { "gram": 1, "cup": 115, "serving": 30 }
+},
+{
+  "name": "Jowar Roti",
+  "cal": 130,
+  "pro": 3,
+  "carb": 26,
+  "fat": 1.5,
+  "fib": 3,
+  "weights": { "gram": 1, "piece": 60, "serving": 60 }
+},
+{
+  "name": "Foxtail Millet Raw",
+  "cal": 351,
+  "pro": 11,
+  "carb": 65,
+  "fat": 4,
+  "fib": 7,
+  "weights": { "gram": 1, "cup": 110, "serving": 30 }
+},
+{
+  "name": "Foxtail Millet Cooked",
+  "cal": 105,
+  "pro": 3,
+  "carb": 23,
+  "fat": 1.2,
+  "fib": 2,
+  "weights": { "gram": 1, "cup": 160, "bowl": 220 }
+},
+{
+  "name": "Foxtail Millet Upma",
+  "cal": 198,
+  "pro": 5,
+  "carb": 30,
+  "fat": 5,
+  "fib": 3,
+  "weights": { "gram": 1, "bowl": 240, "cup": 180 }
+},
+{
+  "name": "Foxtail Millet Pulao",
+  "cal": 230,
+  "pro": 5,
+  "carb": 35,
+  "fat": 6,
+  "fib": 3,
+  "weights": { "gram": 1, "bowl": 260, "cup": 190 }
+},
+{
+  "name": "Barnyard Millet Raw",
+  "cal": 342,
+  "pro": 10,
+  "carb": 65,
+  "fat": 4,
+  "fib": 9,
+  "weights": { "gram": 1, "cup": 115, "serving": 30 }
+},
+{
+  "name": "Barnyard Millet Cooked",
+  "cal": 100,
+  "pro": 3,
+  "carb": 22,
+  "fat": 1,
+  "fib": 3,
+  "weights": { "gram": 1, "cup": 150, "bowl": 210 }
+},
+{
+  "name": "Barnyard Millet Khichdi",
+  "cal": 210,
+  "pro": 5,
+  "carb": 34,
+  "fat": 4,
+  "fib": 3,
+  "weights": { "gram": 1, "bowl": 250, "cup": 180 }
+},
+{
+  "name": "Proso Millet Raw",
+  "cal": 360,
+  "pro": 12,
+  "carb": 70,
+  "fat": 4,
+  "fib": 7,
+  "weights": { "gram": 1, "cup": 115, "serving": 30 }
+},
+{
+  "name": "Proso Millet Cooked",
+  "cal": 110,
+  "pro": 3,
+  "carb": 24,
+  "fat": 1,
+  "fib": 2,
+  "weights": { "gram": 1, "cup": 160, "bowl": 220 }
+},
+{
+  "name": "Little Millet Raw",
+  "cal": 341,
+  "pro": 9,
+  "carb": 67,
+  "fat": 4,
+  "fib": 7,
+  "weights": { "gram": 1, "cup": 110, "serving": 30 }
+},
+{
+  "name": "Little Millet Cooked",
+  "cal": 102,
+  "pro": 3,
+  "carb": 23,
+  "fat": 1.2,
+  "fib": 2,
+  "weights": { "gram": 1, "cup": 160, "bowl": 220 }
+},
+{
+  "name": "Little Millet Upma",
+  "cal": 205,
+  "pro": 4,
+  "carb": 32,
+  "fat": 5,
+  "fib": 3,
+  "weights": { "gram": 1, "bowl": 240, "cup": 180 }
+},
+{
+  "name": "Little Millet Lemon Rice",
+  "cal": 215,
+  "pro": 4,
+  "carb": 34,
+  "fat": 5,
+  "fib": 2,
+  "weights": { "gram": 1, "bowl": 260, "cup": 190 }
+},
+{
+  "name": "Little Millet Khichdi",
+  "cal": 210,
+  "pro": 5,
+  "carb": 32,
+  "fat": 4,
+  "fib": 3,
+  "weights": { "gram": 1, "bowl": 250, "cup": 180 }
+},
+{
+  "name": "Kodo Millet Raw",
+  "cal": 353,
+  "pro": 9.5,
+  "carb": 66,
+  "fat": 3.5,
+  "fib": 8,
+  "weights": { "gram": 1, "cup": 110, "serving": 30 }
+},
+{
+  "name": "Kodo Millet Cooked",
+  "cal": 104,
+  "pro": 3,
+  "carb": 23,
+  "fat": 1.1,
+  "fib": 2,
+  "weights": { "gram": 1, "cup": 160, "bowl": 220 }
+},
+{
+  "name": "Kodo Millet Idli",
+  "cal": 58,
+  "pro": 2,
+  "carb": 11,
+  "fat": 0.4,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 40, "serving": 40 }
+},
+{
+  "name": "Kodo Millet Dosa",
+  "cal": 118,
+  "pro": 3,
+  "carb": 22,
+  "fat": 2,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 80, "serving": 80 }
+},
+{
+  "name": "Kodo Millet Pongal",
+  "cal": 230,
+  "pro": 6,
+  "carb": 32,
+  "fat": 7,
+  "fib": 2,
+  "weights": { "gram": 1, "bowl": 250, "cup": 190 }
+},
+{
+  "name": "Ragi Ladoo (1 piece)",
+  "cal": 95,
+  "pro": 2,
+  "carb": 12,
+  "fat": 4,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 25, "serving": 25 }
+},
+{
+  "name": "Jowar Poha",
+  "cal": 180,
+  "pro": 4,
+  "carb": 30,
+  "fat": 4,
+  "fib": 2,
+  "weights": { "gram": 1, "bowl": 230, "cup": 180 }
+},
+{
+  "name": "Barnyard Millet Dosa",
+  "cal": 115,
+  "pro": 3,
+  "carb": 22,
+  "fat": 2,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 75, "serving": 75 }
+},
+{
+  "name": "Foxtail Millet Idli",
+  "cal": 54,
+  "pro": 2,
+  "carb": 11,
+  "fat": 0.4,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 40, "serving": 40 }
+},
+{
+  "name": "Mixed Millet Khichdi",
+  "cal": 230,
+  "pro": 6,
+  "carb": 34,
+  "fat": 6,
+  "fib": 3,
+  "weights": { "gram": 1, "bowl": 250, "cup": 180 }
+},
+{
+  "name": "Millet Vegetable Pulao",
+  "cal": 240,
+  "pro": 4,
+  "carb": 36,
+  "fat": 6,
+  "fib": 3,
+  "weights": { "gram": 1, "bowl": 260, "cup": 190 }
+},
+{
+  "name": "Millet Biryani (Veg)",
+  "cal": 265,
+  "pro": 5,
+  "carb": 38,
+  "fat": 7,
+  "fib": 3,
+  "weights": { "gram": 1, "bowl": 280, "cup": 200 }
+},
+{
+  "name": "Millet Pongal (Mixed Millet)",
+  "cal": 238,
+  "pro": 6,
+  "carb": 32,
+  "fat": 7,
+  "fib": 3,
+  "weights": { "gram": 1, "bowl": 260, "cup": 190 }
+},
+{
+  "name": "Millet Roti (Mixed Flour)",
+  "cal": 125,
+  "pro": 3,
+  "carb": 22,
+  "fat": 2,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 55, "serving": 55 }
+},
+{
+  "name": "Millet Paratha",
+  "cal": 180,
+  "pro": 4,
+  "carb": 26,
+  "fat": 6,
+  "fib": 3,
+  "weights": { "gram": 1, "piece": 80, "serving": 80 }
+},
+{
+  "name": "Ragi Mudde",
+  "cal": 160,
+  "pro": 3,
+  "carb": 30,
+  "fat": 1,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 90, "serving": 90 }
+},
+{
+  "name": "Proso Millet Upma",
+  "cal": 200,
+  "pro": 4,
+  "carb": 31,
+  "fat": 5,
+  "fib": 3,
+  "weights": { "gram": 1, "bowl": 230, "cup": 180 }
+},
+{
+  "name": "Jowar Upma",
+  "cal": 195,
+  "pro": 4,
+  "carb": 30,
+  "fat": 5,
+  "fib": 2,
+  "weights": { "gram": 1, "bowl": 230, "cup": 180 }
+},
+{
+  "name": "Barnyard Millet Lemon Rice",
+  "cal": 210,
+  "pro": 4,
+  "carb": 34,
+  "fat": 5,
+  "fib": 2,
+  "weights": { "gram": 1, "bowl": 260, "cup": 190 }
+},
+{
+  "name": "Millet Salad Bowl (Café Style)",
+  "cal": 260,
+  "pro": 8,
+  "carb": 32,
+  "fat": 9,
+  "fib": 4,
+  "weights": { "gram": 1, "bowl": 300, "serving": 300 }
 }
 ]
