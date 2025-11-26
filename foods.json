@@ -1303,5 +1303,220 @@
     "fat": 0.5,
     "fib": 1,
     "weights": { "gram": 1, "piece": 40, "serving": 80 }
-  }
-]
+  },
+  {
+    "name": "Toor Dal (Cooked)",
+    "cal": 116,
+    "pro": 7.2,
+    "carb": 20,
+    "fat": 1.7,
+    "fib": 3.7,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Moong Dal (Cooked)",
+    "cal": 105,
+    "pro": 7.2,
+    "carb": 17.9,
+    "fat": 0.6,
+    "fib": 2.8,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Masoor Dal (Cooked)",
+    "cal": 120,
+    "pro": 8.5,
+    "carb": 19,
+    "fat": 0.8,
+    "fib": 3.8,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Chana Dal (Cooked)",
+    "cal": 145,
+    "pro": 9,
+    "carb": 25,
+    "fat": 2.2,
+    "fib": 4.8,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Urad Dal (Cooked)",
+    "cal": 131,
+    "pro": 8.4,
+    "carb": 22,
+    "fat": 1,
+    "fib": 5.1,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Moong Dal Tadka",
+    "cal": 150,
+    "pro": 7,
+    "carb": 18,
+    "fat": 5,
+    "fib": 3,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Toor Dal Tadka",
+    "cal": 165,
+    "pro": 8,
+    "carb": 20,
+    "fat": 7,
+    "fib": 4,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Masoor Dal Tadka",
+    "cal": 155,
+    "pro": 9,
+    "carb": 18,
+    "fat": 6,
+    "fib": 4,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Urad Dal Tadka",
+    "cal": 160,
+    "pro": 8,
+    "carb": 19,
+    "fat": 6,
+    "fib": 4,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Dal Fry",
+    "cal": 175,
+    "pro": 8,
+    "carb": 20,
+    "fat": 7.5,
+    "fib": 4,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Dal Tadka",
+    "cal": 160,
+    "pro": 7,
+    "carb": 18,
+    "fat": 7,
+    "fib": 3.5,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Dal Makhani",
+    "cal": 180,
+    "pro": 7,
+    "carb": 18,
+    "fat": 10,
+    "fib": 5,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Punjabi Dal",
+    "cal": 165,
+    "pro": 7.5,
+    "carb": 19,
+    "fat": 7,
+    "fib": 4,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Gujarati Dal",
+    "cal": 140,
+    "pro": 6,
+    "carb": 22,
+    "fat": 4,
+    "fib": 3,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Rajasthani Dal",
+    "cal": 155,
+    "pro": 7,
+    "carb": 20,
+    "fat": 6,
+    "fib": 4,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Bengali Dal",
+    "cal": 150,
+    "pro": 6.5,
+    "carb": 21,
+    "fat": 5,
+    "fib": 3,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "South Indian Sambar",
+    "cal": 90,
+    "pro": 3,
+    "carb": 15,
+    "fat": 2,
+    "fib": 3,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Sambar (Udupi)",
+    "cal": 105,
+    "pro": 3.5,
+    "carb": 17,
+    "fat": 3,
+    "fib": 3,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Rasam (Dal-Based)",
+    "cal": 40,
+    "pro": 1,
+    "carb": 6,
+    "fat": 1,
+    "fib": 1,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Lemon Rasam",
+    "cal": 35,
+    "pro": 1,
+    "carb": 5,
+    "fat": 1,
+    "fib": 0.5,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Pappu (Andhra Style Dal)",
+    "cal": 150,
+    "pro": 7,
+    "carb": 20,
+    "fat": 5,
+    "fib": 4,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Dal Palak",
+    "cal": 130,
+    "pro": 7,
+    "carb": 18,
+    "fat": 3,
+    "fib": 4,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Dal Hariyali",
+    "cal": 140,
+    "pro": 7,
+    "carb": 19,
+    "fat": 4,
+    "fib": 3.5,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+  },
+  {
+    "name": "Mixed Dal (Panchmel)",
+    "cal": 155,
+    "pro": 9,
+    "carb": 20,
+    "fat": 4,
+    "fib": 4,
+    "weights": { "gram": 1, "cup": 200, "serving": 200 }
+    ]
