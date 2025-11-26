@@ -3742,6 +3742,456 @@
     "fat": 7,
     "fib": 0,
     "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Samosa",
+    "cal": 190,
+    "pro": 4,
+    "carb": 22,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 80 }
+  },
+  {
+    "name": "Aloo Samosa",
+    "cal": 200,
+    "pro": 4,
+    "carb": 24,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 80 }
+  },
+  {
+    "name": "Paneer Samosa",
+    "cal": 210,
+    "pro": 6,
+    "carb": 22,
+    "fat": 11,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 80 }
+  },
+  {
+    "name": "Onion Kachori",
+    "cal": 250,
+    "pro": 5,
+    "carb": 30,
+    "fat": 12,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 90 }
+  },
+  {
+    "name": "Dal Kachori",
+    "cal": 260,
+    "pro": 6,
+    "carb": 32,
+    "fat": 12,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 90 }
+  },
+  {
+    "name": "Khasta Kachori",
+    "cal": 270,
+    "pro": 5,
+    "carb": 32,
+    "fat": 14,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 90 }
+  },
+  {
+    "name": "Pakora (Onion)",
+    "cal": 70,
+    "pro": 2,
+    "carb": 8,
+    "fat": 3,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 25 }
+  },
+  {
+    "name": "Pakora (Paneer)",
+    "cal": 90,
+    "pro": 4,
+    "carb": 8,
+    "fat": 5,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 25 }
+  },
+  {
+    "name": "Aloo Bonda",
+    "cal": 150,
+    "pro": 3,
+    "carb": 18,
+    "fat": 7,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 50 }
+  },
+  {
+    "name": "Batata Vada",
+    "cal": 160,
+    "pro": 3,
+    "carb": 20,
+    "fat": 7,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 50 }
+  },
+  {
+    "name": "Bread Pakora",
+    "cal": 240,
+    "pro": 6,
+    "carb": 28,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 90 }
+  },
+  {
+    "name": "Cutlet (Veg)",
+    "cal": 160,
+    "pro": 4,
+    "carb": 20,
+    "fat": 7,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 70 }
+  },
+  {
+    "name": "Hara Bhara Kabab",
+    "cal": 80,
+    "pro": 3,
+    "carb": 8,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Veg Spring Roll",
+    "cal": 100,
+    "pro": 3,
+    "carb": 12,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Dhokla",
+    "cal": 45,
+    "pro": 2,
+    "carb": 7,
+    "fat": 1,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Khandvi",
+    "cal": 60,
+    "pro": 3,
+    "carb": 6,
+    "fat": 2,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Bhel Puri",
+    "cal": 180,
+    "pro": 4,
+    "carb": 28,
+    "fat": 6,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Sev Puri",
+    "cal": 220,
+    "pro": 4,
+    "carb": 30,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Dahi Puri",
+    "cal": 200,
+    "pro": 5,
+    "carb": 28,
+    "fat": 7,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Papdi Chaat",
+    "cal": 210,
+    "pro": 5,
+    "carb": 30,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Aloo Chaat",
+    "cal": 190,
+    "pro": 3,
+    "carb": 26,
+    "fat": 8,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Haldiram Aloo Bhujia",
+    "cal": 540,
+    "pro": 10,
+    "carb": 42,
+    "fat": 35,
+    "fib": 4,
+    "weights": { "gram": 1, "100g": 100 }
+  },
+  {
+    "name": "Haldiram Navratan Mixture",
+    "cal": 550,
+    "pro": 11,
+    "carb": 44,
+    "fat": 36,
+    "fib": 4,
+    "weights": { "gram": 1, "100g": 100 }
+  },
+  {
+    "name": "Sev (Gram Flour)",
+    "cal": 540,
+    "pro": 10,
+    "carb": 42,
+    "fat": 35,
+    "fib": 4,
+    "weights": { "gram": 1, "100g": 100 }
+  },
+  {
+    "name": "Chiwda Poha Mix",
+    "cal": 400,
+    "pro": 7,
+    "carb": 64,
+    "fat": 12,
+    "fib": 3,
+    "weights": { "gram": 1, "100g": 100 }
+  },
+  {
+    "name": "Murukku",
+    "cal": 520,
+    "pro": 8,
+    "carb": 60,
+    "fat": 26,
+    "fib": 3,
+    "weights": { "gram": 1, "100g": 100 }
+  },
+  {
+    "name": "Chakli",
+    "cal": 500,
+    "pro": 8,
+    "carb": 56,
+    "fat": 24,
+    "fib": 3,
+    "weights": { "gram": 1, "100g": 100 }
+  },
+  {
+    "name": "Mathri",
+    "cal": 110,
+    "pro": 2,
+    "carb": 12,
+    "fat": 6,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 20 }
+  },
+  {
+    "name": "Namak Para",
+    "cal": 120,
+    "pro": 2,
+    "carb": 14,
+    "fat": 6,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 20 }
+  },
+  {
+    "name": "Masala Papad",
+    "cal": 80,
+    "pro": 4,
+    "carb": 10,
+    "fat": 3,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 20 }
+  },
+  {
+    "name": "Papad (Fried)",
+    "cal": 70,
+    "pro": 2,
+    "carb": 8,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 10 }
+  },
+  {
+    "name": "Moong Dal Namkeen",
+    "cal": 480,
+    "pro": 22,
+    "carb": 46,
+    "fat": 24,
+    "fib": 5,
+    "weights": { "gram": 1, "100g": 100 }
+  },
+  {
+    "name": "Masala Peanuts",
+    "cal": 560,
+    "pro": 20,
+    "carb": 25,
+    "fat": 45,
+    "fib": 7,
+    "weights": { "gram": 1, "100g": 100 }
+  },
+  {
+    "name": "Peanut Chikki",
+    "cal": 90,
+    "pro": 3,
+    "carb": 12,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 20 }
+  },
+  {
+    "name": "Sesame Chikki (Tilgul)",
+    "cal": 100,
+    "pro": 2,
+    "carb": 14,
+    "fat": 5,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 20 }
+  },
+  {
+    "name": "Sabudana Vada",
+    "cal": 160,
+    "pro": 2,
+    "carb": 20,
+    "fat": 7,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 50 }
+  },
+  {
+    "name": "Medu Vada",
+    "cal": 160,
+    "pro": 4,
+    "carb": 18,
+    "fat": 7,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 50 }
+  },
+  {
+    "name": "Dal Vada",
+    "cal": 150,
+    "pro": 5,
+    "carb": 16,
+    "fat": 7,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 50 }
+  },
+  {
+    "name": "Paneer Pakora",
+    "cal": 110,
+    "pro": 5,
+    "carb": 8,
+    "fat": 6,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Mirchi Bhaji",
+    "cal": 140,
+    "pro": 3,
+    "carb": 16,
+    "fat": 7,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 50 }
+  },
+  {
+    "name": "Kanda Bhaji",
+    "cal": 75,
+    "pro": 2,
+    "carb": 8,
+    "fat": 3,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 25 }
+  },
+  {
+    "name": "Vada Pav (Snack)",
+    "cal": 290,
+    "pro": 6,
+    "carb": 36,
+    "fat": 12,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 150 }
+  },
+  {
+    "name": "Dabeli",
+    "cal": 300,
+    "pro": 6,
+    "carb": 40,
+    "fat": 12,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 150 }
+  },
+  {
+    "name": "Masala Corn",
+    "cal": 160,
+    "pro": 4,
+    "carb": 28,
+    "fat": 4,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Sweet Corn Chaat",
+    "cal": 140,
+    "pro": 4,
+    "carb": 26,
+    "fat": 3,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Lays Potato Chips",
+    "cal": 540,
+    "pro": 6,
+    "carb": 50,
+    "fat": 36,
+    "fib": 3,
+    "weights": { "gram": 1, "100g": 100 }
+  },
+  {
+    "name": "Kurkure Masala Munch",
+    "cal": 510,
+    "pro": 6,
+    "carb": 56,
+    "fat": 28,
+    "fib": 2,
+    "weights": { "gram": 1, "100g": 100 }
+  },
+  {
+    "name": "Bingo Mad Angles",
+    "cal": 520,
+    "pro": 7,
+    "carb": 58,
+    "fat": 28,
+    "fib": 2,
+    "weights": { "gram": 1, "100g": 100 }
+  },
+  {
+    "name": "Parle-G Biscuits",
+    "cal": 450,
+    "pro": 6,
+    "carb": 75,
+    "fat": 12,
+    "fib": 2,
+    "weights": { "gram": 1, "100g": 100 }
+  },
+  {
+    "name": "Britannia Marie Gold",
+    "cal": 430,
+    "pro": 8,
+    "carb": 76,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "100g": 100 }
   }
 ]
 
