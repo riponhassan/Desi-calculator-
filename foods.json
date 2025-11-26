@@ -11320,5 +11320,455 @@
   "fat": 9,
   "fib": 0,
   "weights": { "gram": 1, "portion": 190, "pieces": 6 }
+},
+{
+  "name": "Butter Chicken (Boneless)",
+  "cal": 290,
+  "pro": 24,
+  "carb": 9,
+  "fat": 18,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 320, "pieces": 1 }
+},
+{
+  "name": "Chicken Tikka Masala",
+  "cal": 305,
+  "pro": 26,
+  "carb": 10,
+  "fat": 19,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 330, "pieces": 1 }
+},
+{
+  "name": "Mutton Rogan Josh",
+  "cal": 340,
+  "pro": 28,
+  "carb": 8,
+  "fat": 23,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 300, "pieces": 1 }
+},
+{
+  "name": "Chicken Lababdar",
+  "cal": 315,
+  "pro": 25,
+  "carb": 11,
+  "fat": 20,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 330, "pieces": 1 }
+},
+{
+  "name": "Mutton Handi Curry",
+  "cal": 355,
+  "pro": 29,
+  "carb": 9,
+  "fat": 25,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 320, "pieces": 1 }
+},
+{
+  "name": "Chicken Korma Mughlai",
+  "cal": 320,
+  "pro": 24,
+  "carb": 10,
+  "fat": 21,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 330, "pieces": 1 }
+},
+{
+  "name": "Egg Curry Punjabi",
+  "cal": 245,
+  "pro": 16,
+  "carb": 8,
+  "fat": 15,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 300, "pieces": 2 }
+},
+{
+  "name": "Mutton Bhuna Gosht",
+  "cal": 350,
+  "pro": 28,
+  "carb": 7,
+  "fat": 24,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 300, "pieces": 1 }
+},
+{
+  "name": "Chicken Masala Dhaba Style",
+  "cal": 310,
+  "pro": 25,
+  "carb": 10,
+  "fat": 19,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 320, "pieces": 1 }
+},
+{
+  "name": "Fish Curry (Coastal Style)",
+  "cal": 280,
+  "pro": 26,
+  "carb": 6,
+  "fat": 17,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 300, "pieces": 1 }
+},
+{
+  "name": "Prawn Masala Curry",
+  "cal": 290,
+  "pro": 27,
+  "carb": 7,
+  "fat": 17,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 280, "pieces": 1 }
+},
+{
+  "name": "Chicken Hyderabadi Curry",
+  "cal": 320,
+  "pro": 26,
+  "carb": 8,
+  "fat": 20,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 330, "pieces": 1 }
+},
+{
+  "name": "Mutton Do Pyaza",
+  "cal": 335,
+  "pro": 28,
+  "carb": 9,
+  "fat": 22,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 320, "pieces": 1 }
+},
+{
+  "name": "Chicken Chettinad Curry",
+  "cal": 310,
+  "pro": 26,
+  "carb": 8,
+  "fat": 19,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 320, "pieces": 1 }
+},
+{
+  "name": "Egg Masala Curry (South Indian)",
+  "cal": 250,
+  "pro": 17,
+  "carb": 8,
+  "fat": 15,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 300, "pieces": 2 }
+},
+{
+  "name": "Chicken Dhaba Curry (North Indian)",
+  "cal": 320,
+  "pro": 26,
+  "carb": 10,
+  "fat": 20,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 320, "pieces": 1 }
+},
+{
+  "name": "Mutton Curry Bengali Style",
+  "cal": 345,
+  "pro": 28,
+  "carb": 9,
+  "fat": 23,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 310, "pieces": 1 }
+},
+{
+  "name": "Fish Masala Curry (Tomato Base)",
+  "cal": 270,
+  "pro": 25,
+  "carb": 7,
+  "fat": 15,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 290, "pieces": 1 }
+},
+{
+  "name": "Chicken Kali Mirch Curry",
+  "cal": 315,
+  "pro": 26,
+  "carb": 8,
+  "fat": 20,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 330, "pieces": 1 }
+},
+{
+  "name": "Mutton Nihari",
+  "cal": 370,
+  "pro": 29,
+  "carb": 8,
+  "fat": 26,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 320, "pieces": 1 }
+},
+{
+  "name": "Chicken Vindaloo",
+  "cal": 310,
+  "pro": 26,
+  "carb": 9,
+  "fat": 19,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 300, "pieces": 1 }
+},
+{
+  "name": "Mutton Saagwala",
+  "cal": 325,
+  "pro": 28,
+  "carb": 7,
+  "fat": 21,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 320, "pieces": 1 }
+},
+{
+  "name": "Chicken Kolhapuri",
+  "cal": 320,
+  "pro": 26,
+  "carb": 9,
+  "fat": 20,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 320, "pieces": 1 }
+},
+{
+  "name": "Mutton Curry (Kerala Style)",
+  "cal": 345,
+  "pro": 27,
+  "carb": 8,
+  "fat": 24,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 310, "pieces": 1 }
+},
+{
+  "name": "Chicken Bhuna Masala",
+  "cal": 305,
+  "pro": 25,
+  "carb": 9,
+  "fat": 19,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 310, "pieces": 1 }
+},
+{
+  "name": "Chicken Handi Boneless",
+  "cal": 315,
+  "pro": 26,
+  "carb": 9,
+  "fat": 20,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 330, "pieces": 1 }
+},
+{
+  "name": "Mutton Handi Lahori",
+  "cal": 360,
+  "pro": 29,
+  "carb": 8,
+  "fat": 25,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 320, "pieces": 1 }
+},
+{
+  "name": "Chicken Mughlai Curry",
+  "cal": 325,
+  "pro": 25,
+  "carb": 10,
+  "fat": 21,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 340, "pieces": 1 }
+},
+{
+  "name": "Mutton Badami Korma",
+  "cal": 350,
+  "pro": 28,
+  "carb": 9,
+  "fat": 23,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 330, "pieces": 1 }
+},
+{
+  "name": "Chicken Nawabi Masala",
+  "cal": 315,
+  "pro": 25,
+  "carb": 10,
+  "fat": 19,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 320, "pieces": 1 }
+},
+{
+  "name": "Fish Tawa Masala Curry",
+  "cal": 275,
+  "pro": 26,
+  "carb": 7,
+  "fat": 15,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 300, "pieces": 1 }
+},
+{
+  "name": "Chicken Rara Curry",
+  "cal": 320,
+  "pro": 27,
+  "carb": 9,
+  "fat": 20,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 330, "pieces": 1 }
+},
+{
+  "name": "Keema Masala (Chicken)",
+  "cal": 310,
+  "pro": 27,
+  "carb": 8,
+  "fat": 19,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 320, "pieces": 1 }
+},
+{
+  "name": "Keema Masala (Mutton)",
+  "cal": 350,
+  "pro": 29,
+  "carb": 7,
+  "fat": 24,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 320, "pieces": 1 }
+},
+{
+  "name": "Chicken Peshawari Curry",
+  "cal": 320,
+  "pro": 26,
+  "carb": 9,
+  "fat": 20,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 330, "pieces": 1 }
+},
+{
+  "name": "Mutton Handi Bhuna Masala",
+  "cal": 360,
+  "pro": 29,
+  "carb": 8,
+  "fat": 25,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 330, "pieces": 1 }
+},
+{
+  "name": "Chicken Angara Curry",
+  "cal": 315,
+  "pro": 25,
+  "carb": 10,
+  "fat": 20,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 320, "pieces": 1 }
+},
+{
+  "name": "Fish Malabar Curry",
+  "cal": 285,
+  "pro": 26,
+  "carb": 7,
+  "fat": 16,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 310, "pieces": 1 }
+},
+{
+  "name": "Chicken Tawa Masala",
+  "cal": 300,
+  "pro": 25,
+  "carb": 10,
+  "fat": 18,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 310, "pieces": 1 }
+},
+{
+  "name": "Mutton Kolhapuri",
+  "cal": 350,
+  "pro": 29,
+  "carb": 8,
+  "fat": 23,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 330, "pieces": 1 }
+},
+{
+  "name": "Chicken Saagwala",
+  "cal": 295,
+  "pro": 26,
+  "carb": 8,
+  "fat": 16,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 310, "pieces": 1 }
+},
+{
+  "name": "Egg Masala Mughlai",
+  "cal": 260,
+  "pro": 17,
+  "carb": 8,
+  "fat": 16,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 300, "pieces": 2 }
+},
+{
+  "name": "Chicken Kashmiri Masala",
+  "cal": 310,
+  "pro": 25,
+  "carb": 11,
+  "fat": 19,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 330, "pieces": 1 }
+},
+{
+  "name": "Fish Coconut Curry",
+  "cal": 290,
+  "pro": 25,
+  "carb": 7,
+  "fat": 17,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 310, "pieces": 1 }
+},
+{
+  "name": "Chicken Khada Masala Curry",
+  "cal": 315,
+  "pro": 26,
+  "carb": 9,
+  "fat": 20,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 320, "pieces": 1 }
+},
+{
+  "name": "Mutton Vindaloo",
+  "cal": 350,
+  "pro": 29,
+  "carb": 9,
+  "fat": 23,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 320, "pieces": 1 }
+},
+{
+  "name": "Chicken Tawa Roast Masala",
+  "cal": 305,
+  "pro": 26,
+  "carb": 9,
+  "fat": 18,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 300, "pieces": 1 }
+},
+{
+  "name": "Prawn Curry Konkani Style",
+  "cal": 285,
+  "pro": 26,
+  "carb": 7,
+  "fat": 16,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 280, "pieces": 1 }
+},
+{
+  "name": "Chicken Masala Kerala Style",
+  "cal": 310,
+  "pro": 26,
+  "carb": 8,
+  "fat": 19,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 320, "pieces": 1 }
+},
+{
+  "name": "Mutton Curry Punjabi Handi",
+  "cal": 355,
+  "pro": 29,
+  "carb": 8,
+  "fat": 24,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 330, "pieces": 1 }
 }
 ]
