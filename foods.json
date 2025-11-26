@@ -6847,5 +6847,428 @@
     "fat": 0.2,
     "fib": 3,
     "weights": { "gram": 1, "cup": 240, "bowl": 200, "100g": 100 }
+  },
+  {
+    "name": "Tamarind Chutney (Imli Chutney)",
+    "cal": 65,
+    "pro": 1,
+    "carb": 15,
+    "fat": 0.5,
+    "fib": 1,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Curry Leaves Chutney",
+    "cal": 55,
+    "pro": 2,
+    "carb": 6,
+    "fat": 2,
+    "fib": 2,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Sesame Chutney (Til Chutney)",
+    "cal": 120,
+    "pro": 3,
+    "carb": 5,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Jaggery Tamarind Chutney",
+    "cal": 110,
+    "pro": 1,
+    "carb": 27,
+    "fat": 0.5,
+    "fib": 1,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Capsicum Chutney",
+    "cal": 45,
+    "pro": 1,
+    "carb": 7,
+    "fat": 1.5,
+    "fib": 1,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Green Chilli Chutney",
+    "cal": 35,
+    "pro": 1,
+    "carb": 4,
+    "fat": 1,
+    "fib": 1,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Red Chilli Garlic Chutney",
+    "cal": 95,
+    "pro": 2,
+    "carb": 8,
+    "fat": 6,
+    "fib": 2,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Chilli Peanut Chutney",
+    "cal": 130,
+    "pro": 4,
+    "carb": 6,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Andhra Spicy Chutney",
+    "cal": 60,
+    "pro": 1,
+    "carb": 8,
+    "fat": 2,
+    "fib": 2,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Instant Mango Pickle (No Oil)",
+    "cal": 45,
+    "pro": 1,
+    "carb": 8,
+    "fat": 0.5,
+    "fib": 2,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Oil-Free Green Chutney",
+    "cal": 20,
+    "pro": 1,
+    "carb": 3,
+    "fat": 0,
+    "fib": 1,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Oil-Free Tomato Chutney",
+    "cal": 30,
+    "pro": 1,
+    "carb": 5,
+    "fat": 0.3,
+    "fib": 1,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Flaxseed Chutney (Alsi Chutney)",
+    "cal": 150,
+    "pro": 4,
+    "carb": 8,
+    "fat": 12,
+    "fib": 3,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Curry Leaf Podi",
+    "cal": 110,
+    "pro": 3,
+    "carb": 6,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Idli Podi (Gunpowder Chutney)",
+    "cal": 155,
+    "pro": 5,
+    "carb": 10,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Sesame Peanut Podi",
+    "cal": 160,
+    "pro": 5,
+    "carb": 8,
+    "fat": 12,
+    "fib": 2,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Pickled Onions (Vinegar)",
+    "cal": 25,
+    "pro": 1,
+    "carb": 5,
+    "fat": 0,
+    "fib": 1,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Pickled Carrots",
+    "cal": 30,
+    "pro": 1,
+    "carb": 7,
+    "fat": 0.1,
+    "fib": 2,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Pickled Green Chillies",
+    "cal": 20,
+    "pro": 1,
+    "carb": 3,
+    "fat": 0.2,
+    "fib": 1,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Sweet Coconut Chutney",
+    "cal": 110,
+    "pro": 1,
+    "carb": 12,
+    "fat": 7,
+    "fib": 2,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Dry Coconut Chutney Powder",
+    "cal": 160,
+    "pro": 3,
+    "carb": 8,
+    "fat": 14,
+    "fib": 3,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Coriander Peanut Chutney",
+    "cal": 100,
+    "pro": 3,
+    "carb": 6,
+    "fat": 7,
+    "fib": 1,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Roasted Chilli Sesame Chutney",
+    "cal": 120,
+    "pro": 3,
+    "carb": 7,
+    "fat": 9,
+    "fib": 2,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Mango Pickle (Aam Ka Achar)",
+    "cal": 120,
+    "pro": 1,
+    "carb": 4,
+    "fat": 10,
+    "fib": 1,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Lemon Pickle (Nimbu Achar)",
+    "cal": 110,
+    "pro": 1,
+    "carb": 6,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Mixed Vegetable Pickle",
+    "cal": 130,
+    "pro": 2,
+    "carb": 5,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Green Chilli Pickle",
+    "cal": 90,
+    "pro": 1,
+    "carb": 3,
+    "fat": 7,
+    "fib": 1,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Red Chilli Pickle",
+    "cal": 100,
+    "pro": 2,
+    "carb": 4,
+    "fat": 7,
+    "fib": 2,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Garlic Pickle (Lahsun Achar)",
+    "cal": 140,
+    "pro": 3,
+    "carb": 7,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Ginger Pickle",
+    "cal": 85,
+    "pro": 1,
+    "carb": 4,
+    "fat": 6,
+    "fib": 1,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Amla Pickle",
+    "cal": 95,
+    "pro": 1,
+    "carb": 5,
+    "fat": 7,
+    "fib": 3,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Gongura Pickle (Andhra)",
+    "cal": 100,
+    "pro": 2,
+    "carb": 6,
+    "fat": 7,
+    "fib": 2,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Tomato Pickle (Andhra)",
+    "cal": 110,
+    "pro": 2,
+    "carb": 6,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Chicken Pickle (Hyderabadi)",
+    "cal": 160,
+    "pro": 10,
+    "carb": 3,
+    "fat": 12,
+    "fib": 0,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Prawn Pickle",
+    "cal": 150,
+    "pro": 9,
+    "carb": 3,
+    "fat": 11,
+    "fib": 0,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Bamboo Shoot Pickle",
+    "cal": 80,
+    "pro": 2,
+    "carb": 4,
+    "fat": 5,
+    "fib": 2,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Kerala Mango Pickle (Instant)",
+    "cal": 105,
+    "pro": 1,
+    "carb": 5,
+    "fat": 7,
+    "fib": 1,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Punjabi Achar",
+    "cal": 130,
+    "pro": 2,
+    "carb": 6,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Gujarati Sweet Mango Pickle (Chhundo)",
+    "cal": 220,
+    "pro": 0.5,
+    "carb": 55,
+    "fat": 1,
+    "fib": 1,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Lemon Sweet Pickle",
+    "cal": 210,
+    "pro": 1,
+    "carb": 50,
+    "fat": 3,
+    "fib": 3,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Green Chutney (Coriander Mint)",
+    "cal": 40,
+    "pro": 1,
+    "carb": 4,
+    "fat": 2,
+    "fib": 1,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Mint Chutney",
+    "cal": 35,
+    "pro": 1,
+    "carb": 4,
+    "fat": 1.5,
+    "fib": 1,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Coconut Chutney (South Indian)",
+    "cal": 90,
+    "pro": 2,
+    "carb": 4,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Roasted Peanut Chutney",
+    "cal": 130,
+    "pro": 4,
+    "carb": 6,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Tomato Chutney (South Indian)",
+    "cal": 45,
+    "pro": 1,
+    "carb": 7,
+    "fat": 1.5,
+    "fib": 1,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Onion Chutney",
+    "cal": 55,
+    "pro": 1,
+    "carb": 8,
+    "fat": 2,
+    "fib": 1,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
+  },
+  {
+    "name": "Dry Garlic Chutney",
+    "cal": 150,
+    "pro": 3,
+    "carb": 9,
+    "fat": 12,
+    "fib": 2,
+    "weights": { "gram": 1, "tsp": 5, "tbsp": 15, "100g": 100 }
   }
 ]
