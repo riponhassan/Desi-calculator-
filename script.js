@@ -23,21 +23,30 @@ const setGoalBtn = document.getElementById("set-goal-btn");
 const undoBtn = document.getElementById("undo-btn");
 
 /* ============================================================
-   1. LOAD THE DATABASE (foods.json)
+   1. LOAD THE DATABASE (Multiple Files)
    ============================================================ */
-fetch("foods.json")
-  .then((response) => {
-    if (!response.ok) throw new Error("HTTP error " + response.status);
-    return response.json();
-  })
-  .then((data) => {
-    foodDB = data;
-    console.log("Database loaded:", foodDB.length, "items");
-  })
-  .catch((err) => {
+// List of all your data files
+const fileList = ['foods_part1.json', 'foods_part2.json'];
+
+Promise.all(fileList.map(file => 
+    fetch(file).then(response => {
+        if (!response.ok) throw new Error(`Failed to load ${file} (Status: ${response.status})`);
+        return response.json();
+    })
+))
+.then(results => {
+    // Combine all files into one big list (Flat)
+    foodDB = results.flat();
+    
+    // Sort alphabetically so A-Z search looks good
+    foodDB.sort((a, b) => a.name.localeCompare(b.name));
+    
+    console.log("Database loaded: " + foodDB.length + " items from " + fileList.length + " files.");
+})
+.catch(err => {
     console.error("Error loading food database:", err);
-    alert("Could not load foods.json — please upload it correctly.");
-  });
+    alert("System Error: One of the data files failed to load. Check console for details.");
+});
 
 /* ============================================================
    2. SEARCH AUTOCOMPLETE
@@ -51,6 +60,7 @@ searchInput.addEventListener("input", function () {
     return;
   }
 
+  // Filter the combined database
   const matches = foodDB
     .filter((f) => f.name.toLowerCase().includes(query))
     .slice(0, 10);
@@ -165,8 +175,10 @@ function updateUI() {
 /* Animate circle chart */
 function updateCircle() {
   const chart = document.getElementById("cal-circle-chart");
-  const goal = parseInt(goalInput.value) || 2000;
+  // Check if element exists before updating (safety check)
+  if (!chart) return; 
 
+  const goal = parseInt(goalInput.value) || 2000;
   const pct = Math.min((totals.cal / goal) * 100, 100);
 
   chart.style.background = `
@@ -176,6 +188,10 @@ function updateCircle() {
 
 /* Fill nutrient bars based on logical max values */
 function updateBars() {
+  // Safety check: ensure elements exist
+  const proBar = document.querySelector(".pro .fill");
+  if (!proBar) return;
+
   const bars = {
     pro: Math.min((totals.pro / 150) * 100, 100),
     carb: Math.min((totals.carb / 300) * 100, 100),
@@ -207,38 +223,43 @@ function addToList(name, unit, qty, cal) {
 /* ============================================================
    6. UNDO LAST ITEM
    ============================================================ */
-undoBtn.addEventListener("click", () => {
-  if (!lastEntry) {
-    alert("No recent item to undo.");
-    return;
-  }
+// Safety check: ensure button exists
+if (undoBtn) {
+    undoBtn.addEventListener("click", () => {
+      if (!lastEntry) {
+        alert("No recent item to undo.");
+        return;
+      }
 
-  // Subtract the previous entry
-  totals.cal -= lastEntry.added.cal;
-  totals.pro -= lastEntry.added.pro;
-  totals.carb -= lastEntry.added.carb;
-  totals.fat -= lastEntry.added.fat;
-  totals.fib -= lastEntry.added.fib;
+      // Subtract the previous entry
+      totals.cal -= lastEntry.added.cal;
+      totals.pro -= lastEntry.added.pro;
+      totals.carb -= lastEntry.added.carb;
+      totals.fat -= lastEntry.added.fat;
+      totals.fib -= lastEntry.added.fib;
 
-  // Remove the first list item
-  if (foodList.firstChild) {
-    foodList.firstChild.remove();
-  }
+      // Remove the first list item
+      if (foodList.firstChild) {
+        foodList.firstChild.remove();
+      }
 
-  lastEntry = null;
-  updateUI();
-});
+      lastEntry = null;
+      updateUI();
+    });
+}
 
 /* ============================================================
    7. SET GOAL
    ============================================================ */
-setGoalBtn.addEventListener("click", () => {
-  if (!goalInput.value || goalInput.value < 500) {
-    alert("Enter a valid daily goal (e.g., 2000).");
-    return;
-  }
-  updateCircle();
-});
+if (setGoalBtn) {
+    setGoalBtn.addEventListener("click", () => {
+      if (!goalInput.value || goalInput.value < 500) {
+        alert("Enter a valid daily goal (e.g., 2000).");
+        return;
+      }
+      updateCircle();
+    });
+}
 
 /* ============================================================
    8. RESET CALCULATOR
