@@ -5524,5 +5524,455 @@
     "fat": 10,
     "fib": 3,
     "weights": { "gram": 1, "bowl": 200, "100g": 100 }
+  },
+  {
+    "name": "Idli",
+    "cal": 39,
+    "pro": 2,
+    "carb": 7,
+    "fat": 0.3,
+    "fib": 0.3,
+    "weights": { "gram": 1, "piece": 35 }
+  },
+  {
+    "name": "Medu Vada",
+    "cal": 97,
+    "pro": 2,
+    "carb": 8,
+    "fat": 6,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Dosa (Plain)",
+    "cal": 133,
+    "pro": 3,
+    "carb": 22,
+    "fat": 3,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 120 }
+  },
+  {
+    "name": "Masala Dosa",
+    "cal": 168,
+    "pro": 4,
+    "carb": 26,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 150 }
+  },
+  {
+    "name": "Rava Dosa",
+    "cal": 120,
+    "pro": 3,
+    "carb": 20,
+    "fat": 3,
+    "fib": 0.5,
+    "weights": { "gram": 1, "piece": 120 }
+  },
+  {
+    "name": "Onion Uttapam",
+    "cal": 190,
+    "pro": 5,
+    "carb": 28,
+    "fat": 5,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 150 }
+  },
+  {
+    "name": "Rava Upma",
+    "cal": 120,
+    "pro": 3,
+    "carb": 20,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "cup": 140 }
+  },
+  {
+    "name": "Poha",
+    "cal": 150,
+    "pro": 3,
+    "carb": 27,
+    "fat": 3,
+    "fib": 2,
+    "weights": { "gram": 1, "cup": 140 }
+  },
+  {
+    "name": "Aloo Poha",
+    "cal": 180,
+    "pro": 3,
+    "carb": 30,
+    "fat": 5,
+    "fib": 2,
+    "weights": { "gram": 1, "cup": 150 }
+  },
+  {
+    "name": "Sabudana Khichdi",
+    "cal": 230,
+    "pro": 2,
+    "carb": 40,
+    "fat": 8,
+    "fib": 1,
+    "weights": { "gram": 1, "cup": 150 }
+  },
+  {
+    "name": "Ven Pongal",
+    "cal": 180,
+    "pro": 5,
+    "carb": 30,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "cup": 160 }
+  },
+  {
+    "name": "Khara Pongal",
+    "cal": 185,
+    "pro": 6,
+    "carb": 30,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "cup": 160 }
+  },
+  {
+    "name": "Upma with Vegetables",
+    "cal": 150,
+    "pro": 4,
+    "carb": 24,
+    "fat": 5,
+    "fib": 3,
+    "weights": { "gram": 1, "cup": 150 }
+  },
+  {
+    "name": "Pesarattu (Green Moong Dosa)",
+    "cal": 120,
+    "pro": 7,
+    "carb": 18,
+    "fat": 2,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 120 }
+  },
+  {
+    "name": "Appam",
+    "cal": 120,
+    "pro": 2,
+    "carb": 24,
+    "fat": 2,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 80 }
+  },
+  {
+    "name": "Idiyappam",
+    "cal": 100,
+    "pro": 2,
+    "carb": 22,
+    "fat": 0.3,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 60 }
+  },
+  {
+    "name": "Poori (1 piece)",
+    "cal": 80,
+    "pro": 2,
+    "carb": 11,
+    "fat": 3.5,
+    "fib": 0.5,
+    "weights": { "gram": 1, "piece": 25 }
+  },
+  {
+    "name": "Poori Bhaji (1 plate)",
+    "cal": 320,
+    "pro": 6,
+    "carb": 44,
+    "fat": 12,
+    "fib": 3,
+    "weights": { "gram": 1, "plate": 200 }
+  },
+  {
+    "name": "Thepla",
+    "cal": 120,
+    "pro": 3,
+    "carb": 18,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 60 }
+  },
+  {
+    "name": "Methi Thepla",
+    "cal": 130,
+    "pro": 4,
+    "carb": 18,
+    "fat": 5,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 60 }
+  },
+  {
+    "name": "Dhokla",
+    "cal": 160,
+    "pro": 5,
+    "carb": 24,
+    "fat": 5,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Handvo",
+    "cal": 180,
+    "pro": 6,
+    "carb": 28,
+    "fat": 5,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 80 }
+  },
+  {
+    "name": "Aloo Paratha",
+    "cal": 210,
+    "pro": 4,
+    "carb": 32,
+    "fat": 8,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 100 }
+  },
+  {
+    "name": "Paneer Paratha",
+    "cal": 240,
+    "pro": 7,
+    "carb": 30,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 100 }
+  },
+  {
+    "name": "Chole Bhature (1 plate)",
+    "cal": 420,
+    "pro": 10,
+    "carb": 50,
+    "fat": 16,
+    "fib": 5,
+    "weights": { "gram": 1, "plate": 250 }
+  }
+  {
+    "name": "Moong Dal Chilla",
+    "cal": 110,
+    "pro": 6,
+    "carb": 14,
+    "fat": 3,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 60 }
+  },
+  {
+    "name": "Besan Chilla",
+    "cal": 130,
+    "pro": 6,
+    "carb": 16,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 70 }
+  },
+  {
+    "name": "Ragi Dosa",
+    "cal": 120,
+    "pro": 3,
+    "carb": 22,
+    "fat": 3,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 120 }
+  },
+  {
+    "name": "Ragi Idli",
+    "cal": 45,
+    "pro": 2,
+    "carb": 8,
+    "fat": 0.4,
+    "fib": 0.5,
+    "weights": { "gram": 1, "piece": 35 }
+  },
+  {
+    "name": "Rava Idli",
+    "cal": 55,
+    "pro": 2,
+    "carb": 10,
+    "fat": 1,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Idli Fry",
+    "cal": 90,
+    "pro": 2,
+    "carb": 12,
+    "fat": 3,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Bread Upma",
+    "cal": 200,
+    "pro": 5,
+    "carb": 28,
+    "fat": 8,
+    "fib": 3,
+    "weights": { "gram": 1, "cup": 150 }
+  },
+  {
+    "name": "Vegetable Oats",
+    "cal": 140,
+    "pro": 5,
+    "carb": 22,
+    "fat": 3,
+    "fib": 4,
+    "weights": { "gram": 1, "cup": 160 }
+  },
+  {
+    "name": "Oats Upma",
+    "cal": 150,
+    "pro": 5,
+    "carb": 24,
+    "fat": 4,
+    "fib": 4,
+    "weights": { "gram": 1, "cup": 160 }
+  },
+  {
+    "name": "Oats Porridge (Milk)",
+    "cal": 180,
+    "pro": 6,
+    "carb": 26,
+    "fat": 5,
+    "fib": 3,
+    "weights": { "gram": 1, "cup": 180 }
+  },
+  {
+    "name": "Oats Porridge (Water)",
+    "cal": 110,
+    "pro": 4,
+    "carb": 18,
+    "fat": 2,
+    "fib": 3,
+    "weights": { "gram": 1, "cup": 180 }
+  },
+  {
+    "name": "Paneer Sandwich",
+    "cal": 220,
+    "pro": 10,
+    "carb": 24,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 120 }
+  },
+  {
+    "name": "Veg Sandwich",
+    "cal": 180,
+    "pro": 5,
+    "carb": 28,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 120 }
+  },
+  {
+    "name": "Egg Omelette",
+    "cal": 150,
+    "pro": 10,
+    "carb": 1,
+    "fat": 12,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 90 }
+  },
+  {
+    "name": "Masala Omelette",
+    "cal": 170,
+    "pro": 11,
+    "carb": 2,
+    "fat": 13,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 100 }
+  },
+  {
+    "name": "Anda Bhurji",
+    "cal": 180,
+    "pro": 12,
+    "carb": 2,
+    "fat": 14,
+    "fib": 1,
+    "weights": { "gram": 1, "cup": 150 }
+  },
+  {
+    "name": "Misal Pav (Breakfast Portion)",
+    "cal": 300,
+    "pro": 10,
+    "carb": 38,
+    "fat": 12,
+    "fib": 6,
+    "weights": { "gram": 1, "plate": 220 }
+  },
+  {
+    "name": "Ghugni (Bengali)",
+    "cal": 160,
+    "pro": 7,
+    "carb": 22,
+    "fat": 4,
+    "fib": 4,
+    "weights": { "gram": 1, "cup": 160 }
+  },
+  {
+    "name": "Luchi",
+    "cal": 110,
+    "pro": 2,
+    "carb": 10,
+    "fat": 7,
+    "fib": 0.5,
+    "weights": { "gram": 1, "piece": 25 }
+  },
+  {
+    "name": "Luchi Aloor Torkari (1 plate)",
+    "cal": 320,
+    "pro": 6,
+    "carb": 44,
+    "fat": 14,
+    "fib": 4,
+    "weights": { "gram": 1, "plate": 220 }
+  },
+  {
+    "name": "Chire Poha (Bengali)",
+    "cal": 145,
+    "pro": 3,
+    "carb": 26,
+    "fat": 3,
+    "fib": 2,
+    "weights": { "gram": 1, "cup": 130 }
+  },
+  {
+    "name": "Ragi Malt (Finger Millet Drink)",
+    "cal": 110,
+    "pro": 2,
+    "carb": 22,
+    "fat": 1,
+    "fib": 2,
+    "weights": { "gram": 1, "cup": 200 }
+  },
+  {
+    "name": "Peanut Butter Toast",
+    "cal": 210,
+    "pro": 7,
+    "carb": 20,
+    "fat": 12,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 60 }
+  },
+  {
+    "name": "Banana Oats Smoothie",
+    "cal": 220,
+    "pro": 8,
+    "carb": 34,
+    "fat": 6,
+    "fib": 4,
+    "weights": { "gram": 1, "cup": 200 }
+  },
+  {
+    "name": "Sprouts Breakfast Bowl",
+    "cal": 150,
+    "pro": 9,
+    "carb": 22,
+    "fat": 2,
+    "fib": 4,
+    "weights": { "gram": 1, "cup": 160 }
   }
 ]
