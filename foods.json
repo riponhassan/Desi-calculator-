@@ -9520,5 +9520,455 @@
   "fat": 11,
   "fib": 1,
   "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Chicken Angara Tikka",
+  "cal": 175,
+  "pro": 24,
+  "carb": 3,
+  "fat": 7,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 50 }
+},
+{
+  "name": "Mutton Tawa Kebab",
+  "cal": 220,
+  "pro": 19,
+  "carb": 5,
+  "fat": 14,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 55 }
+},
+{
+  "name": "Tandoori Tangri Fried",
+  "cal": 200,
+  "pro": 24,
+  "carb": 4,
+  "fat": 11,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 140 }
+},
+{
+  "name": "Prawn Tandoori",
+  "cal": 155,
+  "pro": 22,
+  "carb": 2,
+  "fat": 6,
+  "fib": 0,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Fish Fry (Batter Fry)",
+  "cal": 240,
+  "pro": 21,
+  "carb": 10,
+  "fat": 13,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 80 }
+},
+{
+  "name": "Chicken Pepper Dry",
+  "cal": 250,
+  "pro": 23,
+  "carb": 8,
+  "fat": 14,
+  "fib": 1,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Kerala Fish Pollichathu (Starter)",
+  "cal": 210,
+  "pro": 24,
+  "carb": 5,
+  "fat": 10,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 100 }
+},
+{
+  "name": "Egg Keema Fry",
+  "cal": 190,
+  "pro": 12,
+  "carb": 6,
+  "fat": 13,
+  "fib": 1,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Chicken Kothu Starter",
+  "cal": 230,
+  "pro": 18,
+  "carb": 16,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Mutton Kheema Balls",
+  "cal": 175,
+  "pro": 13,
+  "carb": 4,
+  "fat": 12,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 35 }
+},
+{
+  "name": "Fish Cutlet (South Indian)",
+  "cal": 160,
+  "pro": 12,
+  "carb": 14,
+  "fat": 7,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 40 }
+},
+{
+  "name": "Tawa Prawn Fry",
+  "cal": 205,
+  "pro": 20,
+  "carb": 5,
+  "fat": 11,
+  "fib": 0,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Chicken Kebab Irani",
+  "cal": 185,
+  "pro": 21,
+  "carb": 4,
+  "fat": 9,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 55 }
+},
+{
+  "name": "Mutton Sheekh Lucknowi",
+  "cal": 195,
+  "pro": 17,
+  "carb": 5,
+  "fat": 12,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 55 }
+},
+{
+  "name": "Chicken Haryali Tikka",
+  "cal": 160,
+  "pro": 23,
+  "carb": 3,
+  "fat": 6,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 50 }
+},
+{
+  "name": "Egg Tawa Fry",
+  "cal": 135,
+  "pro": 9,
+  "carb": 4,
+  "fat": 9,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 60 }
+},
+{
+  "name": "Mutton Kola Urundai",
+  "cal": 185,
+  "pro": 14,
+  "carb": 8,
+  "fat": 11,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 30 }
+},
+{
+  "name": "Fish Masala Fry",
+  "cal": 225,
+  "pro": 23,
+  "carb": 5,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 80 }
+},
+{
+  "name": "Chicken Tawa Chaap",
+  "cal": 240,
+  "pro": 21,
+  "carb": 10,
+  "fat": 13,
+  "fib": 1,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Mutton Tawa Chaap",
+  "cal": 255,
+  "pro": 22,
+  "carb": 8,
+  "fat": 15,
+  "fib": 1,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Chicken Chutney Kebab",
+  "cal": 170,
+  "pro": 22,
+  "carb": 4,
+  "fat": 7,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 50 }
+},
+{
+  "name": "Mutton Gurda Fry",
+  "cal": 210,
+  "pro": 19,
+  "carb": 3,
+  "fat": 14,
+  "fib": 0,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Chicken Liver Fry",
+  "cal": 195,
+  "pro": 22,
+  "carb": 4,
+  "fat": 10,
+  "fib": 1,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Paya Tawa Fry",
+  "cal": 260,
+  "pro": 20,
+  "carb": 4,
+  "fat": 18,
+  "fib": 1,
+  "weights": { "gram": 1, "100g": 100 }
+},
+{
+  "name": "Chicken Chops (Indian Style)",
+  "cal": 210,
+  "pro": 19,
+  "carb": 10,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 60 }
+},
+{
+  "name": "Chicken Tandoori Wings",
+  "cal": 210,
+  "pro": 22,
+  "carb": 4,
+  "fat": 12,
+  "fib": 0,
+  "weights": { "gram": 1, "portion": 200, "pieces": 6 }
+},
+{
+  "name": "Mutton Kebab Tawa Special",
+  "cal": 230,
+  "pro": 20,
+  "carb": 5,
+  "fat": 15,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 180, "pieces": 4 }
+},
+{
+  "name": "Bengali Fish Fry (Cutlet)",
+  "cal": 255,
+  "pro": 21,
+  "carb": 15,
+  "fat": 14,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 150, "pieces": 2 }
+},
+{
+  "name": "Chicken Pahadi Tikka",
+  "cal": 175,
+  "pro": 24,
+  "carb": 3,
+  "fat": 7,
+  "fib": 0,
+  "weights": { "gram": 1, "portion": 180, "pieces": 6 }
+},
+{
+  "name": "Mutton RaRa Fry",
+  "cal": 265,
+  "pro": 23,
+  "carb": 5,
+  "fat": 17,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 220, "pieces": 1 }
+},
+{
+  "name": "Kerala Prawn Fry (Chemmeen Fry)",
+  "cal": 230,
+  "pro": 21,
+  "carb": 6,
+  "fat": 13,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 160, "pieces": 8 }
+},
+{
+  "name": "Tandoori Fish Fingers",
+  "cal": 210,
+  "pro": 22,
+  "carb": 10,
+  "fat": 10,
+  "fib": 0,
+  "weights": { "gram": 1, "portion": 180, "pieces": 6 }
+},
+{
+  "name": "Lamb Sheekh Kebab Roll Cut",
+  "cal": 190,
+  "pro": 17,
+  "carb": 7,
+  "fat": 11,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 150, "pieces": 3 }
+},
+{
+  "name": "Chicken Crispy Strips (Indian Style)",
+  "cal": 240,
+  "pro": 20,
+  "carb": 16,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 200, "pieces": 8 }
+},
+{
+  "name": "Bombay Surmai Fry",
+  "cal": 230,
+  "pro": 24,
+  "carb": 5,
+  "fat": 12,
+  "fib": 0,
+  "weights": { "gram": 1, "portion": 180, "pieces": 1 }
+},
+{
+  "name": "Mutton Kabiraji Cutlet",
+  "cal": 280,
+  "pro": 19,
+  "carb": 18,
+  "fat": 16,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 170, "pieces": 1 }
+},
+{
+  "name": "Chicken Sukkha Fry",
+  "cal": 245,
+  "pro": 22,
+  "carb": 8,
+  "fat": 13,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 200, "pieces": 1 }
+},
+{
+  "name": "Tandoori Prawn Skewers",
+  "cal": 195,
+  "pro": 22,
+  "carb": 3,
+  "fat": 9,
+  "fib": 0,
+  "weights": { "gram": 1, "portion": 150, "pieces": 7 }
+},
+{
+  "name": "Mutton Bheja Fry",
+  "cal": 260,
+  "pro": 20,
+  "carb": 4,
+  "fat": 17,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 180, "pieces": 1 }
+},
+{
+  "name": "Chicken Chettinad Fry (Starter)",
+  "cal": 255,
+  "pro": 23,
+  "carb": 10,
+  "fat": 14,
+  "fib": 2,
+  "weights": { "gram": 1, "portion": 200, "pieces": 1 }
+},
+{
+  "name": "Paya Fry (Starter Plate)",
+  "cal": 280,
+  "pro": 22,
+  "carb": 5,
+  "fat": 18,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 220, "pieces": 1 }
+},
+{
+  "name": "Keema Wonton Fry",
+  "cal": 130,
+  "pro": 8,
+  "carb": 12,
+  "fat": 7,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 150, "pieces": 6 }
+},
+{
+  "name": "Tawa Fish Masala Cubes",
+  "cal": 215,
+  "pro": 23,
+  "carb": 5,
+  "fat": 11,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 180, "pieces": 10 }
+},
+{
+  "name": "Chicken Kebab Chunks (Dhaba Style)",
+  "cal": 175,
+  "pro": 21,
+  "carb": 4,
+  "fat": 8,
+  "fib": 0,
+  "weights": { "gram": 1, "portion": 170, "pieces": 7 }
+},
+{
+  "name": "Fish Pakoda (Punjabi)",
+  "cal": 235,
+  "pro": 22,
+  "carb": 12,
+  "fat": 12,
+  "fib": 0,
+  "weights": { "gram": 1, "portion": 180, "pieces": 6 }
+},
+{
+  "name": "Chicken Lollipop Masala",
+  "cal": 180,
+  "pro": 16,
+  "carb": 8,
+  "fat": 10,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 180, "pieces": 6 }
+},
+{
+  "name": "Mutton Gurda Kebab",
+  "cal": 200,
+  "pro": 18,
+  "carb": 3,
+  "fat": 13,
+  "fib": 0,
+  "weights": { "gram": 1, "portion": 160, "pieces": 4 }
+},
+{
+  "name": "Chicken Lemon Tikka",
+  "cal": 150,
+  "pro": 22,
+  "carb": 2,
+  "fat": 6,
+  "fib": 0,
+  "weights": { "gram": 1, "portion": 180, "pieces": 6 }
+},
+{
+  "name": "Amritsari Prawn Fry",
+  "cal": 240,
+  "pro": 20,
+  "carb": 10,
+  "fat": 14,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 170, "pieces": 8 }
+},
+{
+  "name": "Chicken Sheekh Pockets (Starter)",
+  "cal": 190,
+  "pro": 16,
+  "carb": 12,
+  "fat": 10,
+  "fib": 1,
+  "weights": { "gram": 1, "portion": 160, "pieces": 4 }
 }
 ]
