@@ -14461,5 +14461,455 @@
   "fat": 5,
   "fib": 0,
   "weights": { "gram": 1, "serving": 150, "piece": 1 }
+},
+{
+  "name": "McDonald's Spicy Paneer Burger",
+  "cal": 480,
+  "pro": 16,
+  "carb": 48,
+  "fat": 24,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 190, "serving": 190 }
+},
+{
+  "name": "McDonald's Chicken McNuggets (1 piece)",
+  "cal": 45,
+  "pro": 3,
+  "carb": 3,
+  "fat": 2,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 18, "serving": 18 }
+},
+{
+  "name": "McDonald's Veg Pizza McPuff (Cheesy)",
+  "cal": 325,
+  "pro": 7,
+  "carb": 35,
+  "fat": 16,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 105, "serving": 105 }
+},
+{
+  "name": "McDonald's Mexican McAloo Tikki",
+  "cal": 358,
+  "pro": 8,
+  "carb": 48,
+  "fat": 13,
+  "fib": 3,
+  "weights": { "gram": 1, "piece": 150, "serving": 150 }
+},
+{
+  "name": "KFC Rice Bowl (Veg)",
+  "cal": 485,
+  "pro": 10,
+  "carb": 70,
+  "fat": 17,
+  "fib": 4,
+  "weights": { "gram": 1, "portion": 350, "serving": 350 }
+},
+{
+  "name": "KFC Rice Bowl (Chicken)",
+  "cal": 610,
+  "pro": 24,
+  "carb": 68,
+  "fat": 26,
+  "fib": 3,
+  "weights": { "gram": 1, "portion": 380, "serving": 380 }
+},
+{
+  "name": "KFC Veg Patty Burger",
+  "cal": 410,
+  "pro": 9,
+  "carb": 50,
+  "fat": 18,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 175, "serving": 175 }
+},
+{
+  "name": "Domino's Chicken Pepperoni Pizza Slice",
+  "cal": 265,
+  "pro": 13,
+  "carb": 27,
+  "fat": 11,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 85, "serving": 85 }
+},
+{
+  "name": "Domino's Veggie Paradise Slice",
+  "cal": 230,
+  "pro": 9,
+  "carb": 28,
+  "fat": 8,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 85, "serving": 85 }
+},
+{
+  "name": "Pizza Hut Tandoori Paneer Slice",
+  "cal": 245,
+  "pro": 10,
+  "carb": 28,
+  "fat": 9,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 90, "serving": 90 }
+},
+{
+  "name": "Pizza Hut Chicken Sausage Slice",
+  "cal": 255,
+  "pro": 12,
+  "carb": 26,
+  "fat": 10,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 90, "serving": 90 }
+},
+{
+  "name": "Subway Chicken Seekh Sub 6 Inch",
+  "cal": 350,
+  "pro": 20,
+  "carb": 46,
+  "fat": 8,
+  "fib": 5,
+  "weights": { "gram": 1, "serving": 230, "piece": 1 }
+},
+{
+  "name": "Subway Egg & Cheese Sub 6 Inch",
+  "cal": 380,
+  "pro": 18,
+  "carb": 45,
+  "fat": 12,
+  "fib": 4,
+  "weights": { "gram": 1, "serving": 235, "piece": 1 }
+},
+{
+  "name": "Burger King Veg Makhani Burst Burger",
+  "cal": 460,
+  "pro": 11,
+  "carb": 52,
+  "fat": 20,
+  "fib": 3,
+  "weights": { "gram": 1, "piece": 200, "serving": 200 }
+},
+{
+  "name": "Burger King Chicken Tandoor Grill",
+  "cal": 520,
+  "pro": 26,
+  "carb": 50,
+  "fat": 23,
+  "fib": 3,
+  "weights": { "gram": 1, "piece": 215, "serving": 215 }
+},
+{
+  "name": "Starbucks Creamy Spinach Corn Pocket",
+  "cal": 420,
+  "pro": 9,
+  "carb": 49,
+  "fat": 19,
+  "fib": 3,
+  "weights": { "gram": 1, "piece": 160, "serving": 160 }
+},
+{
+  "name": "Starbucks Butter Croissant",
+  "cal": 340,
+  "pro": 6,
+  "carb": 38,
+  "fat": 18,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 100, "serving": 100 }
+},
+{
+  "name": "Haldiram's Masala Dosa (Plate)",
+  "cal": 520,
+  "pro": 12,
+  "carb": 77,
+  "fat": 16,
+  "fib": 4,
+  "weights": { "gram": 1, "plate": 350, "serving": 350 }
+},
+{
+  "name": "Haldiram's Paneer Pakora (1 piece)",
+  "cal": 85,
+  "pro": 4,
+  "carb": 6,
+  "fat": 5,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 30, "serving": 30 }
+},
+{
+  "name": "Wow! Momo Chicken Cheesy Momo (1 piece)",
+  "cal": 75,
+  "pro": 5,
+  "carb": 7,
+  "fat": 3,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 35, "serving": 35 }
+},
+{
+  "name": "Wow! Momo Veg Cheesy Momo (1 piece)",
+  "cal": 68,
+  "pro": 3,
+  "carb": 8,
+  "fat": 3,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 35, "serving": 35 }
+},
+{
+  "name": "Faasos Chicken Bhuna Wrap",
+  "cal": 585,
+  "pro": 28,
+  "carb": 56,
+  "fat": 26,
+  "fib": 3,
+  "weights": { "gram": 1, "piece": 260, "serving": 260 }
+},
+{
+  "name": "Biryani Blues Veg Biryani (Single)",
+  "cal": 620,
+  "pro": 12,
+  "carb": 85,
+  "fat": 20,
+  "fib": 4,
+  "weights": { "gram": 1, "portion": 420, "serving": 420 }
+},
+{
+  "name": "Chaayos Bun Maska",
+  "cal": 330,
+  "pro": 6,
+  "carb": 46,
+  "fat": 13,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 140, "serving": 140 }
+},
+{
+  "name": "Chai Point Egg Puff",
+  "cal": 320,
+  "pro": 7,
+  "carb": 30,
+  "fat": 19,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 120, "serving": 120 }
+},
+{
+  "name": "McDonald's Spicy Chicken Wrap",
+  "cal": 495,
+  "pro": 22,
+  "carb": 49,
+  "fat": 23,
+  "fib": 3,
+  "weights": { "gram": 1, "piece": 240, "serving": 240 }
+},
+{
+  "name": "McDonald's Veg Maharaja Cheese Fries",
+  "cal": 520,
+  "pro": 8,
+  "carb": 58,
+  "fat": 28,
+  "fib": 3,
+  "weights": { "gram": 1, "portion": 160, "serving": 160 }
+},
+{
+  "name": "McDonald's Strawberry Smoothie (Small)",
+  "cal": 180,
+  "pro": 2,
+  "carb": 42,
+  "fat": 1,
+  "fib": 1,
+  "weights": { "gram": 1, "serving": 250, "piece": 1 }
+},
+{
+  "name": "KFC Nashville Chicken (1 piece)",
+  "cal": 275,
+  "pro": 20,
+  "carb": 8,
+  "fat": 18,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 120, "serving": 120 }
+},
+{
+  "name": "KFC Veg Zinger Burger",
+  "cal": 430,
+  "pro": 10,
+  "carb": 51,
+  "fat": 18,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 185, "serving": 185 }
+},
+{
+  "name": "KFC Chicken & Rice Box",
+  "cal": 720,
+  "pro": 33,
+  "carb": 83,
+  "fat": 27,
+  "fib": 3,
+  "weights": { "gram": 1, "portion": 480, "serving": 480 }
+},
+{
+  "name": "Domino's Chicken Dominator Slice",
+  "cal": 275,
+  "pro": 15,
+  "carb": 26,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 90, "serving": 90 }
+},
+{
+  "name": "Domino's Veg Extravaganza Slice",
+  "cal": 245,
+  "pro": 9,
+  "carb": 29,
+  "fat": 9,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 90, "serving": 90 }
+},
+{
+  "name": "Domino's Chicken Wings (1 piece)",
+  "cal": 47,
+  "pro": 4,
+  "carb": 2,
+  "fat": 3,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 22, "serving": 22 }
+},
+{
+  "name": "Pizza Hut Chicken Tikka Masala Slice",
+  "cal": 260,
+  "pro": 12,
+  "carb": 27,
+  "fat": 10,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 95, "serving": 95 }
+},
+{
+  "name": "Pizza Hut Veg Kebab Surprise Slice",
+  "cal": 250,
+  "pro": 9,
+  "carb": 29,
+  "fat": 9,
+  "fib": 1,
+  "weights": { "gram": 1, "piece": 95, "serving": 95 }
+},
+{
+  "name": "Subway Chicken Tikka Salad Bowl",
+  "cal": 190,
+  "pro": 18,
+  "carb": 9,
+  "fat": 8,
+  "fib": 3,
+  "weights": { "gram": 1, "serving": 320, "piece": 1 }
+},
+{
+  "name": "Subway Paneer Tikka Salad Bowl",
+  "cal": 220,
+  "pro": 14,
+  "carb": 9,
+  "fat": 12,
+  "fib": 3,
+  "weights": { "gram": 1, "serving": 320, "piece": 1 }
+},
+{
+  "name": "Burger King Fiery Chicken Burger",
+  "cal": 560,
+  "pro": 25,
+  "carb": 52,
+  "fat": 27,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 220, "serving": 220 }
+},
+{
+  "name": "Burger King Veg Crunchy Volcano",
+  "cal": 420,
+  "pro": 10,
+  "carb": 48,
+  "fat": 19,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 185, "serving": 185 }
+},
+{
+  "name": "Starbucks Tandoori Paneer Sandwich",
+  "cal": 490,
+  "pro": 22,
+  "carb": 48,
+  "fat": 22,
+  "fib": 3,
+  "weights": { "gram": 1, "piece": 230, "serving": 230 }
+},
+{
+  "name": "Starbucks Butter Chicken Sandwich",
+  "cal": 520,
+  "pro": 27,
+  "carb": 50,
+  "fat": 23,
+  "fib": 3,
+  "weights": { "gram": 1, "piece": 240, "serving": 240 }
+},
+{
+  "name": "Haldiram's Bhalla Papdi Chaat",
+  "cal": 420,
+  "pro": 12,
+  "carb": 54,
+  "fat": 16,
+  "fib": 4,
+  "weights": { "gram": 1, "plate": 320, "serving": 320 }
+},
+{
+  "name": "Haldiram's Kachori Sabzi Plate",
+  "cal": 610,
+  "pro": 14,
+  "carb": 74,
+  "fat": 25,
+  "fib": 5,
+  "weights": { "gram": 1, "plate": 380, "serving": 380 }
+},
+{
+  "name": "Wow! Momo Chicken Fried Momo (1 piece)",
+  "cal": 85,
+  "pro": 5,
+  "carb": 6,
+  "fat": 5,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 33, "serving": 33 }
+},
+{
+  "name": "Wow! Momo Veg Fried Momo (1 piece)",
+  "cal": 78,
+  "pro": 3,
+  "carb": 7,
+  "fat": 5,
+  "fib": 0,
+  "weights": { "gram": 1, "piece": 33, "serving": 33 }
+},
+{
+  "name": "Faasos Cheese Melt Paneer Wrap",
+  "cal": 580,
+  "pro": 18,
+  "carb": 59,
+  "fat": 25,
+  "fib": 4,
+  "weights": { "gram": 1, "piece": 260, "serving": 260 }
+},
+{
+  "name": "Behrouz Biryani Murgh Makhani (Single)",
+  "cal": 725,
+  "pro": 30,
+  "carb": 78,
+  "fat": 29,
+  "fib": 3,
+  "weights": { "gram": 1, "portion": 420, "serving": 420 }
+},
+{
+  "name": "Biryani Blues Egg Biryani (Single)",
+  "cal": 620,
+  "pro": 16,
+  "carb": 82,
+  "fat": 20,
+  "fib": 3,
+  "weights": { "gram": 1, "portion": 410, "serving": 410 }
+},
+{
+  "name": "Chaayos Samosa Matar Puff",
+  "cal": 310,
+  "pro": 6,
+  "carb": 30,
+  "fat": 18,
+  "fib": 2,
+  "weights": { "gram": 1, "piece": 115, "serving": 115 }
 }
 ]
