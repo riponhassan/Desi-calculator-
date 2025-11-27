@@ -7297,5 +7297,842 @@
     "fat": 6,
     "fib": 2,
     "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Onion Pakoda (1 piece)",
+    "cal": 75,
+    "pro": 2,
+    "carb": 8,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 20 }
+  },
+  {
+    "name": "Mix Veg Pakoda (1 piece)",
+    "cal": 80,
+    "pro": 2,
+    "carb": 9,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 20 }
+  },
+  {
+    "name": "Bread Pakoda (1 piece)",
+    "cal": 180,
+    "pro": 5,
+    "carb": 22,
+    "fat": 8,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 70 }
+  },
+  {
+    "name": "Paneer Pakoda (1 piece)",
+    "cal": 95,
+    "pro": 4,
+    "carb": 8,
+    "fat": 5,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 22 }
+  },
+  {
+    "name": "Aloo Bonda (1 piece)",
+    "cal": 120,
+    "pro": 3,
+    "carb": 18,
+    "fat": 5,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Batata Vada (1 piece)",
+    "cal": 145,
+    "pro": 3,
+    "carb": 20,
+    "fat": 6,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 45 }
+  },
+  {
+    "name": "Mirchi Bhaji (1 piece)",
+    "cal": 90,
+    "pro": 2,
+    "carb": 10,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Gobi Pakoda (1 piece)",
+    "cal": 70,
+    "pro": 2,
+    "carb": 6,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 18 }
+  },
+  {
+    "name": "Paneer Tikka (1 piece)",
+    "cal": 85,
+    "pro": 5,
+    "carb": 3,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 25 }
+  },
+  {
+    "name": "Malai Paneer Tikka (1 piece)",
+    "cal": 95,
+    "pro": 5,
+    "carb": 3,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 28 }
+  },
+  {
+    "name": "Achari Paneer Tikka (1 piece)",
+    "cal": 90,
+    "pro": 5,
+    "carb": 3,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 26 }
+  },
+  {
+    "name": "Hariyali Paneer Tikka (1 piece)",
+    "cal": 88,
+    "pro": 5,
+    "carb": 3,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 26 }
+  },
+  {
+    "name": "Tandoori Mushroom Tikka (1 piece)",
+    "cal": 45,
+    "pro": 3,
+    "carb": 2,
+    "fat": 3,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 18 }
+  },
+  {
+    "name": "Tandoori Aloo (1 piece)",
+    "cal": 70,
+    "pro": 2,
+    "carb": 10,
+    "fat": 3,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 25 }
+  },
+  {
+    "name": "Tandoori Gobhi (1 piece)",
+    "cal": 55,
+    "pro": 2,
+    "carb": 4,
+    "fat": 3,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 20 }
+  },
+  {
+    "name": "Veg Seekh Kebab (1 piece)",
+    "cal": 90,
+    "pro": 4,
+    "carb": 10,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Hara Bhara Kebab (1 piece)",
+    "cal": 80,
+    "pro": 3,
+    "carb": 10,
+    "fat": 3,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 28 }
+  },
+  {
+    "name": "Dahi Kebab (1 piece)",
+    "cal": 100,
+    "pro": 4,
+    "carb": 8,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 28 }
+  },
+  {
+    "name": "Corn Tikki (1 piece)",
+    "cal": 85,
+    "pro": 2,
+    "carb": 12,
+    "fat": 3,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 28 }
+  },
+  {
+    "name": "Aloo Tikki (1 piece)",
+    "cal": 100,
+    "pro": 2,
+    "carb": 14,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 32 }
+  },
+  {
+    "name": "Beetroot Tikki (1 piece)",
+    "cal": 90,
+    "pro": 2,
+    "carb": 14,
+    "fat": 3,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Soya Tikki (1 piece)",
+    "cal": 95,
+    "pro": 5,
+    "carb": 10,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Veg Galouti Kebab (1 piece)",
+    "cal": 95,
+    "pro": 4,
+    "carb": 10,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 28 }
+  },
+  {
+    "name": "Rajma Galouti Kebab (1 piece)",
+    "cal": 105,
+    "pro": 4,
+    "carb": 14,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Lucknowi Subz Seekh Kebab (1 piece)",
+    "cal": 90,
+    "pro": 3,
+    "carb": 10,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Veg Shami Kebab (1 piece)",
+    "cal": 85,
+    "pro": 4,
+    "carb": 10,
+    "fat": 3,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 28 }
+  },
+  {
+    "name": "Paneer Sheekh Kebab (1 piece)",
+    "cal": 110,
+    "pro": 6,
+    "carb": 6,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 35 }
+  },
+  {
+    "name": "Soya Sheekh Kebab (1 piece)",
+    "cal": 100,
+    "pro": 6,
+    "carb": 8,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 32 }
+  },
+  {
+    "name": "Corn Cheese Balls (1 piece)",
+    "cal": 85,
+    "pro": 2,
+    "carb": 8,
+    "fat": 5,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 20 }
+  },
+  {
+    "name": "Veg Cutlet (1 piece)",
+    "cal": 100,
+    "pro": 3,
+    "carb": 14,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 35 }
+  },
+  {
+    "name": "Paneer Cutlet (1 piece)",
+    "cal": 120,
+    "pro": 5,
+    "carb": 10,
+    "fat": 7,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 38 }
+  },
+  {
+    "name": "Chinese Veg Spring Roll (1 piece)",
+    "cal": 95,
+    "pro": 2,
+    "carb": 12,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 22 }
+  },
+  {
+    "name": "Paneer Spring Roll (1 piece)",
+    "cal": 115,
+    "pro": 4,
+    "carb": 12,
+    "fat": 6,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 25 }
+  },
+  {
+    "name": "Veg Manchurian Dry (1 piece)",
+    "cal": 45,
+    "pro": 1,
+    "carb": 4,
+    "fat": 3,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 16 }
+  },
+  {
+    "name": "Paneer Chilli Dry (1 piece)",
+    "cal": 55,
+    "pro": 3,
+    "carb": 4,
+    "fat": 3,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 20 }
+  },
+  {
+    "name": "Gobi 65 (1 piece)",
+    "cal": 40,
+    "pro": 1,
+    "carb": 4,
+    "fat": 2,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 14 }
+  },
+  {
+    "name": "Paneer 65 (1 piece)",
+    "cal": 60,
+    "pro": 3,
+    "carb": 4,
+    "fat": 4,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 20 }
+  },
+  {
+    "name": "Mushroom 65 (1 piece)",
+    "cal": 42,
+    "pro": 2,
+    "carb": 4,
+    "fat": 2,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 16 }
+  },
+  {
+    "name": "Baby Corn Salt & Pepper (1 piece)",
+    "cal": 25,
+    "pro": 1,
+    "carb": 3,
+    "fat": 1,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 12 }
+  },
+  {
+    "name": "Chilli Baby Corn (1 piece)",
+    "cal": 35,
+    "pro": 1,
+    "carb": 4,
+    "fat": 2,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 14 }
+  },
+  {
+    "name": "Paneer Crispy (1 piece)",
+    "cal": 70,
+    "pro": 3,
+    "carb": 6,
+    "fat": 4,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 18 }
+  },
+  {
+    "name": "Veg Crispy (1 piece)",
+    "cal": 55,
+    "pro": 1,
+    "carb": 6,
+    "fat": 3,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 16 }
+  },
+  {
+    "name": "Paneer Pepper Fry (1 piece)",
+    "cal": 65,
+    "pro": 4,
+    "carb": 3,
+    "fat": 4,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 18 }
+  },
+  {
+    "name": "Mushroom Pepper Fry (1 piece)",
+    "cal": 50,
+    "pro": 2,
+    "carb": 4,
+    "fat": 3,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 16 }
+  },
+  {
+    "name": "Baby Corn Pepper Fry (1 piece)",
+    "cal": 40,
+    "pro": 1,
+    "carb": 4,
+    "fat": 2,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 14 }
+  },
+  {
+    "name": "Karachi Veg Roll (1 piece)",
+    "cal": 120,
+    "pro": 4,
+    "carb": 16,
+    "fat": 5,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Tandoori Pineapple (1 piece)",
+    "cal": 45,
+    "pro": 0,
+    "carb": 10,
+    "fat": 0,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 18 }
+  },
+  {
+    "name": "Tandoori Broccoli (1 piece)",
+    "cal": 35,
+    "pro": 2,
+    "carb": 3,
+    "fat": 1,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 18 }
+  },
+  {
+    "name": "Tandoori Soya Chaap (1 piece)",
+    "cal": 80,
+    "pro": 6,
+    "carb": 4,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Malai Soya Chaap (1 piece)",
+    "cal": 95,
+    "pro": 6,
+    "carb": 4,
+    "fat": 6,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 32 }
+  },
+  {
+    "name": "Achari Soya Chaap (1 piece)",
+    "cal": 90,
+    "pro": 6,
+    "carb": 4,
+    "fat": 5,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 32 }
+  },
+  {
+    "name": "Hariyali Soya Chaap (1 piece)",
+    "cal": 88,
+    "pro": 6,
+    "carb": 4,
+    "fat": 5,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 32 }
+  },
+  {
+    "name": "Stuffed Paneer Tikka (1 piece)",
+    "cal": 105,
+    "pro": 6,
+    "carb": 4,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Stuffed Mushroom Tikka (1 piece)",
+    "cal": 55,
+    "pro": 3,
+    "carb": 3,
+    "fat": 3,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 20 }
+  },
+  {
+    "name": "Bharwa Aloo Tandoori (1 piece)",
+    "cal": 85,
+    "pro": 2,
+    "carb": 12,
+    "fat": 3,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Veg Tandoori Platter (1 serving)",
+    "cal": 320,
+    "pro": 14,
+    "carb": 18,
+    "fat": 20,
+    "fib": 4,
+    "weights": { "gram": 1, "serving": 200 }
+  },
+  {
+    "name": "Paneer Malai Seekh (1 piece)",
+    "cal": 95,
+    "pro": 4,
+    "carb": 4,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 28 }
+  },
+  {
+    "name": "Veg Reshmi Kebab (1 piece)",
+    "cal": 85,
+    "pro": 4,
+    "carb": 8,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 28 }
+  },
+  {
+    "name": "Paneer Ajwaini Tikka (1 piece)",
+    "cal": 90,
+    "pro": 5,
+    "carb": 3,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 26 }
+  },
+  {
+    "name": "Tandoori Malai Broccoli (1 piece)",
+    "cal": 45,
+    "pro": 2,
+    "carb": 3,
+    "fat": 2,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 20 }
+  },
+  {
+    "name": "Veg Paneer Shashlik (1 piece)",
+    "cal": 55,
+    "pro": 3,
+    "carb": 4,
+    "fat": 3,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 24 }
+  },
+  {
+    "name": "Masala Corn Kebab (1 piece)",
+    "cal": 90,
+    "pro": 3,
+    "carb": 14,
+    "fat": 3,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 28 }
+  },
+  {
+    "name": "Spinach Corn Kebab (1 piece)",
+    "cal": 85,
+    "pro": 3,
+    "carb": 12,
+    "fat": 3,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 26 }
+  },
+  {
+    "name": "Crispy Corn (1 tablespoon)",
+    "cal": 35,
+    "pro": 1,
+    "carb": 5,
+    "fat": 1,
+    "fib": 0,
+    "weights": { "gram": 1, "tbsp": 15 }
+  },
+  {
+    "name": "Crispy Paneer Chips (1 piece)",
+    "cal": 65,
+    "pro": 3,
+    "carb": 4,
+    "fat": 4,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 16 }
+  },
+  {
+    "name": "Mushroom Popcorn (1 piece)",
+    "cal": 25,
+    "pro": 1,
+    "carb": 2,
+    "fat": 1,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 10 }
+  },
+  {
+    "name": "Paneer Popcorn (1 piece)",
+    "cal": 32,
+    "pro": 2,
+    "carb": 2,
+    "fat": 2,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 10 }
+  },
+  {
+    "name": "Masala Idli Bites (1 piece)",
+    "cal": 30,
+    "pro": 1,
+    "carb": 5,
+    "fat": 1,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 14 }
+  },
+  {
+    "name": "Idli Manchurian (1 piece)",
+    "cal": 45,
+    "pro": 1,
+    "carb": 6,
+    "fat": 2,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 16 }
+  },
+  {
+    "name": "Dilli Aloo Chaat (1 plate)",
+    "cal": 220,
+    "pro": 4,
+    "carb": 34,
+    "fat": 8,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Papdi Chaat (1 plate)",
+    "cal": 260,
+    "pro": 6,
+    "carb": 34,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 160 }
+  },
+  {
+    "name": "Dahi Papdi Chaat (1 plate)",
+    "cal": 290,
+    "pro": 8,
+    "carb": 36,
+    "fat": 12,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 180 }
+  },
+  {
+    "name": "Samosa Chaat (1 plate)",
+    "cal": 340,
+    "pro": 7,
+    "carb": 44,
+    "fat": 14,
+    "fib": 4,
+    "weights": { "gram": 1, "serving": 200 }
+  },
+  {
+    "name": "Dahi Bhalla (1 piece)",
+    "cal": 85,
+    "pro": 3,
+    "carb": 12,
+    "fat": 2,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Dahi Bhalla Chaat (1 plate)",
+    "cal": 260,
+    "pro": 8,
+    "carb": 32,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 180 }
+  },
+  {
+    "name": "Sev Puri (1 piece)",
+    "cal": 35,
+    "pro": 1,
+    "carb": 5,
+    "fat": 1,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 10 }
+  },
+  {
+    "name": "Bhel Puri (1 plate)",
+    "cal": 280,
+    "pro": 6,
+    "carb": 42,
+    "fat": 8,
+    "fib": 4,
+    "weights": { "gram": 1, "serving": 180 }
+  },
+  {
+    "name": "Jhal Muri (1 plate)",
+    "cal": 220,
+    "pro": 4,
+    "carb": 34,
+    "fat": 6,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Ragda Pattice (1 plate)",
+    "cal": 300,
+    "pro": 10,
+    "carb": 40,
+    "fat": 10,
+    "fib": 6,
+    "weights": { "gram": 1, "serving": 200 }
+  },
+  {
+    "name": "Kothimbir Vadi (1 piece)",
+    "cal": 65,
+    "pro": 2,
+    "carb": 6,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 18 }
+  },
+  {
+    "name": "Suran Vada (1 piece)",
+    "cal": 90,
+    "pro": 2,
+    "carb": 12,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 25 }
+  },
+  {
+    "name": "Banana Bajji (1 piece)",
+    "cal": 110,
+    "pro": 1,
+    "carb": 18,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Mysore Bonda (1 piece)",
+    "cal": 85,
+    "pro": 2,
+    "carb": 10,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 22 }
+  },
+  {
+    "name": "Mangalore Bajji (1 piece)",
+    "cal": 90,
+    "pro": 2,
+    "carb": 10,
+    "fat": 5,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 22 }
+  },
+  {
+    "name": "Gobi Ghee Roast (1 piece)",
+    "cal": 60,
+    "pro": 1,
+    "carb": 4,
+    "fat": 4,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 20 }
+  },
+  {
+    "name": "Paneer Ghee Roast (1 piece)",
+    "cal": 70,
+    "pro": 3,
+    "carb": 3,
+    "fat": 5,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 20 }
+  },
+  {
+    "name": "Andhra Paneer Fry (1 piece)",
+    "cal": 65,
+    "pro": 3,
+    "carb": 3,
+    "fat": 4,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 18 }
+  },
+  {
+    "name": "Chettinad Mushroom Fry (1 piece)",
+    "cal": 40,
+    "pro": 2,
+    "carb": 3,
+    "fat": 2,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 16 }
+  },
+  {
+    "name": "Kerala Banana Fry (1 piece)",
+    "cal": 120,
+    "pro": 1,
+    "carb": 20,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Gujarati Methi Gota (1 piece)",
+    "cal": 80,
+    "pro": 2,
+    "carb": 8,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 22 }
+  },
+  {
+    "name": "Bajra Methi Vada (1 piece)",
+    "cal": 95,
+    "pro": 2,
+    "carb": 10,
+    "fat": 5,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 24 }
+  },
+  {
+    "name": "Moong Dal Vada (1 piece)",
+    "cal": 85,
+    "pro": 3,
+    "carb": 8,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 22 }
+  },
+  {
+    "name": "Masala Vada (1 piece)",
+    "cal": 95,
+    "pro": 4,
+    "carb": 8,
+    "fat": 5,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 24 }
   }
 ]
