@@ -23,7 +23,7 @@ const setGoalBtn = document.getElementById("set-goal-btn");
 const undoBtn = document.getElementById("undo-btn");
 
 /* ============================================================
-   1. LOAD THE DATABASE (Multiple Files)
+   1. LOAD THE DATABASE (Multiple Files + Auto-Clean)
    ============================================================ */
 // List of all your data files
 const fileList = ['foods_part1.json', 'foods_part2.json'];
@@ -35,13 +35,33 @@ Promise.all(fileList.map(file =>
     })
 ))
 .then(results => {
-    // Combine all files into one big list (Flat)
-    foodDB = results.flat();
+    // 1. Merge all files into one raw list
+    let rawData = results.flat();
+
+    // 2. INTELLIGENT DUPLICATE REMOVER
+    const uniqueMap = new Map();
     
-    // Sort alphabetically so A-Z search looks good
+    rawData.forEach(item => {
+        // Safety check: ensure item has a name
+        if (item.name) {
+            // Create a standard key (lowercase & trimmed)
+            // This makes "Roti" and " roti " count as the same item
+            const key = item.name.toLowerCase().trim();
+            
+            // Only add if we haven't seen this name before
+            if (!uniqueMap.has(key)) {
+                uniqueMap.set(key, item);
+            }
+        }
+    });
+
+    // Convert back to a clean list
+    foodDB = Array.from(uniqueMap.values());
+    
+    // 3. Sort alphabetically so A-Z search looks good
     foodDB.sort((a, b) => a.name.localeCompare(b.name));
     
-    console.log("Database loaded: " + foodDB.length + " items from " + fileList.length + " files.");
+    console.log(`Database loaded: ${foodDB.length} unique items (from ${rawData.length} raw entries).`);
 })
 .catch(err => {
     console.error("Error loading food database:", err);
