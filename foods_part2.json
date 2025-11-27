@@ -2230,5 +2230,455 @@
     "fat": 11,
     "fib": 1,
     "weights": { "gram": 1, "piece": 45, "serving": 45 }
+  },
+  {
+    "name": "Balushahi (1 piece)",
+    "cal": 210,
+    "pro": 3,
+    "carb": 28,
+    "fat": 10,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 40, "serving": 40 }
+  },
+  {
+    "name": "Imarti (1 piece)",
+    "cal": 140,
+    "pro": 2,
+    "carb": 26,
+    "fat": 3,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 30, "serving": 30 }
+  },
+  {
+    "name": "Jalebi (1 piece)",
+    "cal": 110,
+    "pro": 1,
+    "carb": 25,
+    "fat": 1,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 20, "serving": 20 }
+  },
+  {
+    "name": "Rabri (bowl)",
+    "cal": 310,
+    "pro": 8,
+    "carb": 32,
+    "fat": 18,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 150, "cup": 150 }
+  },
+  {
+    "name": "Malpua (1 piece)",
+    "cal": 180,
+    "pro": 3,
+    "carb": 22,
+    "fat": 8,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 35, "serving": 35 }
+  },
+  {
+    "name": "Rava Malpua (1 piece)",
+    "cal": 160,
+    "pro": 3,
+    "carb": 20,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 32, "serving": 32 }
+  },
+  {
+    "name": "Poa Malpua (1 piece)",
+    "cal": 175,
+    "pro": 3,
+    "carb": 22,
+    "fat": 8,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 35, "serving": 35 }
+  },
+  {
+    "name": "Kheer Puli (1 piece)",
+    "cal": 130,
+    "pro": 2,
+    "carb": 20,
+    "fat": 4,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 35, "serving": 35 }
+  },
+  {
+    "name": "Patishapta (1 roll)",
+    "cal": 150,
+    "pro": 3,
+    "carb": 24,
+    "fat": 5,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 40, "serving": 40 }
+  },
+  {
+    "name": "Narkel Naru (1 piece)",
+    "cal": 130,
+    "pro": 2,
+    "carb": 16,
+    "fat": 6,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 22, "serving": 22 }
+  },
+  {
+    "name": "Aate Ka Halwa (bowl)",
+    "cal": 310,
+    "pro": 4,
+    "carb": 42,
+    "fat": 14,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 180, "cup": 180 }
+  },
+  {
+    "name": "Sooji Halwa (bowl)",
+    "cal": 290,
+    "pro": 4,
+    "carb": 40,
+    "fat": 12,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 180, "cup": 180 }
+  },
+  {
+    "name": "Fruit Halwa (1 piece)",
+    "cal": 95,
+    "pro": 1,
+    "carb": 18,
+    "fat": 2,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 25, "serving": 25 }
+  },
+  {
+    "name": "Badam Halwa (tbsp)",
+    "cal": 75,
+    "pro": 1,
+    "carb": 5,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "tbsp": 15 }
+  },
+  {
+    "name": "Chana Dal Halwa (bowl)",
+    "cal": 310,
+    "pro": 8,
+    "carb": 38,
+    "fat": 12,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 180, "cup": 180 }
+  },
+  {
+    "name": "Karachi Barfi (1 piece)",
+    "cal": 140,
+    "pro": 3,
+    "carb": 16,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 28, "serving": 28 }
+  },
+  {
+    "name": "Lauki Barfi (1 piece)",
+    "cal": 100,
+    "pro": 2,
+    "carb": 14,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 28, "serving": 28 }
+  },
+  {
+    "name": "Mango Barfi (1 piece)",
+    "cal": 120,
+    "pro": 2,
+    "carb": 18,
+    "fat": 5,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 30, "serving": 30 }
+  },
+  {
+    "name": "Dry Fruit Laddu (1 piece)",
+    "cal": 145,
+    "pro": 3,
+    "carb": 16,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 25, "serving": 25 }
+  },
+  {
+    "name": "Khajur Laddu (1 piece)",
+    "cal": 110,
+    "pro": 2,
+    "carb": 18,
+    "fat": 3,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 22, "serving": 22 }
+  },
+  {
+    "name": "Dry Fruit Modak (1 piece)",
+    "cal": 140,
+    "pro": 3,
+    "carb": 15,
+    "fat": 8,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 28, "serving": 28 }
+  },
+  {
+    "name": "Ukadiche Modak (1 piece)",
+    "cal": 110,
+    "pro": 2,
+    "carb": 22,
+    "fat": 2,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 30, "serving": 30 }
+  },
+  {
+    "name": "Chocolate Modak (1 piece)",
+    "cal": 135,
+    "pro": 2,
+    "carb": 15,
+    "fat": 7,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 28, "serving": 28 }
+  },
+  {
+    "name": "Mawa Modak (1 piece)",
+    "cal": 150,
+    "pro": 3,
+    "carb": 16,
+    "fat": 8,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 30, "serving": 30 }
+  },
+  {
+    "name": "Sabudana Kheer (bowl)",
+    "cal": 260,
+    "pro": 3,
+    "carb": 44,
+    "fat": 8,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 180, "cup": 180 }
+  },
+  {
+    "name": "Rice Payasam (bowl)",
+    "cal": 240,
+    "pro": 4,
+    "carb": 36,
+    "fat": 8,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 180, "cup": 180 }
+  },
+  {
+    "name": "Semiya Payasam (bowl)",
+    "cal": 250,
+    "pro": 4,
+    "carb": 38,
+    "fat": 8,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 180, "cup": 180 }
+  },
+  {
+    "name": "Aval Payasam (bowl)",
+    "cal": 245,
+    "pro": 4,
+    "carb": 36,
+    "fat": 8,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 180, "cup": 180 }
+  },
+  {
+    "name": "Badam Kheer (bowl)",
+    "cal": 310,
+    "pro": 7,
+    "carb": 30,
+    "fat": 18,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 180, "cup": 180 }
+  },
+  {
+    "name": "Makhane Ki Kheer (bowl)",
+    "cal": 260,
+    "pro": 6,
+    "carb": 28,
+    "fat": 10,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 180, "cup": 180 }
+  },
+  {
+    "name": "Sago Pudding (bowl)",
+    "cal": 240,
+    "pro": 3,
+    "carb": 40,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 180, "cup": 180 }
+  },
+  {
+    "name": "Paal Payasam (bowl)",
+    "cal": 235,
+    "pro": 4,
+    "carb": 34,
+    "fat": 8,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 180, "cup": 180 }
+  },
+  {
+    "name": "Adhirasam (1 piece)",
+    "cal": 170,
+    "pro": 2,
+    "carb": 26,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 35, "serving": 35 }
+  },
+  {
+    "name": "Ariselu (1 piece)",
+    "cal": 160,
+    "pro": 2,
+    "carb": 26,
+    "fat": 5,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 32, "serving": 32 }
+  },
+  {
+    "name": "Kobbari Mithai (1 piece)",
+    "cal": 145,
+    "pro": 2,
+    "carb": 15,
+    "fat": 9,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 28, "serving": 28 }
+  },
+  {
+    "name": "Double Ka Meetha (serving)",
+    "cal": 290,
+    "pro": 5,
+    "carb": 40,
+    "fat": 12,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 150, "bowl": 150 }
+  },
+  {
+    "name": "Shahi Tukda (serving)",
+    "cal": 310,
+    "pro": 6,
+    "carb": 38,
+    "fat": 14,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 150, "piece": 150 }
+  },
+  {
+    "name": "Sheer Khurma (bowl)",
+    "cal": 275,
+    "pro": 6,
+    "carb": 38,
+    "fat": 10,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 180, "cup": 180 }
+  },
+  {
+    "name": "Khubani Ka Meetha (serving)",
+    "cal": 210,
+    "pro": 2,
+    "carb": 46,
+    "fat": 1,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 120, "bowl": 120 }
+  },
+  {
+    "name": "Andhra Pootharekulu (1 piece)",
+    "cal": 120,
+    "pro": 2,
+    "carb": 18,
+    "fat": 4,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 25, "serving": 25 }
+  },
+  {
+    "name": "Mango Shrikhand (cup)",
+    "cal": 265,
+    "pro": 5,
+    "carb": 40,
+    "fat": 9,
+    "fib": 1,
+    "weights": { "gram": 1, "cup": 150, "bowl": 180 }
+  },
+  {
+    "name": "Elaichi Shrikhand (cup)",
+    "cal": 240,
+    "pro": 5,
+    "carb": 34,
+    "fat": 9,
+    "fib": 0,
+    "weights": { "gram": 1, "cup": 150, "bowl": 180 }
+  },
+  {
+    "name": "Basundi Malai (serving)",
+    "cal": 330,
+    "pro": 8,
+    "carb": 34,
+    "fat": 20,
+    "fib": 0,
+    "weights": { "gram": 1, "serving": 150, "bowl": 150 }
+  },
+  {
+    "name": "Doodh Pak (bowl)",
+    "cal": 260,
+    "pro": 6,
+    "carb": 38,
+    "fat": 9,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 180, "cup": 180 }
+  },
+  {
+    "name": "Sweet Pongal (bowl)",
+    "cal": 300,
+    "pro": 6,
+    "carb": 50,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 180, "cup": 180 }
+  },
+  {
+    "name": "Sakkarai Pongal (bowl)",
+    "cal": 310,
+    "pro": 6,
+    "carb": 52,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 180, "cup": 180 }
+  },
+  {
+    "name": "Kesari Bath (bowl)",
+    "cal": 280,
+    "pro": 4,
+    "carb": 42,
+    "fat": 10,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 180, "cup": 180 }
+  },
+  {
+    "name": "Pineapple Sheera (bowl)",
+    "cal": 265,
+    "pro": 4,
+    "carb": 40,
+    "fat": 9,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 180, "cup": 180 }
+  },
+  {
+    "name": "Banana Sheera (bowl)",
+    "cal": 270,
+    "pro": 4,
+    "carb": 42,
+    "fat": 9,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 180, "cup": 180 }
+  },
+  {
+    "name": "Sunnundalu (1 piece)",
+    "cal": 105,
+    "pro": 3,
+    "carb": 12,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 20, "serving": 20 }
   }
 ]
