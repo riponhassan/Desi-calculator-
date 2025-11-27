@@ -1780,5 +1780,455 @@
     "fat": 7,
     "fib": 1,
     "weights": { "gram": 1, "piece": 20, "serving": 20 }
+  },
+  {
+    "name": "Besan Ladoo (1 piece)",
+    "cal": 125,
+    "pro": 3,
+    "carb": 14,
+    "fat": 7,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 25, "serving": 25 }
+  },
+  {
+    "name": "Motichoor Ladoo (1 piece)",
+    "cal": 105,
+    "pro": 2,
+    "carb": 14,
+    "fat": 5,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 20, "serving": 20 }
+  },
+  {
+    "name": "Boondi Ladoo (1 piece)",
+    "cal": 115,
+    "pro": 2,
+    "carb": 15,
+    "fat": 5,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 22, "serving": 22 }
+  },
+  {
+    "name": "Rava Ladoo (1 piece)",
+    "cal": 110,
+    "pro": 2,
+    "carb": 16,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 25, "serving": 25 }
+  },
+  {
+    "name": "Coconut Ladoo (1 piece)",
+    "cal": 130,
+    "pro": 2,
+    "carb": 15,
+    "fat": 7,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 25, "serving": 25 }
+  },
+  {
+    "name": "Kaju Katli (1 piece)",
+    "cal": 65,
+    "pro": 2,
+    "carb": 7,
+    "fat": 3,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 18, "serving": 18 }
+  },
+  {
+    "name": "Kaju Barfi (1 piece)",
+    "cal": 75,
+    "pro": 2,
+    "carb": 8,
+    "fat": 4,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 20, "serving": 20 }
+  },
+  {
+    "name": "Pista Barfi (1 piece)",
+    "cal": 85,
+    "pro": 2,
+    "carb": 9,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 22, "serving": 22 }
+  },
+  {
+    "name": "Milk Barfi (1 piece)",
+    "cal": 90,
+    "pro": 3,
+    "carb": 12,
+    "fat": 3,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 25, "serving": 25 }
+  },
+  {
+    "name": "Coconut Barfi (1 piece)",
+    "cal": 115,
+    "pro": 2,
+    "carb": 14,
+    "fat": 6,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 28, "serving": 28 }
+  },
+  {
+    "name": "Mawa Barfi (1 piece)",
+    "cal": 120,
+    "pro": 3,
+    "carb": 14,
+    "fat": 5,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 30, "serving": 30 }
+  },
+  {
+    "name": "Rasgulla (1 piece)",
+    "cal": 120,
+    "pro": 3,
+    "carb": 22,
+    "fat": 2,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 60, "serving": 60 }
+  },
+  {
+    "name": "Rasmalai (1 piece)",
+    "cal": 180,
+    "pro": 5,
+    "carb": 24,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 80, "serving": 80 }
+  },
+  {
+    "name": "Gulab Jamun (1 piece)",
+    "cal": 150,
+    "pro": 2,
+    "carb": 20,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 45, "serving": 45 }
+  },
+  {
+    "name": "Kala Jamun (1 piece)",
+    "cal": 175,
+    "pro": 2,
+    "carb": 22,
+    "fat": 8,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 50, "serving": 50 }
+  },
+  {
+    "name": "Petha (1 piece)",
+    "cal": 55,
+    "pro": 0,
+    "carb": 14,
+    "fat": 0,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 25, "serving": 25 }
+  },
+  {
+    "name": "Agra Dry Petha (1 piece)",
+    "cal": 70,
+    "pro": 0,
+    "carb": 17,
+    "fat": 0,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 25, "serving": 25 }
+  },
+  {
+    "name": "Kesar Petha (1 piece)",
+    "cal": 75,
+    "pro": 0,
+    "carb": 18,
+    "fat": 0,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 28, "serving": 28 }
+  },
+  {
+    "name": "Mysore Pak (1 piece)",
+    "cal": 210,
+    "pro": 2,
+    "carb": 18,
+    "fat": 14,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 30, "serving": 30 }
+  },
+  {
+    "name": "Soft Mysore Pak (1 piece)",
+    "cal": 240,
+    "pro": 2,
+    "carb": 20,
+    "fat": 16,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 35, "serving": 35 }
+  },
+  {
+    "name": "Soan Papdi (1 piece)",
+    "cal": 55,
+    "pro": 1,
+    "carb": 8,
+    "fat": 2,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 12, "serving": 12 }
+  },
+  {
+    "name": "Gajak (1 piece)",
+    "cal": 105,
+    "pro": 2,
+    "carb": 12,
+    "fat": 6,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 20, "serving": 20 }
+  },
+  {
+    "name": "Dry Fruit Gajak (1 piece)",
+    "cal": 120,
+    "pro": 3,
+    "carb": 13,
+    "fat": 7,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 22, "serving": 22 }
+  },
+  {
+    "name": "Atta Ladoo (1 piece)",
+    "cal": 140,
+    "pro": 3,
+    "carb": 16,
+    "fat": 7,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 28, "serving": 28 }
+  },
+  {
+    "name": "Gond Ladoo (1 piece)",
+    "cal": 160,
+    "pro": 3,
+    "carb": 18,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 30, "serving": 30 }
+  },
+  {
+    "name": "Milk Cake (1 piece)",
+    "cal": 155,
+    "pro": 4,
+    "carb": 18,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 35, "serving": 35 }
+  },
+  {
+    "name": "Alwar Kalakand (1 piece)",
+    "cal": 160,
+    "pro": 5,
+    "carb": 18,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 30, "serving": 30 }
+  },
+  {
+    "name": "Paneer Kalakand (1 piece)",
+    "cal": 150,
+    "pro": 5,
+    "carb": 16,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 28, "serving": 28 }
+  },
+  {
+    "name": "Plain Barfi (1 piece)",
+    "cal": 110,
+    "pro": 2,
+    "carb": 14,
+    "fat": 5,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 25, "serving": 25 }
+  },
+  {
+    "name": "Mawa Peda (1 piece)",
+    "cal": 105,
+    "pro": 3,
+    "carb": 13,
+    "fat": 4,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 25, "serving": 25 }
+  },
+  {
+    "name": "Kesar Peda (1 piece)",
+    "cal": 115,
+    "pro": 3,
+    "carb": 14,
+    "fat": 5,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 25, "serving": 25 }
+  },
+  {
+    "name": "Malai Barfi (1 piece)",
+    "cal": 130,
+    "pro": 3,
+    "carb": 15,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 28, "serving": 28 }
+  },
+  {
+    "name": "Rose Barfi (1 piece)",
+    "cal": 125,
+    "pro": 2,
+    "carb": 16,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 28, "serving": 28 }
+  },
+  {
+    "name": "Chocolate Barfi (1 piece)",
+    "cal": 135,
+    "pro": 2,
+    "carb": 18,
+    "fat": 7,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 30, "serving": 30 }
+  },
+  {
+    "name": "Dry Fruit Barfi (1 piece)",
+    "cal": 150,
+    "pro": 4,
+    "carb": 14,
+    "fat": 9,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 30, "serving": 30 }
+  },
+  {
+    "name": "Anjeer Barfi (1 piece)",
+    "cal": 135,
+    "pro": 2,
+    "carb": 16,
+    "fat": 7,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 28, "serving": 28 }
+  },
+  {
+    "name": "Kaju Roll (1 piece)",
+    "cal": 95,
+    "pro": 2,
+    "carb": 11,
+    "fat": 4,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 20, "serving": 20 }
+  },
+  {
+    "name": "Pista Roll (1 piece)",
+    "cal": 105,
+    "pro": 2,
+    "carb": 12,
+    "fat": 5,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 22, "serving": 22 }
+  },
+  {
+    "name": "Dry Fruit Roll (1 piece)",
+    "cal": 115,
+    "pro": 3,
+    "carb": 12,
+    "fat": 6,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 22, "serving": 22 }
+  },
+  {
+    "name": "Cham Cham Dry (1 piece)",
+    "cal": 155,
+    "pro": 4,
+    "carb": 22,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 45, "serving": 45 }
+  },
+  {
+    "name": "Stuffed Cham Cham (1 piece)",
+    "cal": 190,
+    "pro": 5,
+    "carb": 26,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 55, "serving": 55 }
+  },
+  {
+    "name": "Chhena Jalebi (1 piece)",
+    "cal": 160,
+    "pro": 4,
+    "carb": 20,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 35, "serving": 35 }
+  },
+  {
+    "name": "Bengali Malai Toast (1 piece)",
+    "cal": 185,
+    "pro": 5,
+    "carb": 22,
+    "fat": 8,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 40, "serving": 40 }
+  },
+  {
+    "name": "Khoya Samosa (1 piece)",
+    "cal": 210,
+    "pro": 4,
+    "carb": 24,
+    "fat": 11,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 55, "serving": 55 }
+  },
+  {
+    "name": "Dry Fruit Samosa (1 piece)",
+    "cal": 195,
+    "pro": 4,
+    "carb": 22,
+    "fat": 10,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 50, "serving": 50 }
+  },
+  {
+    "name": "Kharwas (1 piece)",
+    "cal": 95,
+    "pro": 5,
+    "carb": 7,
+    "fat": 5,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 30, "serving": 30 }
+  },
+  {
+    "name": "Gujiya (1 piece)",
+    "cal": 225,
+    "pro": 4,
+    "carb": 28,
+    "fat": 11,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 45, "serving": 45 }
+  },
+  {
+    "name": "Mawa Gujiya (1 piece)",
+    "cal": 250,
+    "pro": 5,
+    "carb": 30,
+    "fat": 12,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 50, "serving": 50 }
+  },
+  {
+    "name": "Dry Fruit Gujiya (1 piece)",
+    "cal": 260,
+    "pro": 5,
+    "carb": 28,
+    "fat": 14,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 50, "serving": 50 }
+  },
+  {
+    "name": "Labang Latika (1 piece)",
+    "cal": 210,
+    "pro": 3,
+    "carb": 26,
+    "fat": 11,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 45, "serving": 45 }
   }
 ]
