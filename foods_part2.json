@@ -6469,5 +6469,833 @@
     "fat": 2,
     "fib": 3,
     "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Tomato Soup (1 bowl)",
+    "cal": 110,
+    "pro": 3,
+    "carb": 20,
+    "fat": 2,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 200, "cup": 240 }
+  },
+  {
+    "name": "Cream of Tomato Soup (1 bowl)",
+    "cal": 160,
+    "pro": 3,
+    "carb": 22,
+    "fat": 6,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Vegetable Clear Soup (1 bowl)",
+    "cal": 60,
+    "pro": 2,
+    "carb": 10,
+    "fat": 1,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Hot and Sour Veg Soup (1 bowl)",
+    "cal": 90,
+    "pro": 3,
+    "carb": 14,
+    "fat": 2,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Sweet Corn Veg Soup (1 bowl)",
+    "cal": 120,
+    "pro": 3,
+    "carb": 22,
+    "fat": 2,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Manchow Veg Soup (1 bowl)",
+    "cal": 140,
+    "pro": 4,
+    "carb": 20,
+    "fat": 6,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 210 }
+  },
+  {
+    "name": "Mushroom Soup (1 bowl)",
+    "cal": 120,
+    "pro": 4,
+    "carb": 12,
+    "fat": 6,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Spinach Soup (1 bowl)",
+    "cal": 100,
+    "pro": 4,
+    "carb": 12,
+    "fat": 3,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Palak Shorba (1 bowl)",
+    "cal": 90,
+    "pro": 3,
+    "carb": 12,
+    "fat": 2,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Dal Shorba (1 bowl)",
+    "cal": 140,
+    "pro": 7,
+    "carb": 20,
+    "fat": 4,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Moong Dal Soup (1 bowl)",
+    "cal": 130,
+    "pro": 7,
+    "carb": 18,
+    "fat": 3,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Masoor Dal Soup (1 bowl)",
+    "cal": 140,
+    "pro": 8,
+    "carb": 20,
+    "fat": 3,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Paya Soup (1 bowl)",
+    "cal": 210,
+    "pro": 18,
+    "carb": 2,
+    "fat": 14,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Mutton Yakhni Shorba (1 bowl)",
+    "cal": 160,
+    "pro": 12,
+    "carb": 4,
+    "fat": 10,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Chicken Clear Soup (1 bowl)",
+    "cal": 90,
+    "pro": 10,
+    "carb": 2,
+    "fat": 4,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Chicken Hot and Sour Soup (1 bowl)",
+    "cal": 110,
+    "pro": 10,
+    "carb": 12,
+    "fat": 3,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 210 }
+  },
+  {
+    "name": "Chicken Manchow Soup (1 bowl)",
+    "cal": 160,
+    "pro": 12,
+    "carb": 14,
+    "fat": 6,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 210 }
+  },
+  {
+    "name": "Chicken Sweet Corn Soup (1 bowl)",
+    "cal": 150,
+    "pro": 10,
+    "carb": 22,
+    "fat": 3,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Rasam (1 bowl)",
+    "cal": 70,
+    "pro": 2,
+    "carb": 12,
+    "fat": 1,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Pepper Rasam (1 bowl)",
+    "cal": 75,
+    "pro": 2,
+    "carb": 12,
+    "fat": 1,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Garlic Rasam (1 bowl)",
+    "cal": 78,
+    "pro": 2,
+    "carb": 12,
+    "fat": 2,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Lemon Rasam (1 bowl)",
+    "cal": 65,
+    "pro": 2,
+    "carb": 10,
+    "fat": 1,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Tomato Rasam (1 bowl)",
+    "cal": 70,
+    "pro": 2,
+    "carb": 12,
+    "fat": 1,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Murg Badami Shorba (1 bowl)",
+    "cal": 220,
+    "pro": 16,
+    "carb": 6,
+    "fat": 14,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Murg Yakhni Shorba (1 bowl)",
+    "cal": 180,
+    "pro": 14,
+    "carb": 4,
+    "fat": 10,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Mughlai Shorba (1 bowl)",
+    "cal": 200,
+    "pro": 10,
+    "carb": 12,
+    "fat": 12,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Awadhi Subz Shorba (1 bowl)",
+    "cal": 120,
+    "pro": 4,
+    "carb": 18,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Awadhi Gosht Shorba (1 bowl)",
+    "cal": 210,
+    "pro": 18,
+    "carb": 4,
+    "fat": 12,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Hyderabadi Marag (1 bowl)",
+    "cal": 260,
+    "pro": 18,
+    "carb": 4,
+    "fat": 20,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Hyderabadi Shorba (1 bowl)",
+    "cal": 160,
+    "pro": 6,
+    "carb": 18,
+    "fat": 6,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Kashmiri Yakhni Soup (Veg) (1 bowl)",
+    "cal": 130,
+    "pro": 4,
+    "carb": 18,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Kashmiri Nadru Shorba (1 bowl)",
+    "cal": 140,
+    "pro": 4,
+    "carb": 20,
+    "fat": 4,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Goan Veg Soup (1 bowl)",
+    "cal": 120,
+    "pro": 3,
+    "carb": 16,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 210 }
+  },
+  {
+    "name": "Goan Chicken Soup (1 bowl)",
+    "cal": 180,
+    "pro": 14,
+    "carb": 8,
+    "fat": 10,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Gujarati Kadhi Soup (1 bowl)",
+    "cal": 140,
+    "pro": 5,
+    "carb": 18,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Rajasthani Bajra Shorba (1 bowl)",
+    "cal": 160,
+    "pro": 4,
+    "carb": 26,
+    "fat": 2,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Rajasthani Garlic Soup (1 bowl)",
+    "cal": 110,
+    "pro": 2,
+    "carb": 12,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 190 }
+  },
+  {
+    "name": "South Indian Lemon Rasam (1 bowl)",
+    "cal": 70,
+    "pro": 2,
+    "carb": 10,
+    "fat": 1,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Pineapple Rasam (1 bowl)",
+    "cal": 90,
+    "pro": 2,
+    "carb": 16,
+    "fat": 1,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 210 }
+  },
+  {
+    "name": "Mysore Rasam (1 bowl)",
+    "cal": 95,
+    "pro": 3,
+    "carb": 14,
+    "fat": 2,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 210 }
+  },
+  {
+    "name": "Drumstick Rasam (1 bowl)",
+    "cal": 85,
+    "pro": 2,
+    "carb": 14,
+    "fat": 1,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 210 }
+  },
+  {
+    "name": "Horsegram Kollu Rasam (1 bowl)",
+    "cal": 120,
+    "pro": 5,
+    "carb": 16,
+    "fat": 2,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 210 }
+  },
+  {
+    "name": "Ayurvedic Ginger Soup (1 bowl)",
+    "cal": 80,
+    "pro": 1,
+    "carb": 12,
+    "fat": 1,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Ayurvedic Turmeric Soup (1 bowl)",
+    "cal": 90,
+    "pro": 2,
+    "carb": 14,
+    "fat": 2,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Ayurvedic Cumin Digestive Soup (1 bowl)",
+    "cal": 50,
+    "pro": 1,
+    "carb": 8,
+    "fat": 1,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 160 }
+  },
+  {
+    "name": "Ash Gourd Soup (1 bowl)",
+    "cal": 70,
+    "pro": 1,
+    "carb": 12,
+    "fat": 1,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Nalli Nihari Shorba (1 bowl)",
+    "cal": 240,
+    "pro": 20,
+    "carb": 4,
+    "fat": 16,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Murg Kali Mirch Shorba (1 bowl)",
+    "cal": 190,
+    "pro": 16,
+    "carb": 4,
+    "fat": 10,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Tandoori Chicken Shorba (1 bowl)",
+    "cal": 210,
+    "pro": 18,
+    "carb": 4,
+    "fat": 12,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Smoked Mutton Shorba (1 bowl)",
+    "cal": 230,
+    "pro": 18,
+    "carb": 4,
+    "fat": 14,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Roasted Tomato Shorba (1 bowl)",
+    "cal": 110,
+    "pro": 3,
+    "carb": 16,
+    "fat": 4,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Lauki Shorba (1 bowl)",
+    "cal": 70,
+    "pro": 2,
+    "carb": 10,
+    "fat": 1,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Zucchini Shorba (1 bowl)",
+    "cal": 80,
+    "pro": 2,
+    "carb": 12,
+    "fat": 2,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Pumpkin Shorba (1 bowl)",
+    "cal": 90,
+    "pro": 2,
+    "carb": 16,
+    "fat": 2,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Carrot Ginger Shorba (1 bowl)",
+    "cal": 95,
+    "pro": 2,
+    "carb": 18,
+    "fat": 2,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Beetroot Shorba (1 bowl)",
+    "cal": 110,
+    "pro": 2,
+    "carb": 20,
+    "fat": 2,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Mixed Dal Soup (1 bowl)",
+    "cal": 150,
+    "pro": 9,
+    "carb": 20,
+    "fat": 3,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Whole Moong Dal Soup (1 bowl)",
+    "cal": 160,
+    "pro": 9,
+    "carb": 22,
+    "fat": 3,
+    "fib": 5,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Chana Dal Soup (1 bowl)",
+    "cal": 170,
+    "pro": 9,
+    "carb": 24,
+    "fat": 3,
+    "fib": 5,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Toor Dal Soup (1 bowl)",
+    "cal": 160,
+    "pro": 8,
+    "carb": 22,
+    "fat": 3,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Sambar Rasam Fusion Soup (1 bowl)",
+    "cal": 110,
+    "pro": 4,
+    "carb": 18,
+    "fat": 2,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Mulligatawny Soup (Indian Classic) (1 bowl)",
+    "cal": 160,
+    "pro": 5,
+    "carb": 22,
+    "fat": 6,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Gujarati Doodhi Kadhi Soup (1 bowl)",
+    "cal": 150,
+    "pro": 5,
+    "carb": 20,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Bhutte Ka Shorba (Corn Shorba) (1 bowl)",
+    "cal": 180,
+    "pro": 4,
+    "carb": 28,
+    "fat": 6,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Shevgyacha Shorbha (Drumstick Shorba) (1 bowl)",
+    "cal": 100,
+    "pro": 3,
+    "carb": 14,
+    "fat": 2,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Temple Style Rasam (1 bowl)",
+    "cal": 60,
+    "pro": 2,
+    "carb": 10,
+    "fat": 1,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Temple Style Vegetable Soup (1 bowl)",
+    "cal": 70,
+    "pro": 2,
+    "carb": 12,
+    "fat": 1,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Sattvic Moong Soup (1 bowl)",
+    "cal": 120,
+    "pro": 7,
+    "carb": 16,
+    "fat": 2,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Weight Loss Lauki Soup (1 bowl)",
+    "cal": 60,
+    "pro": 2,
+    "carb": 10,
+    "fat": 1,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Tomato Saar (Maharashtrian Soup) (1 bowl)",
+    "cal": 90,
+    "pro": 2,
+    "carb": 16,
+    "fat": 2,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Solkadhi Warm Soup (1 bowl)",
+    "cal": 110,
+    "pro": 2,
+    "carb": 10,
+    "fat": 6,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Kadhi Soup (North Indian) (1 bowl)",
+    "cal": 150,
+    "pro": 5,
+    "carb": 20,
+    "fat": 5,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Bengali Tomato Diya Shorba (1 bowl)",
+    "cal": 95,
+    "pro": 3,
+    "carb": 16,
+    "fat": 2,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 210 }
+  },
+  {
+    "name": "Bengali Moong Daal Jhol Soup (1 bowl)",
+    "cal": 140,
+    "pro": 7,
+    "carb": 20,
+    "fat": 4,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Kerala Pepper Chicken Soup (1 bowl)",
+    "cal": 180,
+    "pro": 16,
+    "carb": 4,
+    "fat": 10,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Kerala Coconut Veg Soup (1 bowl)",
+    "cal": 160,
+    "pro": 3,
+    "carb": 14,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Andhra Miriyala Rasam (Pepper Soup) (1 bowl)",
+    "cal": 85,
+    "pro": 2,
+    "carb": 12,
+    "fat": 1,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Karnataka Tovve Soup (1 bowl)",
+    "cal": 140,
+    "pro": 7,
+    "carb": 20,
+    "fat": 3,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Mysore Vegetable Soup (1 bowl)",
+    "cal": 100,
+    "pro": 3,
+    "carb": 16,
+    "fat": 2,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Millet Vegetable Soup (1 bowl)",
+    "cal": 140,
+    "pro": 4,
+    "carb": 26,
+    "fat": 2,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Ragi Soup (1 bowl)",
+    "cal": 150,
+    "pro": 4,
+    "carb": 26,
+    "fat": 2,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Jowar Soup (1 bowl)",
+    "cal": 140,
+    "pro": 3,
+    "carb": 26,
+    "fat": 1,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Barley Soup (1 bowl)",
+    "cal": 170,
+    "pro": 4,
+    "carb": 32,
+    "fat": 2,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 260 }
+  },
+  {
+    "name": "Ayurvedic Tulsi Soup (1 bowl)",
+    "cal": 70,
+    "pro": 1,
+    "carb": 10,
+    "fat": 2,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Ayurvedic Garlic Turmeric Soup (1 bowl)",
+    "cal": 85,
+    "pro": 1,
+    "carb": 12,
+    "fat": 2,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 190 }
+  },
+  {
+    "name": "Ayurvedic Jeera Digestive Soup (1 bowl)",
+    "cal": 55,
+    "pro": 1,
+    "carb": 8,
+    "fat": 1,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 170 }
+  },
+  {
+    "name": "Indo-Chinese Garlic Clear Soup (1 bowl)",
+    "cal": 80,
+    "pro": 2,
+    "carb": 12,
+    "fat": 2,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 210 }
+  },
+  {
+    "name": "Indo-Chinese Veg Noodle Soup (1 bowl)",
+    "cal": 160,
+    "pro": 4,
+    "carb": 26,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 260 }
+  },
+  {
+    "name": "Indo-Chinese Chicken Noodle Soup (1 bowl)",
+    "cal": 210,
+    "pro": 16,
+    "carb": 26,
+    "fat": 6,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 260 }
+  },
+  {
+    "name": "High Protein Chicken Dal Soup (1 bowl)",
+    "cal": 200,
+    "pro": 18,
+    "carb": 18,
+    "fat": 6,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "High Protein Paneer Soup (1 bowl)",
+    "cal": 180,
+    "pro": 12,
+    "carb": 8,
+    "fat": 10,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "High Protein Moong Dal Chicken Soup (1 bowl)",
+    "cal": 210,
+    "pro": 20,
+    "carb": 16,
+    "fat": 6,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 240 }
   }
 ]
