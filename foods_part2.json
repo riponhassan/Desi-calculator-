@@ -4039,5 +4039,455 @@
     "fat": 16,
     "fib": 2,
     "weights": { "gram": 1, "piece": 200 }
+  },
+  {
+    "name": "Keto Scrambled Eggs (1 serving)",
+    "cal": 260,
+    "pro": 14,
+    "carb": 2,
+    "fat": 22,
+    "fib": 0,
+    "weights": { "gram": 1, "serving": 160 }
+  },
+  {
+    "name": "Keto Cheese Omelette (2 eggs)",
+    "cal": 310,
+    "pro": 20,
+    "carb": 2,
+    "fat": 24,
+    "fib": 0,
+    "weights": { "gram": 1, "serving": 150 }
+  },
+  {
+    "name": "Egg Keto Bowl (1 bowl)",
+    "cal": 340,
+    "pro": 18,
+    "carb": 4,
+    "fat": 26,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Egg Stir Fry Chinese Style (1 serving)",
+    "cal": 210,
+    "pro": 12,
+    "carb": 6,
+    "fat": 14,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 180 }
+  },
+  {
+    "name": "Egg Veg Stir Fry (1 serving)",
+    "cal": 190,
+    "pro": 10,
+    "carb": 10,
+    "fat": 12,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 180 }
+  },
+  {
+    "name": "Egg Schezwan Stir Fry (1 serving)",
+    "cal": 230,
+    "pro": 12,
+    "carb": 12,
+    "fat": 14,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 180 }
+  },
+  {
+    "name": "Egg Fried Maggi (1 plate)",
+    "cal": 380,
+    "pro": 12,
+    "carb": 48,
+    "fat": 14,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 250 }
+  },
+  {
+    "name": "Egg Masala Maggi (1 plate)",
+    "cal": 360,
+    "pro": 10,
+    "carb": 46,
+    "fat": 12,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 240 }
+  },
+  {
+    "name": "Egg Ramen Stir Fry (1 plate)",
+    "cal": 410,
+    "pro": 15,
+    "carb": 52,
+    "fat": 14,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 300 }
+  },
+  {
+    "name": "Egg White Fried Rice (1 cup)",
+    "cal": 210,
+    "pro": 10,
+    "carb": 32,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "cup": 200 }
+  },
+  {
+    "name": "Egg Garlic Fried Rice (1 cup)",
+    "cal": 260,
+    "pro": 8,
+    "carb": 36,
+    "fat": 9,
+    "fib": 1,
+    "weights": { "gram": 1, "cup": 200 }
+  },
+  {
+    "name": "Egg Burmese Khowsuey (1 bowl)",
+    "cal": 420,
+    "pro": 16,
+    "carb": 52,
+    "fat": 15,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 350 }
+  },
+  {
+    "name": "Egg Sushi (Tamago Nigiri) (1 piece)",
+    "cal": 75,
+    "pro": 3,
+    "carb": 10,
+    "fat": 2,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 28 }
+  },
+  {
+    "name": "Egg Sushi Roll (1 piece)",
+    "cal": 65,
+    "pro": 3,
+    "carb": 9,
+    "fat": 2,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 25 }
+  },
+  {
+    "name": "Egg Fried Sushi Roll (1 piece)",
+    "cal": 95,
+    "pro": 4,
+    "carb": 10,
+    "fat": 4,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Egg Tawa Masala Toss (1 serving)",
+    "cal": 240,
+    "pro": 13,
+    "carb": 8,
+    "fat": 16,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 180 }
+  },
+  {
+    "name": "Masala Sunny Side Up (1 egg)",
+    "cal": 115,
+    "pro": 6,
+    "carb": 1,
+    "fat": 10,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 55 }
+  },
+  {
+    "name": "Egg Pepper Omelette (1 serving)",
+    "cal": 220,
+    "pro": 14,
+    "carb": 2,
+    "fat": 16,
+    "fib": 0,
+    "weights": { "gram": 1, "serving": 140 }
+  },
+  {
+    "name": "Egg Paneer Bhurji (1 serving)",
+    "cal": 310,
+    "pro": 22,
+    "carb": 6,
+    "fat": 20,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 200 }
+  },
+  {
+    "name": "Egg Tikka (1 piece)",
+    "cal": 85,
+    "pro": 5,
+    "carb": 2,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 35 }
+  },
+  {
+    "name": "Egg Paplet Fry (1 serving)",
+    "cal": 250,
+    "pro": 14,
+    "carb": 6,
+    "fat": 18,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 170 }
+  },
+  {
+    "name": "Egg Kolhapuri Curry (1 serving)",
+    "cal": 310,
+    "pro": 15,
+    "carb": 10,
+    "fat": 20,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 200 }
+  },
+  {
+    "name": "Egg Ghee Roast (1 serving)",
+    "cal": 275,
+    "pro": 14,
+    "carb": 6,
+    "fat": 19,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 180 }
+  },
+  {
+    "name": "Egg Manchatti Curry (1 serving)",
+    "cal": 280,
+    "pro": 14,
+    "carb": 10,
+    "fat": 17,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 190 }
+  },
+  {
+    "name": "Egg Tawa Bhurji (1 serving)",
+    "cal": 260,
+    "pro": 15,
+    "carb": 6,
+    "fat": 18,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 170 }
+  },
+  {
+    "name": "Tandoori Egg (1 piece)",
+    "cal": 110,
+    "pro": 7,
+    "carb": 2,
+    "fat": 8,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 55 }
+  },
+  {
+    "name": "Egg Tikka Masala (1 serving)",
+    "cal": 290,
+    "pro": 14,
+    "carb": 10,
+    "fat": 20,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 200 }
+  },
+  {
+    "name": "Egg Shami Kebab (1 piece)",
+    "cal": 120,
+    "pro": 7,
+    "carb": 6,
+    "fat": 8,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Egg Seekh Kebab (1 piece)",
+    "cal": 130,
+    "pro": 8,
+    "carb": 4,
+    "fat": 9,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 45 }
+  },
+  {
+    "name": "Egg Malai Tikka (1 piece)",
+    "cal": 140,
+    "pro": 8,
+    "carb": 3,
+    "fat": 10,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 45 }
+  },
+  {
+    "name": "Egg Tandoori Roast (1 serving)",
+    "cal": 240,
+    "pro": 14,
+    "carb": 4,
+    "fat": 18,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 180 }
+  },
+  {
+    "name": "Middle Eastern Egg Shakshuka Green (1 serving)",
+    "cal": 180,
+    "pro": 10,
+    "carb": 8,
+    "fat": 12,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 200 }
+  },
+  {
+    "name": "Turkish Menemen (1 serving)",
+    "cal": 210,
+    "pro": 10,
+    "carb": 8,
+    "fat": 15,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 220 }
+  },
+  {
+    "name": "Persian Egg Curry (Nargesi) (1 serving)",
+    "cal": 230,
+    "pro": 13,
+    "carb": 8,
+    "fat": 16,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 200 }
+  },
+  {
+    "name": "Italian Egg Frittata Veg (1 slice)",
+    "cal": 200,
+    "pro": 12,
+    "carb": 6,
+    "fat": 14,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 120 }
+  },
+  {
+    "name": "Egg Carbonara (1 serving)",
+    "cal": 460,
+    "pro": 16,
+    "carb": 52,
+    "fat": 18,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 260 }
+  },
+  {
+    "name": "Egg Alfredo Pasta (1 serving)",
+    "cal": 450,
+    "pro": 14,
+    "carb": 56,
+    "fat": 18,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 260 }
+  },
+  {
+    "name": "Egg Pesto Pasta (1 serving)",
+    "cal": 420,
+    "pro": 14,
+    "carb": 48,
+    "fat": 18,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 240 }
+  },
+  {
+    "name": "Egg Lasagna Slice (1 piece)",
+    "cal": 350,
+    "pro": 18,
+    "carb": 28,
+    "fat": 20,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 150 }
+  },
+  {
+    "name": "Egg Burrito (1 piece)",
+    "cal": 420,
+    "pro": 18,
+    "carb": 42,
+    "fat": 20,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 250 }
+  },
+  {
+    "name": "Breakfast Egg Taco (1 taco)",
+    "cal": 190,
+    "pro": 9,
+    "carb": 12,
+    "fat": 12,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 100 }
+  },
+  {
+    "name": "Egg Quesadilla (1 piece)",
+    "cal": 320,
+    "pro": 14,
+    "carb": 26,
+    "fat": 18,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 180 }
+  },
+  {
+    "name": "Egg Nachos (1 plate)",
+    "cal": 380,
+    "pro": 14,
+    "carb": 34,
+    "fat": 22,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 250 }
+  },
+  {
+    "name": "Egg Tortilla Bowl (1 serving)",
+    "cal": 360,
+    "pro": 16,
+    "carb": 32,
+    "fat": 18,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 250 }
+  },
+  {
+    "name": "Egg Stuffed Kulcha (1 piece)",
+    "cal": 340,
+    "pro": 12,
+    "carb": 42,
+    "fat": 14,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 200 }
+  },
+  {
+    "name": "Egg Podi Dosa (1 piece)",
+    "cal": 310,
+    "pro": 12,
+    "carb": 34,
+    "fat": 14,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 200 }
+  },
+  {
+    "name": "Egg Appam (1 piece)",
+    "cal": 250,
+    "pro": 10,
+    "carb": 28,
+    "fat": 10,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 150 }
+  },
+  {
+    "name": "Egg Putthu (1 serving)",
+    "cal": 280,
+    "pro": 12,
+    "carb": 32,
+    "fat": 12,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 220 }
+  },
+  {
+    "name": "Egg Idiyappam Thoran (1 serving)",
+    "cal": 300,
+    "pro": 12,
+    "carb": 40,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 230 }
+  },
+  {
+    "name": "Egg Vada (1 piece)",
+    "cal": 150,
+    "pro": 7,
+    "carb": 10,
+    "fat": 9,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 40 }
   }
 ]
