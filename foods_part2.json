@@ -4489,5 +4489,887 @@
     "fat": 9,
     "fib": 1,
     "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Egg Khichdi (1 bowl)",
+    "cal": 310,
+    "pro": 14,
+    "carb": 40,
+    "fat": 10,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Egg Masala Rice (1 bowl)",
+    "cal": 330,
+    "pro": 12,
+    "carb": 42,
+    "fat": 12,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Egg Lemon Rice (1 bowl)",
+    "cal": 290,
+    "pro": 10,
+    "carb": 40,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Egg Upma (1 bowl)",
+    "cal": 300,
+    "pro": 12,
+    "carb": 38,
+    "fat": 12,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Egg Poha (1 plate)",
+    "cal": 290,
+    "pro": 12,
+    "carb": 40,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 220 }
+  },
+  {
+    "name": "Egg Chilla (1 piece)",
+    "cal": 210,
+    "pro": 14,
+    "carb": 10,
+    "fat": 12,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 140 }
+  },
+  {
+    "name": "Egg Besan Cheela (1 piece)",
+    "cal": 230,
+    "pro": 16,
+    "carb": 12,
+    "fat": 12,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 150 }
+  },
+  {
+    "name": "Egg Bread Upma (1 bowl)",
+    "cal": 330,
+    "pro": 14,
+    "carb": 44,
+    "fat": 12,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Egg Paneer Roll (1 roll)",
+    "cal": 380,
+    "pro": 20,
+    "carb": 34,
+    "fat": 20,
+    "fib": 2,
+    "weights": { "gram": 1, "roll": 230 }
+  },
+  {
+    "name": "Egg Mayo Roll (1 roll)",
+    "cal": 420,
+    "pro": 16,
+    "carb": 36,
+    "fat": 24,
+    "fib": 2,
+    "weights": { "gram": 1, "roll": 240 }
+  },
+  {
+    "name": "Egg Garlic Noodles (1 plate)",
+    "cal": 310,
+    "pro": 10,
+    "carb": 42,
+    "fat": 12,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 230 }
+  },
+  {
+    "name": "Egg Chilli Garlic Fried Rice (1 cup)",
+    "cal": 270,
+    "pro": 9,
+    "carb": 36,
+    "fat": 9,
+    "fib": 1,
+    "weights": { "gram": 1, "cup": 200 }
+  },
+  {
+    "name": "Egg Pho (1 bowl)",
+    "cal": 340,
+    "pro": 16,
+    "carb": 52,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 350 }
+  },
+  {
+    "name": "Egg Pad Thai (1 plate)",
+    "cal": 420,
+    "pro": 18,
+    "carb": 58,
+    "fat": 14,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 330 }
+  },
+  {
+    "name": "Egg Laksa (1 bowl)",
+    "cal": 450,
+    "pro": 18,
+    "carb": 44,
+    "fat": 22,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 350 }
+  },
+  {
+    "name": "Egg Thai Curry (1 serving)",
+    "cal": 300,
+    "pro": 14,
+    "carb": 10,
+    "fat": 20,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 220 }
+  },
+  {
+    "name": "Egg Satay (1 stick)",
+    "cal": 95,
+    "pro": 6,
+    "carb": 3,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Egg Singapore Noodles (1 plate)",
+    "cal": 360,
+    "pro": 14,
+    "carb": 50,
+    "fat": 12,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 280 }
+  },
+  {
+    "name": "Egg Banh Mi (1 sandwich)",
+    "cal": 420,
+    "pro": 16,
+    "carb": 46,
+    "fat": 18,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 250 }
+  },
+  {
+    "name": "Egg Donburi (1 bowl)",
+    "cal": 380,
+    "pro": 16,
+    "carb": 48,
+    "fat": 12,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 330 }
+  },
+  {
+    "name": "Egg Katsu (1 cutlet)",
+    "cal": 260,
+    "pro": 10,
+    "carb": 20,
+    "fat": 14,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 100 }
+  },
+  {
+    "name": "Egg Teriyaki Stir Fry (1 serving)",
+    "cal": 260,
+    "pro": 14,
+    "carb": 14,
+    "fat": 14,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 200 }
+  },
+  {
+    "name": "Egg Kimchi Fried Rice (1 bowl)",
+    "cal": 390,
+    "pro": 12,
+    "carb": 48,
+    "fat": 16,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 260 }
+  },
+  {
+    "name": "Korean Gyeran Bap (1 bowl)",
+    "cal": 330,
+    "pro": 12,
+    "carb": 42,
+    "fat": 12,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Korean Steamed Eggs (1 bowl)",
+    "cal": 140,
+    "pro": 10,
+    "carb": 2,
+    "fat": 10,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 150 }
+  },
+  {
+    "name": "Kachumber Salad (1 bowl)",
+    "cal": 70,
+    "pro": 2,
+    "carb": 10,
+    "fat": 2,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 150, "cup": 150 }
+  },
+  {
+    "name": "Cucumber Salad (1 bowl)",
+    "cal": 40,
+    "pro": 1,
+    "carb": 8,
+    "fat": 0,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 150 }
+  },
+  {
+    "name": "Onion Salad (1 plate)",
+    "cal": 45,
+    "pro": 1,
+    "carb": 10,
+    "fat": 0,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 100 }
+  },
+  {
+    "name": "Mixed Vegetable Salad (1 bowl)",
+    "cal": 80,
+    "pro": 3,
+    "carb": 14,
+    "fat": 1,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Tomato Cucumber Salad (1 bowl)",
+    "cal": 55,
+    "pro": 2,
+    "carb": 10,
+    "fat": 0,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 150 }
+  },
+  {
+    "name": "Carrot Salad (1 bowl)",
+    "cal": 75,
+    "pro": 1,
+    "carb": 16,
+    "fat": 0,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 150 }
+  },
+  {
+    "name": "Beetroot Salad (1 bowl)",
+    "cal": 95,
+    "pro": 2,
+    "carb": 20,
+    "fat": 0,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 150 }
+  },
+  {
+    "name": "Sprouts Salad (1 bowl)",
+    "cal": 120,
+    "pro": 9,
+    "carb": 18,
+    "fat": 2,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Moong Sprouts Salad (1 bowl)",
+    "cal": 110,
+    "pro": 7,
+    "carb": 16,
+    "fat": 2,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 170 }
+  },
+  {
+    "name": "Green Salad (1 plate)",
+    "cal": 40,
+    "pro": 2,
+    "carb": 8,
+    "fat": 0,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 120 }
+  },
+  {
+    "name": "Fruit Salad (1 bowl)",
+    "cal": 140,
+    "pro": 1,
+    "carb": 32,
+    "fat": 1,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Apple Salad (1 bowl)",
+    "cal": 130,
+    "pro": 0,
+    "carb": 30,
+    "fat": 1,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Pineapple Salad (1 bowl)",
+    "cal": 120,
+    "pro": 1,
+    "carb": 28,
+    "fat": 0,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Papaya Salad (1 bowl)",
+    "cal": 100,
+    "pro": 1,
+    "carb": 26,
+    "fat": 0,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Corn Salad (1 bowl)",
+    "cal": 160,
+    "pro": 4,
+    "carb": 30,
+    "fat": 4,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Chana Salad (1 bowl)",
+    "cal": 190,
+    "pro": 9,
+    "carb": 28,
+    "fat": 3,
+    "fib": 7,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Rajma Salad (1 bowl)",
+    "cal": 210,
+    "pro": 11,
+    "carb": 28,
+    "fat": 4,
+    "fib": 7,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Chole Salad (1 bowl)",
+    "cal": 200,
+    "pro": 10,
+    "carb": 28,
+    "fat": 4,
+    "fib": 6,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Kosambari (1 bowl)",
+    "cal": 130,
+    "pro": 6,
+    "carb": 18,
+    "fat": 3,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Cabbage Salad (1 bowl)",
+    "cal": 55,
+    "pro": 2,
+    "carb": 12,
+    "fat": 0,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 150 }
+  },
+  {
+    "name": "Lettuce Salad (1 bowl)",
+    "cal": 25,
+    "pro": 1,
+    "carb": 5,
+    "fat": 0,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 100 }
+  },
+  {
+    "name": "Carrot Beet Salad (1 bowl)",
+    "cal": 90,
+    "pro": 2,
+    "carb": 20,
+    "fat": 0,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 170 }
+  },
+  {
+    "name": "Mint Lemon Salad (1 bowl)",
+    "cal": 45,
+    "pro": 1,
+    "carb": 10,
+    "fat": 0,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 150 }
+  },
+  {
+    "name": "Coriander Salad (1 bowl)",
+    "cal": 35,
+    "pro": 2,
+    "carb": 6,
+    "fat": 0,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 100 }
+  },
+  {
+    "name": "Spring Onion Salad (1 bowl)",
+    "cal": 50,
+    "pro": 2,
+    "carb": 10,
+    "fat": 0,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 120 }
+  },
+  {
+    "name": "Greek Salad (1 bowl)",
+    "cal": 150,
+    "pro": 4,
+    "carb": 10,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Caesar Salad (1 bowl)",
+    "cal": 260,
+    "pro": 9,
+    "carb": 18,
+    "fat": 18,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Chicken Caesar Salad (1 bowl)",
+    "cal": 330,
+    "pro": 22,
+    "carb": 18,
+    "fat": 18,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Egg Caesar Salad (1 bowl)",
+    "cal": 300,
+    "pro": 14,
+    "carb": 18,
+    "fat": 20,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Tuna Salad (1 bowl)",
+    "cal": 320,
+    "pro": 26,
+    "carb": 8,
+    "fat": 18,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Tuna Mayo Salad (1 bowl)",
+    "cal": 380,
+    "pro": 25,
+    "carb": 8,
+    "fat": 28,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Tuna Pasta Salad (1 bowl)",
+    "cal": 420,
+    "pro": 20,
+    "carb": 50,
+    "fat": 14,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Pasta Salad Veg (1 bowl)",
+    "cal": 310,
+    "pro": 8,
+    "carb": 48,
+    "fat": 8,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Macaroni Salad (1 bowl)",
+    "cal": 330,
+    "pro": 7,
+    "carb": 44,
+    "fat": 12,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Coleslaw Salad (1 bowl)",
+    "cal": 180,
+    "pro": 2,
+    "carb": 16,
+    "fat": 12,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Creamy Coleslaw (1 bowl)",
+    "cal": 220,
+    "pro": 2,
+    "carb": 18,
+    "fat": 16,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Russian Salad (1 bowl)",
+    "cal": 260,
+    "pro": 4,
+    "carb": 28,
+    "fat": 14,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "American Potato Salad (1 bowl)",
+    "cal": 310,
+    "pro": 4,
+    "carb": 42,
+    "fat": 14,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "German Potato Salad (1 bowl)",
+    "cal": 260,
+    "pro": 5,
+    "carb": 36,
+    "fat": 10,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Chickpea Greek Salad (1 bowl)",
+    "cal": 240,
+    "pro": 9,
+    "carb": 30,
+    "fat": 8,
+    "fib": 7,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Mediterranean Salad (1 bowl)",
+    "cal": 170,
+    "pro": 4,
+    "carb": 14,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Tabbouleh (1 bowl)",
+    "cal": 150,
+    "pro": 4,
+    "carb": 20,
+    "fat": 4,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Fattoush (1 bowl)",
+    "cal": 160,
+    "pro": 3,
+    "carb": 22,
+    "fat": 6,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Lebanese Cabbage Salad (1 bowl)",
+    "cal": 110,
+    "pro": 2,
+    "carb": 16,
+    "fat": 4,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Arabic Cucumber Yogurt Salad (1 bowl)",
+    "cal": 90,
+    "pro": 4,
+    "carb": 8,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 160 }
+  },
+  {
+    "name": "Italian Caprese Salad (1 plate)",
+    "cal": 240,
+    "pro": 11,
+    "carb": 8,
+    "fat": 18,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 180 }
+  },
+  {
+    "name": "Panzanella Salad (1 bowl)",
+    "cal": 220,
+    "pro": 6,
+    "carb": 28,
+    "fat": 8,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Nicoise Salad (1 bowl)",
+    "cal": 350,
+    "pro": 18,
+    "carb": 20,
+    "fat": 22,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Avocado Salad (1 bowl)",
+    "cal": 260,
+    "pro": 3,
+    "carb": 12,
+    "fat": 22,
+    "fib": 7,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Quinoa Salad (1 bowl)",
+    "cal": 230,
+    "pro": 8,
+    "carb": 34,
+    "fat": 6,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Quinoa Chickpea Salad (1 bowl)",
+    "cal": 260,
+    "pro": 10,
+    "carb": 36,
+    "fat": 6,
+    "fib": 6,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Couscous Salad (1 bowl)",
+    "cal": 240,
+    "pro": 6,
+    "carb": 40,
+    "fat": 4,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Barley Salad (1 bowl)",
+    "cal": 210,
+    "pro": 5,
+    "carb": 40,
+    "fat": 3,
+    "fib": 5,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Millet Salad (1 bowl)",
+    "cal": 240,
+    "pro": 7,
+    "carb": 38,
+    "fat": 5,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Buckwheat Salad (1 bowl)",
+    "cal": 230,
+    "pro": 6,
+    "carb": 38,
+    "fat": 4,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Lentil Salad (1 bowl)",
+    "cal": 260,
+    "pro": 12,
+    "carb": 30,
+    "fat": 6,
+    "fib": 8,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Masoor Dal Salad (1 bowl)",
+    "cal": 240,
+    "pro": 10,
+    "carb": 30,
+    "fat": 6,
+    "fib": 7,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Urad Dal Salad (1 bowl)",
+    "cal": 230,
+    "pro": 11,
+    "carb": 26,
+    "fat": 6,
+    "fib": 5,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Mixed Bean Salad (1 bowl)",
+    "cal": 250,
+    "pro": 10,
+    "carb": 35,
+    "fat": 5,
+    "fib": 8,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Three Bean Salad (1 bowl)",
+    "cal": 260,
+    "pro": 11,
+    "carb": 36,
+    "fat": 6,
+    "fib": 7,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Black Bean Salad (1 bowl)",
+    "cal": 270,
+    "pro": 12,
+    "carb": 38,
+    "fat": 4,
+    "fib": 8,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Edamame Salad (1 bowl)",
+    "cal": 220,
+    "pro": 14,
+    "carb": 14,
+    "fat": 8,
+    "fib": 5,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Broccoli Salad (1 bowl)",
+    "cal": 150,
+    "pro": 5,
+    "carb": 16,
+    "fat": 6,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Avocado Chickpea Salad (1 bowl)",
+    "cal": 300,
+    "pro": 9,
+    "carb": 26,
+    "fat": 20,
+    "fib": 6,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Avocado Egg Salad (1 bowl)",
+    "cal": 320,
+    "pro": 14,
+    "carb": 10,
+    "fat": 24,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Kale Salad (1 bowl)",
+    "cal": 180,
+    "pro": 5,
+    "carb": 16,
+    "fat": 10,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 150 }
+  },
+  {
+    "name": "Spinach Salad (1 bowl)",
+    "cal": 120,
+    "pro": 5,
+    "carb": 10,
+    "fat": 6,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 150 }
+  },
+  {
+    "name": "Warm Spinach Egg Salad (1 bowl)",
+    "cal": 220,
+    "pro": 12,
+    "carb": 8,
+    "fat": 16,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Peanut Salad (1 bowl)",
+    "cal": 240,
+    "pro": 9,
+    "carb": 14,
+    "fat": 18,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Sprouted Moong Peanut Salad (1 bowl)",
+    "cal": 220,
+    "pro": 10,
+    "carb": 18,
+    "fat": 10,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Tofu Salad (1 bowl)",
+    "cal": 190,
+    "pro": 12,
+    "carb": 12,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 170 }
+  },
+  {
+    "name": "Tofu Veg Bowl (1 bowl)",
+    "cal": 240,
+    "pro": 14,
+    "carb": 20,
+    "fat": 12,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Grilled Veg Salad (1 bowl)",
+    "cal": 150,
+    "pro": 3,
+    "carb": 20,
+    "fat": 6,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 200 }
   }
 ]
