@@ -6028,5 +6028,446 @@
     "fat": 18,
     "fib": 4,
     "weights": { "gram": 1, "bowl": 300 }
+  },
+  {
+    "name": "Superfood Salad (1 bowl)",
+    "cal": 260,
+    "pro": 8,
+    "carb": 28,
+    "fat": 12,
+    "fib": 5,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Kale Quinoa Superfood Bowl (1 bowl)",
+    "cal": 310,
+    "pro": 10,
+    "carb": 34,
+    "fat": 14,
+    "fib": 6,
+    "weights": { "gram": 1, "bowl": 260 }
+  },
+  {
+    "name": "Spinach Chickpea Superfood Salad (1 bowl)",
+    "cal": 260,
+    "pro": 10,
+    "carb": 30,
+    "fat": 8,
+    "fib": 6,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Avocado Super Greens Salad (1 bowl)",
+    "cal": 300,
+    "pro": 5,
+    "carb": 20,
+    "fat": 22,
+    "fib": 6,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Rainbow Salad Bowl (1 bowl)",
+    "cal": 190,
+    "pro": 4,
+    "carb": 30,
+    "fat": 6,
+    "fib": 5,
+    "weights": { "gram": 1, "bowl": 260 }
+  },
+  {
+    "name": "Detox Green Salad (1 bowl)",
+    "cal": 140,
+    "pro": 4,
+    "carb": 16,
+    "fat": 6,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Detox Cucumber Mint Salad (1 bowl)",
+    "cal": 110,
+    "pro": 2,
+    "carb": 14,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Detox Carrot Beet Salad (1 bowl)",
+    "cal": 150,
+    "pro": 3,
+    "carb": 26,
+    "fat": 4,
+    "fib": 5,
+    "weights": { "gram": 1, "bowl": 190 }
+  },
+  {
+    "name": "Protein Detox Bowl (1 bowl)",
+    "cal": 280,
+    "pro": 18,
+    "carb": 20,
+    "fat": 12,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 260 }
+  },
+  {
+    "name": "Vegan Protein Salad (1 bowl)",
+    "cal": 260,
+    "pro": 14,
+    "carb": 22,
+    "fat": 10,
+    "fib": 5,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Vegan Buddha Bowl (1 bowl)",
+    "cal": 320,
+    "pro": 12,
+    "carb": 40,
+    "fat": 12,
+    "fib": 6,
+    "weights": { "gram": 1, "bowl": 300 }
+  },
+  {
+    "name": "Vegan Chickpea Bowl (1 bowl)",
+    "cal": 300,
+    "pro": 12,
+    "carb": 38,
+    "fat": 10,
+    "fib": 7,
+    "weights": { "gram": 1, "bowl": 300 }
+  },
+  {
+    "name": "Vegan Lentil Salad (1 bowl)",
+    "cal": 280,
+    "pro": 14,
+    "carb": 32,
+    "fat": 8,
+    "fib": 7,
+    "weights": { "gram": 1, "bowl": 260 }
+  },
+  {
+    "name": "Roasted Veg Vegan Salad (1 bowl)",
+    "cal": 210,
+    "pro": 5,
+    "carb": 26,
+    "fat": 10,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Tofu Power Salad (1 bowl)",
+    "cal": 230,
+    "pro": 16,
+    "carb": 14,
+    "fat": 12,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Cottage Cheese Protein Salad (1 bowl)",
+    "cal": 260,
+    "pro": 18,
+    "carb": 12,
+    "fat": 14,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Mediterranean Protein Salad (1 bowl)",
+    "cal": 310,
+    "pro": 20,
+    "carb": 20,
+    "fat": 16,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Mexican Protein Bowl (1 bowl)",
+    "cal": 350,
+    "pro": 22,
+    "carb": 30,
+    "fat": 16,
+    "fib": 5,
+    "weights": { "gram": 1, "bowl": 300 }
+  },
+  {
+    "name": "Quinoa Veg Power Bowl (1 bowl)",
+    "cal": 320,
+    "pro": 12,
+    "carb": 44,
+    "fat": 10,
+    "fib": 6,
+    "weights": { "gram": 1, "bowl": 280 }
+  },
+  {
+    "name": "Pasta Protein Salad (1 bowl)",
+    "cal": 360,
+    "pro": 18,
+    "carb": 48,
+    "fat": 10,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 300 }
+  },
+  {
+    "name": "Asian Fusion Mango Salad (1 bowl)",
+    "cal": 180,
+    "pro": 3,
+    "carb": 28,
+    "fat": 6,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Asian Chilli Lime Salad (1 bowl)",
+    "cal": 120,
+    "pro": 2,
+    "carb": 18,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Spicy Korean Salad (1 bowl)",
+    "cal": 170,
+    "pro": 4,
+    "carb": 20,
+    "fat": 6,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Japanese Ginger Veg Salad (1 bowl)",
+    "cal": 130,
+    "pro": 3,
+    "carb": 18,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 160 }
+  },
+  {
+    "name": "Apple Cranberry Walnut Salad (1 bowl)",
+    "cal": 240,
+    "pro": 2,
+    "carb": 30,
+    "fat": 12,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Berry Mint Salad (1 bowl)",
+    "cal": 150,
+    "pro": 2,
+    "carb": 28,
+    "fat": 2,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Peach Basil Salad (1 bowl)",
+    "cal": 140,
+    "pro": 2,
+    "carb": 28,
+    "fat": 1,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Grapefruit Avocado Salad (1 bowl)",
+    "cal": 200,
+    "pro": 2,
+    "carb": 18,
+    "fat": 14,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Kiwi Spinach Salad (1 bowl)",
+    "cal": 130,
+    "pro": 3,
+    "carb": 22,
+    "fat": 4,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 160 }
+  },
+  {
+    "name": "Pear Rocket Salad (1 bowl)",
+    "cal": 180,
+    "pro": 3,
+    "carb": 22,
+    "fat": 8,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 160 }
+  },
+  {
+    "name": "Roasted Beet Walnut Salad (1 bowl)",
+    "cal": 200,
+    "pro": 4,
+    "carb": 24,
+    "fat": 10,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Roasted Pumpkin Feta Salad (1 bowl)",
+    "cal": 260,
+    "pro": 8,
+    "carb": 26,
+    "fat": 12,
+    "fib": 5,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Roasted Sweet Potato Salad (1 bowl)",
+    "cal": 280,
+    "pro": 5,
+    "carb": 42,
+    "fat": 10,
+    "fib": 6,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Sweet Potato Chickpea Salad (1 bowl)",
+    "cal": 310,
+    "pro": 10,
+    "carb": 42,
+    "fat": 10,
+    "fib": 7,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Grilled Corn Salad (1 bowl)",
+    "cal": 180,
+    "pro": 4,
+    "carb": 26,
+    "fat": 6,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Warm Quinoa Roasted Veg Salad (1 bowl)",
+    "cal": 300,
+    "pro": 10,
+    "carb": 40,
+    "fat": 10,
+    "fib": 6,
+    "weights": { "gram": 1, "bowl": 260 }
+  },
+  {
+    "name": "Brown Rice Veg Salad (1 bowl)",
+    "cal": 290,
+    "pro": 6,
+    "carb": 52,
+    "fat": 6,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 260 }
+  },
+  {
+    "name": "Wild Rice Salad (1 bowl)",
+    "cal": 300,
+    "pro": 7,
+    "carb": 54,
+    "fat": 6,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 260 }
+  },
+  {
+    "name": "Barley Roast Veg Salad (1 bowl)",
+    "cal": 250,
+    "pro": 6,
+    "carb": 40,
+    "fat": 6,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Couscous Roast Veg Salad (1 bowl)",
+    "cal": 280,
+    "pro": 6,
+    "carb": 46,
+    "fat": 6,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 260 }
+  },
+  {
+    "name": "Mediterranean Farro Salad (1 bowl)",
+    "cal": 310,
+    "pro": 9,
+    "carb": 48,
+    "fat": 8,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 260 }
+  },
+  {
+    "name": "Sourdough Panzanella Bowl (1 bowl)",
+    "cal": 260,
+    "pro": 7,
+    "carb": 34,
+    "fat": 10,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Italian Antipasto Salad (1 bowl)",
+    "cal": 340,
+    "pro": 14,
+    "carb": 12,
+    "fat": 26,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Mediterranean Olive Feta Salad (1 bowl)",
+    "cal": 220,
+    "pro": 5,
+    "carb": 12,
+    "fat": 18,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Moroccan Carrot Orange Salad (1 bowl)",
+    "cal": 160,
+    "pro": 2,
+    "carb": 28,
+    "fat": 4,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Middle Eastern Lentil Salad (1 bowl)",
+    "cal": 260,
+    "pro": 12,
+    "carb": 30,
+    "fat": 8,
+    "fib": 7,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Lebanese Herb Salad (1 bowl)",
+    "cal": 120,
+    "pro": 3,
+    "carb": 14,
+    "fat": 4,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Mexican Quinoa Salad (1 bowl)",
+    "cal": 300,
+    "pro": 10,
+    "carb": 40,
+    "fat": 10,
+    "fib": 5,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Mexican Salsa Salad (1 bowl)",
+    "cal": 100,
+    "pro": 2,
+    "carb": 20,
+    "fat": 2,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 180 }
   }
 ]
