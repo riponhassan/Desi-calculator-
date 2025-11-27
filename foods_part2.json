@@ -2680,5 +2680,230 @@
     "fat": 4,
     "fib": 1,
     "weights": { "gram": 1, "piece": 20, "serving": 20 }
+  },
+  {
+    "name": "Poornam Boorelu (1 piece)",
+    "cal": 155,
+    "pro": 3,
+    "carb": 26,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 28, "serving": 28 }
+  },
+  {
+    "name": "Sugiyan (1 piece)",
+    "cal": 160,
+    "pro": 3,
+    "carb": 27,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 30, "serving": 30 }
+  },
+  {
+    "name": "Unniyappam (1 piece)",
+    "cal": 120,
+    "pro": 2,
+    "carb": 18,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 22, "serving": 22 }
+  },
+  {
+    "name": "Neyyappam (1 piece)",
+    "cal": 165,
+    "pro": 2,
+    "carb": 26,
+    "fat": 6,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 30, "serving": 30 }
+  },
+  {
+    "name": "Ellunda (Sesame Laddu) (1 piece)",
+    "cal": 140,
+    "pro": 3,
+    "carb": 14,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 22, "serving": 22 }
+  },
+  {
+    "name": "Dry Coconut Burfi (1 piece)",
+    "cal": 130,
+    "pro": 2,
+    "carb": 15,
+    "fat": 7,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 28, "serving": 28 }
+  },
+  {
+    "name": "Peanut Burfi (1 piece)",
+    "cal": 125,
+    "pro": 3,
+    "carb": 12,
+    "fat": 7,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 25, "serving": 25 }
+  },
+  {
+    "name": "Til Barfi (1 piece)",
+    "cal": 135,
+    "pro": 3,
+    "carb": 14,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 25, "serving": 25 }
+  },
+  {
+    "name": "Ghiya Barfi (1 piece)",
+    "cal": 110,
+    "pro": 2,
+    "carb": 13,
+    "fat": 5,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 28, "serving": 28 }
+  },
+  {
+    "name": "Besan Barfi (1 piece)",
+    "cal": 140,
+    "pro": 3,
+    "carb": 16,
+    "fat": 7,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 28, "serving": 28 }
+  },
+  {
+    "name": "Atta Barfi (1 piece)",
+    "cal": 135,
+    "pro": 3,
+    "carb": 17,
+    "fat": 6,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 28, "serving": 28 }
+  },
+  {
+    "name": "Moong Dal Barfi (1 piece)",
+    "cal": 145,
+    "pro": 4,
+    "carb": 16,
+    "fat": 7,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 30, "serving": 30 }
+  },
+  {
+    "name": "Urad Dal Laddu (1 piece)",
+    "cal": 135,
+    "pro": 4,
+    "carb": 14,
+    "fat": 7,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 25, "serving": 25 }
+  },
+  {
+    "name": "Moong Dal Laddu (1 piece)",
+    "cal": 130,
+    "pro": 4,
+    "carb": 14,
+    "fat": 6,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 25, "serving": 25 }
+  },
+  {
+    "name": "Ragi Laddu (1 piece)",
+    "cal": 120,
+    "pro": 3,
+    "carb": 16,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 22, "serving": 22 }
+  },
+  {
+    "name": "Lapsi (bowl)",
+    "cal": 280,
+    "pro": 5,
+    "carb": 48,
+    "fat": 8,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 180, "cup": 180 }
+  },
+  {
+    "name": "Sooji Kesari (bowl)",
+    "cal": 275,
+    "pro": 4,
+    "carb": 42,
+    "fat": 9,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 180, "cup": 180 }
+  },
+  {
+    "name": "Sweet Daliya (bowl)",
+    "cal": 260,
+    "pro": 5,
+    "carb": 46,
+    "fat": 6,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 180, "cup": 180 }
+  },
+  {
+    "name": "Sabu Dana Ladoo (1 piece)",
+    "cal": 95,
+    "pro": 1,
+    "carb": 16,
+    "fat": 3,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 20, "serving": 20 }
+  },
+  {
+    "name": "Maida Burfi (1 piece)",
+    "cal": 110,
+    "pro": 2,
+    "carb": 14,
+    "fat": 5,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 22, "serving": 22 }
+  },
+  {
+    "name": "Kaaju Strawberry Barfi (1 piece)",
+    "cal": 125,
+    "pro": 2,
+    "carb": 16,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 25, "serving": 25 }
+  },
+  {
+    "name": "Rose Coconut Laddu (1 piece)",
+    "cal": 130,
+    "pro": 2,
+    "carb": 17,
+    "fat": 6,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 25, "serving": 25 }
+  },
+  {
+    "name": "Khoya Jalebi (1 piece)",
+    "cal": 150,
+    "pro": 3,
+    "carb": 25,
+    "fat": 4,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 28, "serving": 28 }
+  },
+  {
+    "name": "Rabri Jalebi (1 plate)",
+    "cal": 350,
+    "pro": 5,
+    "carb": 46,
+    "fat": 14,
+    "fib": 0,
+    "weights": { "gram": 1, "serving": 120, "bowl": 120 }
+  },
+  {
+    "name": "Milk Mysore Pak (1 piece)",
+    "cal": 200,
+    "pro": 3,
+    "carb": 18,
+    "fat": 12,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 30, "serving": 30 }
   }
 ]
