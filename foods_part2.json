@@ -8134,5 +8134,95 @@
     "fat": 5,
     "fib": 2,
     "weights": { "gram": 1, "piece": 24 }
+  },
+  {
+    "name": "Chicken Koliwada (1 piece)",
+    "cal": 95,
+    "pro": 9,
+    "carb": 3,
+    "fat": 5,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 28 }
+  },
+  {
+    "name": "Fish Koliwada (1 piece)",
+    "cal": 80,
+    "pro": 9,
+    "carb": 3,
+    "fat": 3,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Prawn Koliwada (1 piece)",
+    "cal": 45,
+    "pro": 6,
+    "carb": 2,
+    "fat": 1,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 15 }
+  },
+  {
+    "name": "Paneer Koliwada (1 piece)",
+    "cal": 130,
+    "pro": 7,
+    "carb": 4,
+    "fat": 9,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 35 }
+  },
+  {
+    "name": "Mushroom Koliwada (1 piece)",
+    "cal": 45,
+    "pro": 2,
+    "carb": 3,
+    "fat": 3,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 18 }
+  },
+  {
+    "name": "Baby Corn Koliwada (1 piece)",
+    "cal": 35,
+    "pro": 1,
+    "carb": 4,
+    "fat": 2,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 14 }
+  },
+  {
+    "name": "Soya Koliwada (1 piece)",
+    "cal": 95,
+    "pro": 6,
+    "carb": 4,
+    "fat": 6,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Aloo Koliwada (1 piece)",
+    "cal": 95,
+    "pro": 1,
+    "carb": 14,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 35 }
+  },
+  {
+    "name": "Surmai Koliwada (1 piece)",
+    "cal": 110,
+    "pro": 12,
+    "carb": 3,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 35 }
+  },
+  {
+    "name": "Pomfret Koliwada (1 piece)",
+    "cal": 140,
+    "pro": 15,
+    "carb": 3,
+    "fat": 8,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 45 }
   }
 ]
