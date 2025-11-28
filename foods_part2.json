@@ -9421,5 +9421,347 @@
     "fat": 12,
     "fib": 0,
     "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Kashmiri Rogan Josh (1 bowl)",
+    "cal": 360,
+    "pro": 26,
+    "carb": 8,
+    "fat": 24,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Yakhni Mutton (1 bowl)",
+    "cal": 330,
+    "pro": 24,
+    "carb": 8,
+    "fat": 20,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Gushtaba (1 piece)",
+    "cal": 180,
+    "pro": 10,
+    "carb": 3,
+    "fat": 14,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 45 }
+  },
+  {
+    "name": "Rista (1 piece)",
+    "cal": 170,
+    "pro": 10,
+    "carb": 3,
+    "fat": 13,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Kashmiri Dum Aloo (1 bowl)",
+    "cal": 260,
+    "pro": 4,
+    "carb": 32,
+    "fat": 14,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Nadru Yakhni (1 bowl)",
+    "cal": 220,
+    "pro": 6,
+    "carb": 18,
+    "fat": 12,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Nadru Churma (1 bowl)",
+    "cal": 260,
+    "pro": 5,
+    "carb": 22,
+    "fat": 16,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Haak Saag (1 bowl)",
+    "cal": 120,
+    "pro": 5,
+    "carb": 8,
+    "fat": 6,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Kashmiri Modur Pulao (1 plate)",
+    "cal": 520,
+    "pro": 8,
+    "carb": 82,
+    "fat": 18,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 300 }
+  },
+  {
+    "name": "Kashmiri Saffron Rice (1 plate)",
+    "cal": 340,
+    "pro": 6,
+    "carb": 68,
+    "fat": 6,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 280 }
+  },
+  {
+    "name": "Kashmiri Mujh Gaad (Fish with radish) (1 bowl)",
+    "cal": 280,
+    "pro": 22,
+    "carb": 12,
+    "fat": 14,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Kashmiri Shab Deg (1 bowl)",
+    "cal": 420,
+    "pro": 26,
+    "carb": 16,
+    "fat": 28,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 260 }
+  },
+  {
+    "name": "Kashmiri Gaad Nadur (Fish + Lotus stem) (1 bowl)",
+    "cal": 300,
+    "pro": 24,
+    "carb": 14,
+    "fat": 14,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Kashmiri Rajma Gogji (Rajma with turnip) (1 bowl)",
+    "cal": 230,
+    "pro": 9,
+    "carb": 30,
+    "fat": 8,
+    "fib": 6,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Kashmiri Muji Chetin (Radish chutney) (1 tbsp)",
+    "cal": 25,
+    "pro": 1,
+    "carb": 3,
+    "fat": 1,
+    "fib": 1,
+    "weights": { "gram": 1, "tbsp": 15 }
+  },
+  {
+    "name": "Kashmiri Paneer Yakhni (1 bowl)",
+    "cal": 280,
+    "pro": 10,
+    "carb": 12,
+    "fat": 20,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Kashmiri Tschaman Qaliya (1 bowl)",
+    "cal": 300,
+    "pro": 12,
+    "carb": 14,
+    "fat": 22,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Kashmiri Gogji Nadur (Turnip + Lotus stem) (1 bowl)",
+    "cal": 190,
+    "pro": 4,
+    "carb": 22,
+    "fat": 10,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Kashmiri Tsoek Wangun (Sour brinjal) (1 bowl)",
+    "cal": 200,
+    "pro": 4,
+    "carb": 20,
+    "fat": 12,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Tabak Maaz (1 piece)",
+    "cal": 160,
+    "pro": 10,
+    "carb": 1,
+    "fat": 12,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 35 }
+  },
+  {
+    "name": "Kabargaah (1 piece)",
+    "cal": 180,
+    "pro": 12,
+    "carb": 2,
+    "fat": 14,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Daniwal Korma (1 bowl)",
+    "cal": 330,
+    "pro": 24,
+    "carb": 10,
+    "fat": 20,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Aab Gosht (1 bowl)",
+    "cal": 340,
+    "pro": 22,
+    "carb": 8,
+    "fat": 24,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Waza Palak (1 bowl)",
+    "cal": 210,
+    "pro": 6,
+    "carb": 14,
+    "fat": 14,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Kashmiri Tschoker (Sour pumpkin) (1 bowl)",
+    "cal": 190,
+    "pro": 3,
+    "carb": 26,
+    "fat": 8,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Kashmiri Gogji (Turnip curry) (1 bowl)",
+    "cal": 170,
+    "pro": 3,
+    "carb": 22,
+    "fat": 8,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Nadru Monjje (Lotus stem stir fry) (1 bowl)",
+    "cal": 210,
+    "pro": 4,
+    "carb": 22,
+    "fat": 12,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Kashmiri Chok Wangan (1 bowl)",
+    "cal": 200,
+    "pro": 4,
+    "carb": 20,
+    "fat": 12,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Kashmiri Tamatar Tsaman (Paneer tomato curry) (1 bowl)",
+    "cal": 260,
+    "pro": 10,
+    "carb": 12,
+    "fat": 18,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Kashmiri Muji Gaad (Radish fish curry) (1 bowl)",
+    "cal": 280,
+    "pro": 22,
+    "carb": 12,
+    "fat": 14,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Lavasa Roti (1 piece)",
+    "cal": 150,
+    "pro": 4,
+    "carb": 26,
+    "fat": 2,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 50 }
+  },
+  {
+    "name": "Girda Bread (1 piece)",
+    "cal": 210,
+    "pro": 6,
+    "carb": 36,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 70 }
+  },
+  {
+    "name": "Sheermal Kashmiri (1 piece)",
+    "cal": 260,
+    "pro": 5,
+    "carb": 44,
+    "fat": 7,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 80 }
+  },
+  {
+    "name": "Tschot Roti (1 piece)",
+    "cal": 120,
+    "pro": 3,
+    "carb": 20,
+    "fat": 2,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Kashmiri Kulcha (1 piece)",
+    "cal": 240,
+    "pro": 6,
+    "carb": 36,
+    "fat": 8,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 80 }
+  },
+  {
+    "name": "Kesar Kahwa (1 cup)",
+    "cal": 40,
+    "pro": 0,
+    "carb": 10,
+    "fat": 0,
+    "fib": 0,
+    "weights": { "gram": 1, "cup": 240 }
+  },
+  {
+    "name": "Badam Kahwa (1 cup)",
+    "cal": 80,
+    "pro": 2,
+    "carb": 10,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "cup": 240 }
+  },
+  {
+    "name": "Gulab Kahwa (1 cup)",
+    "cal": 45,
+    "pro": 0,
+    "carb": 12,
+    "fat": 0,
+    "fib": 0,
+    "weights": { "gram": 1, "cup": 240 }
   }
 ]
