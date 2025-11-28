@@ -12418,5 +12418,275 @@
   "fat": 4.0,
   "fib": 2.0,
   "weights": { "gram": 1, "piece": 30 }
+},
+{
+  "name": "Pyaaz Kachori (Jodhpur Style)",
+  "cal": 305,
+  "pro": 6.5,
+  "carb": 32.0,
+  "fat": 17.0,
+  "fib": 3.5,
+  "weights": { "gram": 1, "piece": 90 }
+},
+{
+  "name": "Dal Kachori (Rajasthani Style)",
+  "cal": 285,
+  "pro": 7.2,
+  "carb": 31.0,
+  "fat": 15.0,
+  "fib": 4.2,
+  "weights": { "gram": 1, "piece": 80 }
+},
+{
+  "name": "Mirchi Bada (Jodhpur Spicy Chili Fritter)",
+  "cal": 210,
+  "pro": 4.8,
+  "carb": 23.0,
+  "fat": 11.0,
+  "fib": 2.5,
+  "weights": { "gram": 1, "piece": 80 }
+},
+{
+  "name": "Sev Tamatar ki Sabzi",
+  "cal": 195,
+  "pro": 4.0,
+  "carb": 18.5,
+  "fat": 11.0,
+  "fib": 3.2,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Gunda Ker Sabzi",
+  "cal": 170,
+  "pro": 3.5,
+  "carb": 14.0,
+  "fat": 10.0,
+  "fib": 4.0,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Gawar Fali ki Sabzi (Rajasthani Style)",
+  "cal": 120,
+  "pro": 3.2,
+  "carb": 10.5,
+  "fat": 7.0,
+  "fib": 4.8,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Bajra Poori",
+  "cal": 165,
+  "pro": 3.0,
+  "carb": 16.0,
+  "fat": 9.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "piece": 25 }
+},
+{
+  "name": "Tikkar Roti (Rajasthani Onion + Tomato Roti)",
+  "cal": 170,
+  "pro": 4.4,
+  "carb": 28.0,
+  "fat": 4.5,
+  "fib": 3.5,
+  "weights": { "gram": 1, "piece": 55 }
+},
+{
+  "name": "Rajasthani Besan Kadhi",
+  "cal": 160,
+  "pro": 6.0,
+  "carb": 16.0,
+  "fat": 7.5,
+  "fib": 2.5,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Rajasthani Pakoda Kadhi",
+  "cal": 235,
+  "pro": 7.2,
+  "carb": 18.0,
+  "fat": 14.5,
+  "fib": 3.0,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Gatte ka Pulao",
+  "cal": 245,
+  "pro": 7.0,
+  "carb": 32.0,
+  "fat": 9.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Rajasthani Bajra Khichda (Savory Version)",
+  "cal": 210,
+  "pro": 7.5,
+  "carb": 33.0,
+  "fat": 4.8,
+  "fib": 5.0,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Methi Bajra Poori",
+  "cal": 175,
+  "pro": 3.5,
+  "carb": 15.5,
+  "fat": 10.5,
+  "fib": 3.2,
+  "weights": { "gram": 1, "piece": 25 }
+},
+{
+  "name": "Bajra Raabri (Thick Fermented Gruel)",
+  "cal": 145,
+  "pro": 3.0,
+  "carb": 23.0,
+  "fat": 3.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "cup": 240 }
+},
+{
+  "name": "Khoba Roti (Indented Thick Rajasthani Roti)",
+  "cal": 200,
+  "pro": 5.0,
+  "carb": 32.0,
+  "fat": 4.0,
+  "fib": 4.5,
+  "weights": { "gram": 1, "piece": 70 }
+},
+{
+  "name": "Churma (Traditional Wheat Churma)",
+  "cal": 310,
+  "pro": 5.5,
+  "carb": 45.0,
+  "fat": 12.0,
+  "fib": 4.0,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Gur Churma (Jaggery Churma)",
+  "cal": 325,
+  "pro": 5.8,
+  "carb": 48.0,
+  "fat": 11.5,
+  "fib": 4.0,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Bajra Churma",
+  "cal": 335,
+  "pro": 6.5,
+  "carb": 47.0,
+  "fat": 13.0,
+  "fib": 5.5,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Masala Churma (Dry Fruit Churma)",
+  "cal": 360,
+  "pro": 7.0,
+  "carb": 46.0,
+  "fat": 17.0,
+  "fib": 5.0,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Ghevar (Plain)",
+  "cal": 420,
+  "pro": 6.5,
+  "carb": 55.0,
+  "fat": 18.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "piece": 80 }
+},
+{
+  "name": "Malai Ghevar",
+  "cal": 510,
+  "pro": 8.0,
+  "carb": 54.0,
+  "fat": 28.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "piece": 100 }
+},
+{
+  "name": "Rabri Ghevar",
+  "cal": 560,
+  "pro": 10.0,
+  "carb": 55.0,
+  "fat": 33.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "piece": 120 }
+},
+{
+  "name": "Malpua (Rajasthani Style)",
+  "cal": 190,
+  "pro": 3.5,
+  "carb": 25.0,
+  "fat": 8.5,
+  "fib": 0.7,
+  "weights": { "gram": 1, "piece": 40 }
+},
+{
+  "name": "Mawa Malpua (Rich Version)",
+  "cal": 240,
+  "pro": 4.5,
+  "carb": 26.0,
+  "fat": 12.5,
+  "fib": 0.8,
+  "weights": { "gram": 1, "piece": 45 }
+},
+{
+  "name": "Mawa Kachori (Jodhpur Special)",
+  "cal": 330,
+  "pro": 7.0,
+  "carb": 38.0,
+  "fat": 17.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "piece": 85 }
+},
+{
+  "name": "Kachri ki Sabzi (Desert Wild Cucumber)",
+  "cal": 130,
+  "pro": 3.0,
+  "carb": 9.5,
+  "fat": 8.0,
+  "fib": 3.2,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Papad Mangodi Curry",
+  "cal": 210,
+  "pro": 7.5,
+  "carb": 17.0,
+  "fat": 12.0,
+  "fib": 4.0,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Kanda Bhajiya (Onion Pakoda)",
+  "cal": 160,
+  "pro": 3.0,
+  "carb": 14.0,
+  "fat": 10.0,
+  "fib": 1.8,
+  "weights": { "gram": 1, "piece": 35 }
+},
+{
+  "name": "Aloo Pyaz Pakoda",
+  "cal": 170,
+  "pro": 3.5,
+  "carb": 15.5,
+  "fat": 10.5,
+  "fib": 2.0,
+  "weights": { "gram": 1, "piece": 35 }
+},
+{
+  "name": "Rajasthani Mirchi Vada (Stuffed Green Chili)",
+  "cal": 210,
+  "pro": 4.5,
+  "carb": 22.0,
+  "fat": 11.0,
+  "fib": 2.4,
+  "weights": { "gram": 1, "piece": 75 }
 }
-]
+
