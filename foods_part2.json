@@ -10951,5 +10951,797 @@
     "fat": 3,
     "fib": 0,
     "weights": { "gram": 1, "piece": 28 }
+  },
+  {
+    "name": "Jolbhora Sandesh (1 piece)",
+    "cal": 140,
+    "pro": 3,
+    "carb": 20,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 32 }
+  },
+  {
+    "name": "Monohara (1 piece)",
+    "cal": 160,
+    "pro": 3,
+    "carb": 24,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 35 }
+  },
+  {
+    "name": "Kamalabhog (1 piece)",
+    "cal": 150,
+    "pro": 3,
+    "carb": 26,
+    "fat": 4,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 32 }
+  },
+  {
+    "name": "Motichur Laddu Bengali Style (1 piece)",
+    "cal": 180,
+    "pro": 3,
+    "carb": 26,
+    "fat": 8,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 35 }
+  },
+  {
+    "name": "Khaja (1 piece)",
+    "cal": 160,
+    "pro": 2,
+    "carb": 22,
+    "fat": 8,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 35 }
+  },
+  {
+    "name": "Chittaranjan Sandesh (1 piece)",
+    "cal": 140,
+    "pro": 4,
+    "carb": 18,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 32 }
+  },
+  {
+    "name": "Kheerer Naru (1 piece)",
+    "cal": 90,
+    "pro": 2,
+    "carb": 12,
+    "fat": 4,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 25 }
+  },
+  {
+    "name": "Monda Sweet (1 piece)",
+    "cal": 130,
+    "pro": 2,
+    "carb": 20,
+    "fat": 5,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Kheerer Singhara (1 piece)",
+    "cal": 170,
+    "pro": 3,
+    "carb": 24,
+    "fat": 8,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Nolen Gur Barfi (1 piece)",
+    "cal": 150,
+    "pro": 3,
+    "carb": 20,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 32 }
+  },
+  {
+    "name": "Kheer Puli (1 piece)",
+    "cal": 140,
+    "pro": 2,
+    "carb": 22,
+    "fat": 5,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 35 }
+  },
+  {
+    "name": "Choshir Payesh (1 bowl)",
+    "cal": 260,
+    "pro": 6,
+    "carb": 40,
+    "fat": 8,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Sondesh Kadma (1 piece)",
+    "cal": 130,
+    "pro": 3,
+    "carb": 18,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Orange Sandesh (1 piece)",
+    "cal": 135,
+    "pro": 3,
+    "carb": 18,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Mango Sandesh (1 piece)",
+    "cal": 140,
+    "pro": 3,
+    "carb": 20,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Kesar Malai Sandesh (1 piece)",
+    "cal": 150,
+    "pro": 4,
+    "carb": 18,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 32 }
+  },
+  {
+    "name": "Rabri Malai Sandesh (1 piece)",
+    "cal": 170,
+    "pro": 4,
+    "carb": 20,
+    "fat": 8,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 35 }
+  },
+  {
+    "name": "Pati Pitha (1 piece)",
+    "cal": 130,
+    "pro": 2,
+    "carb": 18,
+    "fat": 6,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 35 }
+  },
+  {
+    "name": "Almonds (serving)",
+    "cal": 174,
+    "pro": 6,
+    "carb": 6,
+    "fat": 15,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 30, "tbsp": 8 }
+  },
+  {
+    "name": "Walnuts (serving)",
+    "cal": 200,
+    "pro": 5,
+    "carb": 4,
+    "fat": 20,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 30 }
+  },
+  {
+    "name": "Cashews (serving)",
+    "cal": 157,
+    "pro": 5,
+    "carb": 9,
+    "fat": 12,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 30 }
+  },
+  {
+    "name": "Pistachios (serving)",
+    "cal": 165,
+    "pro": 6,
+    "carb": 8,
+    "fat": 13,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 30 }
+  },
+  {
+    "name": "Peanuts (roasted, serving)",
+    "cal": 170,
+    "pro": 7,
+    "carb": 6,
+    "fat": 14,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 30 }
+  },
+  {
+    "name": "Hazelnuts (serving)",
+    "cal": 178,
+    "pro": 4,
+    "carb": 5,
+    "fat": 17,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 30 }
+  },
+  {
+    "name": "Macadamia Nuts (serving)",
+    "cal": 204,
+    "pro": 2,
+    "carb": 4,
+    "fat": 21,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 30 }
+  },
+  {
+    "name": "Brazil Nuts (serving)",
+    "cal": 187,
+    "pro": 4,
+    "carb": 3,
+    "fat": 19,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 30 }
+  },
+  {
+    "name": "Pecans (serving)",
+    "cal": 196,
+    "pro": 3,
+    "carb": 4,
+    "fat": 20,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 30 }
+  },
+  {
+    "name": "Sunflower Seeds (1 tbsp)",
+    "cal": 90,
+    "pro": 3,
+    "carb": 3,
+    "fat": 8,
+    "fib": 1,
+    "weights": { "gram": 1, "tbsp": 15 }
+  },
+  {
+    "name": "Pumpkin Seeds (1 tbsp)",
+    "cal": 85,
+    "pro": 5,
+    "carb": 2,
+    "fat": 7,
+    "fib": 1,
+    "weights": { "gram": 1, "tbsp": 15 }
+  },
+  {
+    "name": "Chia Seeds (1 tbsp)",
+    "cal": 70,
+    "pro": 2,
+    "carb": 6,
+    "fat": 4,
+    "fib": 5,
+    "weights": { "gram": 1, "tbsp": 15 }
+  },
+  {
+    "name": "Flaxseed (ground) (1 tbsp)",
+    "cal": 82,
+    "pro": 3,
+    "carb": 4,
+    "fat": 6,
+    "fib": 3,
+    "weights": { "gram": 1, "tbsp": 15 }
+  },
+  {
+    "name": "Moringa Powder (1 tsp)",
+    "cal": 15,
+    "pro": 2,
+    "carb": 1,
+    "fat": 0,
+    "fib": 1,
+    "weights": { "gram": 1, "tsp": 5 }
+  },
+  {
+    "name": "Spirulina Powder (1 tsp)",
+    "cal": 20,
+    "pro": 4,
+    "carb": 1,
+    "fat": 0,
+    "fib": 0,
+    "weights": { "gram": 1, "tsp": 5 }
+  },
+  {
+    "name": "Hemp Seeds (1 tbsp)",
+    "cal": 57,
+    "pro": 3,
+    "carb": 1,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "tbsp": 15 }
+  },
+  {
+    "name": "Sesame Seeds (1 tbsp)",
+    "cal": 52,
+    "pro": 2,
+    "carb": 2,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "tbsp": 15 }
+  },
+  {
+    "name": "Amla (Indian gooseberry) (1 piece)",
+    "cal": 25,
+    "pro": 1,
+    "carb": 6,
+    "fat": 0,
+    "fib": 4,
+    "weights": { "gram": 1, "piece": 50 }
+  },
+  {
+    "name": "Banana (medium)",
+    "cal": 105,
+    "pro": 1,
+    "carb": 27,
+    "fat": 0,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 118 }
+  },
+  {
+    "name": "Mango (medium, raw or ripe depending) (1 piece)",
+    "cal": 135,
+    "pro": 1,
+    "carb": 35,
+    "fat": 1,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 200 }
+  },
+  {
+    "name": "Apple (medium)",
+    "cal": 95,
+    "pro": 0.5,
+    "carb": 25,
+    "fat": 0,
+    "fib": 4,
+    "weights": { "gram": 1, "piece": 182 }
+  },
+  {
+    "name": "Guava (1 piece)",
+    "cal": 68,
+    "pro": 2,
+    "carb": 14,
+    "fat": 1,
+    "fib": 5,
+    "weights": { "gram": 1, "piece": 100 }
+  },
+  {
+    "name": "Pomegranate (arils) (1 cup)",
+    "cal": 144,
+    "pro": 3,
+    "carb": 34,
+    "fat": 2,
+    "fib": 5,
+    "weights": { "gram": 1, "cup": 240 }
+  },
+  {
+    "name": "Papaya (1 cup)",
+    "cal": 100,
+    "pro": 1,
+    "carb": 26,
+    "fat": 0,
+    "fib": 3,
+    "weights": { "gram": 1, "cup": 240 }
+  },
+  {
+    "name": "Sapota/Chikoo (1 piece)",
+    "cal": 83,
+    "pro": 1,
+    "carb": 20,
+    "fat": 1,
+    "fib": 5,
+    "weights": { "gram": 1, "piece": 100 }
+  },
+  {
+    "name": "Custard Apple (sitaphal) (1 cup pulp)",
+    "cal": 143,
+    "pro": 2,
+    "carb": 32,
+    "fat": 1,
+    "fib": 5,
+    "weights": { "gram": 1, "cup": 240 }
+  },
+  {
+    "name": "Raisins (serving)",
+    "cal": 108,
+    "pro": 1,
+    "carb": 29,
+    "fat": 0,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 30, "tbsp": 10 }
+  },
+  {
+    "name": "Black Raisins (serving)",
+    "cal": 109,
+    "pro": 1,
+    "carb": 29,
+    "fat": 0,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 30 }
+  },
+  {
+    "name": "Dry Apricot (serving)",
+    "cal": 70,
+    "pro": 1,
+    "carb": 17,
+    "fat": 0,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 30 }
+  },
+  {
+    "name": "Dry Figs (Anjeer) (serving)",
+    "cal": 75,
+    "pro": 1,
+    "carb": 19,
+    "fat": 0,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 30 }
+  },
+  {
+    "name": "Dates (Khajoor) (2 pieces)",
+    "cal": 130,
+    "pro": 1,
+    "carb": 36,
+    "fat": 0,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 24 }
+  },
+  {
+    "name": "Medjool Dates (1 piece)",
+    "cal": 66,
+    "pro": 1,
+    "carb": 18,
+    "fat": 0,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 24 }
+  },
+  {
+    "name": "Prunes (serving)",
+    "cal": 67,
+    "pro": 1,
+    "carb": 18,
+    "fat": 0,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 30 }
+  },
+  {
+    "name": "Dry Cranberries (serving)",
+    "cal": 92,
+    "pro": 0,
+    "carb": 25,
+    "fat": 0,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 30 }
+  },
+  {
+    "name": "Blueberries (fresh, 1 cup)",
+    "cal": 84,
+    "pro": 1,
+    "carb": 21,
+    "fat": 0,
+    "fib": 4,
+    "weights": { "gram": 1, "cup": 240 }
+  },
+  {
+    "name": "Strawberries (1 cup)",
+    "cal": 50,
+    "pro": 1,
+    "carb": 12,
+    "fat": 0,
+    "fib": 3,
+    "weights": { "gram": 1, "cup": 240 }
+  },
+  {
+    "name": "Jamun (1 cup)",
+    "cal": 75,
+    "pro": 1,
+    "carb": 16,
+    "fat": 0,
+    "fib": 2,
+    "weights": { "gram": 1, "cup": 240 }
+  },
+  {
+    "name": "Ber (Indian jujube) (1 cup)",
+    "cal": 90,
+    "pro": 1,
+    "carb": 22,
+    "fat": 0,
+    "fib": 3,
+    "weights": { "gram": 1, "cup": 240 }
+  },
+  {
+    "name": "Custard Apple Pulp (half fruit)",
+    "cal": 115,
+    "pro": 1,
+    "carb": 28,
+    "fat": 1,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 120 }
+  },
+  {
+    "name": "Wood Apple (Bel) Pulp (1 cup)",
+    "cal": 140,
+    "pro": 3,
+    "carb": 31,
+    "fat": 0,
+    "fib": 6,
+    "weights": { "gram": 1, "cup": 240 }
+  },
+  {
+    "name": "Bael Candy (1 piece)",
+    "cal": 55,
+    "pro": 0,
+    "carb": 14,
+    "fat": 0,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 12 }
+  },
+  {
+    "name": "Phalsa (1 cup)",
+    "cal": 80,
+    "pro": 1,
+    "carb": 18,
+    "fat": 0,
+    "fib": 3,
+    "weights": { "gram": 1, "cup": 240 }
+  },
+  {
+    "name": "Karonda (1 cup)",
+    "cal": 65,
+    "pro": 1,
+    "carb": 14,
+    "fat": 0,
+    "fib": 2,
+    "weights": { "gram": 1, "cup": 240 }
+  },
+  {
+    "name": "Tendu Fruit (1 piece)",
+    "cal": 45,
+    "pro": 0,
+    "carb": 12,
+    "fat": 0,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Jamun Seed Powder (1 tsp)",
+    "cal": 7,
+    "pro": 0,
+    "carb": 2,
+    "fat": 0,
+    "fib": 1,
+    "weights": { "gram": 1, "tsp": 5 }
+  },
+  {
+    "name": "Chironji (Charoli) (1 tbsp)",
+    "cal": 67,
+    "pro": 2,
+    "carb": 3,
+    "fat": 5,
+    "fib": 1,
+    "weights": { "gram": 1, "tbsp": 15 }
+  },
+  {
+    "name": "Sprouted Moong (1 cup)",
+    "cal": 31,
+    "pro": 3,
+    "carb": 6,
+    "fat": 0,
+    "fib": 2,
+    "weights": { "gram": 1, "cup": 240 }
+  },
+  {
+    "name": "Sprouted Chana (1 cup)",
+    "cal": 150,
+    "pro": 9,
+    "carb": 26,
+    "fat": 2,
+    "fib": 7,
+    "weights": { "gram": 1, "cup": 240 }
+  },
+  {
+    "name": "Roasted Chana (serving)",
+    "cal": 120,
+    "pro": 7,
+    "carb": 18,
+    "fat": 2,
+    "fib": 5,
+    "weights": { "gram": 1, "serving": 30 }
+  },
+  {
+    "name": "Kiwi (1 piece)",
+    "cal": 42,
+    "pro": 1,
+    "carb": 10,
+    "fat": 0,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 75 }
+  },
+  {
+    "name": "Dragon Fruit (1 cup cubes)",
+    "cal": 140,
+    "pro": 3,
+    "carb": 29,
+    "fat": 0,
+    "fib": 6,
+    "weights": { "gram": 1, "cup": 240 }
+  },
+  {
+    "name": "Passion Fruit (1 piece)",
+    "cal": 17,
+    "pro": 0,
+    "carb": 5,
+    "fat": 0,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 18 }
+  },
+  {
+    "name": "Rambutan (1 piece)",
+    "cal": 8,
+    "pro": 0,
+    "carb": 2,
+    "fat": 0,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 10 }
+  },
+  {
+    "name": "Mangosteen (1 piece)",
+    "cal": 68,
+    "pro": 1,
+    "carb": 17,
+    "fat": 0,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 75 }
+  },
+  {
+    "name": "Star Fruit (Carambola) (1 piece)",
+    "cal": 28,
+    "pro": 1,
+    "carb": 6,
+    "fat": 0,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 90 }
+  },
+  {
+    "name": "Bilimbi (1 piece)",
+    "cal": 13,
+    "pro": 0,
+    "carb": 3,
+    "fat": 0,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 25 }
+  },
+  {
+    "name": "Palmyra Fruit (Tadgola/Ice Apple) (1 piece)",
+    "cal": 43,
+    "pro": 0,
+    "carb": 11,
+    "fat": 0,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 60 }
+  },
+  {
+    "name": "Sohiong Berry (Meghalaya) (1 cup)",
+    "cal": 90,
+    "pro": 1,
+    "carb": 20,
+    "fat": 0,
+    "fib": 4,
+    "weights": { "gram": 1, "cup": 240 }
+  },
+  {
+    "name": "Wild Himalayan Raspberry (1 cup)",
+    "cal": 70,
+    "pro": 1,
+    "carb": 15,
+    "fat": 0,
+    "fib": 5,
+    "weights": { "gram": 1, "cup": 240 }
+  },
+  {
+    "name": "Mulberry (1 cup)",
+    "cal": 60,
+    "pro": 2,
+    "carb": 14,
+    "fat": 0,
+    "fib": 2,
+    "weights": { "gram": 1, "cup": 240 }
+  },
+  {
+    "name": "Peanut Butter (1 tbsp)",
+    "cal": 95,
+    "pro": 4,
+    "carb": 3,
+    "fat": 8,
+    "fib": 1,
+    "weights": { "gram": 1, "tbsp": 15 }
+  },
+  {
+    "name": "Almond Butter (1 tbsp)",
+    "cal": 98,
+    "pro": 3,
+    "carb": 3,
+    "fat": 9,
+    "fib": 1,
+    "weights": { "gram": 1, "tbsp": 15 }
+  },
+  {
+    "name": "Cashew Butter (1 tbsp)",
+    "cal": 94,
+    "pro": 2,
+    "carb": 4,
+    "fat": 8,
+    "fib": 0,
+    "weights": { "gram": 1, "tbsp": 15 }
+  },
+  {
+    "name": "Wheatgrass Powder (1 tsp)",
+    "cal": 10,
+    "pro": 1,
+    "carb": 1,
+    "fat": 0,
+    "fib": 1,
+    "weights": { "gram": 1, "tsp": 5 }
+  },
+  {
+    "name": "Ashwagandha Powder (1 tsp)",
+    "cal": 5,
+    "pro": 0,
+    "carb": 1,
+    "fat": 0,
+    "fib": 0,
+    "weights": { "gram": 1, "tsp": 5 }
+  },
+  {
+    "name": "Giloy Powder (1 tsp)",
+    "cal": 6,
+    "pro": 0,
+    "carb": 1,
+    "fat": 0,
+    "fib": 1,
+    "weights": { "gram": 1, "tsp": 5 }
+  },
+  {
+    "name": "Neem Powder (1 tsp)",
+    "cal": 7,
+    "pro": 0,
+    "carb": 1,
+    "fat": 0,
+    "fib": 1,
+    "weights": { "gram": 1, "tsp": 5 }
+  },
+  {
+    "name": "Sea Buckthorn Berry (1 cup)",
+    "cal": 82,
+    "pro": 1,
+    "carb": 15,
+    "fat": 2,
+    "fib": 3,
+    "weights": { "gram": 1, "cup": 240 }
+  },
+  {
+    "name": "Bael Fruit Fresh (1 piece)",
+    "cal": 140,
+    "pro": 2,
+    "carb": 31,
+    "fat": 0,
+    "fib": 7,
+    "weights": { "gram": 1, "piece": 150 }
+  },
+  {
+    "name": "Jackfruit Ripe (1 cup)",
+    "cal": 155,
+    "pro": 3,
+    "carb": 36,
+    "fat": 1,
+    "fib": 3,
+    "weights": { "gram": 1, "cup": 240 }
   }
 ]
