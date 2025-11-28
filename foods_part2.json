@@ -8224,5 +8224,869 @@
     "fat": 8,
     "fib": 0,
     "weights": { "gram": 1, "piece": 45 }
+  },
+  {
+    "name": "Galouti Kebab (1 piece)",
+    "cal": 95,
+    "pro": 7,
+    "carb": 2,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 28 }
+  },
+  {
+    "name": "Kakori Kebab (1 piece)",
+    "cal": 110,
+    "pro": 8,
+    "carb": 3,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 35 }
+  },
+  {
+    "name": "Seekh Kebab Mughlai (1 piece)",
+    "cal": 130,
+    "pro": 10,
+    "carb": 2,
+    "fat": 9,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Boti Kebab Lucknowi (1 piece)",
+    "cal": 90,
+    "pro": 8,
+    "carb": 2,
+    "fat": 5,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Shami Kebab Mughlai (1 piece)",
+    "cal": 115,
+    "pro": 8,
+    "carb": 6,
+    "fat": 7,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 35 }
+  },
+  {
+    "name": "Murg Malai Tikka Mughlai (1 piece)",
+    "cal": 80,
+    "pro": 6,
+    "carb": 2,
+    "fat": 5,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 28 }
+  },
+  {
+    "name": "Murg Kalmi Kebab (1 piece)",
+    "cal": 140,
+    "pro": 12,
+    "carb": 2,
+    "fat": 9,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 45 }
+  },
+  {
+    "name": "Mutton Barra Kebab (1 piece)",
+    "cal": 150,
+    "pro": 12,
+    "carb": 2,
+    "fat": 10,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 50 }
+  },
+  {
+    "name": "Awadhi Patili Kebab (1 piece)",
+    "cal": 100,
+    "pro": 7,
+    "carb": 3,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 32 }
+  },
+  {
+    "name": "Mughlai Reshmi Kebab (1 piece)",
+    "cal": 120,
+    "pro": 9,
+    "carb": 3,
+    "fat": 8,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Lucknowi Pasanda (1 piece)",
+    "cal": 130,
+    "pro": 10,
+    "carb": 3,
+    "fat": 8,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 45 }
+  },
+  {
+    "name": "Murg Tikka Lucknowi (1 piece)",
+    "cal": 85,
+    "pro": 6,
+    "carb": 2,
+    "fat": 5,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Nihari Gosht (1 bowl)",
+    "cal": 320,
+    "pro": 20,
+    "carb": 6,
+    "fat": 24,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Mutton Korma Mughlai (1 bowl)",
+    "cal": 380,
+    "pro": 22,
+    "carb": 8,
+    "fat": 28,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Murgh Korma Mughlai (1 bowl)",
+    "cal": 310,
+    "pro": 24,
+    "carb": 8,
+    "fat": 22,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Awadhi Chicken Korma (1 bowl)",
+    "cal": 295,
+    "pro": 22,
+    "carb": 10,
+    "fat": 20,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Mughlai Chicken Changezi (1 bowl)",
+    "cal": 340,
+    "pro": 22,
+    "carb": 12,
+    "fat": 24,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Awadhi Mutton Rogan Josh (1 bowl)",
+    "cal": 360,
+    "pro": 23,
+    "carb": 10,
+    "fat": 24,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Lucknowi Stew (1 bowl)",
+    "cal": 260,
+    "pro": 16,
+    "carb": 12,
+    "fat": 16,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Mughlai Jhinga Masala (1 bowl)",
+    "cal": 240,
+    "pro": 20,
+    "carb": 10,
+    "fat": 12,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Banno Kebab (1 piece)",
+    "cal": 140,
+    "pro": 10,
+    "carb": 4,
+    "fat": 9,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Tunday Kabab (1 piece)",
+    "cal": 100,
+    "pro": 7,
+    "carb": 3,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 32 }
+  },
+  {
+    "name": "Chapli Kebab Mughlai (1 piece)",
+    "cal": 160,
+    "pro": 12,
+    "carb": 3,
+    "fat": 11,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 50 }
+  },
+  {
+    "name": "Zafrani Murgh Tikka (1 piece)",
+    "cal": 100,
+    "pro": 8,
+    "carb": 2,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Badami Murgh Tikka (1 piece)",
+    "cal": 115,
+    "pro": 8,
+    "carb": 3,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 32 }
+  },
+  {
+    "name": "Mutton Seekh Lucknowi (1 piece)",
+    "cal": 130,
+    "pro": 10,
+    "carb": 2,
+    "fat": 9,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Murgh Chapli Lucknowi (1 piece)",
+    "cal": 140,
+    "pro": 12,
+    "carb": 4,
+    "fat": 9,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 45 }
+  },
+  {
+    "name": "Murgh Gilafi Seekh (1 piece)",
+    "cal": 125,
+    "pro": 10,
+    "carb": 3,
+    "fat": 8,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Raan Kebab (1 piece)",
+    "cal": 155,
+    "pro": 12,
+    "carb": 3,
+    "fat": 10,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 45 }
+  },
+  {
+    "name": "Afghani Murgh Tikka (1 piece)",
+    "cal": 120,
+    "pro": 9,
+    "carb": 2,
+    "fat": 8,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 35 }
+  },
+  {
+    "name": "Shahi Mutton Korma (1 bowl)",
+    "cal": 420,
+    "pro": 24,
+    "carb": 8,
+    "fat": 32,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Badami Chicken Korma (1 bowl)",
+    "cal": 360,
+    "pro": 26,
+    "carb": 10,
+    "fat": 26,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Zafrani Gosht Korma (1 bowl)",
+    "cal": 430,
+    "pro": 25,
+    "carb": 10,
+    "fat": 34,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Mughlai Chicken Rezala (1 bowl)",
+    "cal": 340,
+    "pro": 20,
+    "carb": 6,
+    "fat": 26,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Mutton Rezala (1 bowl)",
+    "cal": 380,
+    "pro": 22,
+    "carb": 6,
+    "fat": 30,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Awadhi Murgh Handi (1 bowl)",
+    "cal": 320,
+    "pro": 22,
+    "carb": 8,
+    "fat": 22,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Mughlai Gosht Do Pyaza (1 bowl)",
+    "cal": 350,
+    "pro": 24,
+    "carb": 12,
+    "fat": 24,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Murgh Do Pyaza Mughlai (1 bowl)",
+    "cal": 310,
+    "pro": 22,
+    "carb": 10,
+    "fat": 20,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Lucknowi Kalia (1 bowl)",
+    "cal": 330,
+    "pro": 22,
+    "carb": 10,
+    "fat": 22,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Murgh Kundan Kaliyan (1 bowl)",
+    "cal": 360,
+    "pro": 26,
+    "carb": 10,
+    "fat": 26,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Awadhi Mutton Dum Biryani (1 plate)",
+    "cal": 680,
+    "pro": 32,
+    "carb": 58,
+    "fat": 36,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 350 }
+  },
+  {
+    "name": "Awadhi Chicken Dum Biryani (1 plate)",
+    "cal": 620,
+    "pro": 30,
+    "carb": 60,
+    "fat": 30,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 350 }
+  },
+  {
+    "name": "Lucknowi Yakhni Biryani (1 plate)",
+    "cal": 590,
+    "pro": 28,
+    "carb": 60,
+    "fat": 26,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 350 }
+  },
+  {
+    "name": "Zafrani Biryani (1 plate)",
+    "cal": 670,
+    "pro": 26,
+    "carb": 64,
+    "fat": 34,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 350 }
+  },
+  {
+    "name": "Kundan Kaliya Biryani (1 plate)",
+    "cal": 700,
+    "pro": 30,
+    "carb": 64,
+    "fat": 36,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 360 }
+  },
+  {
+    "name": "Gosht Pulao Awadhi (1 plate)",
+    "cal": 550,
+    "pro": 24,
+    "carb": 62,
+    "fat": 22,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 330 }
+  },
+  {
+    "name": "Murgh Pulao Mughlai (1 plate)",
+    "cal": 520,
+    "pro": 22,
+    "carb": 60,
+    "fat": 20,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 330 }
+  },
+  {
+    "name": "Navratan Pulao (1 plate)",
+    "cal": 480,
+    "pro": 10,
+    "carb": 68,
+    "fat": 16,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 300 }
+  },
+  {
+    "name": "Awadhi Moti Pulao (1 plate)",
+    "cal": 540,
+    "pro": 18,
+    "carb": 66,
+    "fat": 18,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 330 }
+  },
+  {
+    "name": "Mughlai Kofta Curry (1 bowl)",
+    "cal": 380,
+    "pro": 16,
+    "carb": 14,
+    "fat": 28,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Nargisi Kofta (1 piece)",
+    "cal": 160,
+    "pro": 10,
+    "carb": 3,
+    "fat": 12,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 50 }
+  },
+  {
+    "name": "Awadhi Malai Kofta (1 piece)",
+    "cal": 140,
+    "pro": 6,
+    "carb": 8,
+    "fat": 10,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 45 }
+  },
+  {
+    "name": "Mughlai Shahi Paneer (1 bowl)",
+    "cal": 420,
+    "pro": 14,
+    "carb": 16,
+    "fat": 34,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Mughlai Kaju Khoya Paneer (1 bowl)",
+    "cal": 460,
+    "pro": 16,
+    "carb": 18,
+    "fat": 36,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Awadhi Paneer Pasanda (1 piece)",
+    "cal": 160,
+    "pro": 6,
+    "carb": 8,
+    "fat": 12,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 45 }
+  },
+  {
+    "name": "Murgh Kundan Qorma (1 bowl)",
+    "cal": 380,
+    "pro": 26,
+    "carb": 10,
+    "fat": 26,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Awadhi Murgh Musallam (1 serving)",
+    "cal": 580,
+    "pro": 36,
+    "carb": 12,
+    "fat": 42,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 350 }
+  },
+  {
+    "name": "Mughlai Murgh Lababdar (1 bowl)",
+    "cal": 360,
+    "pro": 24,
+    "carb": 10,
+    "fat": 24,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Lucknowi Murgh Qaliya (1 bowl)",
+    "cal": 330,
+    "pro": 22,
+    "carb": 10,
+    "fat": 22,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Mutton Dum Qorma (1 bowl)",
+    "cal": 410,
+    "pro": 26,
+    "carb": 8,
+    "fat": 32,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Paneer Nawabi Tikka (1 piece)",
+    "cal": 95,
+    "pro": 5,
+    "carb": 4,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 28 }
+  },
+  {
+    "name": "Paneer Zafrani Tikka (1 piece)",
+    "cal": 105,
+    "pro": 5,
+    "carb": 4,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Awadhi Subz Galouti Kebab (1 piece)",
+    "cal": 90,
+    "pro": 4,
+    "carb": 10,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 28 }
+  },
+  {
+    "name": "Mughlai Hara Bhara Kebab (1 piece)",
+    "cal": 85,
+    "pro": 3,
+    "carb": 10,
+    "fat": 4,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 28 }
+  },
+  {
+    "name": "Nawabi Mushroom Tikka (1 piece)",
+    "cal": 50,
+    "pro": 3,
+    "carb": 3,
+    "fat": 3,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 18 }
+  },
+  {
+    "name": "Tandoori Aloo Nawabi (1 piece)",
+    "cal": 75,
+    "pro": 2,
+    "carb": 12,
+    "fat": 3,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 28 }
+  },
+  {
+    "name": "Subz Seekh Lucknowi (1 piece)",
+    "cal": 95,
+    "pro": 4,
+    "carb": 10,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Shahi Tukda (1 piece)",
+    "cal": 260,
+    "pro": 5,
+    "carb": 28,
+    "fat": 14,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 70 }
+  },
+  {
+    "name": "Zafrani Phirni (1 bowl)",
+    "cal": 280,
+    "pro": 6,
+    "carb": 36,
+    "fat": 12,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Badam Kheer Mughlai (1 bowl)",
+    "cal": 320,
+    "pro": 7,
+    "carb": 34,
+    "fat": 16,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Sheer Khurma (1 bowl)",
+    "cal": 350,
+    "pro": 8,
+    "carb": 42,
+    "fat": 16,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Shahi Kulfi (1 piece)",
+    "cal": 220,
+    "pro": 5,
+    "carb": 22,
+    "fat": 12,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 80 }
+  },
+  {
+    "name": "Nawabi Rabdi (1 bowl)",
+    "cal": 340,
+    "pro": 9,
+    "carb": 32,
+    "fat": 20,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Moti Choor Ladoo Mughlai (1 piece)",
+    "cal": 155,
+    "pro": 2,
+    "carb": 22,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 28 }
+  },
+  {
+    "name": "Shahi Malpua (1 piece)",
+    "cal": 190,
+    "pro": 3,
+    "carb": 26,
+    "fat": 9,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Awadhi Kaju Katli (1 piece)",
+    "cal": 85,
+    "pro": 2,
+    "carb": 10,
+    "fat": 4,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 18 }
+  },
+  {
+    "name": "Shahi Anjeer Halwa (1 bowl)",
+    "cal": 300,
+    "pro": 4,
+    "carb": 42,
+    "fat": 12,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Awadhi Sewaiyan (1 bowl)",
+    "cal": 260,
+    "pro": 6,
+    "carb": 38,
+    "fat": 10,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Sheermal (1 piece)",
+    "cal": 260,
+    "pro": 5,
+    "carb": 44,
+    "fat": 7,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 80 }
+  },
+  {
+    "name": "Taftan (1 piece)",
+    "cal": 280,
+    "pro": 6,
+    "carb": 46,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 90 }
+  },
+  {
+    "name": "Bakarkhani (1 piece)",
+    "cal": 310,
+    "pro": 6,
+    "carb": 50,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 95 }
+  },
+  {
+    "name": "Rumali Roti Mughlai (1 piece)",
+    "cal": 130,
+    "pro": 4,
+    "carb": 22,
+    "fat": 2,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 45 }
+  },
+  {
+    "name": "Warqi Paratha (1 piece)",
+    "cal": 260,
+    "pro": 4,
+    "carb": 30,
+    "fat": 14,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 70 }
+  },
+  {
+    "name": "Laccha Paratha Mughlai (1 piece)",
+    "cal": 250,
+    "pro": 4,
+    "carb": 32,
+    "fat": 12,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 75 }
+  },
+  {
+    "name": "Nawabi Naan (1 piece)",
+    "cal": 240,
+    "pro": 6,
+    "carb": 38,
+    "fat": 8,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 80 }
+  },
+  {
+    "name": "Zafrani Sheer (1 bowl)",
+    "cal": 300,
+    "pro": 7,
+    "carb": 36,
+    "fat": 14,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Khas Khas Halwa (1 bowl)",
+    "cal": 360,
+    "pro": 6,
+    "carb": 34,
+    "fat": 22,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Qimami Sewai (1 bowl)",
+    "cal": 340,
+    "pro": 6,
+    "carb": 48,
+    "fat": 14,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Awadhi Shahi Halwa (1 bowl)",
+    "cal": 320,
+    "pro": 5,
+    "carb": 42,
+    "fat": 14,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Zafrani Kulfi (1 piece)",
+    "cal": 240,
+    "pro": 6,
+    "carb": 24,
+    "fat": 14,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 80 }
+  },
+  {
+    "name": "Nawabi Badam Halwa (1 bowl)",
+    "cal": 390,
+    "pro": 7,
+    "carb": 38,
+    "fat": 22,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Mughlai Imarti (1 piece)",
+    "cal": 150,
+    "pro": 1,
+    "carb": 34,
+    "fat": 3,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 35 }
+  },
+  {
+    "name": "Shahi Ghee Jalebi (1 piece)",
+    "cal": 130,
+    "pro": 1,
+    "carb": 28,
+    "fat": 3,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Paneer Shahi Kebab (1 piece)",
+    "cal": 105,
+    "pro": 5,
+    "carb": 5,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 32 }
+  },
+  {
+    "name": "Subz Zafrani Seekh Kebab (1 piece)",
+    "cal": 95,
+    "pro": 4,
+    "carb": 10,
+    "fat": 4,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Shahi Veg Tandoori Platter (serving)",
+    "cal": 360,
+    "pro": 16,
+    "carb": 20,
+    "fat": 22,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 220 }
   }
 ]
