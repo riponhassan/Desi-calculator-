@@ -9088,5 +9088,338 @@
     "fat": 22,
     "fib": 2,
     "weights": { "gram": 1, "serving": 220 }
+  },
+  {
+    "name": "Murgh Awadhi Kadhai (1 bowl)",
+    "cal": 340,
+    "pro": 26,
+    "carb": 10,
+    "fat": 22,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Gosht Awadhi Handi (1 bowl)",
+    "cal": 380,
+    "pro": 25,
+    "carb": 10,
+    "fat": 26,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Mughlai Safed Gosht (1 bowl)",
+    "cal": 360,
+    "pro": 22,
+    "carb": 8,
+    "fat": 26,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Murgh Safed Masala (1 bowl)",
+    "cal": 310,
+    "pro": 22,
+    "carb": 8,
+    "fat": 20,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Awadhi Nihari Chicken (1 bowl)",
+    "cal": 330,
+    "pro": 24,
+    "carb": 10,
+    "fat": 22,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Khichda Mughlai (1 bowl)",
+    "cal": 410,
+    "pro": 20,
+    "carb": 48,
+    "fat": 14,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 260 }
+  },
+  {
+    "name": "Haleem Mughlai Chicken (1 bowl)",
+    "cal": 420,
+    "pro": 30,
+    "carb": 36,
+    "fat": 18,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 260 }
+  },
+  {
+    "name": "Haleem Mughlai Mutton (1 bowl)",
+    "cal": 480,
+    "pro": 32,
+    "carb": 38,
+    "fat": 22,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 260 }
+  },
+  {
+    "name": "Murgh Awadhi Behari Kebab (1 piece)",
+    "cal": 140,
+    "pro": 12,
+    "carb": 2,
+    "fat": 9,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Gosht Bihari Kebab (1 piece)",
+    "cal": 155,
+    "pro": 12,
+    "carb": 2,
+    "fat": 10,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 42 }
+  },
+  {
+    "name": "Shahi Ande Ka Salan (1 bowl)",
+    "cal": 290,
+    "pro": 14,
+    "carb": 10,
+    "fat": 20,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Mughlai Dum Aloo (1 bowl)",
+    "cal": 260,
+    "pro": 4,
+    "carb": 28,
+    "fat": 14,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Awadhi Navratan Qorma (1 bowl)",
+    "cal": 300,
+    "pro": 6,
+    "carb": 32,
+    "fat": 16,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Mughlai Khoya Paneer (1 bowl)",
+    "cal": 420,
+    "pro": 16,
+    "carb": 18,
+    "fat": 32,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Awadhi Veg Korma (1 bowl)",
+    "cal": 300,
+    "pro": 6,
+    "carb": 30,
+    "fat": 16,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Shahi Anjeer Kheer (1 bowl)",
+    "cal": 330,
+    "pro": 7,
+    "carb": 38,
+    "fat": 14,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Mughlai Khubani Ka Meetha (1 bowl)",
+    "cal": 300,
+    "pro": 3,
+    "carb": 50,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 180 }
+  },
+  {
+    "name": "Awadhi Shahi Sheera (1 bowl)",
+    "cal": 320,
+    "pro": 5,
+    "carb": 42,
+    "fat": 14,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Mughlai Double Ka Meetha (1 piece)",
+    "cal": 260,
+    "pro": 4,
+    "carb": 34,
+    "fat": 12,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 70 }
+  },
+  {
+    "name": "Roghani Roti (1 piece)",
+    "cal": 240,
+    "pro": 5,
+    "carb": 34,
+    "fat": 10,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 70 }
+  },
+  {
+    "name": "Uzbeki Roti Mughlai (1 piece)",
+    "cal": 250,
+    "pro": 6,
+    "carb": 36,
+    "fat": 10,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 75 }
+  },
+  {
+    "name": "Naan-e-Tokhm (Egg Naan) (1 piece)",
+    "cal": 300,
+    "pro": 10,
+    "carb": 38,
+    "fat": 12,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 90 }
+  },
+  {
+    "name": "Mughlai Khameeri Roti (1 piece)",
+    "cal": 220,
+    "pro": 5,
+    "carb": 34,
+    "fat": 8,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 70 }
+  },
+  {
+    "name": "Shahi Rogan Murgh (1 bowl)",
+    "cal": 360,
+    "pro": 26,
+    "carb": 10,
+    "fat": 24,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Mughlai Gosht Handi (1 bowl)",
+    "cal": 420,
+    "pro": 28,
+    "carb": 10,
+    "fat": 30,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Murgh Noorjahani (1 bowl)",
+    "cal": 380,
+    "pro": 24,
+    "carb": 14,
+    "fat": 26,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Gosht Noorjahani (1 bowl)",
+    "cal": 430,
+    "pro": 28,
+    "carb": 14,
+    "fat": 30,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Shahi Gosht Qorma (1 bowl)",
+    "cal": 450,
+    "pro": 28,
+    "carb": 10,
+    "fat": 34,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Paneer Noorjahani (1 bowl)",
+    "cal": 420,
+    "pro": 16,
+    "carb": 20,
+    "fat": 32,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Awadhi Aloo Qorma (1 bowl)",
+    "cal": 260,
+    "pro": 5,
+    "carb": 26,
+    "fat": 14,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Shahi Gobhi Musallam (1 serving)",
+    "cal": 350,
+    "pro": 8,
+    "carb": 32,
+    "fat": 22,
+    "fib": 4,
+    "weights": { "gram": 1, "serving": 250 }
+  },
+  {
+    "name": "Awadhi Mewa Paneer (1 bowl)",
+    "cal": 430,
+    "pro": 16,
+    "carb": 28,
+    "fat": 32,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Mughlai Chicken Badami (1 bowl)",
+    "cal": 380,
+    "pro": 26,
+    "carb": 10,
+    "fat": 26,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Awadhi Gosht Badami (1 bowl)",
+    "cal": 440,
+    "pro": 28,
+    "carb": 10,
+    "fat": 34,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 250 }
+  },
+  {
+    "name": "Sohan Halwa Mughlai (1 piece)",
+    "cal": 190,
+    "pro": 2,
+    "carb": 26,
+    "fat": 8,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 35 }
+  },
+  {
+    "name": "Ande Ka Halwa Lucknowi (1 bowl)",
+    "cal": 330,
+    "pro": 10,
+    "carb": 30,
+    "fat": 18,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 160 }
+  },
+  {
+    "name": "Zafrani Kheer Nawabi (1 bowl)",
+    "cal": 310,
+    "pro": 6,
+    "carb": 40,
+    "fat": 12,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 180 }
   }
 ]
