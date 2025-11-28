@@ -9763,5 +9763,851 @@
     "fat": 0,
     "fib": 0,
     "weights": { "gram": 1, "cup": 240 }
+  },
+  {
+    "name": "Ilish Bhapa (1 piece)",
+    "cal": 210,
+    "pro": 18,
+    "carb": 2,
+    "fat": 14,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 60 }
+  },
+  {
+    "name": "Ilish Shorshe (1 piece)",
+    "cal": 230,
+    "pro": 18,
+    "carb": 4,
+    "fat": 16,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 60 }
+  },
+  {
+    "name": "Ilish Paturi (1 piece)",
+    "cal": 240,
+    "pro": 19,
+    "carb": 4,
+    "fat": 17,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 65 }
+  },
+  {
+    "name": "Bhetki Paturi (1 piece)",
+    "cal": 180,
+    "pro": 20,
+    "carb": 4,
+    "fat": 10,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 70 }
+  },
+  {
+    "name": "Chingri Malai Curry (1 bowl)",
+    "cal": 320,
+    "pro": 20,
+    "carb": 10,
+    "fat": 22,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Golda Chingri Malaikari (1 piece)",
+    "cal": 190,
+    "pro": 14,
+    "carb": 3,
+    "fat": 13,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 65 }
+  },
+  {
+    "name": "Rui Maacher Jhol (1 bowl)",
+    "cal": 210,
+    "pro": 20,
+    "carb": 6,
+    "fat": 12,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Katla Kalia (1 bowl)",
+    "cal": 260,
+    "pro": 22,
+    "carb": 8,
+    "fat": 16,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Pabda Jhal (1 piece)",
+    "cal": 170,
+    "pro": 16,
+    "carb": 3,
+    "fat": 10,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 60 }
+  },
+  {
+    "name": "Tangra Maacher Jhol (1 piece)",
+    "cal": 150,
+    "pro": 14,
+    "carb": 2,
+    "fat": 9,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 50 }
+  },
+  {
+    "name": "Koi Maacher Tel Jhal (1 piece)",
+    "cal": 180,
+    "pro": 17,
+    "carb": 3,
+    "fat": 11,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 55 }
+  },
+  {
+    "name": "Chitol Maacher Muitha (1 piece)",
+    "cal": 130,
+    "pro": 10,
+    "carb": 6,
+    "fat": 7,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Parshe Maacher Bhaja (1 piece)",
+    "cal": 90,
+    "pro": 8,
+    "carb": 2,
+    "fat": 5,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Bhetki Fry (1 piece)",
+    "cal": 210,
+    "pro": 14,
+    "carb": 12,
+    "fat": 12,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 70 }
+  },
+  {
+    "name": "Kolkata Fish Cutlet (1 piece)",
+    "cal": 180,
+    "pro": 10,
+    "carb": 14,
+    "fat": 10,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 60 }
+  },
+  {
+    "name": "Fish Orly (1 piece)",
+    "cal": 160,
+    "pro": 10,
+    "carb": 12,
+    "fat": 8,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 55 }
+  },
+  {
+    "name": "Kolkata Fish Roll (1 piece)",
+    "cal": 220,
+    "pro": 12,
+    "carb": 20,
+    "fat": 10,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 80 }
+  },
+  {
+    "name": "Kankra Jhal (Crab curry) (1 bowl)",
+    "cal": 260,
+    "pro": 16,
+    "carb": 8,
+    "fat": 18,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Doi Maach (1 bowl)",
+    "cal": 270,
+    "pro": 20,
+    "carb": 8,
+    "fat": 16,
+    "fib": 0,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Aloo Posto (1 bowl)",
+    "cal": 280,
+    "pro": 5,
+    "carb": 24,
+    "fat": 18,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Potol Posto (1 bowl)",
+    "cal": 240,
+    "pro": 4,
+    "carb": 20,
+    "fat": 16,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Jhinge Posto (1 bowl)",
+    "cal": 220,
+    "pro": 4,
+    "carb": 18,
+    "fat": 14,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Dhokar Dalna (1 bowl)",
+    "cal": 260,
+    "pro": 10,
+    "carb": 24,
+    "fat": 14,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Cholar Dal (1 bowl)",
+    "cal": 240,
+    "pro": 8,
+    "carb": 32,
+    "fat": 10,
+    "fib": 5,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Moong Dal Bhaja (1 bowl)",
+    "cal": 260,
+    "pro": 12,
+    "carb": 28,
+    "fat": 10,
+    "fib": 5,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Masoor Dal Jhol (1 bowl)",
+    "cal": 180,
+    "pro": 12,
+    "carb": 22,
+    "fat": 4,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Macher Matha Diye Moong Dal (1 bowl)",
+    "cal": 260,
+    "pro": 18,
+    "carb": 26,
+    "fat": 10,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Labra (1 bowl)",
+    "cal": 160,
+    "pro": 4,
+    "carb": 22,
+    "fat": 6,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Chorchori (1 bowl)",
+    "cal": 180,
+    "pro": 4,
+    "carb": 24,
+    "fat": 8,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Bandhakopi Ghonto (1 bowl)",
+    "cal": 150,
+    "pro": 4,
+    "carb": 20,
+    "fat": 6,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Lau Ghonto (1 bowl)",
+    "cal": 140,
+    "pro": 3,
+    "carb": 16,
+    "fat": 8,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Mulo Ghonto (1 bowl)",
+    "cal": 130,
+    "pro": 3,
+    "carb": 14,
+    "fat": 8,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Begun Bhaja (1 piece)",
+    "cal": 90,
+    "pro": 1,
+    "carb": 10,
+    "fat": 5,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Aloo Bhaja (1 serving)",
+    "cal": 160,
+    "pro": 2,
+    "carb": 20,
+    "fat": 8,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 80 }
+  },
+  {
+    "name": "Jhuri Alu Bhaja (1 serving)",
+    "cal": 190,
+    "pro": 2,
+    "carb": 22,
+    "fat": 10,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 80 }
+  },
+  {
+    "name": "Bengali Dalna (Mixed veg gravy) (1 bowl)",
+    "cal": 200,
+    "pro": 5,
+    "carb": 28,
+    "fat": 8,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Potol Dalna (1 bowl)",
+    "cal": 170,
+    "pro": 4,
+    "carb": 20,
+    "fat": 8,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Phulkopi Dalna (1 bowl)",
+    "cal": 160,
+    "pro": 4,
+    "carb": 16,
+    "fat": 8,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Topshe Fry (1 piece)",
+    "cal": 160,
+    "pro": 10,
+    "carb": 10,
+    "fat": 10,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 45 }
+  },
+  {
+    "name": "Mourala Maach Bhaja (1 serving)",
+    "cal": 190,
+    "pro": 16,
+    "carb": 4,
+    "fat": 12,
+    "fib": 0,
+    "weights": { "gram": 1, "serving": 80 }
+  },
+  {
+    "name": "Shingi Maacher Jhol (1 bowl)",
+    "cal": 230,
+    "pro": 20,
+    "carb": 8,
+    "fat": 12,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Magur Maacher Tak (1 bowl)",
+    "cal": 210,
+    "pro": 18,
+    "carb": 6,
+    "fat": 12,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Bhetki Kalia (1 bowl)",
+    "cal": 260,
+    "pro": 22,
+    "carb": 8,
+    "fat": 14,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Chitol Maach Kalia (1 bowl)",
+    "cal": 280,
+    "pro": 22,
+    "carb": 10,
+    "fat": 16,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Kolkata Egg Roll (1 piece)",
+    "cal": 320,
+    "pro": 12,
+    "carb": 32,
+    "fat": 16,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 180 }
+  },
+  {
+    "name": "Kolkata Chicken Roll (1 piece)",
+    "cal": 400,
+    "pro": 20,
+    "carb": 34,
+    "fat": 22,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 200 }
+  },
+  {
+    "name": "Kolkata Mutton Roll (1 piece)",
+    "cal": 460,
+    "pro": 22,
+    "carb": 34,
+    "fat": 28,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 200 }
+  },
+  {
+    "name": "Kolkata Vegetable Chop (1 piece)",
+    "cal": 140,
+    "pro": 3,
+    "carb": 18,
+    "fat": 6,
+    "fib": 2,
+    "weights": { "gram": 1, "piece": 45 }
+  },
+  {
+    "name": "Mochar Chop (1 piece)",
+    "cal": 150,
+    "pro": 3,
+    "carb": 20,
+    "fat": 7,
+    "fib": 3,
+    "weights": { "gram": 1, "piece": 45 }
+  },
+  {
+    "name": "Ghugni (1 bowl)",
+    "cal": 200,
+    "pro": 10,
+    "carb": 28,
+    "fat": 4,
+    "fib": 6,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Kolkata Telebhaja (1 piece)",
+    "cal": 120,
+    "pro": 2,
+    "carb": 14,
+    "fat": 6,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 35 }
+  },
+  {
+    "name": "Kolkata Rezala (Chicken) (1 bowl)",
+    "cal": 360,
+    "pro": 24,
+    "carb": 6,
+    "fat": 26,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Kolkata Rezala (Mutton) (1 bowl)",
+    "cal": 420,
+    "pro": 26,
+    "carb": 6,
+    "fat": 32,
+    "fib": 1,
+    "weights": { "gram": 1, "bowl": 240 }
+  },
+  {
+    "name": "Kolkata Chicken Chaap (1 piece)",
+    "cal": 330,
+    "pro": 20,
+    "carb": 6,
+    "fat": 24,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 160 }
+  },
+  {
+    "name": "Kolkata Mutton Chaap (1 piece)",
+    "cal": 380,
+    "pro": 22,
+    "carb": 6,
+    "fat": 28,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 170 }
+  },
+  {
+    "name": "Kolkata Chicken Biryani (1 plate)",
+    "cal": 620,
+    "pro": 28,
+    "carb": 70,
+    "fat": 26,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 350 }
+  },
+  {
+    "name": "Kolkata Mutton Biryani (1 plate)",
+    "cal": 680,
+    "pro": 32,
+    "carb": 70,
+    "fat": 32,
+    "fib": 2,
+    "weights": { "gram": 1, "serving": 350 }
+  },
+  {
+    "name": "Shukto (1 bowl)",
+    "cal": 180,
+    "pro": 4,
+    "carb": 26,
+    "fat": 6,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Chingri Malai Ghonto (veg version) (1 bowl)",
+    "cal": 200,
+    "pro": 6,
+    "carb": 20,
+    "fat": 10,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Kumro Chokka (1 bowl)",
+    "cal": 170,
+    "pro": 3,
+    "carb": 22,
+    "fat": 8,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Enchorer Dalna (Raw jackfruit curry) (1 bowl)",
+    "cal": 260,
+    "pro": 6,
+    "carb": 34,
+    "fat": 10,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Palong Shaak Bhaja (1 serving)",
+    "cal": 120,
+    "pro": 4,
+    "carb": 10,
+    "fat": 6,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 120 }
+  },
+  {
+    "name": "Pui Shaak Chorchori (1 bowl)",
+    "cal": 150,
+    "pro": 4,
+    "carb": 14,
+    "fat": 8,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Laal Shaak Bhaja (1 serving)",
+    "cal": 110,
+    "pro": 3,
+    "carb": 8,
+    "fat": 6,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 120 }
+  },
+  {
+    "name": "Methi Shaak Bhaja (1 serving)",
+    "cal": 120,
+    "pro": 4,
+    "carb": 10,
+    "fat": 7,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 100 }
+  },
+  {
+    "name": "Bengali Tomato Jhol (1 bowl)",
+    "cal": 130,
+    "pro": 3,
+    "carb": 18,
+    "fat": 6,
+    "fib": 2,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Aloo Phulkopi Jhol (1 bowl)",
+    "cal": 160,
+    "pro": 4,
+    "carb": 20,
+    "fat": 7,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Aloo Begun Jhol (1 bowl)",
+    "cal": 150,
+    "pro": 3,
+    "carb": 20,
+    "fat": 6,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 230 }
+  },
+  {
+    "name": "Potol Korma (1 bowl)",
+    "cal": 240,
+    "pro": 5,
+    "carb": 20,
+    "fat": 16,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Bengali Mishti Doi Karaishuti (peas curry) (1 bowl)",
+    "cal": 180,
+    "pro": 8,
+    "carb": 22,
+    "fat": 6,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 200 }
+  },
+  {
+    "name": "Bhendi Bhaja (1 serving)",
+    "cal": 140,
+    "pro": 3,
+    "carb": 14,
+    "fat": 8,
+    "fib": 3,
+    "weights": { "gram": 1, "serving": 100 }
+  },
+  {
+    "name": "Panch Phoron Aloo (1 bowl)",
+    "cal": 200,
+    "pro": 3,
+    "carb": 30,
+    "fat": 8,
+    "fib": 3,
+    "weights": { "gram": 1, "bowl": 220 }
+  },
+  {
+    "name": "Bengali Jeera Rice (1 plate)",
+    "cal": 300,
+    "pro": 4,
+    "carb": 60,
+    "fat": 6,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 260 }
+  },
+  {
+    "name": "Gobindobhog Ghee Rice (1 plate)",
+    "cal": 380,
+    "pro": 5,
+    "carb": 66,
+    "fat": 12,
+    "fib": 1,
+    "weights": { "gram": 1, "serving": 260 }
+  },
+  {
+    "name": "Bengali Moong Dal Khichuri (1 bowl)",
+    "cal": 260,
+    "pro": 10,
+    "carb": 38,
+    "fat": 8,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 260 }
+  },
+  {
+    "name": "Bhuni Khichuri (1 bowl)",
+    "cal": 300,
+    "pro": 12,
+    "carb": 42,
+    "fat": 10,
+    "fib": 4,
+    "weights": { "gram": 1, "bowl": 260 }
+  },
+  {
+    "name": "Roshogolla (1 piece)",
+    "cal": 120,
+    "pro": 3,
+    "carb": 20,
+    "fat": 3,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 30 }
+  },
+  {
+    "name": "Rajbhog (1 piece)",
+    "cal": 150,
+    "pro": 4,
+    "carb": 26,
+    "fat": 3,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Kheer Kadam (1 piece)",
+    "cal": 160,
+    "pro": 4,
+    "carb": 26,
+    "fat": 4,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 38 }
+  },
+  {
+    "name": "Rasmalai (1 piece)",
+    "cal": 180,
+    "pro": 5,
+    "carb": 24,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 45 }
+  },
+  {
+    "name": "Malai Chamcham (1 piece)",
+    "cal": 200,
+    "pro": 5,
+    "carb": 28,
+    "fat": 8,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 48 }
+  },
+  {
+    "name": "Chomchom (1 piece)",
+    "cal": 170,
+    "pro": 4,
+    "carb": 24,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 45 }
+  },
+  {
+    "name": "Langcha (1 piece)",
+    "cal": 190,
+    "pro": 3,
+    "carb": 26,
+    "fat": 8,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Pantua (1 piece)",
+    "cal": 185,
+    "pro": 3,
+    "carb": 28,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 38 }
+  },
+  {
+    "name": "Khirer Chop (1 piece)",
+    "cal": 160,
+    "pro": 3,
+    "carb": 22,
+    "fat": 7,
+    "fib": 1,
+    "weights": { "gram": 1, "piece": 40 }
+  },
+  {
+    "name": "Sandesh (1 piece)",
+    "cal": 80,
+    "pro": 3,
+    "carb": 10,
+    "fat": 3,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 25 }
+  },
+  {
+    "name": "Kheer Sandesh (1 piece)",
+    "cal": 95,
+    "pro": 3,
+    "carb": 14,
+    "fat": 3,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 28 }
+  },
+  {
+    "name": "Abar Khabo Sandesh (1 piece)",
+    "cal": 150,
+    "pro": 4,
+    "carb": 18,
+    "fat": 8,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 35 }
+  },
+  {
+    "name": "Nolen Gur Sandesh (1 piece)",
+    "cal": 100,
+    "pro": 3,
+    "carb": 16,
+    "fat": 3,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 28 }
+  },
+  {
+    "name": "Kanchagolla (1 piece)",
+    "cal": 130,
+    "pro": 4,
+    "carb": 20,
+    "fat": 5,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 32 }
+  },
+  {
+    "name": "Bhapa Sandesh (1 piece)",
+    "cal": 120,
+    "pro": 4,
+    "carb": 14,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 32 }
+  },
+  {
+    "name": "Chocolate Sandesh (1 piece)",
+    "cal": 140,
+    "pro": 4,
+    "carb": 16,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 32 }
+  },
+  {
+    "name": "Rose Sandesh (1 piece)",
+    "cal": 130,
+    "pro": 4,
+    "carb": 14,
+    "fat": 6,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 32 }
+  },
+  {
+    "name": "Malai Sandesh (1 piece)",
+    "cal": 140,
+    "pro": 4,
+    "carb": 16,
+    "fat": 7,
+    "fib": 0,
+    "weights": { "gram": 1, "piece": 35 }
   }
 ]
