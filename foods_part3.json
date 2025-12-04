@@ -142,5 +142,464 @@
   "fat": 9.0,
   "fib": 2.0,
   "weights": { "gram": 1, "bowl": 180 }
-}
+},
+{
+  "name": "Orange Basil Cooler",
+  "cal": 95,
+  "pro": 0.8,
+  "carb": 23,
+  "fat": 0.2,
+  "fib": 0.4,
+  "weights": { "gram": 1, "glass_250ml": 250 }
+},
+{
+  "name": "Strawberry Lemonade",
+  "cal": 120,
+  "pro": 0.5,
+  "carb": 30,
+  "fat": 0.3,
+  "fib": 1.2,
+  "weights": { "gram": 1, "glass_300ml": 300 }
+},
+{
+  "name": "Litchi Cooler",
+  "cal": 105,
+  "pro": 0.4,
+  "carb": 26,
+  "fat": 0.1,
+  "fib": 0.2,
+  "weights": { "gram": 1, "glass_250ml": 250 }
+},
+{
+  "name": "Kiwi Mojito",
+  "cal": 110,
+  "pro": 0.7,
+  "carb": 26,
+  "fat": 0.3,
+  "fib": 1.4,
+  "weights": { "gram": 1, "glass_300ml": 300 }
+},
+{
+  "name": "Mango Mojito",
+  "cal": 135,
+  "pro": 0.6,
+  "carb": 33,
+  "fat": 0.4,
+  "fib": 0.9,
+  "weights": { "gram": 1, "glass_300ml": 300 }
+},
+{
+  "name": "Apple Cinnamon Cooler",
+  "cal": 115,
+  "pro": 0.2,
+  "carb": 28,
+  "fat": 0.2,
+  "fib": 0.5,
+  "weights": { "gram": 1, "glass_250ml": 250 }
+},
+{
+  "name": "Guava Mary",
+  "cal": 95,
+  "pro": 0.7,
+  "carb": 22,
+  "fat": 0.3,
+  "fib": 1.6,
+  "weights": { "gram": 1, "glass_250ml": 250 }
+},
+{
+  "name": "Jamun Masala Sherbet",
+  "cal": 90,
+  "pro": 0.4,
+  "carb": 21,
+  "fat": 0.2,
+  "fib": 1.0,
+  "weights": { "gram": 1, "glass_250ml": 250 }
+},
+{
+  "name": "Tender Coconut Cooler",
+  "cal": 70,
+  "pro": 0.5,
+  "carb": 16,
+  "fat": 0.4,
+  "fib": 0.3,
+  "weights": { "gram": 1, "glass_250ml": 250 }
+},
+{
+  "name": "Pomegranate Spritzer",
+  "cal": 95,
+  "pro": 0.4,
+  "carb": 23,
+  "fat": 0.2,
+  "fib": 0.5,
+  "weights": { "gram": 1, "glass_250ml": 250 }
+},
+{
+  "name": "Blue Lagoon Mocktail",
+  "cal": 140,
+  "pro": 0,
+  "carb": 35,
+  "fat": 0,
+  "fib": 0,
+  "weights": { "gram": 1, "glass_300ml": 300 }
+},
+{
+  "name": "Green Apple Sparkler",
+  "cal": 95,
+  "pro": 0.2,
+  "carb": 24,
+  "fat": 0.1,
+  "fib": 0.3,
+  "weights": { "gram": 1, "glass_250ml": 250 }
+},
+{
+  "name": "Peach Iced Tea Mocktail",
+  "cal": 90,
+  "pro": 0.2,
+  "carb": 23,
+  "fat": 0.1,
+  "fib": 0.3,
+  "weights": { "gram": 1, "glass_300ml": 300 }
+},
+{
+  "name": "Lemon Iced Tea",
+  "cal": 65,
+  "pro": 0,
+  "carb": 17,
+  "fat": 0,
+  "fib": 0,
+  "weights": { "gram": 1, "glass_300ml": 300 }
+},
+{
+  "name": "Berry Punch",
+  "cal": 125,
+  "pro": 0.5,
+  "carb": 30,
+  "fat": 0.3,
+  "fib": 1.5,
+  "weights": { "gram": 1, "glass_300ml": 300 }
+},
+{
+  "name": "Pineapple Ginger Cooler",
+  "cal": 85,
+  "pro": 0.3,
+  "carb": 20,
+  "fat": 0.2,
+  "fib": 0.4,
+  "weights": { "gram": 1, "glass_250ml": 250 }
+},
+{
+  "name": "Kokum Sharbat",
+  "cal": 95,
+  "pro": 0.2,
+  "carb": 24,
+  "fat": 0.1,
+  "fib": 0.9,
+  "weights": { "gram": 1, "glass_200ml": 200 }
+},
+{
+  "name": "Nannari Sharbat",
+  "cal": 110,
+  "pro": 0.1,
+  "carb": 27,
+  "fat": 0,
+  "fib": 0,
+  "weights": { "gram": 1, "glass_250ml": 250 }
+},
+{
+  "name": "Cold Coffee (Without Ice Cream)",
+  "cal": 140,
+  "pro": 4,
+  "carb": 22,
+  "fat": 4,
+  "fib": 0,
+  "weights": { "gram": 1, "glass_300ml": 300 }
+},
+{
+  "name": "Masala Chaas (Cold)",
+  "cal": 60,
+  "pro": 2.8,
+  "carb": 6,
+  "fat": 2.2,
+  "fib": 0.1,
+  "weights": { "gram": 1, "glass_250ml": 250 }
+},
+{
+  "name": "Sweet Lassi",
+  "cal": 220,
+  "pro": 6.2,
+  "carb": 30,
+  "fat": 8,
+  "fib": 0,
+  "weights": { "gram": 1, "glass_300ml": 300 }
+},
+{
+  "name": "Salted Lassi",
+  "cal": 160,
+  "pro": 6,
+  "carb": 12,
+  "fat": 8,
+  "fib": 0,
+  "weights": { "gram": 1, "glass_300ml": 300 }
+},
+{
+  "name": "Phalsa Sharbat",
+  "cal": 90,
+  "pro": 0.3,
+  "carb": 22,
+  "fat": 0.1,
+  "fib": 0.7,
+  "weights": { "gram": 1, "glass_250ml": 250 }
+},
+{
+  "name": "Sandalwood Sharbat",
+  "cal": 130,
+  "pro": 0,
+  "carb": 32,
+  "fat": 0,
+  "fib": 0,
+  "weights": { "gram": 1, "glass_250ml": 250 }
+},
+{
+  "name": "Cranberry Spritzer",
+  "cal": 90,
+  "pro": 0.1,
+  "carb": 22,
+  "fat": 0,
+  "fib": 0.2,
+  "weights": { "gram": 1, "glass_250ml": 250 }
+},
+{
+  "name": "Ginger Lemon Honey Drink",
+  "cal": 75,
+  "pro": 0.3,
+  "carb": 19,
+  "fat": 0.1,
+  "fib": 0.1,
+  "weights": { "gram": 1, "glass_250ml": 250 }
+},
+{
+  "name": "Thandai",
+  "cal": 180,
+  "pro": 4,
+  "carb": 22,
+  "fat": 8,
+  "fib": 0.8,
+  "weights": { "gram": 1, "glass_200ml": 200 }
+},
+{
+  "name": "Masala Soda",
+  "cal": 85,
+  "pro": 0.1,
+  "carb": 21,
+  "fat": 0,
+  "fib": 0,
+  "weights": { "gram": 1, "glass_250ml": 250 }
+},
+{
+  "name": "Kala Khatta Cooler",
+  "cal": 95,
+  "pro": 0.3,
+  "carb": 24,
+  "fat": 0.1,
+  "fib": 0.7,
+  "weights": { "gram": 1, "glass_250ml": 250 }
+},
+{
+  "name": "Chocolate Cold Coffee",
+  "cal": 210,
+  "pro": 5,
+  "carb": 34,
+  "fat": 6,
+  "fib": 1,
+  "weights": { "gram": 1, "glass_300ml": 300 }
+},
+{
+  "name": "Mango Lassi",
+  "cal": 260,
+  "pro": 7,
+  "carb": 42,
+  "fat": 7,
+  "fib": 1.2,
+  "weights": { "gram": 1, "glass_300ml": 300 }
+},
+{
+  "name": "Strawberry Lassi",
+  "cal": 190,
+  "pro": 6,
+  "carb": 32,
+  "fat": 4,
+  "fib": 0.8,
+  "weights": { "gram": 1, "glass_300ml": 300 }
+},
+{
+  "name": "Banana Smoothie",
+  "cal": 210,
+  "pro": 4,
+  "carb": 40,
+  "fat": 3,
+  "fib": 2.8,
+  "weights": { "gram": 1, "glass_300ml": 300 }
+},
+{
+  "name": "Mango Smoothie",
+  "cal": 195,
+  "pro": 3.5,
+  "carb": 38,
+  "fat": 2,
+  "fib": 1.5,
+  "weights": { "gram": 1, "glass_300ml": 300 }
+},
+{
+  "name": "Chikoo Milkshake",
+  "cal": 260,
+  "pro": 5,
+  "carb": 52,
+  "fat": 3,
+  "fib": 4,
+  "weights": { "gram": 1, "glass_300ml": 300 }
+},
+{
+  "name": "Oreo Milkshake",
+  "cal": 350,
+  "pro": 6,
+  "carb": 55,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "glass_300ml": 300 }
+},
+{
+  "name": "Rose Lassi",
+  "cal": 190,
+  "pro": 6,
+  "carb": 30,
+  "fat": 4,
+  "fib": 0,
+  "weights": { "gram": 1, "glass_300ml": 300 }
+},
+{
+  "name": "Dry Fruit Milkshake",
+  "cal": 320,
+  "pro": 9,
+  "carb": 40,
+  "fat": 14,
+  "fib": 2,
+  "weights": { "gram": 1, "glass_300ml": 300 }
+},
+{
+  "name": "Papaya Milkshake",
+  "cal": 180,
+  "pro": 4,
+  "carb": 30,
+  "fat": 3,
+  "fib": 2.5,
+  "weights": { "gram": 1, "glass_300ml": 300 }
+},
+{
+  "name": "Cold Badam Milk",
+  "cal": 210,
+  "pro": 6,
+  "carb": 25,
+  "fat": 9,
+  "fib": 1,
+  "weights": { "gram": 1, "glass_250ml": 250 }
+},
+{
+  "name": "Kesar Milk",
+  "cal": 190,
+  "pro": 6,
+  "carb": 23,
+  "fat": 7,
+  "fib": 0,
+  "weights": { "gram": 1, "glass_250ml": 250 }
+},
+{
+  "name": "Watermelon Mint Slush",
+  "cal": 65,
+  "pro": 0.3,
+  "carb": 16,
+  "fat": 0.1,
+  "fib": 0.3,
+  "weights": { "gram": 1, "glass_300ml": 300 }
+},
+{
+  "name": "Pineapple Slush",
+  "cal": 80,
+  "pro": 0.4,
+  "carb": 19,
+  "fat": 0.2,
+  "fib": 0.4,
+  "weights": { "gram": 1, "glass_300ml": 300 }
+},
+{
+  "name": "Grape Fizz",
+  "cal": 90,
+  "pro": 0.3,
+  "carb": 22,
+  "fat": 0.2,
+  "fib": 0.4,
+  "weights": { "gram": 1, "glass_250ml": 250 }
+},
+{
+  "name": "Carrot Orange Refresher",
+  "cal": 85,
+  "pro": 0.8,
+  "carb": 19,
+  "fat": 0.2,
+  "fib": 1.2,
+  "weights": { "gram": 1, "glass_250ml": 250 }
+},
+{
+  "name": "Sugarcane Juice (Cold Pressed)",
+  "cal": 180,
+  "pro": 0.6,
+  "carb": 45,
+  "fat": 0.1,
+  "fib": 0.1,
+  "weights": { "gram": 1, "glass_250ml": 250 }
+},
+{
+  "name": "Mosambi Juice",
+  "cal": 95,
+  "pro": 0.6,
+  "carb": 22,
+  "fat": 0.2,
+  "fib": 0.4,
+  "weights": { "gram": 1, "glass_250ml": 250 }
+},
+{
+  "name": "Fresh Orange Juice",
+  "cal": 110,
+  "pro": 1.4,
+  "carb": 25,
+  "fat": 0.4,
+  "fib": 0.6,
+  "weights": { "gram": 1, "glass_250ml": 250 }
+},
+{
+  "name": "Apple Juice",
+  "cal": 115,
+  "pro": 0.2,
+  "carb": 28,
+  "fat": 0.1,
+  "fib": 0.3,
+  "weights": { "gram": 1, "glass_250ml": 250 }
+},
+{
+  "name": "Pineapple Juice",
+  "cal": 130,
+  "pro": 0.8,
+  "carb": 33,
+  "fat": 0.3,
+  "fib": 0.5,
+  "weights": { "gram": 1, "glass_250ml": 250 }
+},
+{
+  "name": "Fresh Pomegranate Juice",
+  "cal": 135,
+  "pro": 1,
+  "carb": 33,
+  "fat": 0.3,
+  "fib": 0.7,
+  "weights": { "gram": 1, "glass_250ml": 250 }
+} 
 ]
