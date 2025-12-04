@@ -13633,5 +13633,401 @@
   "fat": 2.0,
   "fib": 1.5,
   "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Sukhdi (Gud + Ghee Wheat Sweet)",
+  "cal": 285,
+  "pro": 3.5,
+  "carb": 34.0,
+  "fat": 14.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "piece": 30 }
+},
+{
+  "name": "Shiro (Sooji Sheera Gujarati)",
+  "cal": 250,
+  "pro": 4.0,
+  "carb": 34.0,
+  "fat": 10.0,
+  "fib": 1.2,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Mohanthal (Traditional Besan Sweet)",
+  "cal": 290,
+  "pro": 6.0,
+  "carb": 32.0,
+  "fat": 15.0,
+  "fib": 2.2,
+  "weights": { "gram": 1, "piece": 35 }
+},
+{
+  "name": "Doodh Pak (Milk Rice Kheer Gujarati)",
+  "cal": 220,
+  "pro": 6.0,
+  "carb": 30.0,
+  "fat": 8.0,
+  "fib": 0.8,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Lapsi (Fada Lapsi, Broken Wheat Sweet)",
+  "cal": 240,
+  "pro": 4.8,
+  "carb": 38.0,
+  "fat": 8.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Bhungla Bateta (Kathiyawadi Spicy Potato)",
+  "cal": 175,
+  "pro": 3.0,
+  "carb": 20.0,
+  "fat": 9.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Sev Khamani Mix (Street-Style)",
+  "cal": 230,
+  "pro": 7.0,
+  "carb": 26.0,
+  "fat": 10.0,
+  "fib": 2.8,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Vatana Kachori (Green Peas Stuffed)",
+  "cal": 245,
+  "pro": 6.0,
+  "carb": 28.0,
+  "fat": 12.0,
+  "fib": 3.5,
+  "weights": { "gram": 1, "piece": 55 }
+},
+{
+  "name": "Lasaniya Bataka (Garlic Potato Gujarati)",
+  "cal": 180,
+  "pro": 3.5,
+  "carb": 20.0,
+  "fat": 9.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Kathiyawadi Ringan (Spicy Smoked Brinjal)",
+  "cal": 165,
+  "pro": 3.5,
+  "carb": 13.5,
+  "fat": 10.0,
+  "fib": 4.2,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Ringan Tameta nu Shaak (Brinjal Tomato Curry)",
+  "cal": 155,
+  "pro": 3.2,
+  "carb": 14.0,
+  "fat": 9.0,
+  "fib": 3.5,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Bajri na Vada (Gujarati Millet Vada)",
+  "cal": 165,
+  "pro": 3.0,
+  "carb": 16.5,
+  "fat": 9.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "piece": 25 }
+},
+{
+  "name": "Besan Roti (Gujarati Gram Flour Roti)",
+  "cal": 130,
+  "pro": 4.0,
+  "carb": 19.0,
+  "fat": 3.0,
+  "fib": 2.5,
+  "weights": { "gram": 1, "piece": 30 }
+},
+{
+  "name": "Dudhi Thepla (Rich Version with More Ghee)",
+  "cal": 175,
+  "pro": 3.8,
+  "carb": 21.0,
+  "fat": 8.0,
+  "fib": 3.2,
+  "weights": { "gram": 1, "piece": 35 }
+},
+{
+  "name": "Lasaniya Rotli (Garlic-Flavoured Gujarati Roti)",
+  "cal": 145,
+  "pro": 3.5,
+  "carb": 22.0,
+  "fat": 4.0,
+  "fib": 2.5,
+  "weights": { "gram": 1, "piece": 30 }
+},
+{
+  "name": "Rajwadi Kadhi (Royal Gujarati Kadhi)",
+  "cal": 145,
+  "pro": 5.0,
+  "carb": 15.0,
+  "fat": 6.0,
+  "fib": 1.0,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Bajra Vagharelo (Tempered Millet)",
+  "cal": 185,
+  "pro": 4.5,
+  "carb": 26.0,
+  "fat": 6.0,
+  "fib": 4.0,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Dhokla Sandwich (Layered Green + White Dhokla)",
+  "cal": 230,
+  "pro": 8.0,
+  "carb": 30.0,
+  "fat": 9.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "piece": 80 }
+},
+{
+  "name": "Idada (White Khatta Dhokla)",
+  "cal": 180,
+  "pro": 7.5,
+  "carb": 26.0,
+  "fat": 4.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "piece": 60 }
+},
+{
+  "name": "Safed Dhokla (White Rice-Urad Dhokla)",
+  "cal": 170,
+  "pro": 7.0,
+  "carb": 24.0,
+  "fat": 3.5,
+  "fib": 2.0,
+  "weights": { "gram": 1, "piece": 60 }
+},
+{
+  "name": "Khatta Dhokla (Sour Fermented Dhokla)",
+  "cal": 165,
+  "pro": 6.8,
+  "carb": 23.0,
+  "fat": 4.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "piece": 60 }
+},
+{
+  "name": "Basundi (Gujarati Thickened Milk Sweet)",
+  "cal": 285,
+  "pro": 8.0,
+  "carb": 30.0,
+  "fat": 15.0,
+  "fib": 0.6,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Doodh no Halvo (Milk Halwa Gujarati)",
+  "cal": 260,
+  "pro": 7.0,
+  "carb": 32.0,
+  "fat": 12.0,
+  "fib": 0.8,
+  "weights": { "gram": 1, "piece": 40 }
+},
+{
+  "name": "Shakarpara (Sweet Diamond Snack)",
+  "cal": 455,
+  "pro": 6.0,
+  "carb": 64.0,
+  "fat": 20.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "piece": 5 }
+},
+{
+  "name": "Ghari (Surti Ghari Sweet)",
+  "cal": 450,
+  "pro": 6.5,
+  "carb": 40.0,
+  "fat": 28.0,
+  "fib": 1.0,
+  "weights": { "gram": 1, "piece": 70 }
+},
+{
+  "name": "Green Tuvar nu Shaak (Fresh Pigeon Pea Curry)",
+  "cal": 165,
+  "pro": 6.5,
+  "carb": 17.0,
+  "fat": 7.0,
+  "fib": 4.5,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Rasa Wala Bateta (Potato Curry with Gravy)",
+  "cal": 155,
+  "pro": 3.0,
+  "carb": 17.5,
+  "fat": 8.0,
+  "fib": 2.5,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Sambhariyu (Gujarati Steamed Mixed Vegetables)",
+  "cal": 145,
+  "pro": 3.5,
+  "carb": 12.0,
+  "fat": 8.0,
+  "fib": 3.2,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Bataka Poha (Kathiyawadi Version)",
+  "cal": 210,
+  "pro": 4.0,
+  "carb": 32.0,
+  "fat": 7.0,
+  "fib": 2.2,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Goan Poi (Traditional Whole Wheat Bread)",
+  "cal": 165,
+  "pro": 4.5,
+  "carb": 33.0,
+  "fat": 1.2,
+  "fib": 3.5,
+  "weights": { "gram": 1, "piece": 40 }
+},
+{
+  "name": "Sannas (Steamed Coconut Rice Cakes)",
+  "cal": 130,
+  "pro": 2.5,
+  "carb": 28.0,
+  "fat": 1.0,
+  "fib": 1.0,
+  "weights": { "gram": 1, "piece": 35 }
+},
+{
+  "name": "Fugias (Goan Fermented Fried Bread)",
+  "cal": 185,
+  "pro": 3.0,
+  "carb": 26.0,
+  "fat": 7.5,
+  "fib": 1.0,
+  "weights": { "gram": 1, "piece": 30 }
+},
+{
+  "name": "Goan Fish Curry (Xitt Kodi)",
+  "cal": 155,
+  "pro": 14.0,
+  "carb": 4.0,
+  "fat": 9.0,
+  "fib": 1.0,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Chicken Xacuti (Goan Curry)",
+  "cal": 210,
+  "pro": 18.0,
+  "carb": 6.0,
+  "fat": 13.0,
+  "fib": 2.5,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Mutton Xacuti",
+  "cal": 265,
+  "pro": 20.0,
+  "carb": 7.0,
+  "fat": 18.0,
+  "fib": 2.8,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Chicken Cafreal (Green Goan Masala)",
+  "cal": 185,
+  "pro": 22.0,
+  "carb": 3.0,
+  "fat": 9.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "piece": 120 }
+},
+{
+  "name": "Pork Vindaloo (Goan Portuguese-Influenced Curry)",
+  "cal": 270,
+  "pro": 16.0,
+  "carb": 6.0,
+  "fat": 20.0,
+  "fib": 1.8,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Goan Sorpotel (Pork Offal Curry)",
+  "cal": 300,
+  "pro": 18.0,
+  "carb": 5.0,
+  "fat": 23.0,
+  "fib": 1.2,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Goan Prawn Curry (Ambotik Style)",
+  "cal": 170,
+  "pro": 15.0,
+  "carb": 5.0,
+  "fat": 9.0,
+  "fib": 1.0,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Goan Caldine (Mild Coconut Curry)",
+  "cal": 160,
+  "pro": 6.0,
+  "carb": 6.0,
+  "fat": 12.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Goan Feijoada (Black Bean Pork Stew)",
+  "cal": 250,
+  "pro": 14.0,
+  "carb": 20.0,
+  "fat": 14.0,
+  "fib": 5.0,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Goan Prawn Balchao (Spicy Pickle-Style Curry)",
+  "cal": 195,
+  "pro": 12.0,
+  "carb": 5.0,
+  "fat": 14.0,
+  "fib": 1.0,
+  "weights": { "gram": 1, "tbsp": 30 }
+},
+{
+  "name": "Goan Tendli Sukha (Ivy Gourd Stir-Fry)",
+  "cal": 145,
+  "pro": 3.0,
+  "carb": 12.0,
+  "fat": 9.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "bowl": 160 }
+},
+{
+  "name": "Goan Bhaji Pav (Local Vegetable Mix)",
+  "cal": 180,
+  "pro": 4.0,
+  "carb": 25.0,
+  "fat": 7.0,
+  "fib": 4.0,
+  "weights": { "gram": 1, "bowl": 180 }
 }
 ]
