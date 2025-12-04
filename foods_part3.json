@@ -1051,5 +1051,680 @@
   "fat": 0.1,
   "fib": 1.0,
   "weights": { "gram": 1, "glass_300ml": 300 }
+},
+{
+  "name": "Vanilla Ice Cream",
+  "cal": 207,
+  "pro": 3.5,
+  "carb": 24,
+  "fat": 11,
+  "fib": 0,
+  "weights": { "gram": 1, "scoop_80g": 80 }
+},
+{
+  "name": "Chocolate Ice Cream",
+  "cal": 220,
+  "pro": 4,
+  "carb": 26,
+  "fat": 12,
+  "fib": 1.5,
+  "weights": { "gram": 1, "scoop_80g": 80 }
+},
+{
+  "name": "Strawberry Ice Cream",
+  "cal": 195,
+  "pro": 3,
+  "carb": 25,
+  "fat": 9,
+  "fib": 0.6,
+  "weights": { "gram": 1, "scoop_80g": 80 }
+},
+{
+  "name": "Mango Ice Cream",
+  "cal": 210,
+  "pro": 3.2,
+  "carb": 28,
+  "fat": 10,
+  "fib": 0.4,
+  "weights": { "gram": 1, "scoop_80g": 80 }
+},
+{
+  "name": "Butterscotch Ice Cream",
+  "cal": 215,
+  "pro": 3.4,
+  "carb": 27,
+  "fat": 11,
+  "fib": 0.2,
+  "weights": { "gram": 1, "scoop_80g": 80 }
+},
+{
+  "name": "Kesar Pista Ice Cream",
+  "cal": 230,
+  "pro": 4,
+  "carb": 25,
+  "fat": 13,
+  "fib": 0.8,
+  "weights": { "gram": 1, "scoop_80g": 80 }
+},
+{
+  "name": "Pista Ice Cream",
+  "cal": 225,
+  "pro": 3.8,
+  "carb": 24,
+  "fat": 13,
+  "fib": 0.9,
+  "weights": { "gram": 1, "scoop_80g": 80 }
+},
+{
+  "name": "Cookies and Cream Ice Cream",
+  "cal": 245,
+  "pro": 4,
+  "carb": 29,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "scoop_90g": 90 }
+},
+{
+  "name": "Belgian Chocolate Ice Cream",
+  "cal": 255,
+  "pro": 4.5,
+  "carb": 30,
+  "fat": 13,
+  "fib": 1.8,
+  "weights": { "gram": 1, "scoop_90g": 90 }
+},
+{
+  "name": "Tender Coconut Ice Cream",
+  "cal": 185,
+  "pro": 2.5,
+  "carb": 23,
+  "fat": 9,
+  "fib": 1.2,
+  "weights": { "gram": 1, "scoop_80g": 80 }
+},
+{
+  "name": "Sitaphal Ice Cream",
+  "cal": 210,
+  "pro": 3,
+  "carb": 27,
+  "fat": 10,
+  "fib": 1,
+  "weights": { "gram": 1, "scoop_90g": 90 }
+},
+{
+  "name": "Chikoo Ice Cream",
+  "cal": 215,
+  "pro": 3.2,
+  "carb": 29,
+  "fat": 10,
+  "fib": 1.8,
+  "weights": { "gram": 1, "scoop_90g": 90 }
+},
+{
+  "name": "Coffee Ice Cream",
+  "cal": 200,
+  "pro": 3.5,
+  "carb": 24,
+  "fat": 10,
+  "fib": 0,
+  "weights": { "gram": 1, "scoop_80g": 80 }
+},
+{
+  "name": "Caramel Ice Cream",
+  "cal": 230,
+  "pro": 3.6,
+  "carb": 30,
+  "fat": 11,
+  "fib": 0,
+  "weights": { "gram": 1, "scoop_80g": 80 }
+},
+{
+  "name": "Pan Ice Cream",
+  "cal": 240,
+  "pro": 3.8,
+  "carb": 31,
+  "fat": 12,
+  "fib": 0.8,
+  "weights": { "gram": 1, "scoop_80g": 80 }
+},
+{
+  "name": "Thandai Ice Cream",
+  "cal": 245,
+  "pro": 4.4,
+  "carb": 28,
+  "fat": 13,
+  "fib": 0.7,
+  "weights": { "gram": 1, "scoop_80g": 80 }
+},
+{
+  "name": "Dry Fruit Ice Cream",
+  "cal": 255,
+  "pro": 5,
+  "carb": 26,
+  "fat": 14,
+  "fib": 1.4,
+  "weights": { "gram": 1, "scoop_90g": 90 }
+},
+{
+  "name": "Mulberry Ice Cream",
+  "cal": 190,
+  "pro": 3.3,
+  "carb": 25,
+  "fat": 7,
+  "fib": 1.6,
+  "weights": { "gram": 1, "scoop_90g": 90 }
+},
+{
+  "name": "Jamun Ice Cream",
+  "cal": 180,
+  "pro": 3,
+  "carb": 24,
+  "fat": 6,
+  "fib": 2,
+  "weights": { "gram": 1, "scoop_90g": 90 }
+},
+{
+  "name": "Rose Ice Cream",
+  "cal": 200,
+  "pro": 3.2,
+  "carb": 26,
+  "fat": 9,
+  "fib": 0.3,
+  "weights": { "gram": 1, "scoop_80g": 80 }
+},
+{
+  "name": "Black Currant Ice Cream",
+  "cal": 210,
+  "pro": 3.8,
+  "carb": 28,
+  "fat": 9,
+  "fib": 1.3,
+  "weights": { "gram": 1, "scoop_90g": 90 }
+},
+{
+  "name": "Honey Almond Ice Cream",
+  "cal": 240,
+  "pro": 4.6,
+  "carb": 27,
+  "fat": 12,
+  "fib": 1.1,
+  "weights": { "gram": 1, "scoop_90g": 90 }
+},
+{
+  "name": "Fig & Honey Ice Cream",
+  "cal": 235,
+  "pro": 4.2,
+  "carb": 29,
+  "fat": 10,
+  "fib": 1.8,
+  "weights": { "gram": 1, "scoop_90g": 90 }
+},
+{
+  "name": "Walnut Crunch Ice Cream",
+  "cal": 250,
+  "pro": 4.5,
+  "carb": 25,
+  "fat": 14,
+  "fib": 1.2,
+  "weights": { "gram": 1, "scoop_90g": 90 }
+},
+{
+  "name": "Malai Ice Cream",
+  "cal": 225,
+  "pro": 4,
+  "carb": 23,
+  "fat": 12,
+  "fib": 0,
+  "weights": { "gram": 1, "scoop_80g": 80 }
+},
+{
+  "name": "Almond Ice Cream",
+  "cal": 235,
+  "pro": 4.4,
+  "carb": 26,
+  "fat": 12,
+  "fib": 1.1,
+  "weights": { "gram": 1, "scoop_90g": 90 }
+},
+{
+  "name": "Malai Kulfi",
+  "cal": 265,
+  "pro": 6,
+  "carb": 28,
+  "fat": 14,
+  "fib": 0,
+  "weights": { "gram": 1, "piece_100g": 100 }
+},
+{
+  "name": "Falooda (Ice Cream Falooda)",
+  "cal": 310,
+  "pro": 6,
+  "carb": 48,
+  "fat": 10,
+  "fib": 1.2,
+  "weights": { "gram": 1, "glass_300ml": 300 }
+},
+{
+  "name": "Kulfi Falooda",
+  "cal": 340,
+  "pro": 7,
+  "carb": 52,
+  "fat": 12,
+  "fib": 1.3,
+  "weights": { "gram": 1, "glass_300ml": 300 }
+},
+{
+  "name": "Matka Kulfi",
+  "cal": 250,
+  "pro": 5,
+  "carb": 26,
+  "fat": 13,
+  "fib": 0,
+  "weights": { "gram": 1, "piece_90g": 90 }
+},
+{
+  "name": "Rabri Kulfi",
+  "cal": 270,
+  "pro": 6,
+  "carb": 29,
+  "fat": 14,
+  "fib": 0.2,
+  "weights": { "gram": 1, "piece_90g": 90 }
+},
+{
+  "name": "Kesar Kulfi",
+  "cal": 255,
+  "pro": 5,
+  "carb": 27,
+  "fat": 13,
+  "fib": 0,
+  "weights": { "gram": 1, "piece_90g": 90 }
+},
+{
+  "name": "Pista Kulfi",
+  "cal": 260,
+  "pro": 5.5,
+  "carb": 25,
+  "fat": 15,
+  "fib": 1,
+  "weights": { "gram": 1, "piece_90g": 90 }
+},
+{
+  "name": "Chocolate Kulfi",
+  "cal": 270,
+  "pro": 5,
+  "carb": 30,
+  "fat": 14,
+  "fib": 1,
+  "weights": { "gram": 1, "piece_90g": 90 }
+},
+{
+  "name": "Mango Kulfi",
+  "cal": 245,
+  "pro": 4.8,
+  "carb": 30,
+  "fat": 11,
+  "fib": 0.4,
+  "weights": { "gram": 1, "piece_90g": 90 }
+},
+{
+  "name": "Badam Kulfi",
+  "cal": 260,
+  "pro": 6,
+  "carb": 27,
+  "fat": 13,
+  "fib": 1.2,
+  "weights": { "gram": 1, "piece_90g": 90 }
+},
+{
+  "name": "Malai Ice Cream Sandwich",
+  "cal": 240,
+  "pro": 4,
+  "carb": 32,
+  "fat": 10,
+  "fib": 0.6,
+  "weights": { "gram": 1, "piece_90g": 90 }
+},
+{
+  "name": "Chocolate Ice Cream Sandwich",
+  "cal": 260,
+  "pro": 4.5,
+  "carb": 34,
+  "fat": 11,
+  "fib": 1.5,
+  "weights": { "gram": 1, "piece_90g": 90 }
+},
+{
+  "name": "Vanilla Soft Serve",
+  "cal": 165,
+  "pro": 3.5,
+  "carb": 22,
+  "fat": 6,
+  "fib": 0,
+  "weights": { "gram": 1, "cup_100g": 100 }
+},
+{
+  "name": "Chocolate Soft Serve",
+  "cal": 180,
+  "pro": 4,
+  "carb": 24,
+  "fat": 7,
+  "fib": 1,
+  "weights": { "gram": 1, "cup_100g": 100 }
+},
+{
+  "name": "Butterscotch Soft Serve",
+  "cal": 175,
+  "pro": 3.8,
+  "carb": 23,
+  "fat": 7,
+  "fib": 0.2,
+  "weights": { "gram": 1, "cup_100g": 100 }
+},
+{
+  "name": "Strawberry Soft Serve",
+  "cal": 170,
+  "pro": 3.2,
+  "carb": 25,
+  "fat": 6,
+  "fib": 0.5,
+  "weights": { "gram": 1, "cup_100g": 100 }
+},
+{
+  "name": "Mango Soft Serve",
+  "cal": 175,
+  "pro": 3.2,
+  "carb": 26,
+  "fat": 6,
+  "fib": 0.3,
+  "weights": { "gram": 1, "cup_100g": 100 }
+},
+{
+  "name": "Fruit Overload Sundae",
+  "cal": 290,
+  "pro": 5,
+  "carb": 45,
+  "fat": 10,
+  "fib": 2.5,
+  "weights": { "gram": 1, "bowl_200g": 200 }
+},
+{
+  "name": "Brownie Ice Cream Sundae",
+  "cal": 360,
+  "pro": 6,
+  "carb": 52,
+  "fat": 14,
+  "fib": 2,
+  "weights": { "gram": 1, "bowl_220g": 220 }
+},
+{
+  "name": "Hot Chocolate Fudge (HCF)",
+  "cal": 390,
+  "pro": 7,
+  "carb": 56,
+  "fat": 15,
+  "fib": 3,
+  "weights": { "gram": 1, "bowl_220g": 220 }
+},
+{
+  "name": "Blackforest Sundae",
+  "cal": 330,
+  "pro": 6,
+  "carb": 50,
+  "fat": 12,
+  "fib": 1.8,
+  "weights": { "gram": 1, "bowl_220g": 220 }
+},
+{
+  "name": "Caramel Crunch Sundae",
+  "cal": 310,
+  "pro": 5,
+  "carb": 46,
+  "fat": 12,
+  "fib": 1,
+  "weights": { "gram": 1, "bowl_200g": 200 }
+},
+{
+  "name": "Nutty Buddy Cone",
+  "cal": 280,
+  "pro": 5.5,
+  "carb": 34,
+  "fat": 13,
+  "fib": 1.4,
+  "weights": { "gram": 1, "cone_120g": 120 }
+},
+{
+  "name": "Vanilla Ice Cream Cone",
+  "cal": 250,
+  "pro": 4.2,
+  "carb": 33,
+  "fat": 10,
+  "fib": 0.3,
+  "weights": { "gram": 1, "cone_110g": 110 }
+},
+{
+  "name": "Mava Malai Kulfi",
+  "cal": 275,
+  "pro": 6.2,
+  "carb": 27,
+  "fat": 15,
+  "fib": 0,
+  "weights": { "gram": 1, "piece_100g": 100 }
+},
+{
+  "name": "Chocolate Chip Ice Cream",
+  "cal": 235,
+  "pro": 4,
+  "carb": 28,
+  "fat": 11,
+  "fib": 0.8,
+  "weights": { "gram": 1, "scoop_90g": 90 }
+},
+{
+  "name": "Banana Ice Cream",
+  "cal": 210,
+  "pro": 3.1,
+  "carb": 30,
+  "fat": 8,
+  "fib": 1.5,
+  "weights": { "gram": 1, "scoop_90g": 90 }
+},
+{
+  "name": "Gulkand Ice Cream",
+  "cal": 245,
+  "pro": 3.9,
+  "carb": 32,
+  "fat": 11,
+  "fib": 0.5,
+  "weights": { "gram": 1, "scoop_80g": 80 }
+},
+{
+  "name": "Caramel Crunch Ice Cream",
+  "cal": 255,
+  "pro": 4,
+  "carb": 31,
+  "fat": 12,
+  "fib": 0.6,
+  "weights": { "gram": 1, "scoop_90g": 90 }
+},
+{
+  "name": "Tutti Frutti Ice Cream",
+  "cal": 220,
+  "pro": 3.6,
+  "carb": 28,
+  "fat": 10,
+  "fib": 0.3,
+  "weights": { "gram": 1, "scoop_80g": 80 }
+},
+{
+  "name": "Mint Chocolate Chip Ice Cream",
+  "cal": 240,
+  "pro": 4.2,
+  "carb": 29,
+  "fat": 12,
+  "fib": 1.3,
+  "weights": { "gram": 1, "scoop_90g": 90 }
+},
+{
+  "name": "Dark Chocolate Ice Cream",
+  "cal": 260,
+  "pro": 4.4,
+  "carb": 32,
+  "fat": 13,
+  "fib": 2.2,
+  "weights": { "gram": 1, "scoop_90g": 90 }
+},
+{
+  "name": "Peanut Butter Ice Cream",
+  "cal": 275,
+  "pro": 6,
+  "carb": 24,
+  "fat": 16,
+  "fib": 1.3,
+  "weights": { "gram": 1, "scoop_90g": 90 }
+},
+{
+  "name": "Salted Caramel Ice Cream",
+  "cal": 250,
+  "pro": 4.1,
+  "carb": 30,
+  "fat": 12,
+  "fib": 0.2,
+  "weights": { "gram": 1, "scoop_90g": 90 }
+},
+{
+  "name": "Custard Apple Kulfi (Sitaphal Kulfi)",
+  "cal": 255,
+  "pro": 4.7,
+  "carb": 32,
+  "fat": 12,
+  "fib": 1.6,
+  "weights": { "gram": 1, "piece_100g": 100 }
+},
+{
+  "name": "Choco Brownie Ice Cream",
+  "cal": 280,
+  "pro": 5.2,
+  "carb": 34,
+  "fat": 13,
+  "fib": 1.8,
+  "weights": { "gram": 1, "scoop_100g": 100 }
+},
+{
+  "name": "Red Velvet Ice Cream",
+  "cal": 245,
+  "pro": 4,
+  "carb": 30,
+  "fat": 11,
+  "fib": 0.5,
+  "weights": { "gram": 1, "scoop_100g": 100 }
+},
+{
+  "name": "Blueberry Ice Cream",
+  "cal": 210,
+  "pro": 3.5,
+  "carb": 27,
+  "fat": 9,
+  "fib": 1.8,
+  "weights": { "gram": 1, "scoop_90g": 90 }
+},
+{
+  "name": "Raspberry Ice Cream",
+  "cal": 205,
+  "pro": 3.2,
+  "carb": 26,
+  "fat": 9,
+  "fib": 1.7,
+  "weights": { "gram": 1, "scoop_90g": 90 }
+},
+{
+  "name": "Carrot Halwa Ice Cream",
+  "cal": 260,
+  "pro": 4.8,
+  "carb": 32,
+  "fat": 12,
+  "fib": 1.2,
+  "weights": { "gram": 1, "scoop_100g": 100 }
+},
+{
+  "name": "Gajar Kulfi",
+  "cal": 235,
+  "pro": 4,
+  "carb": 28,
+  "fat": 11,
+  "fib": 1.5,
+  "weights": { "gram": 1, "piece_90g": 90 }
+},
+{
+  "name": "Mysore Pak Ice Cream",
+  "cal": 310,
+  "pro": 4.5,
+  "carb": 35,
+  "fat": 16,
+  "fib": 0.4,
+  "weights": { "gram": 1, "scoop_100g": 100 }
+},
+{
+  "name": "Ghevar Ice Cream",
+  "cal": 295,
+  "pro": 4.2,
+  "carb": 34,
+  "fat": 14,
+  "fib": 0.7,
+  "weights": { "gram": 1, "scoop_100g": 100 }
+},
+{
+  "name": "Kaju Draksh Ice Cream",
+  "cal": 265,
+  "pro": 5,
+  "carb": 30,
+  "fat": 13,
+  "fib": 0.8,
+  "weights": { "gram": 1, "scoop_90g": 90 }
+},
+{
+  "name": "Saffron Almond Ice Cream",
+  "cal": 250,
+  "pro": 5,
+  "carb": 27,
+  "fat": 13,
+  "fib": 0.9,
+  "weights": { "gram": 1, "scoop_90g": 90 }
+},
+{
+  "name": "Nolen Gur Ice Cream",
+  "cal": 230,
+  "pro": 4,
+  "carb": 28,
+  "fat": 11,
+  "fib": 0.5,
+  "weights": { "gram": 1, "scoop_90g": 90 }
+},
+{
+  "name": "Honeycomb Ice Cream",
+  "cal": 245,
+  "pro": 4,
+  "carb": 32,
+  "fat": 11,
+  "fib": 0.3,
+  "weights": { "gram": 1, "scoop_100g": 100 }
+},
+{
+  "name": "Kulfi Stick (Plain Malai)",
+  "cal": 210,
+  "pro": 4.5,
+  "carb": 22,
+  "fat": 11,
+  "fib": 0,
+  "weights": { "gram": 1, "stick_70g": 70 }
+},
+{
+  "name": "Chocolate Bar Ice Cream",
+  "cal": 260,
+  "pro": 4.4,
+  "carb": 30,
+  "fat": 14,
+  "fib": 1,
+  "weights": { "gram": 1, "bar_80g": 80 }
 }
 ]
