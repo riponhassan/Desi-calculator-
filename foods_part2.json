@@ -12689,4 +12689,274 @@
   "fib": 2.4,
   "weights": { "gram": 1, "piece": 75 }
 }
+{
+  "name": "Balushahi (Rajasthani Style)",
+  "cal": 320,
+  "pro": 4.0,
+  "carb": 38.0,
+  "fat": 17.0,
+  "fib": 0.8,
+  "weights": { "gram": 1, "piece": 45 }
+},
+{
+  "name": "Imarti (Urad Dal Sweet)",
+  "cal": 320,
+  "pro": 6.0,
+  "carb": 55.0,
+  "fat": 8.0,
+  "fib": 1.2,
+  "weights": { "gram": 1, "piece": 35 }
+},
+{
+  "name": "Kalakand (Alwar Ka Mawa)",
+  "cal": 285,
+  "pro": 7.5,
+  "carb": 28.0,
+  "fat": 15.0,
+  "fib": 0.5,
+  "weights": { "gram": 1, "piece": 40 }
+},
+{
+  "name": "Khejri Phali ki Sabzi (Sangri Tree Pods)",
+  "cal": 150,
+  "pro": 4.0,
+  "carb": 10.5,
+  "fat": 9.0,
+  "fib": 4.2,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Kumatia Sabzi (Desert Kumat Berry)",
+  "cal": 165,
+  "pro": 3.5,
+  "carb": 12.0,
+  "fat": 10.5,
+  "fib": 4.8,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Bread Pakoda (Stuffed, Rajasthani Style)",
+  "cal": 290,
+  "pro": 7.2,
+  "carb": 30.0,
+  "fat": 15.5,
+  "fib": 2.2,
+  "weights": { "gram": 1, "piece": 90 }
+},
+{
+  "name": "Pyaz Tikki (Onion Tikki Rajasthani)",
+  "cal": 155,
+  "pro": 3.0,
+  "carb": 14.5,
+  "fat": 9.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "piece": 40 }
+},
+{
+  "name": "Jowar Roti (Plain)",
+  "cal": 110,
+  "pro": 2.8,
+  "carb": 21.5,
+  "fat": 1.2,
+  "fib": 3.0,
+  "weights": { "gram": 1, "piece": 35 }
+},
+{
+  "name": "Bajra Thepla (Rajasthani Version)",
+  "cal": 145,
+  "pro": 3.8,
+  "carb": 21.0,
+  "fat": 5.0,
+  "fib": 4.2,
+  "weights": { "gram": 1, "piece": 40 }
+},
+{
+  "name": "Bajra Sev (Traditional Millet Sev)",
+  "cal": 510,
+  "pro": 9.5,
+  "carb": 55.0,
+  "fat": 30.0,
+  "fib": 5.5,
+  "weights": { "gram": 1, "tbsp": 10 }
+},
+{
+  "name": "Rajasthani Besan Chakki (Steamed Besan Sweet)",
+  "cal": 240,
+  "pro": 6.5,
+  "carb": 28.0,
+  "fat": 11.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "piece": 35 }
+},
+{
+  "name": "Aata Gond Laddu (Desi Gond, Whole Wheat)",
+  "cal": 210,
+  "pro": 3.2,
+  "carb": 20.0,
+  "fat": 12.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "piece": 25 }
+},
+{
+  "name": "Methi Papad Curry",
+  "cal": 185,
+  "pro": 6.0,
+  "carb": 16.0,
+  "fat": 10.0,
+  "fib": 2.8,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Kadhi with Mangodi (Rajasthani)",
+  "cal": 210,
+  "pro": 7.5,
+  "carb": 17.0,
+  "fat": 12.0,
+  "fib": 3.2,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Rajasthani Bajra Halwa",
+  "cal": 260,
+  "pro": 4.5,
+  "carb": 36.0,
+  "fat": 11.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "bowl": 180 }
+}
+{
+  "name": "Churma Laddu (Ghee-Rolled Wheat Churma Laddu)",
+  "cal": 285,
+  "pro": 4.5,
+  "carb": 32.0,
+  "fat": 14.0,
+  "fib": 2.2,
+  "weights": { "gram": 1, "piece": 35 }
+},
+{
+  "name": "Bajra Churma Laddu",
+  "cal": 300,
+  "pro": 5.0,
+  "carb": 34.0,
+  "fat": 14.5,
+  "fib": 3.5,
+  "weights": { "gram": 1, "piece": 35 }
+},
+{
+  "name": "Doodh Chakki (Milk-Based Besan Sweet)",
+  "cal": 260,
+  "pro": 7.0,
+  "carb": 28.0,
+  "fat": 12.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "piece": 35 }
+},
+{
+  "name": "Boondi Thal (Sweet Boondi Plate)",
+  "cal": 310,
+  "pro": 6.0,
+  "carb": 52.0,
+  "fat": 9.5,
+  "fib": 1.2,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Boondi (Dry Sweet Boondi)",
+  "cal": 395,
+  "pro": 7.0,
+  "carb": 66.0,
+  "fat": 12.0,
+  "fib": 1.8,
+  "weights": { "gram": 1, "cup": 120 }
+},
+{
+  "name": "Jowar Poori",
+  "cal": 145,
+  "pro": 3.2,
+  "carb": 16.0,
+  "fat": 7.5,
+  "fib": 2.5,
+  "weights": { "gram": 1, "piece": 25 }
+},
+{
+  "name": "Bajra Paratha (Ghee Cooked)",
+  "cal": 180,
+  "pro": 4.2,
+  "carb": 23.0,
+  "fat": 8.5,
+  "fib": 4.8,
+  "weights": { "gram": 1, "piece": 45 }
+},
+{
+  "name": "Kair ki Sabzi (Desert Kair Fruit)",
+  "cal": 155,
+  "pro": 3.0,
+  "carb": 11.5,
+  "fat": 9.0,
+  "fib": 4.0,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Rajasthani Kair Pickle (Kair ka Achar)",
+  "cal": 225,
+  "pro": 2.5,
+  "carb": 8.0,
+  "fat": 20.0,
+  "fib": 2.8,
+  "weights": { "gram": 1, "tbsp": 15 }
+},
+{
+  "name": "Ker Sangri Rich Version (Ghee + Nuts)",
+  "cal": 245,
+  "pro": 6.0,
+  "carb": 16.0,
+  "fat": 17.0,
+  "fib": 8.0,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Sangri Achar (Spicy Desert Bean Pickle)",
+  "cal": 230,
+  "pro": 3.0,
+  "carb": 10.0,
+  "fat": 19.0,
+  "fib": 4.2,
+  "weights": { "gram": 1, "tbsp": 15 }
+},
+{
+  "name": "Kair Sangri Masala Sabzi (Hotel-Style Rich)",
+  "cal": 260,
+  "pro": 6.5,
+  "carb": 15.0,
+  "fat": 18.0,
+  "fib": 6.5,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Bajra Methi Poori",
+  "cal": 170,
+  "pro": 3.5,
+  "carb": 15.0,
+  "fat": 10.0,
+  "fib": 3.2,
+  "weights": { "gram": 1, "piece": 25 }
+},
+{
+  "name": "Rajasthani Jowar Paratha",
+  "cal": 160,
+  "pro": 4.0,
+  "carb": 24.0,
+  "fat": 5.0,
+  "fib": 3.5,
+  "weights": { "gram": 1, "piece": 45 }
+},
+{
+  "name": "Rajasthani Doodhiya Kheech (Milk + Wheat Flour)",
+  "cal": 245,
+  "pro": 5.2,
+  "carb": 36.0,
+  "fat": 9.0,
+  "fib": 1.6,
+  "weights": { "gram": 1, "bowl": 200 }
+}
 ]
