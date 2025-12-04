@@ -1726,5 +1726,230 @@
   "fat": 14,
   "fib": 1,
   "weights": { "gram": 1, "bar_80g": 80 }
+},
+{
+  "name": "Chicken Breast Raw (Skinless)",
+  "cal": 120,
+  "pro": 22.5,
+  "carb": 0,
+  "fat": 3,
+  "fib": 0,
+  "weights": { "gram": 1, "piece_100g": 100 }
+},
+{
+  "name": "Chicken Breast Raw (With Skin)",
+  "cal": 165,
+  "pro": 20.5,
+  "carb": 0,
+  "fat": 8.5,
+  "fib": 0,
+  "weights": { "gram": 1, "piece_100g": 100 }
+},
+{
+  "name": "Boiled Chicken Breast (Skinless)",
+  "cal": 145,
+  "pro": 28,
+  "carb": 0,
+  "fat": 3,
+  "fib": 0,
+  "weights": { "gram": 1, "piece_100g": 100 }
+},
+{
+  "name": "Grilled Chicken Breast (Skinless)",
+  "cal": 165,
+  "pro": 31,
+  "carb": 0,
+  "fat": 4,
+  "fib": 0,
+  "weights": { "gram": 1, "piece_120g": 120 }
+},
+{
+  "name": "Baked Chicken Breast (Skinless)",
+  "cal": 155,
+  "pro": 30,
+  "carb": 0,
+  "fat": 3.5,
+  "fib": 0,
+  "weights": { "gram": 1, "piece_120g": 120 }
+},
+{
+  "name": "Pan-Sauteed Chicken Breast (1 tsp oil)",
+  "cal": 185,
+  "pro": 29,
+  "carb": 1,
+  "fat": 6,
+  "fib": 0,
+  "weights": { "gram": 1, "piece_100g": 100 }
+},
+{
+  "name": "Chicken Breast Fried (Light Crumb)",
+  "cal": 260,
+  "pro": 24,
+  "carb": 10,
+  "fat": 14,
+  "fib": 0.5,
+  "weights": { "gram": 1, "piece_120g": 120 }
+},
+{
+  "name": "Chicken Leg Raw (With Skin)",
+  "cal": 185,
+  "pro": 18,
+  "carb": 0,
+  "fat": 12,
+  "fib": 0,
+  "weights": { "gram": 1, "piece_150g": 150 }
+},
+{
+  "name": "Chicken Leg Raw (Skinless)",
+  "cal": 150,
+  "pro": 20,
+  "carb": 0,
+  "fat": 7,
+  "fib": 0,
+  "weights": { "gram": 1, "piece_150g": 150 }
+},
+{
+  "name": "Boiled Chicken Leg (Skinless)",
+  "cal": 175,
+  "pro": 26,
+  "carb": 0,
+  "fat": 7,
+  "fib": 0,
+  "weights": { "gram": 1, "piece_150g": 150 }
+},
+{
+  "name": "Grilled Chicken Leg (With Skin)",
+  "cal": 230,
+  "pro": 26,
+  "carb": 1,
+  "fat": 13,
+  "fib": 0,
+  "weights": { "gram": 1, "piece_180g": 180 }
+},
+{
+  "name": "Baked Chicken Leg (With Skin)",
+  "cal": 220,
+  "pro": 25,
+  "carb": 0,
+  "fat": 12,
+  "fib": 0,
+  "weights": { "gram": 1, "piece_180g": 180 }
+},
+{
+  "name": "Fried Chicken Leg (Crispy)",
+  "cal": 295,
+  "pro": 24,
+  "carb": 12,
+  "fat": 18,
+  "fib": 0.7,
+  "weights": { "gram": 1, "piece_150g": 150 }
+},
+{
+  "name": "Chicken Thigh Raw (Skinless)",
+  "cal": 140,
+  "pro": 19,
+  "carb": 0,
+  "fat": 7,
+  "fib": 0,
+  "weights": { "gram": 1, "piece_120g": 120 }
+},
+{
+  "name": "Chicken Thigh Raw (With Skin)",
+  "cal": 210,
+  "pro": 18,
+  "carb": 0,
+  "fat": 15,
+  "fib": 0,
+  "weights": { "gram": 1, "piece_120g": 120 }
+},
+{
+  "name": "Grilled Chicken Thigh (Skinless)",
+  "cal": 195,
+  "pro": 27,
+  "carb": 0,
+  "fat": 9,
+  "fib": 0,
+  "weights": { "gram": 1, "piece_130g": 130 }
+},
+{
+  "name": "Tandoori Chicken Leg (Restaurant Style)",
+  "cal": 265,
+  "pro": 28,
+  "carb": 4,
+  "fat": 14,
+  "fib": 1.2,
+  "weights": { "gram": 1, "piece_180g": 180 }
+},
+{
+  "name": "Tandoori Chicken Breast",
+  "cal": 190,
+  "pro": 33,
+  "carb": 4,
+  "fat": 4,
+  "fib": 1,
+  "weights": { "gram": 1, "piece_150g": 150 }
+},
+{
+  "name": "Chicken Curry (Breast, Light Gravy)",
+  "cal": 185,
+  "pro": 24,
+  "carb": 4,
+  "fat": 8,
+  "fib": 0.8,
+  "weights": { "gram": 1, "bowl_150g": 150 }
+},
+{
+  "name": "Chicken Curry (Leg, Restaurant Style)",
+  "cal": 240,
+  "pro": 22,
+  "carb": 5,
+  "fat": 15,
+  "fib": 1,
+  "weights": { "gram": 1, "bowl_180g": 180 }
+},
+{
+  "name": "Sautéed Chicken Pieces (1 tsp oil)",
+  "cal": 180,
+  "pro": 26,
+  "carb": 1,
+  "fat": 7,
+  "fib": 0,
+  "weights": { "gram": 1, "portion_120g": 120 }
+},
+{
+  "name": "Chicken Drumstick Raw (Skin On)",
+  "cal": 160,
+  "pro": 17,
+  "carb": 0,
+  "fat": 10,
+  "fib": 0,
+  "weights": { "gram": 1, "piece_90g": 90 }
+},
+{
+  "name": "Grilled Chicken Drumstick",
+  "cal": 210,
+  "pro": 22,
+  "carb": 1,
+  "fat": 12,
+  "fib": 0,
+  "weights": { "gram": 1, "piece_100g": 100 }
+},
+{
+  "name": "Chicken Wings Fried (Crispy)",
+  "cal": 290,
+  "pro": 21,
+  "carb": 10,
+  "fat": 18,
+  "fib": 0,
+  "weights": { "gram": 1, "piece_90g": 90 }
+},
+{
+  "name": "Chicken Wings Grilled",
+  "cal": 210,
+  "pro": 24,
+  "carb": 1,
+  "fat": 12,
+  "fib": 0,
+  "weights": { "gram": 1, "piece_90g": 90 }
 }
 ]
