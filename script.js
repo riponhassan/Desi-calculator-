@@ -26,7 +26,7 @@ const undoBtn = document.getElementById("undo-btn");
    1. LOAD THE DATABASE (Multiple Files + Auto-Clean)
    ============================================================ */
 // List of all your data files
-const fileList = ['foods_part1.json', 'foods_part2.json'];
+const fileList = ['foods_part1.json', 'foods_part2.json', 'foods_part3.json'];
 
 Promise.all(fileList.map(file => 
     fetch(file).then(response => {
