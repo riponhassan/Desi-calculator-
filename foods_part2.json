@@ -14029,5 +14029,815 @@
   "fat": 7.0,
   "fib": 4.0,
   "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Bebinca (Layered Goan Coconut Dessert)",
+  "cal": 345,
+  "pro": 4.0,
+  "carb": 42.0,
+  "fat": 18.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "piece": 50 }
+},
+{
+  "name": "Goan Dodol (Coconut Jaggery Sweet)",
+  "cal": 310,
+  "pro": 2.5,
+  "carb": 45.0,
+  "fat": 12.0,
+  "fib": 1.8,
+  "weights": { "gram": 1, "piece": 40 }
+},
+{
+  "name": "Alle Belle (Goan Coconut Jaggery Pancake Rolls)",
+  "cal": 190,
+  "pro": 3.0,
+  "carb": 30.0,
+  "fat": 6.0,
+  "fib": 1.2,
+  "weights": { "gram": 1, "piece": 45 }
+},
+{
+  "name": "Goan Chorizo Fry (Pork Sausage Fry)",
+  "cal": 310,
+  "pro": 14.0,
+  "carb": 3.0,
+  "fat": 27.0,
+  "fib": 1.0,
+  "weights": { "gram": 1, "bowl": 150 }
+},
+{
+  "name": "Goan Chorizo Curry",
+  "cal": 285,
+  "pro": 13.0,
+  "carb": 5.0,
+  "fat": 24.0,
+  "fib": 1.2,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Goan Rava Fish Fry (Pomfret/Kingfish)",
+  "cal": 195,
+  "pro": 22.0,
+  "carb": 5.0,
+  "fat": 9.0,
+  "fib": 0.5,
+  "weights": { "gram": 1, "piece": 100 }
+},
+{
+  "name": "Goan Masala Fish Fry (Red Masala)",
+  "cal": 205,
+  "pro": 22.0,
+  "carb": 4.0,
+  "fat": 11.0,
+  "fib": 0.8,
+  "weights": { "gram": 1, "piece": 100 }
+},
+{
+  "name": "Prawn Rissois (Goan Crescent Pastry)",
+  "cal": 160,
+  "pro": 4.5,
+  "carb": 13.0,
+  "fat": 10.0,
+  "fib": 0.8,
+  "weights": { "gram": 1, "piece": 25 }
+},
+{
+  "name": "Kismur (Dry Coconut + Dry Fish Salad)",
+  "cal": 165,
+  "pro": 7.0,
+  "carb": 5.0,
+  "fat": 13.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "bowl": 80 }
+},
+{
+  "name": "Tambdi Bhaji (Red Amaranth Stir-Fry Goan)",
+  "cal": 110,
+  "pro": 3.0,
+  "carb": 10.0,
+  "fat": 6.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "bowl": 150 }
+},
+{
+  "name": "Goan Mushroom Xacuti",
+  "cal": 190,
+  "pro": 4.0,
+  "carb": 10.0,
+  "fat": 14.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Goan Prawn Caldine (Mild Coconut Curry)",
+  "cal": 175,
+  "pro": 12.0,
+  "carb": 6.0,
+  "fat": 11.0,
+  "fib": 1.2,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Goan Tendli Sukhem (Dry Ivy Gourd Stir Fry)",
+  "cal": 145,
+  "pro": 3.0,
+  "carb": 13.0,
+  "fat": 9.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "bowl": 160 }
+},
+{
+  "name": "Goan Ladyfish Fry (Kane Rava Fry)",
+  "cal": 185,
+  "pro": 20.0,
+  "carb": 4.0,
+  "fat": 10.0,
+  "fib": 0.5,
+  "weights": { "gram": 1, "piece": 90 }
+},
+{
+  "name": "Idli (Plain Steamed Rice Idli)",
+  "cal": 58,
+  "pro": 2.0,
+  "carb": 12.0,
+  "fat": 0.3,
+  "fib": 0.7,
+  "weights": { "gram": 1, "piece": 35 }
+},
+{
+  "name": "Mini Idli with Sambar (14 pcs + sambar)",
+  "cal": 265,
+  "pro": 8.5,
+  "carb": 48.0,
+  "fat": 3.0,
+  "fib": 4.0,
+  "weights": { "gram": 1, "plate": 220 }
+},
+{
+  "name": "Plain Dosa",
+  "cal": 168,
+  "pro": 3.5,
+  "carb": 28.0,
+  "fat": 3.5,
+  "fib": 1.2,
+  "weights": { "gram": 1, "piece": 90 }
+},
+{
+  "name": "Ghee Dosa",
+  "cal": 215,
+  "pro": 3.5,
+  "carb": 28.0,
+  "fat": 8.5,
+  "fib": 1.2,
+  "weights": { "gram": 1, "piece": 90 }
+},
+{
+  "name": "Masala Dosa (Stuffed with Potato Masala)",
+  "cal": 330,
+  "pro": 6.0,
+  "carb": 42.0,
+  "fat": 14.0,
+  "fib": 4.0,
+  "weights": { "gram": 1, "piece": 180 }
+},
+{
+  "name": "Ven Pongal (Tamil Nadu Khara Pongal)",
+  "cal": 210,
+  "pro": 6.0,
+  "carb": 30.0,
+  "fat": 7.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Appam (Kerala Hoppers)",
+  "cal": 120,
+  "pro": 2.0,
+  "carb": 23.0,
+  "fat": 2.0,
+  "fib": 0.8,
+  "weights": { "gram": 1, "piece": 45 }
+},
+{
+  "name": "Puttu (Kerala Steamed Rice Cake)",
+  "cal": 185,
+  "pro": 3.5,
+  "carb": 38.0,
+  "fat": 1.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "piece": 120 }
+},
+{
+  "name": "Kadala Curry (Kerala Black Chickpea Curry)",
+  "cal": 235,
+  "pro": 9.0,
+  "carb": 20.0,
+  "fat": 14.0,
+  "fib": 6.0,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Kerala Sambar",
+  "cal": 95,
+  "pro": 4.0,
+  "carb": 14.0,
+  "fat": 2.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Bisi Bele Bath (Karnataka Special)",
+  "cal": 260,
+  "pro": 7.5,
+  "carb": 38.0,
+  "fat": 8.5,
+  "fib": 5.0,
+  "weights": { "gram": 1, "bowl": 220 }
+},
+{
+  "name": "Neer Dosa (Karnataka Rice Crepe)",
+  "cal": 95,
+  "pro": 1.5,
+  "carb": 19.0,
+  "fat": 1.5,
+  "fib": 0.5,
+  "weights": { "gram": 1, "piece": 45 }
+},
+{
+  "name": "Ragi Mudde (Finger Millet Ball)",
+  "cal": 150,
+  "pro": 3.0,
+  "carb": 32.0,
+  "fat": 0.5,
+  "fib": 3.2,
+  "weights": { "gram": 1, "piece": 80 }
+},
+{
+  "name": "Pesarattu (Andhra Green Moong Dosa)",
+  "cal": 175,
+  "pro": 7.5,
+  "carb": 24.0,
+  "fat": 3.5,
+  "fib": 3.0,
+  "weights": { "gram": 1, "piece": 90 }
+},
+{
+  "name": "MLA Pesarattu with Upma",
+  "cal": 320,
+  "pro": 10.0,
+  "carb": 45.0,
+  "fat": 9.0,
+  "fib": 4.5,
+  "weights": { "gram": 1, "plate": 250 }
+},
+{
+  "name": "Gutti Vankaya (Andhra Stuffed Brinjal Curry)",
+  "cal": 215,
+  "pro": 5.0,
+  "carb": 14.0,
+  "fat": 15.0,
+  "fib": 4.0,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Rava Dosa (Tamil Nadu)",
+  "cal": 145,
+  "pro": 3.0,
+  "carb": 25.0,
+  "fat": 3.5,
+  "fib": 1.0,
+  "weights": { "gram": 1, "piece": 80 }
+},
+{
+  "name": "Kal Dosa (Thick Soft Dosa)",
+  "cal": 190,
+  "pro": 4.0,
+  "carb": 32.0,
+  "fat": 4.5,
+  "fib": 1.2,
+  "weights": { "gram": 1, "piece": 100 }
+},
+{
+  "name": "Kothu Parotta (Tamil Nadu Street Style)",
+  "cal": 380,
+  "pro": 9.5,
+  "carb": 42.0,
+  "fat": 18.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "plate": 250 }
+},
+{
+  "name": "Kuzhi Paniyaram (Spiced Appam Balls)",
+  "cal": 185,
+  "pro": 4.0,
+  "carb": 28.0,
+  "fat": 6.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "piece": 20 }
+},
+{
+  "name": "Avial (Kerala Mixed Vegetable Coconut Curry)",
+  "cal": 165,
+  "pro": 3.5,
+  "carb": 13.0,
+  "fat": 11.0,
+  "fib": 4.0,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Cabbage Thoran (Kerala Coconut Stir Fry)",
+  "cal": 135,
+  "pro": 2.5,
+  "carb": 10.0,
+  "fat": 9.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "bowl": 150 }
+},
+{
+  "name": "Kerala Fish Fry (Meen Varuthathu)",
+  "cal": 210,
+  "pro": 23.0,
+  "carb": 3.0,
+  "fat": 12.0,
+  "fib": 0.5,
+  "weights": { "gram": 1, "piece": 100 }
+},
+{
+  "name": "Mysore Masala Dosa (Karnataka)",
+  "cal": 360,
+  "pro": 7.0,
+  "carb": 45.0,
+  "fat": 14.0,
+  "fib": 3.5,
+  "weights": { "gram": 1, "piece": 180 }
+},
+{
+  "name": "Mangalore Buns (Sweet Fried Buns)",
+  "cal": 250,
+  "pro": 4.0,
+  "carb": 33.0,
+  "fat": 10.0,
+  "fib": 1.0,
+  "weights": { "gram": 1, "piece": 60 }
+},
+{
+  "name": "Tomato Bath (Karnataka Rice Dish)",
+  "cal": 220,
+  "pro": 4.0,
+  "carb": 35.0,
+  "fat": 7.0,
+  "fib": 2.5,
+  "weights": { "gram": 1, "bowl": 220 }
+},
+{
+  "name": "Gongura Pachadi (Andhra Sorrel Leaves Chutney)",
+  "cal": 95,
+  "pro": 2.0,
+  "carb": 6.0,
+  "fat": 7.0,
+  "fib": 2.2,
+  "weights": { "gram": 1, "tbsp": 15 }
+},
+{
+  "name": "Ulavacharu (Andhra Horsegram Rasam)",
+  "cal": 130,
+  "pro": 6.0,
+  "carb": 14.0,
+  "fat": 2.5,
+  "fib": 4.0,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Kodi Kura (Andhra Chicken Curry)",
+  "cal": 240,
+  "pro": 20.0,
+  "carb": 5.0,
+  "fat": 16.0,
+  "fib": 1.2,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Kerala Egg Roast",
+  "cal": 175,
+  "pro": 8.0,
+  "carb": 7.0,
+  "fat": 12.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "piece": 120 }
+},
+{
+  "name": "Rava Upma (South Indian Basic Upma)",
+  "cal": 210,
+  "pro": 4.0,
+  "carb": 32.0,
+  "fat": 8.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Chettinad Chicken Curry",
+  "cal": 245,
+  "pro": 22.0,
+  "carb": 6.0,
+  "fat": 15.0,
+  "fib": 2.5,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Mushroom Chettinad",
+  "cal": 190,
+  "pro": 4.5,
+  "carb": 10.0,
+  "fat": 14.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Tamil Nadu Parotta (Layered Paratha)",
+  "cal": 220,
+  "pro": 4.0,
+  "carb": 28.0,
+  "fat": 10.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "piece": 70 }
+},
+{
+  "name": "Kerala Fish Moilee (Mild Coconut Fish Curry)",
+  "cal": 215,
+  "pro": 20.0,
+  "carb": 5.0,
+  "fat": 13.0,
+  "fib": 1.2,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Puttu with Kadala Curry (Combo)",
+  "cal": 395,
+  "pro": 12.0,
+  "carb": 58.0,
+  "fat": 12.0,
+  "fib": 7.0,
+  "weights": { "gram": 1, "plate": 350 }
+},
+{
+  "name": "Kerala Mutta Roast (Egg Roast)",
+  "cal": 190,
+  "pro": 9.0,
+  "carb": 8.0,
+  "fat": 13.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "piece": 120 }
+},
+{
+  "name": "Set Dosa (Karnataka Fluffy Dosa)",
+  "cal": 140,
+  "pro": 3.0,
+  "carb": 24.0,
+  "fat": 3.0,
+  "fib": 1.0,
+  "weights": { "gram": 1, "piece": 50 }
+},
+{
+  "name": "Akki Rotti (Karnataka Rice Flour Roti)",
+  "cal": 165,
+  "pro": 3.0,
+  "carb": 31.0,
+  "fat": 3.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "piece": 60 }
+},
+{
+  "name": "Chitranna (Karnataka Lemon Rice)",
+  "cal": 215,
+  "pro": 4.0,
+  "carb": 32.0,
+  "fat": 8.0,
+  "fib": 2.2,
+  "weights": { "gram": 1, "bowl": 220 }
+},
+{
+  "name": "Bagara Rice (Andhra/Telangana Spiced Rice)",
+  "cal": 235,
+  "pro": 4.5,
+  "carb": 38.0,
+  "fat": 8.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Natukodi Pulusu (Country Chicken Curry Andhra)",
+  "cal": 260,
+  "pro": 23.0,
+  "carb": 6.0,
+  "fat": 16.0,
+  "fib": 2.5,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Pesarapappu Charu (Andhra Moong Dal Rasam)",
+  "cal": 115,
+  "pro": 5.0,
+  "carb": 15.0,
+  "fat": 3.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Andhra Chicken Fry (Spicy Dry)",
+  "cal": 240,
+  "pro": 22.0,
+  "carb": 4.0,
+  "fat": 15.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "plate": 150 }
+},
+{
+  "name": "Kerala Vendakka Thoran (Okra Coconut Stir Fry)",
+  "cal": 145,
+  "pro": 3.0,
+  "carb": 11.0,
+  "fat": 9.0,
+  "fib": 3.5,
+  "weights": { "gram": 1, "bowl": 150 }
+},
+{
+  "name": "Tamil Nadu Kara Kuzhambu",
+  "cal": 165,
+  "pro": 4.0,
+  "carb": 14.0,
+  "fat": 10.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Paal Dosa (Thin Milk Dosa Tamil Nadu)",
+  "cal": 135,
+  "pro": 2.8,
+  "carb": 24.0,
+  "fat": 3.0,
+  "fib": 0.8,
+  "weights": { "gram": 1, "piece": 70 }
+},
+{
+  "name": "Idiyappam (String Hoppers)",
+  "cal": 110,
+  "pro": 2.0,
+  "carb": 23.0,
+  "fat": 0.5,
+  "fib": 0.8,
+  "weights": { "gram": 1, "piece": 40 }
+},
+{
+  "name": "Idiyappam with Coconut Milk (Set)",
+  "cal": 260,
+  "pro": 3.5,
+  "carb": 37.0,
+  "fat": 10.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "plate": 200 }
+},
+{
+  "name": "Fish Kuzhambu (Tamil Nadu Style)",
+  "cal": 185,
+  "pro": 18.0,
+  "carb": 4.0,
+  "fat": 10.0,
+  "fib": 1.2,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Malabar Parotta (Kerala)",
+  "cal": 255,
+  "pro": 4.5,
+  "carb": 32.0,
+  "fat": 12.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "piece": 75 }
+},
+{
+  "name": "Chemmeen Roast (Kerala Prawn Roast)",
+  "cal": 215,
+  "pro": 20.0,
+  "carb": 6.0,
+  "fat": 12.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "plate": 150 }
+},
+{
+  "name": "Thalassery Chicken Biryani (Kerala)",
+  "cal": 340,
+  "pro": 16.0,
+  "carb": 44.0,
+  "fat": 12.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "plate": 250 }
+},
+{
+  "name": "Ragi Dosa (Karnataka Finger Millet Dosa)",
+  "cal": 155,
+  "pro": 3.5,
+  "carb": 27.0,
+  "fat": 2.5,
+  "fib": 3.0,
+  "weights": { "gram": 1, "piece": 80 }
+},
+{
+  "name": "Udupi Sambar",
+  "cal": 105,
+  "pro": 4.5,
+  "carb": 15.0,
+  "fat": 2.5,
+  "fib": 3.0,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Benne Dosa (Mysore Butter Dosa)",
+  "cal": 260,
+  "pro": 5.0,
+  "carb": 32.0,
+  "fat": 12.0,
+  "fib": 1.8,
+  "weights": { "gram": 1, "piece": 120 }
+},
+{
+  "name": "Royyala Vepudu (Andhra Prawn Fry)",
+  "cal": 210,
+  "pro": 22.0,
+  "carb": 4.0,
+  "fat": 12.0,
+  "fib": 1.0,
+  "weights": { "gram": 1, "plate": 150 }
+},
+{
+  "name": "Mudda Pappu (Andhra Plain Dal)",
+  "cal": 135,
+  "pro": 8.0,
+  "carb": 15.0,
+  "fat": 3.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Pachi Pulusu (Raw Tamarind Rasam)",
+  "cal": 70,
+  "pro": 1.0,
+  "carb": 10.0,
+  "fat": 2.0,
+  "fib": 1.0,
+  "weights": { "gram": 1, "bowl": 150 }
+},
+{
+  "name": "Kerala Green Peas Curry",
+  "cal": 185,
+  "pro": 6.0,
+  "carb": 18.0,
+  "fat": 10.0,
+  "fib": 4.0,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Tamil Nadu Milagu Rasam (Pepper Rasam)",
+  "cal": 65,
+  "pro": 1.5,
+  "carb": 9.0,
+  "fat": 2.0,
+  "fib": 1.2,
+  "weights": { "gram": 1, "bowl": 150 }
+},
+{
+  "name": "Onion Uthappam (Tamil Nadu)",
+  "cal": 195,
+  "pro": 4.0,
+  "carb": 32.0,
+  "fat": 5.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "piece": 120 }
+},
+{
+  "name": "Kara Dosa (Spicy Red Chutney Dosa)",
+  "cal": 240,
+  "pro": 5.0,
+  "carb": 35.0,
+  "fat": 9.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "piece": 150 }
+},
+{
+  "name": "Meen Kuzhambu (Spicy Tamil Fish Curry)",
+  "cal": 190,
+  "pro": 17.0,
+  "carb": 5.0,
+  "fat": 11.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Kappa Biryani (Kerala Tapioca Biryani)",
+  "cal": 285,
+  "pro": 7.0,
+  "carb": 38.0,
+  "fat": 12.0,
+  "fib": 3.5,
+  "weights": { "gram": 1, "plate": 250 }
+},
+{
+  "name": "Kerala Mutta Curry (Egg Curry)",
+  "cal": 205,
+  "pro": 9.0,
+  "carb": 8.0,
+  "fat": 14.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Nadan Beef Fry (Kerala Style)",
+  "cal": 260,
+  "pro": 20.0,
+  "carb": 4.0,
+  "fat": 18.0,
+  "fib": 1.8,
+  "weights": { "gram": 1, "plate": 150 }
+},
+{
+  "name": "Obbattu / Holige (Karnataka Sweet Flatbread)",
+  "cal": 275,
+  "pro": 4.5,
+  "carb": 45.0,
+  "fat": 8.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "piece": 70 }
+},
+{
+  "name": "Vangi Bath (Karnataka Brinjal Rice)",
+  "cal": 230,
+  "pro": 4.0,
+  "carb": 35.0,
+  "fat": 8.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "bowl": 220 }
+},
+{
+  "name": "Karnataka Vegetable Kurma",
+  "cal": 190,
+  "pro": 4.0,
+  "carb": 16.0,
+  "fat": 12.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Pulihora (Andhra Lemon/Tamarind Rice)",
+  "cal": 225,
+  "pro": 3.5,
+  "carb": 35.0,
+  "fat": 8.0,
+  "fib": 2.5,
+  "weights": { "gram": 1, "bowl": 220 }
+},
+{
+  "name": "Gongura Mutton (Andhra Sorrel Mutton Curry)",
+  "cal": 300,
+  "pro": 22.0,
+  "carb": 6.0,
+  "fat": 20.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Pesaru Garelu (Andhra Moong Dal Vada)",
+  "cal": 145,
+  "pro": 4.0,
+  "carb": 14.0,
+  "fat": 8.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "piece": 30 }
+},
+{
+  "name": "Kerala Prawn Curry (Nadan Chemmeen Curry)",
+  "cal": 220,
+  "pro": 18.0,
+  "carb": 5.0,
+  "fat": 14.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Tamil Nadu Mushroom Pepper Fry",
+  "cal": 160,
+  "pro": 4.0,
+  "carb": 9.0,
+  "fat": 11.0,
+  "fib": 2.5,
+  "weights": { "gram": 1, "plate": 120 }
+},
+{
+  "name": "Andhra Mirapakaya Bajji (Stuffed Green Chilli Fritter)",
+  "cal": 140,
+  "pro": 3.0,
+  "carb": 14.0,
+  "fat": 8.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "piece": 40 }
 }
 ]
