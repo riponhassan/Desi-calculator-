@@ -7,5 +7,140 @@
     "fat": 0,
     "fib": 0,
     "weights": { "gram": 1 }
-  }
+  },
+{
+  "name": "Udupi Chitranna (Temple Lemon Rice Variant)",
+  "cal": 215,
+  "pro": 4.0,
+  "carb": 34.0,
+  "fat": 7.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "bowl": 220 }
+},
+{
+  "name": "Udupi Curd Rice (Temple Style Mosaranna)",
+  "cal": 165,
+  "pro": 5.0,
+  "carb": 22.0,
+  "fat": 5.0,
+  "fib": 1.2,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Coconut Holige (Kayi Obbattu Rich Version)",
+  "cal": 310,
+  "pro": 4.0,
+  "carb": 48.0,
+  "fat": 11.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "piece": 70 }
+},
+{
+  "name": "Prawn Fry (Coastal Karnataka Coconut Oil Fry)",
+  "cal": 225,
+  "pro": 22.0,
+  "carb": 4.0,
+  "fat": 14.0,
+  "fib": 1.0,
+  "weights": { "gram": 1, "plate": 150 }
+},
+{
+  "name": "Tulu Coconut Rice (Elai Kozhi Ari Style)",
+  "cal": 260,
+  "pro": 4.0,
+  "carb": 42.0,
+  "fat": 9.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "bowl": 220 }
+},
+{
+  "name": "Mangalore Vegetable Sukka (Dry Coconut Masala)",
+  "cal": 190,
+  "pro": 4.5,
+  "carb": 16.0,
+  "fat": 12.0,
+  "fib": 4.0,
+  "weights": { "gram": 1, "plate": 160 }
+},
+{
+  "name": "Mangalore Ladyfinger Sukka (Bendekai Sukka)",
+  "cal": 170,
+  "pro": 3.0,
+  "carb": 14.0,
+  "fat": 11.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "plate": 150 }
+},
+{
+  "name": "Udupi Kesari Bath (Temple Sheera)",
+  "cal": 240,
+  "pro": 3.0,
+  "carb": 38.0,
+  "fat": 9.0,
+  "fib": 0.8,
+  "weights": { "gram": 1, "bowl": 150 }
+},
+{
+  "name": "Mangalore Pineapple Gassi",
+  "cal": 160,
+  "pro": 2.0,
+  "carb": 18.0,
+  "fat": 9.0,
+  "fib": 2.5,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Coastal Squid Masala (Bondas Masala Curry)",
+  "cal": 200,
+  "pro": 19.0,
+  "carb": 5.0,
+  "fat": 12.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "bowl": 150 }
+},
+{
+  "name": "Coconut Milk Rice (South Coastal Style)",
+  "cal": 245,
+  "pro": 3.5,
+  "carb": 38.0,
+  "fat": 9.0,
+  "fib": 1.2,
+  "weights": { "gram": 1, "bowl": 220 }
+},
+{
+  "name": "Tulu Banana-Jaggery Pancake (Sihi Banana Dose)",
+  "cal": 195,
+  "pro": 2.0,
+  "carb": 34.0,
+  "fat": 6.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "piece": 70 }
+},
+{
+  "name": "Mangalore Cabbage Sukka",
+  "cal": 165,
+  "pro": 3.5,
+  "carb": 14.0,
+  "fat": 10.0,
+  "fib": 3.5,
+  "weights": { "gram": 1, "plate": 140 }
+},
+{
+  "name": "Udupi Puliyogare (Temple Tamarind Rice)",
+  "cal": 230,
+  "pro": 4.0,
+  "carb": 36.0,
+  "fat": 8.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "bowl": 220 }
+},
+{
+  "name": "Mangalore Moong Payasa (Hesaru Bele Payasa)",
+  "cal": 225,
+  "pro": 6.0,
+  "carb": 32.0,
+  "fat": 9.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "bowl": 180 }
+}
 ]
