@@ -14839,5 +14839,815 @@
   "fat": 8.0,
   "fib": 2.0,
   "weights": { "gram": 1, "piece": 40 }
+},
+{
+  "name": "Chicken Ghee Roast (Mangalorean Style)",
+  "cal": 265,
+  "pro": 22.0,
+  "carb": 6.0,
+  "fat": 18.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "plate": 180 }
+},
+{
+  "name": "Prawn Ghee Roast",
+  "cal": 230,
+  "pro": 20.0,
+  "carb": 5.0,
+  "fat": 14.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "plate": 150 }
+},
+{
+  "name": "Mutton Ghee Roast",
+  "cal": 310,
+  "pro": 24.0,
+  "carb": 5.0,
+  "fat": 22.0,
+  "fib": 1.8,
+  "weights": { "gram": 1, "plate": 180 }
+},
+{
+  "name": "Kori Sukka (Mangalorean Chicken Sukka)",
+  "cal": 250,
+  "pro": 22.0,
+  "carb": 7.0,
+  "fat": 15.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "plate": 170 }
+},
+{
+  "name": "Prawn Sukka (Coastal Mangalore Style)",
+  "cal": 210,
+  "pro": 18.0,
+  "carb": 4.0,
+  "fat": 13.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "plate": 150 }
+},
+{
+  "name": "Crab Sukka (Mangalorean Masala Crab)",
+  "cal": 230,
+  "pro": 20.0,
+  "carb": 5.0,
+  "fat": 14.0,
+  "fib": 2.5,
+  "weights": { "gram": 1, "plate": 200 }
+},
+{
+  "name": "Kori Gassi (Mangalorean Chicken Curry)",
+  "cal": 240,
+  "pro": 20.0,
+  "carb": 6.0,
+  "fat": 15.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Neer Dosa with Chicken Ghee Roast (Combo)",
+  "cal": 345,
+  "pro": 25.0,
+  "carb": 28.0,
+  "fat": 15.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "plate": 250 }
+},
+{
+  "name": "Anjal Tawa Fry (Seer Fish Mangalorean Fry)",
+  "cal": 215,
+  "pro": 24.0,
+  "carb": 3.0,
+  "fat": 11.0,
+  "fib": 0.5,
+  "weights": { "gram": 1, "piece": 120 }
+},
+{
+  "name": "Bangude Pulimunchi (Mangalorean Spicy Mackerel Curry)",
+  "cal": 190,
+  "pro": 18.0,
+  "carb": 6.0,
+  "fat": 10.0,
+  "fib": 1.2,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Mangalore Bafat Masala Chicken",
+  "cal": 240,
+  "pro": 21.0,
+  "carb": 5.0,
+  "fat": 15.0,
+  "fib": 1.8,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Kane Tawa Fry (Ladyfish Fry Mangalorean)",
+  "cal": 200,
+  "pro": 22.0,
+  "carb": 4.0,
+  "fat": 10.0,
+  "fib": 0.5,
+  "weights": { "gram": 1, "piece": 100 }
+},
+{
+  "name": "Mangalore Fish Curry (Meen Gassi)",
+  "cal": 195,
+  "pro": 17.0,
+  "carb": 5.0,
+  "fat": 11.0,
+  "fib": 1.2,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Mutton Sukka (Dry Mutton Fry with Coconut)",
+  "cal": 305,
+  "pro": 24.0,
+  "carb": 6.0,
+  "fat": 20.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "plate": 160 }
+},
+{
+  "name": "Mangalore Mushroom Sukka",
+  "cal": 185,
+  "pro": 4.0,
+  "carb": 12.0,
+  "fat": 13.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "plate": 150 }
+},
+{
+  "name": "Kori Rotti (Mangalorean Chicken Curry with Dry Rice Rotti)",
+  "cal": 360,
+  "pro": 20.0,
+  "carb": 38.0,
+  "fat": 15.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "plate": 280 }
+},
+{
+  "name": "Mangalorean Kori Biryani (Spicy Chicken Biryani)",
+  "cal": 345,
+  "pro": 18.0,
+  "carb": 45.0,
+  "fat": 12.0,
+  "fib": 2.5,
+  "weights": { "gram": 1, "plate": 250 }
+},
+{
+  "name": "Kundapura Chicken Ghee Roast",
+  "cal": 275,
+  "pro": 22.0,
+  "carb": 6.0,
+  "fat": 18.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "plate": 180 }
+},
+{
+  "name": "Pathrode (Mangalorean Colocasia Roll)",
+  "cal": 205,
+  "pro": 6.0,
+  "carb": 30.0,
+  "fat": 7.0,
+  "fib": 4.0,
+  "weights": { "gram": 1, "piece": 50 }
+},
+{
+  "name": "Mangalore Egg Curry",
+  "cal": 210,
+  "pro": 10.0,
+  "carb": 8.0,
+  "fat": 15.0,
+  "fib": 1.8,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Chicken Pulimunchi (Mangalorean Sour-Spicy Curry)",
+  "cal": 235,
+  "pro": 20.0,
+  "carb": 7.0,
+  "fat": 14.0,
+  "fib": 2.5,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Pork Bafat (Mangalorean Pork Curry)",
+  "cal": 325,
+  "pro": 17.0,
+  "carb": 5.0,
+  "fat": 26.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Mangalore Style Fish Pulimunchi",
+  "cal": 190,
+  "pro": 20.0,
+  "carb": 5.0,
+  "fat": 10.0,
+  "fib": 1.0,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Mangalorean Banana Godbole (Sweet Banana Fritters)",
+  "cal": 240,
+  "pro": 2.5,
+  "carb": 32.0,
+  "fat": 10.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "piece": 45 }
+},
+{
+  "name": "Mangalore Plum Cake (Rich Christmas Cake)",
+  "cal": 365,
+  "pro": 4.0,
+  "carb": 47.0,
+  "fat": 18.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "piece": 60 }
+},
+{
+  "name": "Mangalore Chicken Curry (Red Coconut Style)",
+  "cal": 245,
+  "pro": 21.0,
+  "carb": 6.0,
+  "fat": 15.0,
+  "fib": 1.8,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Anchovy Fry (Nethili Fry Mangalorean)",
+  "cal": 205,
+  "pro": 23.0,
+  "carb": 3.0,
+  "fat": 12.0,
+  "fib": 0.4,
+  "weights": { "gram": 1, "plate": 120 }
+},
+{
+  "name": "Mangalore Mixed Vegetable Gassi",
+  "cal": 175,
+  "pro": 4.0,
+  "carb": 15.0,
+  "fat": 10.0,
+  "fib": 3.2,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Chicken Sukka (Dry Roasted Chicken Coconut Masala)",
+  "cal": 260,
+  "pro": 22.0,
+  "carb": 7.0,
+  "fat": 16.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "plate": 170 }
+},
+{
+  "name": "Mangalore Idli (Soft Fermented Idli Variant)",
+  "cal": 62,
+  "pro": 2.2,
+  "carb": 12.5,
+  "fat": 0.3,
+  "fib": 0.8,
+  "weights": { "gram": 1, "piece": 35 }
+},
+{
+  "name": "Kori Rotti (Thick Curry Version)",
+  "cal": 380,
+  "pro": 22.0,
+  "carb": 40.0,
+  "fat": 16.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "plate": 300 }
+},
+{
+  "name": "Pathrode Fry (Crispy Colocasia Roll Fry)",
+  "cal": 225,
+  "pro": 6.5,
+  "carb": 30.0,
+  "fat": 8.0,
+  "fib": 4.5,
+  "weights": { "gram": 1, "piece": 50 }
+},
+{
+  "name": "Raw Jackfruit Sukka (Mangalorean Kadgi Sukka)",
+  "cal": 210,
+  "pro": 4.0,
+  "carb": 26.0,
+  "fat": 10.0,
+  "fib": 5.0,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Kundapura Veg Curry (Mangalore Region)",
+  "cal": 185,
+  "pro": 4.0,
+  "carb": 18.0,
+  "fat": 10.0,
+  "fib": 3.2,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Udupi Temple Sambar (No Onion, No Garlic)",
+  "cal": 105,
+  "pro": 4.0,
+  "carb": 17.0,
+  "fat": 2.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Mangalore Brinjal Curry (Badanekai Gassi)",
+  "cal": 175,
+  "pro": 4.0,
+  "carb": 14.0,
+  "fat": 11.0,
+  "fib": 3.5,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Chicken Green Masala (Coastal Karnataka)",
+  "cal": 240,
+  "pro": 21.0,
+  "carb": 5.0,
+  "fat": 15.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Mangalore Sweet Buns (Banana Buns Soft Variant)",
+  "cal": 235,
+  "pro": 3.5,
+  "carb": 34.0,
+  "fat": 9.0,
+  "fib": 1.2,
+  "weights": { "gram": 1, "piece": 65 }
+},
+{
+  "name": "Kayi Holige (Coconut Stuffed Holige)",
+  "cal": 290,
+  "pro": 4.0,
+  "carb": 45.0,
+  "fat": 10.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "piece": 70 }
+},
+{
+  "name": "Mangalore Raw Mango Curry (Mavinakai Gassi)",
+  "cal": 165,
+  "pro": 3.0,
+  "carb": 18.0,
+  "fat": 9.0,
+  "fib": 2.5,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Marwai Sukka (Clam Sukka Mangalore Style)",
+  "cal": 205,
+  "pro": 17.0,
+  "carb": 4.0,
+  "fat": 13.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "plate": 150 }
+},
+{
+  "name": "Mangalore Beetroot Pachadi",
+  "cal": 140,
+  "pro": 2.0,
+  "carb": 14.0,
+  "fat": 9.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "bowl": 150 }
+},
+{
+  "name": "Udupi Rasam (Temple Style Saaru)",
+  "cal": 70,
+  "pro": 1.5,
+  "carb": 11.0,
+  "fat": 1.5,
+  "fib": 1.0,
+  "weights": { "gram": 1, "bowl": 150 }
+},
+{
+  "name": "Mangalore Sprouted Moong Gassi",
+  "cal": 180,
+  "pro": 7.0,
+  "carb": 18.0,
+  "fat": 8.0,
+  "fib": 4.0,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Mangalore Tender Coconut Dessert (Elaneer Payasa)",
+  "cal": 210,
+  "pro": 3.0,
+  "carb": 28.0,
+  "fat": 10.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Kundapur Fish Curry (Coconut Red Curry)",
+  "cal": 195,
+  "pro": 18.0,
+  "carb": 6.0,
+  "fat": 11.0,
+  "fib": 1.2,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Mixed Seafood Ghee Roast (Prawn + Squid + Fish)",
+  "cal": 255,
+  "pro": 24.0,
+  "carb": 6.0,
+  "fat": 16.0,
+  "fib": 1.8,
+  "weights": { "gram": 1, "plate": 180 }
+},
+{
+  "name": "Udupi Masala Dosa (Temple Style)",
+  "cal": 295,
+  "pro": 5.0,
+  "carb": 42.0,
+  "fat": 12.0,
+  "fib": 2.2,
+  "weights": { "gram": 1, "piece": 160 }
+},
+{
+  "name": "Udupi Plain Dosa (No Onion, No Garlic)",
+  "cal": 150,
+  "pro": 3.0,
+  "carb": 27.0,
+  "fat": 3.0,
+  "fib": 1.0,
+  "weights": { "gram": 1, "piece": 70 }
+},
+{
+  "name": "Akki Kadubu (Savoury Steamed Rice Dumpling)",
+  "cal": 160,
+  "pro": 3.5,
+  "carb": 30.0,
+  "fat": 2.5,
+  "fib": 2.0,
+  "weights": { "gram": 1, "piece": 50 }
+},
+{
+  "name": "Sweet Akki Kadubu (Coconut-Jaggery Filled)",
+  "cal": 185,
+  "pro": 3.0,
+  "carb": 32.0,
+  "fat": 4.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "piece": 55 }
+},
+{
+  "name": "Prawn Pulimunchi (Spicy Sour Tulu Style)",
+  "cal": 215,
+  "pro": 20.0,
+  "carb": 6.0,
+  "fat": 12.0,
+  "fib": 1.2,
+  "weights": { "gram": 1, "bowl": 160 }
+},
+{
+  "name": "Chicken Pulimunchi Dry (Thick Reduction)",
+  "cal": 245,
+  "pro": 22.0,
+  "carb": 5.0,
+  "fat": 15.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "plate": 150 }
+},
+{
+  "name": "Kori Rotti (Spicy Thin Curry Version)",
+  "cal": 340,
+  "pro": 21.0,
+  "carb": 36.0,
+  "fat": 14.0,
+  "fib": 2.8,
+  "weights": { "gram": 1, "plate": 300 }
+},
+{
+  "name": "Mangalore Semiya Payasa (Vermicelli Payasam)",
+  "cal": 210,
+  "pro": 4.5,
+  "carb": 28.0,
+  "fat": 9.0,
+  "fib": 0.8,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Mangalore Chana Payasa (Kadale Bele Payasa)",
+  "cal": 230,
+  "pro": 6.5,
+  "carb": 32.0,
+  "fat": 9.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Mangalore Rice Payasa (Akki Payasa)",
+  "cal": 225,
+  "pro": 4.0,
+  "carb": 32.0,
+  "fat": 9.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Mangalore Drumstick Curry (Masinga Kai Gassi)",
+  "cal": 165,
+  "pro": 3.5,
+  "carb": 15.0,
+  "fat": 10.0,
+  "fib": 3.5,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Mangalore Mushroom Gassi",
+  "cal": 185,
+  "pro": 4.0,
+  "carb": 12.0,
+  "fat": 13.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Udupi Special Rasam Powder Curry",
+  "cal": 80,
+  "pro": 1.5,
+  "carb": 11.0,
+  "fat": 2.0,
+  "fib": 1.0,
+  "weights": { "gram": 1, "bowl": 150 }
+},
+{
+  "name": "Tulu Chicken Curry (Tulu Nadu Kori Curry)",
+  "cal": 245,
+  "pro": 21.0,
+  "carb": 7.0,
+  "fat": 15.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Kotte Kadubu (Jackfruit Idli in Leaf Cups)",
+  "cal": 190,
+  "pro": 3.0,
+  "carb": 38.0,
+  "fat": 1.5,
+  "fib": 2.0,
+  "weights": { "gram": 1, "piece": 80 }
+},
+{
+  "name": "Udupi Festival Rasam (Temple Saaru)",
+  "cal": 65,
+  "pro": 1.5,
+  "carb": 10.0,
+  "fat": 1.5,
+  "fib": 1.0,
+  "weights": { "gram": 1, "bowl": 150 }
+},
+{
+  "name": "Mangalorean Chicken Curry (Thick Coconut Masala)",
+  "cal": 260,
+  "pro": 22.0,
+  "carb": 6.0,
+  "fat": 17.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Mangalore Crab Curry (Nakku Gassi)",
+  "cal": 225,
+  "pro": 17.0,
+  "carb": 5.0,
+  "fat": 15.0,
+  "fib": 1.6,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Kori Sukka (Thick Coconut Style Variant)",
+  "cal": 270,
+  "pro": 23.0,
+  "carb": 7.0,
+  "fat": 17.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "plate": 170 }
+},
+{
+  "name": "Mangalore Bottle Gourd Curry (Sorekai Gassi)",
+  "cal": 145,
+  "pro": 3.0,
+  "carb": 14.0,
+  "fat": 9.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Udupi Kootu (Vegetable Dal Coconut Mix)",
+  "cal": 180,
+  "pro": 6.5,
+  "carb": 18.0,
+  "fat": 9.0,
+  "fib": 3.5,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Tulu Coconut-Chilli Chutney (Red Coconut Masala)",
+  "cal": 90,
+  "pro": 1.5,
+  "carb": 4.0,
+  "fat": 7.0,
+  "fib": 1.0,
+  "weights": { "gram": 1, "tbsp": 20 }
+},
+{
+  "name": "Mangalore Sweet Porridge (Gur Thari Payasa)",
+  "cal": 230,
+  "pro": 3.5,
+  "carb": 35.0,
+  "fat": 9.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Jackfruit Seed Sukka (Bijja Sukka)",
+  "cal": 210,
+  "pro": 5.0,
+  "carb": 27.0,
+  "fat": 10.0,
+  "fib": 4.0,
+  "weights": { "gram": 1, "plate": 160 }
+},
+{
+  "name": "Mangalore Pumpkin Curry (Kumbda Gassi)",
+  "cal": 160,
+  "pro": 2.0,
+  "carb": 18.0,
+  "fat": 9.0,
+  "fib": 3.8,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Udupi Vegetable Sambar (Festival Thick Style)",
+  "cal": 115,
+  "pro": 4.0,
+  "carb": 18.0,
+  "fat": 2.5,
+  "fib": 3.0,
+  "weights": { "gram": 1, "bowl": 200 }
+},
+{
+  "name": "Tulu Fish Curry (Sour-Spicy Red Curry)",
+  "cal": 185,
+  "pro": 18.0,
+  "carb": 6.0,
+  "fat": 10.0,
+  "fib": 1.2,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Mangalore Ridge Gourd Curry (Heerekai Gassi)",
+  "cal": 150,
+  "pro": 3.5,
+  "carb": 14.0,
+  "fat": 9.0,
+  "fib": 3.0,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Udupi Onion Dosa",
+  "cal": 165,
+  "pro": 3.5,
+  "carb": 28.0,
+  "fat": 4.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "piece": 90 }
+},
+{
+  "name": "Udupi Ghee Roast Dosa",
+  "cal": 240,
+  "pro": 4.0,
+  "carb": 32.0,
+  "fat": 10.0,
+  "fib": 1.2,
+  "weights": { "gram": 1, "piece": 120 }
+},
+{
+  "name": "Mangalore Thatte Idli (Super Soft Plate Idli)",
+  "cal": 115,
+  "pro": 2.5,
+  "carb": 24.0,
+  "fat": 0.6,
+  "fib": 1.0,
+  "weights": { "gram": 1, "piece": 60 }
+},
+{
+  "name": "Udupi Uppittu (Uppuma Temple Version)",
+  "cal": 205,
+  "pro": 4.0,
+  "carb": 32.0,
+  "fat": 7.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Squid Sukka (Mangalorean Bondas Sukka)",
+  "cal": 225,
+  "pro": 20.0,
+  "carb": 5.0,
+  "fat": 15.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "plate": 150 }
+},
+{
+  "name": "Crab Pepper Fry (Coastal Karnataka)",
+  "cal": 235,
+  "pro": 20.0,
+  "carb": 5.0,
+  "fat": 15.0,
+  "fib": 1.8,
+  "weights": { "gram": 1, "plate": 180 }
+},
+{
+  "name": "Tulu Fish Curry (Coconut Turmeric Curry)",
+  "cal": 180,
+  "pro": 17.0,
+  "carb": 5.0,
+  "fat": 10.0,
+  "fib": 1.0,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Halasina Hannina Dose (Jackfruit Dosa Mangalorean)",
+  "cal": 150,
+  "pro": 2.0,
+  "carb": 32.0,
+  "fat": 1.0,
+  "fib": 1.5,
+  "weights": { "gram": 1, "piece": 60 }
+},
+{
+  "name": "Udupi Chakkuli Sweet (Sweet Murukku Temple Style)",
+  "cal": 190,
+  "pro": 2.5,
+  "carb": 28.0,
+  "fat": 7.0,
+  "fib": 1.0,
+  "weights": { "gram": 1, "piece": 25 }
+},
+{
+  "name": "Mangalore Coconut Ladoo (Bonda Ladoo)",
+  "cal": 210,
+  "pro": 3.0,
+  "carb": 28.0,
+  "fat": 10.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "piece": 35 }
+},
+{
+  "name": "Udupi Kosambari (Temple Salad)",
+  "cal": 75,
+  "pro": 2.5,
+  "carb": 9.0,
+  "fat": 2.0,
+  "fib": 2.0,
+  "weights": { "gram": 1, "bowl": 120 }
+},
+{
+  "name": "Udupi Avalakki Sweet (Poha with Jaggery Coconut)",
+  "cal": 195,
+  "pro": 3.5,
+  "carb": 33.0,
+  "fat": 6.0,
+  "fib": 2.5,
+  "weights": { "gram": 1, "bowl": 140 }
+},
+{
+  "name": "Mangalore Tawa Fish (Masala Fry Coastal)",
+  "cal": 210,
+  "pro": 23.0,
+  "carb": 4.0,
+  "fat": 11.0,
+  "fib": 0.6,
+  "weights": { "gram": 1, "piece": 110 }
+},
+{
+  "name": "Udupi Kheer (Rice Coconut Jaggery Payasa)",
+  "cal": 225,
+  "pro": 3.0,
+  "carb": 34.0,
+  "fat": 8.0,
+  "fib": 1.2,
+  "weights": { "gram": 1, "bowl": 180 }
+},
+{
+  "name": "Tulu Kori Roast (Dry Chicken Roasted in Coconut Oil)",
+  "cal": 255,
+  "pro": 22.0,
+  "carb": 6.0,
+  "fat": 16.0,
+  "fib": 2.2,
+  "weights": { "gram": 1, "plate": 160 }
 }
 ]
