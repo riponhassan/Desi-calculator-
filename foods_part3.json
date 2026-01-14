@@ -1951,5 +1951,158 @@
   "fat": 12,
   "fib": 0,
   "weights": { "gram": 1, "piece_90g": 90 }
+},
+{
+  "name": "Aloo Sabzi (Plain, Dry)",
+  "cal": 165,
+  "pro": 3.2,
+  "carb": 26,
+  "fat": 6,
+  "fib": 3.1,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Bhindi Fry (Home-Style)",
+  "cal": 180,
+  "pro": 3.8,
+  "carb": 14,
+  "fat": 12,
+  "fib": 4.2,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Cabbage Sabzi",
+  "cal": 85,
+  "pro": 2.5,
+  "carb": 12,
+  "fat": 4,
+  "fib": 3.6,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Lauki Chana Dal Sabzi",
+  "cal": 110,
+  "pro": 5.2,
+  "carb": 14,
+  "fat": 3.5,
+  "fib": 3.8,
+  "weights": { "gram": 1, "katori_180g": 180 }
+},
+{
+  "name": "Tori Sabzi",
+  "cal": 90,
+  "pro": 2.2,
+  "carb": 11,
+  "fat": 4.5,
+  "fib": 3.2,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Palak Aloo",
+  "cal": 140,
+  "pro": 4.2,
+  "carb": 18,
+  "fat": 6.5,
+  "fib": 4.1,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Mixed Vegetable Sabzi (Dry)",
+  "cal": 120,
+  "pro": 3.5,
+  "carb": 16,
+  "fat": 5,
+  "fib": 4,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Mixed Vegetable Curry (Gravy)",
+  "cal": 165,
+  "pro": 4,
+  "carb": 18,
+  "fat": 8.5,
+  "fib": 3.6,
+  "weights": { "gram": 1, "katori_180g": 180 }
+},
+{
+  "name": "Gajar Matar Sabzi",
+  "cal": 135,
+  "pro": 4.5,
+  "carb": 18,
+  "fat": 5.5,
+  "fib": 4.3,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Beans Poriyal",
+  "cal": 115,
+  "pro": 3.8,
+  "carb": 12,
+  "fat": 6,
+  "fib": 4.8,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Plain Toor Dal",
+  "cal": 155,
+  "pro": 8.5,
+  "carb": 20,
+  "fat": 4,
+  "fib": 5.2,
+  "weights": { "gram": 1, "katori_180g": 180 }
+},
+{
+  "name": "Dal Tadka",
+  "cal": 185,
+  "pro": 8,
+  "carb": 21,
+  "fat": 8.5,
+  "fib": 5,
+  "weights": { "gram": 1, "katori_180g": 180 }
+},
+{
+  "name": "Dal Fry",
+  "cal": 210,
+  "pro": 8.2,
+  "carb": 22,
+  "fat": 10.5,
+  "fib": 4.8,
+  "weights": { "gram": 1, "katori_180g": 180 }
+},
+{
+  "name": "Moong Dal (Yellow)",
+  "cal": 145,
+  "pro": 9.2,
+  "carb": 19,
+  "fat": 3.5,
+  "fib": 4.6,
+  "weights": { "gram": 1, "katori_180g": 180 }
+},
+{
+  "name": "Masoor Dal",
+  "cal": 150,
+  "pro": 9,
+  "carb": 20,
+  "fat": 3.8,
+  "fib": 4.9,
+  "weights": { "gram": 1, "katori_180g": 180 }
+},
+{
+  "name": "Chana Dal",
+  "cal": 165,
+  "pro": 8.8,
+  "carb": 22,
+  "fat": 4.5,
+  "fib": 6.2,
+  "weights": { "gram": 1, "katori_180g": 180 }
+},
+{
+  "name": "Dal Makhani (Home-Style)",
+  "cal": 235,
+  "pro": 9.5,
+  "carb": 23,
+  "fat": 13,
+  "fib": 6,
+  "weights": { "gram": 1, "katori_180g": 180 }
 }
 ]
