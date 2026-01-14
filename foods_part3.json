@@ -2329,5 +2329,221 @@
   "fat": 4,
   "fib": 3.8,
   "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "South Indian Veg Meals (Rice + Sambar + Rasam + Poriyal)",
+  "cal": 1020,
+  "pro": 26,
+  "carb": 165,
+  "fat": 28,
+  "fib": 22,
+  "weights": { "gram": 1, "plate_650g": 650 }
+},
+{
+  "name": "South Indian Veg Meals (With Curd)",
+  "cal": 1120,
+  "pro": 30,
+  "carb": 170,
+  "fat": 32,
+  "fib": 23,
+  "weights": { "gram": 1, "plate_700g": 700 }
+},
+{
+  "name": "Temple Style South Indian Meals",
+  "cal": 980,
+  "pro": 24,
+  "carb": 160,
+  "fat": 26,
+  "fib": 21,
+  "weights": { "gram": 1, "plate_650g": 650 }
+},
+{
+  "name": "Temple Style Meals (With Payasam)",
+  "cal": 1180,
+  "pro": 26,
+  "carb": 185,
+  "fat": 30,
+  "fib": 22,
+  "weights": { "gram": 1, "plate_720g": 720 }
+},
+{
+  "name": "Kerala Sadya (Simplified, No Dessert)",
+  "cal": 1080,
+  "pro": 28,
+  "carb": 170,
+  "fat": 32,
+  "fib": 25,
+  "weights": { "gram": 1, "plate_700g": 700 }
+},
+{
+  "name": "Kerala Sadya (With Payasam)",
+  "cal": 1350,
+  "pro": 30,
+  "carb": 205,
+  "fat": 38,
+  "fib": 26,
+  "weights": { "gram": 1, "plate_780g": 780 }
+},
+{
+  "name": "Tamil Nadu Veg Meals",
+  "cal": 1040,
+  "pro": 27,
+  "carb": 168,
+  "fat": 29,
+  "fib": 23,
+  "weights": { "gram": 1, "plate_680g": 680 }
+},
+{
+  "name": "Tamil Nadu Meals (With Extra Rice)",
+  "cal": 1180,
+  "pro": 29,
+  "carb": 190,
+  "fat": 31,
+  "fib": 24,
+  "weights": { "gram": 1, "plate_760g": 760 }
+},
+{
+  "name": "Andhra Veg Meals",
+  "cal": 1100,
+  "pro": 28,
+  "carb": 175,
+  "fat": 34,
+  "fib": 24,
+  "weights": { "gram": 1, "plate_700g": 700 }
+},
+{
+  "name": "Andhra Veg Meals (Spicy, With Ghee)",
+  "cal": 1250,
+  "pro": 30,
+  "carb": 180,
+  "fat": 40,
+  "fib": 24,
+  "weights": { "gram": 1, "plate_740g": 740 }
+},
+{
+  "name": "South Indian Meals (Restaurant Style)",
+  "cal": 1200,
+  "pro": 28,
+  "carb": 180,
+  "fat": 38,
+  "fib": 22,
+  "weights": { "gram": 1, "plate_720g": 720 }
+},
+{
+  "name": "South Indian Meals (Light Home-Style)",
+  "cal": 950,
+  "pro": 25,
+  "carb": 155,
+  "fat": 24,
+  "fib": 22,
+  "weights": { "gram": 1, "plate_620g": 620 }
+},
+{
+  "name": "North Indian Veg Meal (2 Roti + Dal + Sabzi)",
+  "cal": 820,
+  "pro": 24,
+  "carb": 120,
+  "fat": 26,
+  "fib": 18,
+  "weights": { "gram": 1, "plate_520g": 520 }
+},
+{
+  "name": "North Indian Veg Meal (2 Roti + Dal + 2 Sabzi)",
+  "cal": 950,
+  "pro": 26,
+  "carb": 135,
+  "fat": 30,
+  "fib": 20,
+  "weights": { "gram": 1, "plate_580g": 580 }
+},
+{
+  "name": "2 Roti + Paneer Sabzi Plate",
+  "cal": 980,
+  "pro": 32,
+  "carb": 110,
+  "fat": 42,
+  "fib": 14,
+  "weights": { "gram": 1, "plate_550g": 550 }
+},
+{
+  "name": "2 Roti + Paneer Butter Masala Plate",
+  "cal": 1120,
+  "pro": 30,
+  "carb": 120,
+  "fat": 52,
+  "fib": 13,
+  "weights": { "gram": 1, "plate_600g": 600 }
+},
+{
+  "name": "Dal Chawal Plate",
+  "cal": 860,
+  "pro": 26,
+  "carb": 140,
+  "fat": 22,
+  "fib": 18,
+  "weights": { "gram": 1, "plate_550g": 550 }
+},
+{
+  "name": "Dal Chawal Plate (With Ghee)",
+  "cal": 980,
+  "pro": 26,
+  "carb": 145,
+  "fat": 30,
+  "fib": 18,
+  "weights": { "gram": 1, "plate_580g": 580 }
+},
+{
+  "name": "Rajma Chawal Plate",
+  "cal": 920,
+  "pro": 28,
+  "carb": 150,
+  "fat": 24,
+  "fib": 22,
+  "weights": { "gram": 1, "plate_560g": 560 }
+},
+{
+  "name": "Rajma Chawal Plate (Restaurant Style)",
+  "cal": 1050,
+  "pro": 26,
+  "carb": 155,
+  "fat": 34,
+  "fib": 20,
+  "weights": { "gram": 1, "plate_600g": 600 }
+},
+{
+  "name": "Chole Chawal Plate",
+  "cal": 980,
+  "pro": 30,
+  "carb": 150,
+  "fat": 30,
+  "fib": 24,
+  "weights": { "gram": 1, "plate_580g": 580 }
+},
+{
+  "name": "Chole Chawal Plate (With Onion Salad)",
+  "cal": 1020,
+  "pro": 32,
+  "carb": 152,
+  "fat": 30,
+  "fib": 26,
+  "weights": { "gram": 1, "plate_600g": 600 }
+},
+{
+  "name": "Kadhi Chawal Plate",
+  "cal": 880,
+  "pro": 22,
+  "carb": 135,
+  "fat": 26,
+  "fib": 14,
+  "weights": { "gram": 1, "plate_560g": 560 }
+},
+{
+  "name": "Kadhi Chawal Plate (With Pakora)",
+  "cal": 1040,
+  "pro": 24,
+  "carb": 140,
+  "fat": 36,
+  "fib": 15,
+  "weights": { "gram": 1, "plate_620g": 620 }
 }
 ]
