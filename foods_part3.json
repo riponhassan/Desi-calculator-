@@ -2104,5 +2104,230 @@
   "fat": 13,
   "fib": 6,
   "weights": { "gram": 1, "katori_180g": 180 }
+},
+{
+  "name": "Aloo Gobi (Dry)",
+  "cal": 155,
+  "pro": 3.6,
+  "carb": 22,
+  "fat": 6.5,
+  "fib": 4.1,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Gobi Matar Sabzi",
+  "cal": 145,
+  "pro": 4.2,
+  "carb": 18,
+  "fat": 6,
+  "fib": 4.5,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Aloo Matar",
+  "cal": 165,
+  "pro": 4,
+  "carb": 24,
+  "fat": 6.5,
+  "fib": 4.2,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Jeera Aloo",
+  "cal": 170,
+  "pro": 3.2,
+  "carb": 26,
+  "fat": 7,
+  "fib": 3.4,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Baingan Bharta",
+  "cal": 140,
+  "pro": 3,
+  "carb": 14,
+  "fat": 8,
+  "fib": 5.1,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Baingan Fry",
+  "cal": 180,
+  "pro": 3.4,
+  "carb": 16,
+  "fat": 11,
+  "fib": 4.6,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Karela Sabzi",
+  "cal": 120,
+  "pro": 2.8,
+  "carb": 14,
+  "fat": 6,
+  "fib": 5.5,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Tinda Sabzi",
+  "cal": 95,
+  "pro": 2.2,
+  "carb": 10,
+  "fat": 4.5,
+  "fib": 3.8,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Parwal Sabzi",
+  "cal": 110,
+  "pro": 2.5,
+  "carb": 12,
+  "fat": 5.5,
+  "fib": 3.9,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Kundru Fry",
+  "cal": 135,
+  "pro": 2.6,
+  "carb": 13,
+  "fat": 7.5,
+  "fib": 4.4,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Aloo Baingan",
+  "cal": 160,
+  "pro": 3.4,
+  "carb": 22,
+  "fat": 7,
+  "fib": 4.5,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Aloo Tamatar Sabzi",
+  "cal": 150,
+  "pro": 3.1,
+  "carb": 24,
+  "fat": 5.5,
+  "fib": 3.6,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Lauki Tamatar Sabzi",
+  "cal": 90,
+  "pro": 2.1,
+  "carb": 10,
+  "fat": 4,
+  "fib": 3.5,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Palak Corn Sabzi",
+  "cal": 145,
+  "pro": 4.6,
+  "carb": 18,
+  "fat": 6,
+  "fib": 4.2,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Methi Aloo",
+  "cal": 150,
+  "pro": 3.8,
+  "carb": 20,
+  "fat": 6.5,
+  "fib": 4.8,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Methi Malai (Light, Home-Style)",
+  "cal": 185,
+  "pro": 4.5,
+  "carb": 14,
+  "fat": 11,
+  "fib": 3.6,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Cabbage Matar Sabzi",
+  "cal": 105,
+  "pro": 3.2,
+  "carb": 14,
+  "fat": 4.5,
+  "fib": 4.1,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Capsicum Onion Sabzi",
+  "cal": 115,
+  "pro": 2.9,
+  "carb": 13,
+  "fat": 5.5,
+  "fib": 3.9,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Shimla Mirch Aloo",
+  "cal": 160,
+  "pro": 3.5,
+  "carb": 23,
+  "fat": 6.5,
+  "fib": 4.2,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Matar Mushroom (Dry)",
+  "cal": 140,
+  "pro": 5.8,
+  "carb": 14,
+  "fat": 6,
+  "fib": 3.8,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Mushroom Masala (Light Gravy)",
+  "cal": 165,
+  "pro": 6.2,
+  "carb": 15,
+  "fat": 8.5,
+  "fib": 3.5,
+  "weights": { "gram": 1, "katori_180g": 180 }
+},
+{
+  "name": "Arbi Fry",
+  "cal": 190,
+  "pro": 2.8,
+  "carb": 24,
+  "fat": 9,
+  "fib": 4.6,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Arbi Tamatar Sabzi",
+  "cal": 165,
+  "pro": 2.9,
+  "carb": 22,
+  "fat": 7,
+  "fib": 4.2,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Chow Chow Sabzi",
+  "cal": 95,
+  "pro": 2.3,
+  "carb": 11,
+  "fat": 4.2,
+  "fib": 3.7,
+  "weights": { "gram": 1, "katori_150g": 150 }
+},
+{
+  "name": "Pumpkin Sabzi",
+  "cal": 105,
+  "pro": 2.4,
+  "carb": 16,
+  "fat": 4,
+  "fib": 3.8,
+  "weights": { "gram": 1, "katori_150g": 150 }
 }
 ]
